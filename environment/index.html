@@ -3,47 +3,38 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>環境新聞摘要 - Hermes Briefings</title>
+  <title>環境快訊 - Hermes Briefings</title>
   <link rel="stylesheet" href="../css/style.css">
 </head>
 <body>
-  <div class="header">
-    <h1><span class="icon">🌍</span> 環境新聞摘要</h1>
-    <p>每日環境保護與氣候變化最新資訊</p>
-    <p class="last-update">最後更新：<span id="lastUpdate">--</span></p>
+  <div class="topbar">
+    <div class="topbar-left">
+      <a href="../index.html" class="logo">← Hermes Briefings</a>
+    </div>
+    <span class="update-time">🌍 環境快訊</span>
   </div>
-
-  <nav class="nav">
-    <a href="../index.html" class="home">🏠 首頁</a>
-    <a href="../ai/" class="ai">🤖 AI 新聞</a>
-    <a href="index.html" class="env active">🌍 環境快訊</a>
-    <a href="../aqhi/" class="aqhi">💨 AQHI</a>
-  </nav>
-
-  <div class="container">
-    <div id="briefing-list">載入中...</div>
+  <div class="main-layout">
+    <div class="category-header">
+      <span class="category-title"><span class="icon">🌍</span> 環境新聞摘要</span>
+    </div>
+    <div id="list">載入中...</div>
   </div>
-
   <div class="footer">
-    <p>由 <a href="https://github.com/ckc916/hermes-briefings">Hermes Agent</a> 自動生成 · 每日更新</p>
+    <p>由 <a href="https://github.com/ckc916/hermes-briefings">Hermes Agent</a> 自動生成</p>
   </div>
-
   <script>
     async function load() {
       try {
         const res = await fetch('index.json');
         const data = await res.json();
-        document.getElementById('lastUpdate').textContent = data.briefings[0]?.date || '--';
-        document.getElementById('briefing-list').innerHTML = data.briefings.map(b => `
-          <div class="card">
-            <span class="badge badge-env">環境</span>
-            <span class="meta">${b.date}</span>
-            <h2>${b.title}</h2>
-            <a href="${b.file}">閱讀全文 →</a>
-          </div>
-        `).join('') || '<div class="empty">未有環境新聞摘要</div>';
+        document.getElementById('list').innerHTML = data.briefings.map(b => `
+          <a href="${b.file}" class="news-card">
+            <div class="news-title">${b.title}</div>
+            <div class="news-meta"><span class="news-source">${b.date}</span></div>
+          </a>
+        `).join('') || '<div class="empty-state"><p>暫無摘要</p></div>';
       } catch(e) {
-        document.getElementById('briefing-list').innerHTML = '<div class="empty">📡 等待第一次環境快訊推送...</div>';
+        document.getElementById('list').innerHTML = '<div class="empty-state"><p>載入失敗</p></div>';
       }
     }
     load();

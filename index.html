@@ -7,67 +7,126 @@
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-  <div class="header">
-    <h1><span class="icon">📡</span> Hermes Briefings</h1>
-    <p>AI 新聞 · 環境快訊 · AQHI 警示 — 自動更新</p>
-    <p class="last-update">最後更新：<span id="lastUpdate">--</span></p>
+  <!-- Top Bar -->
+  <div class="topbar">
+    <div class="topbar-left">
+      <span class="dot dot-ai"></span><span class="dot dot-env"></span>
+      <a href="index.html" class="logo">Hermes Briefings</a>
+    </div>
+    <span class="update-time" id="updateTime">載入中...</span>
   </div>
 
-  <nav class="nav">
-    <a href="index.html" class="home active">🏠 首頁</a>
-    <a href="ai/" class="ai">🤖 AI 新聞</a>
-    <a href="environment/" class="env">🌍 環境快訊</a>
-    <a href="aqhi/" class="aqhi">💨 AQHI</a>
-  </nav>
+  <!-- Category Tabs -->
+  <div class="main-layout">
+    <div class="category-tabs">
+      <button class="category-tab active" onclick="filterCategory('all')" id="tab-all">📋 全部</button>
+      <button class="category-tab ai" onclick="filterCategory('ai')" id="tab-ai">🤖 AI 新聞</button>
+      <button class="category-tab env" onclick="filterCategory('environment')" id="tab-env">🌍 環境快訊</button>
+    </div>
 
-  <div class="container">
-    <div class="section-title"><span class="dot dot-ai"></span> 最新 AI 新聞摘要</div>
-    <div id="latest-ai">載入中...</div>
-
-    <div class="section-title"><span class="dot dot-env"></span> 最新環境新聞摘要</div>
-    <div id="latest-env">載入中...</div>
-
-    <div class="section-title"><span class="dot dot-aqhi"></span> 最新 AQHI 警示</div>
-    <div id="latest-aqhi">載入中...</div>
+    <!-- News Feed -->
+    <div id="newsFeed">
+      <div class="loading">載入中...</div>
+    </div>
   </div>
 
+  <!-- Footer -->
   <div class="footer">
     <p>由 <a href="https://github.com/ckc916/hermes-briefings">Hermes Agent</a> 自動生成 · 每日更新</p>
   </div>
 
   <script>
-    async function loadLatest() {
+    let allData = null;
+    let currentFilter = 'all';
+
+    async function loadNews() {
       try {
-        const aiRes = await fetch('ai/index.json');
-        const aiData = await aiRes.json();
-        const aiHtml = aiData.briefings.slice(0, 3).map(b => `
-          <div class="card"><span class="badge badge-ai">AI</span><span class="meta">${b.date}</span><h2>${b.title}</h2><a href="ai/${b.file}">閱讀全文 →</a></div>
-        `).join('');
-        document.getElementById('latest-ai').innerHTML = aiHtml || '<div class="empty">未有 AI 新聞摘要</div>';
-
-        const envRes = await fetch('environment/index.json');
-        const envData = await envRes.json();
-        const envHtml = envData.briefings.slice(0, 3).map(b => `
-          <div class="card"><span class="badge badge-env">環境</span><span class="meta">${b.date}</span><h2>${b.title}</h2><a href="environment/${b.file}">閱讀全文 →</a></div>
-        `).join('');
-        document.getElementById('latest-env').innerHTML = envHtml || '<div class="empty">未有環境新聞摘要</div>';
-
-        const aqhiRes = await fetch('aqhi/index.json');
-        const aqhiData = await aqhiRes.json();
-        const aqhiHtml = aqhiData.alerts.slice(0, 3).map(a => `
-          <div class="card alert-${a.level}"><span class="badge badge-aqhi">AQHI</span><span class="meta">${a.time}</span><h2>${a.title}</h2><a href="aqhi/${a.file}">查看詳情 →</a></div>
-        `).join('');
-        document.getElementById('latest-aqhi').innerHTML = aqhiHtml || '<div class="empty">未有 AQHI 警示</div>';
-
-        const dates = [aiData?.briefings?.[0]?.date, envData?.briefings?.[0]?.date, aqhiData?.alerts?.[0]?.time].filter(Boolean);
-        document.getElementById('lastUpdate').textContent = dates.length ? dates.sort().pop() : '--';
+        const res = await fetch('news.json?t=' + Date.now());
+        allData = await res.json();
+        document.getElementById('updateTime').textContent = '更新：' + allData.updated;
+        renderNews();
       } catch(e) {
-        document.getElementById('latest-ai').innerHTML = '<div class="empty">📡 網站剛建立，等待第一次快訊推送...</div>';
-        document.getElementById('latest-env').innerHTML = '';
-        document.getElementById('latest-aqhi').innerHTML = '';
+        document.getElementById('newsFeed').innerHTML = `
+          <div class="empty-state">
+            <div class="icon">📡</div>
+            <p>網站剛建立，等待第一次快訊推送...</p>
+            <p style="font-size:0.8rem;margin-top:0.5rem">下次部署後會自動更新</p>
+          </div>`;
+        document.getElementById('updateTime').textContent = '等待首次更新';
       }
     }
-    loadLatest();
+
+    function renderNews() {
+      if (!allData || !allData.categories) return;
+
+      let html = '';
+      const categories = allData.categories;
+
+      for (const cat of categories) {
+        if (currentFilter !== 'all' && cat.id !== currentFilter) continue;
+        if (!cat.articles || cat.articles.length === 0) continue;
+
+        html += `
+          <div class="category-header">
+            <span class="category-title">
+              <span class="icon">${cat.icon}</span> ${cat.name}
+            </span>
+            <span class="category-date">${cat.date}</span>
+          </div>`;
+
+        // Group articles by section
+        const sections = {};
+        for (const article of cat.articles) {
+          const section = article.section || '其他';
+          if (!sections[section]) sections[section] = [];
+          sections[section].push(article);
+        }
+
+        for (const [section, articles] of Object.entries(sections)) {
+          if (articles.length === 0) continue;
+          html += `<div class="section-divider">${section}</div>`;
+
+          for (const article of articles) {
+            const sourceHtml = article.source
+              ? `<span class="news-source">${article.source}</span>`
+              : '';
+            const sectionTag = section
+              ? `<span class="news-section-tag">${section}</span>`
+              : '';
+
+            html += `
+              <a href="${article.url}" target="_blank" rel="noopener" class="news-card">
+                <div class="news-title">${escapeHtml(article.title)}</div>
+                <div class="news-meta">
+                  ${sourceHtml}
+                  ${sectionTag}
+                </div>
+              </a>`;
+          }
+        }
+      }
+
+      if (!html) {
+        html = `<div class="empty-state"><div class="icon">📭</div><p>暫無新聞</p></div>`;
+      }
+
+      document.getElementById('newsFeed').innerHTML = html;
+    }
+
+    function filterCategory(cat) {
+      currentFilter = cat;
+      document.querySelectorAll('.category-tab').forEach(t => t.classList.remove('active'));
+      document.getElementById('tab-' + cat).classList.add('active');
+      renderNews();
+    }
+
+    function escapeHtml(text) {
+      const div = document.createElement('div');
+      div.textContent = text;
+      return div.innerHTML;
+    }
+
+    loadNews();
   </script>
 </body>
 </html>
