@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="zh-HK">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI 新聞摘要 - Hermes Briefings</title>
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+  <div class="header">
+    <h1><span class="icon">🤖</span> AI 新聞摘要</h1>
+    <p>每日人工智能領域最新發展</p>
+    <p class="last-update">最後更新：<span id="lastUpdate">--</span></p>
+  </div>
+
+  <nav class="nav">
+    <a href="../index.html" class="home">🏠 首頁</a>
+    <a href="index.html" class="ai active">🤖 AI 新聞</a>
+    <a href="../environment/" class="env">🌍 環境快訊</a>
+    <a href="../aqhi/" class="aqhi">💨 AQHI</a>
+  </nav>
+
+  <div class="container">
+    <div id="briefing-list">載入中...</div>
+  </div>
+
+  <div class="footer">
+    <p>由 <a href="https://github.com/ckc916/hermes-briefings">Hermes Agent</a> 自動生成 · 每日更新</p>
+  </div>
+
+  <script>
+    async function load() {
+      try {
+        const res = await fetch('index.json');
+        const data = await res.json();
+        document.getElementById('lastUpdate').textContent = data.briefings[0]?.date || '--';
+        document.getElementById('briefing-list').innerHTML = data.briefings.map(b => `
+          <div class="card">
+            <span class="badge badge-ai">AI</span>
+            <span class="meta">${b.date}</span>
+            <h2>${b.title}</h2>
+            <a href="${b.file}">閱讀全文 →</a>
+          </div>
+        `).join('') || '<div class="empty">未有 AI 新聞摘要</div>';
+      } catch(e) {
+        document.getElementById('briefing-list').innerHTML = '<div class="empty">📡 等待第一次 AI 快訊推送...</div>';
+      }
+    }
+    load();
+  </script>
+</body>
+</html>

@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="zh-HK">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cron Job: AQHI 每小時監測警示 - Hermes Briefings</title>
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+  <div class="header">
+    <h1><span class="icon">📡</span> Hermes Briefings</h1>
+    <p><a href="../index.html" style="color:rgba(255,255,255,0.7)">← 返回首頁</a></p>
+  </div>
+  <div class="container">
+    <div class="article">
+      <h1>Cron Job: AQHI 每小時監測警示</h1>
+      <div class="date">2026-08-02</div>
+      <h1>Cron Job: AQHI 每小時監測警示</h1>
+
+<p><strong>Job ID:</strong> 82e5552a00ba</p>
+<p><strong>Run Time:</strong> 2026-08-02 08:00:55</p>
+<p><strong>Schedule:</strong> 0 <em> </em> <em> </em></p>
+
+<h2>Prompt</h2>
+
+<p>[IMPORTANT: You are running as a scheduled cron job. DELIVERY: Your final response will be automatically delivered to the user — do NOT use send_message or try to deliver the output yourself. Just produce your report/output as your final response and the system handles the rest. SILENT: If there is genuinely nothing new to report, respond with exactly "[SILENT]" (nothing else) to suppress delivery. Never combine [SILENT] with content — either report your findings normally, or say [SILENT] and nothing more.]</p>
+
+<h2>Script Output</h2>
+<p>The following data was collected by a pre-run script. Use it as context for your analysis.</p>
+
+<pre><code>{
+  "status": "NO_ALERT",
+  "timestamp": "2026-08-02 08:00:53 HKT",
+  "max_aqhi": 2,
+  "max_station": "深水埗",
+  "max_risk": "低",
+  "station_count": 18
+}</code></pre>
+
+<p>你正在執行香港空氣質素健康指數 (AQHI) 定時監測任務。</p>
+
+<p>你的任務是根據上方 Python 腳本的輸出（已自動注入到背景資料中），執行以下判斷：</p>
+
+<ol>
+<li>若腳本輸出狀態為 "ALERT"：</li>
+</ol>
+<ul>
+<li>以繁體中文發出 <strong>⚠️ AQHI 警示通知</strong>，格式如下：</li>
+<pre><code>   ⚠️ 空氣質素健康指數警示
+   📅 時間：{timestamp}
+
+   以下監測站達到或超過警戒線（AQHI ≥ 7）：
+
+   {逐一列出每個觸發站點}
+   🟠 {站名}（{站點類型}）
+       指數：{aqhi}
+       風險級別：{risk}</code></pre>
+</ul>
+
+<ul>
+<li>結尾加上健康建議：</li>
+</ul>
+<p>「建議減少戶外活動，特別是長者、兒童及心肺疾病患者。」</p>
+
+<ol>
+<li>若腳本輸出狀態為 "NO_ALERT"：</li>
+</ol>
+<ul>
+<li>回覆 [SILENT]（僅此一字，不要其他內容）——不要輸出任何狀態摘要。</li>
+</ul>
+
+<ol>
+<li>若腳本輸出為 FETCH_ERROR 或 PARSE_ERROR：</li>
+</ol>
+<ul>
+<li>回覆 [SILENT]（不要輸出錯誤摘要給用戶）</li>
+</ul>
+
+<p>核心原則：僅在 AQHI ≥ 7 時才推送警示。其他情況全部靜默。</p>
+
+<h2>Response</h2>
+
+<p>[SILENT]</p>
+
+    </div>
+  </div>
+  <div class="footer">
+    <p>由 <a href="https://github.com/ckc916/hermes-briefings">Hermes Agent</a> 自動生成</p>
+  </div>
+</body>
+</html>

@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="zh-HK">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hermes Briefings - 每日快訊</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div class="header">
+    <h1><span class="icon">📡</span> Hermes Briefings</h1>
+    <p>AI 新聞 · 環境快訊 · AQHI 警示 — 自動更新</p>
+    <p class="last-update">最後更新：<span id="lastUpdate">--</span></p>
+  </div>
+
+  <nav class="nav">
+    <a href="index.html" class="home active">🏠 首頁</a>
+    <a href="ai/" class="ai">🤖 AI 新聞</a>
+    <a href="environment/" class="env">🌍 環境快訊</a>
+    <a href="aqhi/" class="aqhi">💨 AQHI</a>
+  </nav>
+
+  <div class="container">
+    <div class="section-title"><span class="dot dot-ai"></span> 最新 AI 新聞摘要</div>
+    <div id="latest-ai">載入中...</div>
+
+    <div class="section-title"><span class="dot dot-env"></span> 最新環境新聞摘要</div>
+    <div id="latest-env">載入中...</div>
+
+    <div class="section-title"><span class="dot dot-aqhi"></span> 最新 AQHI 警示</div>
+    <div id="latest-aqhi">載入中...</div>
+  </div>
+
+  <div class="footer">
+    <p>由 <a href="https://github.com/ckc916/hermes-briefings">Hermes Agent</a> 自動生成 · 每日更新</p>
+  </div>
+
+  <script>
+    async function loadLatest() {
+      try {
+        const aiRes = await fetch('ai/index.json');
+        const aiData = await aiRes.json();
+        const aiHtml = aiData.briefings.slice(0, 3).map(b => `
+          <div class="card"><span class="badge badge-ai">AI</span><span class="meta">${b.date}</span><h2>${b.title}</h2><a href="ai/${b.file}">閱讀全文 →</a></div>
+        `).join('');
+        document.getElementById('latest-ai').innerHTML = aiHtml || '<div class="empty">未有 AI 新聞摘要</div>';
+
+        const envRes = await fetch('environment/index.json');
+        const envData = await envRes.json();
+        const envHtml = envData.briefings.slice(0, 3).map(b => `
+          <div class="card"><span class="badge badge-env">環境</span><span class="meta">${b.date}</span><h2>${b.title}</h2><a href="environment/${b.file}">閱讀全文 →</a></div>
+        `).join('');
+        document.getElementById('latest-env').innerHTML = envHtml || '<div class="empty">未有環境新聞摘要</div>';
+
+        const aqhiRes = await fetch('aqhi/index.json');
+        const aqhiData = await aqhiRes.json();
+        const aqhiHtml = aqhiData.alerts.slice(0, 3).map(a => `
+          <div class="card alert-${a.level}"><span class="badge badge-aqhi">AQHI</span><span class="meta">${a.time}</span><h2>${a.title}</h2><a href="aqhi/${a.file}">查看詳情 →</a></div>
+        `).join('');
+        document.getElementById('latest-aqhi').innerHTML = aqhiHtml || '<div class="empty">未有 AQHI 警示</div>';
+
+        const dates = [aiData?.briefings?.[0]?.date, envData?.briefings?.[0]?.date, aqhiData?.alerts?.[0]?.time].filter(Boolean);
+        document.getElementById('lastUpdate').textContent = dates.length ? dates.sort().pop() : '--';
+      } catch(e) {
+        document.getElementById('latest-ai').innerHTML = '<div class="empty">📡 網站剛建立，等待第一次快訊推送...</div>';
+        document.getElementById('latest-env').innerHTML = '';
+        document.getElementById('latest-aqhi').innerHTML = '';
+      }
+    }
+    loadLatest();
+  </script>
+</body>
+</html>

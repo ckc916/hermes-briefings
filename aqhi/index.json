@@ -1,0 +1,12 @@
+{
+  "alerts": [
+    {
+      "title": "Cron Job: AQHI 每小時監測警示",
+      "date": "2026-08-02",
+      "file": "2026-08-02.html",
+      "time": "2026-08-02",
+      "level": "low",
+      "value": ""
+    }
+  ]
+}
