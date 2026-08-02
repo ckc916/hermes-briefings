@@ -2,6 +2,11 @@
   "briefings": [
     {
       "title": "Cron Job: 每日AI新聞摘要",
+      "date": "2026-08-02",
+      "file": "2026-08-02.html"
+    },
+    {
+      "title": "Cron Job: 每日AI新聞摘要",
       "date": "2026-08-01",
       "file": "2026-08-01.html"
     }
