@@ -1,72 +1,54 @@
 {
-  "updated": "2026-08-02 10:30",
+  "updated": "2026-08-03 08:57",
   "categories": [
     {
       "id": "ai",
       "name": "AI 新聞",
       "icon": "🤖",
       "color": "#6c5ce7",
-      "date": "2026-08-02",
+      "date": "2026-08-03",
       "articles": [
         {
-          "title": "OpenAI再爆安全漏洞：更多代理AI擅自越獄",
+          "title": "Anthropic與OpenAI AI代理接連入侵外部系統，EU啟動調查",
           "source": "",
-          "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
-          "section": "頭條新聞"
+          "url": "https://www.reuters.com/technology/artificial-intelligence/eu-in-talks-openai-anthropic-after-rogue-ai-agent-hacks-2026-07-31/",
+          "section": "頭條"
         },
         {
-          "title": "Anthropic承認Claude測試中三次入侵外部組織",
+          "title": "歐盟AI法案8/2生效，全球最嚴格AI監管上路",
           "source": "",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests",
-          "section": "頭條新聞"
+          "url": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change",
+          "section": "頭條"
         },
         {
-          "title": "Google Earth AI生成工具上線一天即下架",
+          "title": "Sam Altman呼籲放慢AI節奏，OpenAI執行長罕見轉向",
           "source": "",
-          "url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
-          "section": "頭條新聞"
+          "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+          "section": "業界"
         },
         {
-          "title": "AI對沖基金「情境感知」7月暴跌67%",
+          "title": "Google Earth AI上線一天即下架，假資訊爭議延燒",
           "source": "",
-          "url": "https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f",
-          "section": "業界動態"
+          "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
+          "section": "業界"
         },
         {
-          "title": "Amazon用Claude寫程式意外花費180萬美元",
+          "title": "AI降薪比裁員更嚴重，高AI暴露度職業薪資急跌",
           "source": "",
-          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/amazon-accidentally-spent-usd1-8-million-using-claude-for-menial-coding-task",
-          "section": "業界動態"
+          "url": "https://www.businessinsider.com/ai-could-lower-workers-pay-job-market-impact-2026-7",
+          "section": "研究"
         },
         {
-          "title": "Apple暗示Siri AI將推付費高階版",
+          "title": "美對中AI領先優勢「幾乎消失」，CNBC籲調整國家戰略",
           "source": "",
-          "url": "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai",
-          "section": "業界動態"
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5EVTd0dkY4M2ZFa0NkaHhDdzFibUc1OUhwc1lTaTQ2bG5BeGZHbUxXRnZOT3RPNTZNVzlEMVBveHA2V1pwTnVLOG5MNXpXdjVtX1BPMXZlbk53TjFRZWgwWFVCRWRqVE8wZ0NtSWdsXzZhcDZf0gF6QVVfeXFMUGdycGp6MllJMGVuZWJLeHBweV82Ym1meERmMkhkbk54S3RZbGNpMkVidzdTVk5tRGYwZnAzY21YUmc1ZG9oR0Jwb1FRSW1qWURYb0k2Z1VjMlF1ZmpDYk1wN1NGM2hCbjJ1SXYwN1NHUFJkaGV6UUpELXc",
+          "section": "亞太/中國"
         },
         {
-          "title": "DeepMind Gemini Robotics 2：人形機器人全身控制",
+          "title": "路透獨家：中國軍方使用美國AI模型訓練國防系統",
           "source": "",
-          "url": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
-          "section": "研究與技術"
-        },
-        {
-          "title": "Quanta：AI推理可能「正確答案錯理由」",
-          "source": "",
-          "url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
-          "section": "研究與技術"
-        },
-        {
-          "title": "中國Kimi 3改寫主權AI規則：免費衝擊美國方案",
-          "source": "",
-          "url": "https://restofworld.org/2026/china-moonshot-kimi-k3-free-sovereign-ai/",
-          "section": "亞太/中國焦點"
-        },
-        {
-          "title": "美國贏在前沿，中國主宰平價AI模型市場",
-          "source": "",
-          "url": "https://www.cnbc.com/2026/07/30/us-wants-asia-to-use-its-ai-but-china-dominates-cheaper-models.html",
-          "section": "亞太/中國焦點"
+          "url": "https://www.reuters.com/technology/artificial-intelligence/chinese-military-researchers-tap-us-ai-models-train-defence-systems-2026-07-31/",
+          "section": "亞太/中國"
         }
       ]
     },
@@ -75,72 +57,66 @@
       "name": "環境快訊",
       "icon": "🌍",
       "color": "#00b894",
-      "date": "2026-08-02",
+      "date": "2026-08-03",
       "articles": [
         {
-          "title": "密歇根州最高法院駁回五大湖下Line 5輸油管道許可，原住民部落獲重大勝利",
-          "source": "",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUW9iMmFvOXVoSVp6UGVnLW5wMnFPbzJVREYwQkc2bXBsRU1Dc2NUVzU5S3dJcTJEZkVncTBwdjdiQWlDdnY1enZDeXRFVDlaQTJrdHhVcjc2Rl9rVEV0bVVZaXdvSWV2bWtpYmV3T3dRXzJOUVg5ZGwxTFdHNnRseE54NW11ckZKelhtZ1ZxazVYTGJtbnNQVTVwZnFSVUJFYmR0OGh0T0RHaDlaWVFPNTFzOFQyQUFVR2c",
+          "title": "川普EPA被揭以新手法削弱空氣污染管制",
+          "source": "Slate",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZTUxRDJDTjJZRDBvWWkwYW95bVZ0VFRQX0ZpTUxQZmlYOXpmVmRiMmRjd0hrZXRHMC1qSEpLeWFUSlZOaDlycEFncU9SZDNWMTZfNDdnQVZkVklQdFhlMnI0X09HcXFrYkE1TzVHekMzV0hhTmxrcjFGTnBSbzV1WmJYeDl3bU1iLUJr",
           "section": "頭條新聞"
         },
         {
-          "title": "美國西部熱穹頂席捲數千萬人，德州公路因高溫彎曲致皮卡車飛起",
-          "source": "",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5hbVN5ektjelBaVURKcUltRE9GVWF3R1NVV2FpZV90YzdpZl9oTWZfeFZUWFBpSTA4TGF",
+          "title": "中國甘肅暴雨引發山崩，死亡人數持續上升",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOU211TUJlRDhVUV9BaEFiVG9wY18xdnJ0U1NBZDgtRFZsVTVDN0puSnkyRnk0Mi11Q0RrcV9NalNyY2RxUDNNNjkwM3FnNlVNTkZMcVBVeGF3RHBHNXFqclEtME9JSWxpRHJjRXNMRUgtVlpfYl9lUzlfZ1RsRm1SRXdjMGJsSy1lYzVEWjBFbVNhRHVjenMzWkRfYUUwV3BvRmdSdXBsVnVnaGhxSFV1YXRULWplREx5YVVJcEFFQVZBUEd6",
           "section": "頭條新聞"
         },
         {
-          "title": "民主黨「氣候沉默」策略引發環保活動人士加大施壓",
-          "source": "衛報",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMW9Dc3NTeWRIeVpIOXZMMnJIenZ3U09DeVN5bjZudVdNaUxzalFNMXJlUUdiUFQ4b0EyR0FkNmdLa0Fjak9OT2dtckw3QmE2WmJ0YmNlOFR6VkVHajNQVkhyMUNwSUJrWTl3ekNtUDFHTkd4Z0MtZ05XbXJFMU41bm1mb015MzA",
+          "title": "UNEP報告：氣候轉型若無權利保障，或加劇全球不平等",
+          "source": "Davis Vanguard",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5reHFNT3lET2pyWk1Qd2xBQmQzcHpoTFJ5dkg0emE5aDRMOWh5RTJXWWFBbl8xTmg2R1d3VTB4TktndG5mTUQxVkR4Ukl5N1UxNzFTMWZuTmVUNG0yLTBldF9TRHlkRG9uMW1YdHJaN0hmdw",
           "section": "氣候與能源"
         },
         {
-          "title": "印度綠色能源轉型遭遇電網瓶頸，可再生能源併網面臨挑戰",
-          "source": "",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPR3U3ZmZ1dzIydGh5RlhvOUx1R055eVF3MWYyZWljZTdTem8xX2FRX0RsQ2YwejBoMS1",
+          "title": "研究：氣候變化使西班牙山火風險增加20倍",
+          "source": "Mongabay",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRjlHZ1cyaEtmUkRMRkFWUjEzclFUUkF3b0JmTEJ6VlpaNU9RVXJucjFPd1pfX2xObGYtYXFJdmp2VEdYZHpXTnFBdXhjYy1sZm5GOUotZHJnYzdQRjBtUVA2ZDd3ODJCLTYzMnJQX1ZUS25NRHVDVndidTZEQzdIa2RRS2FGY3hybDJ1dVJaRElxc1U1eU9jeDhHdU9SOGx5YjR1Q2xxX2lLUQ",
           "section": "氣候與能源"
         },
         {
-          "title": "科羅拉多河新計劃要求三州減水，更深度削減仍可能",
-          "source": "華盛頓郵報",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPN2ZraFBCbkNRdTZQWDJ0QjZydWkyQTZnTDduYnZUVzdJODc5ZU1QVjh0X2pvZE4xR3B5RGJfUnRKakJjc3lDQXQtTFNTeTdNR2FTLVRmWll0NkNGMFFZTHFqcVNWYW54ZnZjTFdZWUpCUDB2dEtNQWRrdHRNOVR6eDdfLUhQR2paNEJ5aWE0NkNSb3hKLThrR0YzOFZwdFgyTnFnZjNwRTVHWUIzdVFjNk5kdVFIcGxScG8wUFFNN1dWd2Ft",
+          "title": "「太快太猛」：氣候危機正摧毀全球農作物收成",
+          "source": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOd3RtX1p0N2xtWUdHSEsxYVhZdkViMmgybGcwODFxb291UTF2NFJkeUMxTV94YjZZaGRwamNha2lTZ2VsVGFhVGpxVjNRME9fSHprNW95YnZoQ0ZkWkV3N2pqVWlBMXFsNzd1MDlxbHNUb0Fnb0xUeTNHZTl0YUtYWDIxWFB5aHRqaU85M21ZWnNWTS1LX2ItVjdTUVR0Y21vUlFiRVZSZnk",
           "section": "氣候與能源"
         },
         {
-          "title": "哥倫比亞森林砍伐略微上升，亞馬遜森林損失保持穩定",
-          "source": "",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdU1kVmVSMzFId1JDaEdsZUVMSzhtQlJyTS0yUWxCMVFkTHZxOFlpeEZQS0tueURyQ2hKNGphcmN5UGRXLXdEMU9SYmJUa3ZocWlnUnQ4b25CZHNxb21ESV9YbDZJMnliMnNtd2FYUHBzR09Ia3VlTVJwZ3lHVDFCZmVocVZ5ZkpFNldYUE1lWXA0ZldLbVh5ZVhRNG0wMkwwNGd1UXFrMnVtNkhZUEE",
+          "title": "西班牙首相桑切斯直言：「氣候變化正在殺人」",
+          "source": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSTZ6VzA1c3NnT3dSanMtY0JNZ2JMb3hmSHYyc1ZEVEYycnNaV2pQdC1keHRIc2wwd00xM0VoNlhuMGI1NW41cDgyWU9tNm5PVHc0MUNzZldhdHhLSFpQUWZLZXF2TExRWFJGZzZZOUVVYmhfLTlSMWNhTzg5aXpyRHRMZldkRHFURHRqYlRXVTUwY1dVcktBSE5WWUl2UDdqNGhXbnN4bzMtZVhtWDFJd3pkSVlqcnZzZVQzTXlnZ2k",
           "section": "污染與生態"
         },
         {
-          "title": "阿根廷北部六個月內超4萬公頃原生林遭砍伐，生態警報拉響",
-          "source": "",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxObUpZZ2Q5cmgxUGh3S2VucGozdFpDYURjRXJkVldpLTVoeVI0MzktVDhzNFJsWnlrZjF",
+          "title": "ESG重塑多元轉型經濟韌性",
+          "source": "Outlook Business",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcWw3aExIRVpFWkpUYlFyV3J1UDVsX0dLN2JGVXNZRVZXSWl6dzF3elFGNmFaTk9tNF9SeFBUR05jT3JVMEpUQThKcGNBeG94UjdnbWw2TDlkRjVqaFdhLXhKSUpJTXJtOERNUUs0TVltZjlQSUNGaGs1MnMzRktMMzRzRUVJeDZMLTZyQVNQOTBDakdXZ2czb191UmU4d0xUV1E",
           "section": "污染與生態"
         },
         {
-          "title": "歐洲野火因氣候變化肆虐，英國經歷「氣候鞭打」",
-          "source": "乾旱與熱浪交替",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTGpOZkQtSXVtcVIwWFJXVWI2YVBiZjBwVlhRc2hVS3o0eGR3RUdBU3lvZElDT2k0U0Z",
-          "section": "污染與生態"
-        },
-        {
-          "title": "印尼2026淨零峰會召開，與會領袖警告避免氣候災難的窗口正在關閉",
-          "source": "",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQY1p4SUlKWDd0MkkyUGFDemJ5YV9vcExJaEtFb2RvQVozalJhOUtWeHY1cTR1MG94WlV1dUplZER0OG90YUZSUUtVd2pJWUJSdFpLY1ZqTFhQU3NnNnI3MndIaDdtQTlINi00TkZUQzNzbUpmSWpJdWNqX05sUlJyVVZ5N2VRYXpfOWFjeGtBWFA3RmhWVWZjZEhHa3IyMS15SExjb1lJVndIZXJ4NC1ROFh4bDBCUHAwV0U5ZWxUNThzczBzUFV6UEFQdFVBaGlUbUdleQ",
+          "title": "聯合國與中國啟動氣候透明度首次工作坊",
+          "source": "Mirage News",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQajNnN1A2anU3ODRFdVpnSlBPdlVYUzZHOXR1eURMYThXRGFKZjBRTmNOck5yZ25WUUZQNi1uMjlIdHlPQUVoaG1yeXZKUklVbWp6LWhkNm1zYVQzUUkxY251MmFkWGlDZzMyaC0zeFRwT1RFNEpib2ZSbEJpeXFpWjhMNA",
           "section": "亞太/中國焦點"
         },
         {
-          "title": "東南亞跨境空氣污染問題加劇，環境教授呼籲區域合作解決方案",
-          "source": "",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5IcUtKelh3WUwtRDNfTUJjWjc0WGlVTzdxaG5MR2dCTFFUM195c0JObVduZEVOc01VRll",
+          "title": "印尼與中國重申能源與氣候行動夥伴關係",
+          "source": "ANTARA",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRHowZDZHVUJOSWxnRklOSkduOXVURm5kYUFpWWpCT0VOUmNRRy0zSGN5eFJuRHdSWlRUWVJKVFRPYzlLaEJhSlNqRGFSVy1PSEJoRkloNTNiOFBhanBiTGdsWGZxdExOcXkxdXBXV2tDaDVjN0ZKREI2VkNtY1lrS20zMkRMNlhSSDdGaWpRN2MxeDMzRlNVWlR0M0ZtZw",
           "section": "亞太/中國焦點"
         },
         {
-          "title": "加拿大批准安大略省北部鎳礦開採，引發環保關注",
-          "source": "",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdk8tSUpPZDI3bVdqN0RRSDdZTkQ2NTk0NGQ1a2JnU0huajI2LTJwZmZBN1VoUjljYVU0VlpNLWxuekxZcGdtNFZIaUpQRGJkeDR3TUE5U205WTRJQ05EdGl4LTVCem9BM29PazNucTlrcmMyRGlkaDVSM3hnTFIxbUV1RWdhSlNIUndmRHpRSFJKQ0VxWEdnVg",
+          "title": "亞洲極端暴雨引發洪災山崩：「我們失去了一切」",
+          "source": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOVFmallBQjRDc3pUMm4ySzltMFpBSDdLV3RadnVOZjRyejlrbFNtaFRnWUNENW84UHp1SHRGM3NUV0pHT09WZkZVTUdpbDR4LVN1MUZWNzVaNVk3eThxVmN4QzhuN3R1ZndsLXlyMDhxZkxWUjJUZGFVb2FjU1FfX1REaTlOR0std0dEbHNTd2xkbnBZYmtxRjR4YkNUUnpjVDBDQWVRaWhxMXIyWnU4",
           "section": "亞太/中國焦點"
         }
       ]
