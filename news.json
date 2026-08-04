@@ -1,54 +1,102 @@
 {
-  "updated": "2026-08-03 08:57",
+  "updated": "2026-08-04 08:45",
   "categories": [
     {
       "id": "ai",
       "name": "AI 新聞",
       "icon": "🤖",
       "color": "#6c5ce7",
-      "date": "2026-08-03",
+      "date": "2026-08-04",
       "articles": [
         {
-          "title": "Anthropic與OpenAI AI代理接連入侵外部系統，EU啟動調查",
-          "source": "",
-          "url": "https://www.reuters.com/technology/artificial-intelligence/eu-in-talks-openai-anthropic-after-rogue-ai-agent-hacks-2026-07-31/",
-          "section": "頭條"
+          "title": "白宮敲定AI監管框架，邀OpenAI、Anthropic、Google參加安全會議",
+          "source": "Politico",
+          "url": "https://www.politico.com/news/2026/08/03/white-house-finalizes-voluntary-ai-oversight-framework-01022437",
+          "section": "頭條新聞"
         },
         {
-          "title": "歐盟AI法案8/2生效，全球最嚴格AI監管上路",
-          "source": "",
-          "url": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change",
-          "section": "頭條"
+          "title": "DeepSeek發布V4-Flash模型，為知名模型中運行成本最低",
+          "source": "The Star",
+          "url": "https://www.thestar.com.my/business/business-news/2026/08/04/deepseeks-new-ai-model-is-the-cheapest-of-well-known-varieties",
+          "section": "頭條新聞"
         },
         {
-          "title": "Sam Altman呼籲放慢AI節奏，OpenAI執行長罕見轉向",
-          "source": "",
+          "title": "阿里巴巴發布新AI模型，性能比肩Anthropic",
+          "source": "The Edge Singapore",
+          "url": "https://www.theedgesingapore.com/news/artificial-intelligence/alibaba-releases-ai-model-performance-rivalling-anthropic",
+          "section": "頭條新聞"
+        },
+        {
+          "title": "Palantir財報強勁，CEO Karp稱AI產業「馬克思主義」",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+          "section": "業界動態"
+        },
+        {
+          "title": "AWS聯手vibe-coding初創Superblocks，低代碼AI開發升溫",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+          "section": "業界動態"
+        },
+        {
+          "title": "Apple終於修復Siri，但用戶反應冷淡",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
+          "section": "業界動態"
+        },
+        {
+          "title": "OpenAI首次豪華網紅之旅引發爭議",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
+          "section": "業界動態"
+        },
+        {
+          "title": "Sam Altman卷入AI減速爭論——「減速派」vs「加速派」",
+          "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
-          "section": "業界"
+          "section": "業界動態"
         },
         {
-          "title": "Google Earth AI上線一天即下架，假資訊爭議延燒",
-          "source": "",
-          "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
-          "section": "業界"
+          "title": "Marc Benioff支持的初創稱AI能解決AI部署難題",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+          "section": "業界動態"
         },
         {
-          "title": "AI降薪比裁員更嚴重，高AI暴露度職業薪資急跌",
-          "source": "",
-          "url": "https://www.businessinsider.com/ai-could-lower-workers-pay-job-market-impact-2026-7",
-          "section": "研究"
+          "title": "Design Arena融資790萬美元，要讓AI模型擁有「品味」",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+          "section": "研究與趨勢"
         },
         {
-          "title": "美對中AI領先優勢「幾乎消失」，CNBC籲調整國家戰略",
-          "source": "",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5EVTd0dkY4M2ZFa0NkaHhDdzFibUc1OUhwc1lTaTQ2bG5BeGZHbUxXRnZOT3RPNTZNVzlEMVBveHA2V1pwTnVLOG5MNXpXdjVtX1BPMXZlbk53TjFRZWgwWFVCRWRqVE8wZ0NtSWdsXzZhcDZf0gF6QVVfeXFMUGdycGp6MllJMGVuZWJLeHBweV82Ym1meERmMkhkbk54S3RZbGNpMkVidzdTVk5tRGYwZnAzY21YUmc1ZG9oR0Jwb1FRSW1qWURYb0k2Z1VjMlF1ZmpDYk1wN1NGM2hCbjJ1SXYwN1NHUFJkaGV6UUpELXc",
-          "section": "亞太/中國"
+          "title": "美國大學CS專業人數下降，AI課程卻爆滿",
+          "source": "LA Times",
+          "url": "https://www.latimes.com/business/story/2026-08-03/as-computer-science-enrollments-drop-artificial-intelligence-classes-fill-up",
+          "section": "研究與趨勢"
         },
         {
-          "title": "路透獨家：中國軍方使用美國AI模型訓練國防系統",
-          "source": "",
-          "url": "https://www.reuters.com/technology/artificial-intelligence/chinese-military-researchers-tap-us-ai-models-train-defence-systems-2026-07-31/",
-          "section": "亞太/中國"
+          "title": "AI泡沫論再起：若泡沫破裂，哪些股票最受益？",
+          "source": "Motley Fool",
+          "url": "https://www.fool.com/investing/2026/08/02/if-artificial-intelligence-is-in-a-bubble-these-ar/",
+          "section": "研究與趨勢"
+        },
+        {
+          "title": "亞洲正形成自給自足的AI生態系統，西方企業正在錯失",
+          "source": "Business Times",
+          "url": "https://www.businesstimes.com.sg/opinion-features/asia-becoming-self-supporting-ai-ecosystem-western-firms-are-missing-out",
+          "section": "亞太/中國焦點"
+        },
+        {
+          "title": "DeepSeek V4-Flash：性價比之王，超過100個知名模型中最便宜",
+          "source": "The Star",
+          "url": "https://www.thestar.com.my/business/business-news/2026/08/04/deepseeks-new-ai-model-is-the-cheapest-of-well-known-varieties",
+          "section": "亞太/中國焦點"
+        },
+        {
+          "title": "阿里巴巴AI模型性能追平Anthropic，中國開源力量崛起",
+          "source": "The Edge Singapore",
+          "url": "https://www.theedgesingapore.com/news/artificial-intelligence/alibaba-releases-ai-model-performance-rivalling-anthropic",
+          "section": "亞太/中國焦點"
         }
       ]
     },
@@ -57,67 +105,67 @@
       "name": "環境快訊",
       "icon": "🌍",
       "color": "#00b894",
-      "date": "2026-08-03",
+      "date": "2026-08-04",
       "articles": [
         {
-          "title": "川普EPA被揭以新手法削弱空氣污染管制",
-          "source": "Slate",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZTUxRDJDTjJZRDBvWWkwYW95bVZ0VFRQX0ZpTUxQZmlYOXpmVmRiMmRjd0hrZXRHMC1qSEpLeWFUSlZOaDlycEFncU9SZDNWMTZfNDdnQVZkVklQdFhlMnI0X09HcXFrYkE1TzVHekMzV0hhTmxrcjFGTnBSbzV1WmJYeDl3bU1iLUJr",
+          "title": "歐洲萊茵河水位降至歷史新低，乾旱重創航運與能源供應",
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o",
           "section": "頭條新聞"
         },
         {
-          "title": "中國甘肅暴雨引發山崩，死亡人數持續上升",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOU211TUJlRDhVUV9BaEFiVG9wY18xdnJ0U1NBZDgtRFZsVTVDN0puSnkyRnk0Mi11Q0RrcV9NalNyY2RxUDNNNjkwM3FnNlVNTkZMcVBVeGF3RHBHNXFqclEtME9JSWxpRHJjRXNMRUgtVlpfYl9lUzlfZ1RsRm1SRXdjMGJsSy1lYzVEWjBFbVNhRHVjenMzWkRfYUUwV3BvRmdSdXBsVnVnaGhxSFV1YXRULWplREx5YVVJcEFFQVZBUEd6",
+          "title": "稻米收成恐比預期更快萎縮，全球變暖加速糧食危機",
+          "source": "earth.com",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaVN6Wk02VGhlcjdnT01haERPcWxKZ1FxNy1abHFyZlUxc1dYR01vcHppNTZxaXdlWEtMUUxLVVotb0tMTmo0MEJRTEJ2bVNodVRIR3pRZWttMWJMWFFuai1KTTZReDJ2TzdfSEpUdUxMUFFOMWxJT0NrbmtzbXFZTTNxZU9lWlFDb0lGTzNEYV9Mc1pQb0U4YzBJbEF2XzFWUHBvUFlmU2x6Zw",
           "section": "頭條新聞"
         },
         {
-          "title": "UNEP報告：氣候轉型若無權利保障，或加劇全球不平等",
-          "source": "Davis Vanguard",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5reHFNT3lET2pyWk1Qd2xBQmQzcHpoTFJ5dkg0emE5aDRMOWh5RTJXWWFBbl8xTmg2R1d3VTB4TktndG5mTUQxVkR4Ukl5N1UxNzFTMWZuTmVUNG0yLTBldF9TRHlkRG9uMW1YdHJaN0hmdw",
+          "title": "TotalEnergies收購殼牌全數歐洲可再生能源資產，加速綠色轉型",
+          "source": "ESG Dive",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQVNGTEJ6WmxWUkJOU1FQb29aSjhJYU5JV0x5Y3piXzJMQktZMjdkUldmMlJHSWpFcEJtbmRjRm1oOVhZU0V6aGYyc3hWeXdPWkdwVWlOY1RER05DYmJWSFFlRzVjdWxFSV84VG9BYTEtQVlBUVVPWUNCcnRrVktPbnpHWTBXM09qb1ZPM1NEaEdWYm9teWNEUGRGTDlkeTNNZ0JybQ",
           "section": "氣候與能源"
         },
         {
-          "title": "研究：氣候變化使西班牙山火風險增加20倍",
-          "source": "Mongabay",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRjlHZ1cyaEtmUkRMRkFWUjEzclFUUkF3b0JmTEJ6VlpaNU9RVXJucjFPd1pfX2xObGYtYXFJdmp2VEdYZHpXTnFBdXhjYy1sZm5GOUotZHJnYzdQRjBtUVA2ZDd3ODJCLTYzMnJQX1ZUS25NRHVDVndidTZEQzdIa2RRS2FGY3hybDJ1dVJaRElxc1U1eU9jeDhHdU9SOGx5YjR1Q2xxX2lLUQ",
+          "title": "北海平台PosHYdon首次產出綠色氫氣，離岸氫能里程碑",
+          "source": "REM",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNFNOVjdGcDlrZEJwLTdLWGdpQWZKX3d0QVB5VGZORzB1eHhaV1BWUXkzRnluU09ZWnlXdXJwWUhpWGxVOFd5Sk1VeUtJUVhLYU1Rcl9vNEFqb1QwSjM4NEhvdkpTWDh1cTRfaW5tR1dKZy1RUzQtOEdENHJsY0xCWWM2ZkxCcnhOWlU1bWRsVWF2dGc0SFhjVnVSM2hHbjZqbzRaZVhrY0VGUQ",
           "section": "氣候與能源"
         },
         {
-          "title": "「太快太猛」：氣候危機正摧毀全球農作物收成",
-          "source": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOd3RtX1p0N2xtWUdHSEsxYVhZdkViMmgybGcwODFxb291UTF2NFJkeUMxTV94YjZZaGRwamNha2lTZ2VsVGFhVGpxVjNRME9fSHprNW95YnZoQ0ZkWkV3N2pqVWlBMXFsNzd1MDlxbHNUb0Fnb0xUeTNHZTl0YUtYWDIxWFB5aHRqaU85M21ZWnNWTS1LX2ItVjdTUVR0Y21vUlFiRVZSZnk",
+          "title": "猶他州太陽能首超其他能源成最大電力來源",
+          "source": "Salt Lake Tribune",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYzhhb01LWDFPOUsySUdUT0Q3RHBlNnJ3ZUVmdkZUeUI5NTJVTjQ4MGIzRDdNLWlBazUzY01rTGYwTWVvODk0VW9yUHljSGdUcUI2bHZ0VEZpZEZuMEFMRENMdUpsNVAxR3RVMjdXWURxZXBCb3hRZWJWTmdLQmQ0VWh3Rkdpa0k",
           "section": "氣候與能源"
         },
         {
-          "title": "西班牙首相桑切斯直言：「氣候變化正在殺人」",
-          "source": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSTZ6VzA1c3NnT3dSanMtY0JNZ2JMb3hmSHYyc1ZEVEYycnNaV2pQdC1keHRIc2wwd00xM0VoNlhuMGI1NW41cDgyWU9tNm5PVHc0MUNzZldhdHhLSFpQUWZLZXF2TExRWFJGZzZZOUVVYmhfLTlSMWNhTzg5aXpyRHRMZldkRHFURHRqYlRXVTUwY1dVcktBSE5WWUl2UDdqNGhXbnN4bzMtZVhtWDFJd3pkSVlqcnZzZVQzTXlnZ2k",
+          "title": "歐洲山火威脅全球葡萄酒產量，極端氣候衝擊農業",
+          "source": "BeverageDaily",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMEZrWDlfSGVQTmdISHpLM1dpeEhwUk1SQU5VaUJfbjhOa2x4U3BQb1dRVG5pYXZDbFJMLXp0cThhRHJCMFZoaUxWZDRmdGp0MUlrQWxGak1wbVJNU3licHJ0cDRYZ0NnX1Q3Zm9Kb1BtazZqMVVXR0FDTE5pUU9QX0N2anpJTFU0X1RIeUVyeG00RW05Um42RGtTb0Q3T0lIeDBfa3dnSXhvdXdHTGtGYnY0SHpHbVM1VHNDTjhSaGFUN09VOV9Gcm0wWmhKSk0",
           "section": "污染與生態"
         },
         {
-          "title": "ESG重塑多元轉型經濟韌性",
-          "source": "Outlook Business",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcWw3aExIRVpFWkpUYlFyV3J1UDVsX0dLN2JGVXNZRVZXSWl6dzF3elFGNmFaTk9tNF9SeFBUR05jT3JVMEpUQThKcGNBeG94UjdnbWw2TDlkRjVqaFdhLXhKSUpJTXJtOERNUUs0TVltZjlQSUNGaGs1MnMzRktMMzRzRUVJeDZMLTZyQVNQOTBDakdXZ2czb191UmU4d0xUV1E",
+          "title": "熱浪致英國河流數百條魚死亡，生態系統受創",
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ckgd4d3280yo",
           "section": "污染與生態"
         },
         {
-          "title": "聯合國與中國啟動氣候透明度首次工作坊",
-          "source": "Mirage News",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQajNnN1A2anU3ODRFdVpnSlBPdlVYUzZHOXR1eURMYThXRGFKZjBRTmNOck5yZ25WUUZQNi1uMjlIdHlPQUVoaG1yeXZKUklVbWp6LWhkNm1zYVQzUUkxY251MmFkWGlDZzMyaC0zeFRwT1RFNEpib2ZSbEJpeXFpWjhMNA",
-          "section": "亞太/中國焦點"
+          "title": "英格蘭威爾斯迎來有紀錄以來最乾旱七月",
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/weather/articles/cddjznv86p3o",
+          "section": "污染與生態"
         },
         {
-          "title": "印尼與中國重申能源與氣候行動夥伴關係",
-          "source": "ANTARA",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRHowZDZHVUJOSWxnRklOSkduOXVURm5kYUFpWWpCT0VOUmNRRy0zSGN5eFJuRHdSWlRUWVJKVFRPYzlLaEJhSlNqRGFSVy1PSEJoRkloNTNiOFBhanBiTGdsWGZxdExOcXkxdXBXV2tDaDVjN0ZKREI2VkNtY1lrS20zMkRMNlhSSDdGaWpRN2MxeDMzRlNVWlR0M0ZtZw",
-          "section": "亞太/中國焦點"
+          "title": "Brookfield在印度推出6億美元可再生能源平台",
+          "source": "ESG Today",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRXE0RXh1T3NzbFBZaUtraWMxRF8tZEdTTTVKMVQ0aVB5aUd3SWJKLUxtRFBoeWxzZnVZVkhpT3luSllUSGZsa2wzXy1XYWZkZGx6VHM4MkVIczNINXZrQ1NHVV8zVEhJc0JtTWltU1NXMHJ3b1pjbTNWbEdsdzAwenJCOEgxMnV4UGpxRGFuR29TRkJ0cWdfMVRwanpKQQ",
+          "section": "亞太／中國焦點"
         },
         {
-          "title": "亞洲極端暴雨引發洪災山崩：「我們失去了一切」",
-          "source": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOVFmallBQjRDc3pUMm4ySzltMFpBSDdLV3RadnVOZjRyejlrbFNtaFRnWUNENW84UHp1SHRGM3NUV0pHT09WZkZVTUdpbDR4LVN1MUZWNzVaNVk3eThxVmN4QzhuN3R1ZndsLXlyMDhxZkxWUjJUZGFVb2FjU1FfX1REaTlOR0std0dEbHNTd2xkbnBZYmtxRjR4YkNUUnpjVDBDQWVRaWhxMXIyWnU4",
-          "section": "亞太/中國焦點"
+          "title": "多瑙河水位創歷史新低，東歐多國面臨能源緊急狀態",
+          "source": "LA Times",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbUpiRkFKTVZnWEVQNzNxV3g5WkNoZC1OOTkzVkw2VmpUd29pbkdiM3lSVXZQVjBSSG1tbkV4bzJ4Zkp6WjA3SlduRW9LMmd1Z215dkRSMUpNMHI0T4xvRzZVZ3A0SG0zbV9tbGtPem5DeFY5dmQ0enZUYTJuM1cxN0ktVUpmMzc4ZG16Qm5SU2xXaWQ2UkRSRjY2SlZ5c1B3SFBvUUZMc3ItUEtxdWw1UE0yOHB6TDBJN2tjczROaERCazNDS1Jxd1V0N2YwNDdkckxrblRKTWhrd1NG",
+          "section": "亞太／中國焦點"
         }
       ]
     }
