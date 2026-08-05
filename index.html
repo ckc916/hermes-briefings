@@ -97,6 +97,7 @@
             html += `
               <a href="${article.url}" target="_blank" rel="noopener" class="news-card">
                 <div class="news-title">${escapeHtml(article.title)}</div>
+                ${article.summary ? `<div class="news-summary">${escapeHtml(article.summary)}</div>` : ''}
                 <div class="news-meta">
                   ${sourceHtml}
                   ${sectionTag}

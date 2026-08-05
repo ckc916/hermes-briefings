@@ -125,6 +125,16 @@ body {
   -webkit-box-orient: vertical;
   overflow: hidden;
 }
+.news-summary {
+  font-size: 0.82rem;
+  color: var(--text-secondary);
+  line-height: 1.5;
+  margin-bottom: 0.4rem;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
 .news-meta {
   display: flex;
   align-items: center;
