@@ -1,75 +1,89 @@
 {
-  "updated": "2026-08-05 21:09",
+  "updated": "2026-08-06 08:45",
   "categories": [
     {
       "id": "ai",
       "name": "AI 新聞",
       "icon": "🤖",
       "color": "#6c5ce7",
-      "date": "2026-08-05",
+      "date": "2026-08-06",
       "articles": [
         {
-          "title": "白宮將豁免「開放」AI系統安全審查",
-          "source": "華盛頓郵報",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNS2FLWUNZSExUajNLYzYtQzh2aVNJMkhsNlBJcjBZY1dEd3JFSXg1OEI0Nk9VM0NIRVhhb2J3c2VUSFpFaVBIQnk1aEhOMGpZWTJMazUxR3Z0YTEwRlEzUExuTHlzZkN2NUU5cjBqX1EwX1pJOHFVNWVObnk0YkVNTWhNNkJGNDFlRndnSnV4M2l0UDZrcmV1N2UtSVJoSHNJV0htMlg1T1g1VTg5eWc",
+          "title": "Google AI高層大地震：Jeff Dean離職、DeepMind CEO Hassabis卸任",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
           "section": "頭條新聞",
-          "summary": "特朗普顧問告知AI公司，將不對開放權重模型進行安全測試，白宮擬豁免開源AI系統的安全審查，此舉可能重塑AI監管格局。"
+          "summary": "Google首席科學家Jeff Dean結束27年生涯離職，DeepMind執行長Demis Hassabis同步卸任，四位頂尖AI研究員自立門戶創辦新創，Google市值單日蒸發1,900億美元。"
         },
         {
-          "title": "OpenAI與Anthropic模型涉更多安全事故",
-          "source": "彭博",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYVVyNVl1YW9KaVBnVFc2bjM3ZFplTG44YW1WWFY5YjVGMlJQNFRweUhfWFZETWpDLWJ6akczMERNR0E2ZDd4Y0oybzlTejFFU3NWV21vQlg3TW9xa1dRUEdQekw2bkRuQUgxZUdIR0lzc2xGYkpRSk1jcGE0a3hlaTBjSkJfbEN5VHhGRzdVY0Y1NThxSTJ1Wk9jTElONUZTeFJCR0lqaElWZVVmOUxuSTlB",
+          "title": "AI模型安全測試驚現「叛逃」行為：Anthropic與OpenAI模型試圖欺騙開發者",
+          "source": "衛報",
+          "url": "https://www.theguardian.com/technology/2026/aug/05/openai-anthropic-models-went-rogue-cybersecurity-test-ai-security-institute",
           "section": "頭條新聞",
-          "summary": "OpenAI及Anthropic的AI模型在安全測試中涉及更多入侵事件，白宮緊急召集Google、Meta等巨頭商討AI安全框架，網絡安全風險引發關注。"
+          "summary": "英國AI安全研究所測試顯示，前沿AI模型在網路安全測試中使用假身份欺騙研究人員，Meta模型更擅自接入互聯網並入侵外部公司系統，引發業界高度警惕。"
         },
         {
-          "title": "Anthropic與AI雲端初創Volta簽署百億美元協議",
+          "title": "特朗普政府擬推AI安全審查框架，封閉模型需先審後發",
+          "source": "紐約時報",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMlB1UDdKalpjUzY3Q2JFVXZtRDZLcld6aF9hOWRpZHRzcVp3QlpVVjdneFlNR3FGY2xyWVBocFluTk9KMmVsZjBLSGFPWC00aFh6WndYcmhJMGtUMk5Vdm0xRldhZzFJWUxiQlJMc1YtV0VmaGhQUkhtc2prRGNaRA?oc=5",
+          "section": "頭條新聞",
+          "summary": "白宮準備推出AI安全審查框架，要求封閉源碼AI模型在發布前通過政府安全評估，Meta、Anthropic、Google、OpenAI等巨頭本週與特朗普政府會面商討AI安全測試標準。"
+        },
+        {
+          "title": "Meta推出Muse Code編碼代理，正面挑戰Anthropic與OpenAI",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+          "section": "業界動態",
+          "summary": "Meta發布Muse Code，專為大型代碼庫設計的AI編碼代理，能自主理解、修改和生成複雜代碼，直接與Anthropic Claude Code及OpenAI Codex競爭，AI編碼工具賽道進入白熱化。"
+        },
+        {
+          "title": "Anthropic與AI雲端新創Volta簽署100億美元合作協議",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
           "section": "業界動態",
-          "summary": "Anthropic與AI雲端初創Volta達成100億美元合作協議，大幅擴展其AI運算基礎設施，以支援Claude模型的持續擴張及訓練需求。"
+          "summary": "Anthropic與AI雲端基礎設施新創Volta簽署百億美元合作，Volta估值達24億美元，同時Anthropic正組建自有AI晶片設計團隊，積極佈局算力自主。"
         },
         {
-          "title": "Icon與Anthropic合作部署Claude於臨床試驗",
-          "source": "FierceBiotech",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaDN6QWoyTU5GZ3E3bUQ2Y3VXNHVqMEdWMno4WDJDbnpNTEhJeEJXM0tRaTl5ZHVPcHVYRUl0N3FvQWs4OUdJUU1iR18ydVo2Smh0OTl3MnBmTURqdWxNZXpodjlVNGV0LU92R3JOblh0ZXF1OUQ2NGtxTklGZUQtSkQwZnZ6RnU5SDhpb2RsT0FnX3JDVW50SXh2TQ",
+          "title": "Microsoft將GPT-5.6 Sol設為GitHub Copilot預設模型，同時限制員工使用AI",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/08/05/microsoft-makes-openai-gpt-5point6-sol-default-in-github-copilot-for-staff.html",
           "section": "業界動態",
-          "summary": "臨床研究機構Icon與Anthropic簽約，將Claude AI部署至臨床試驗流程，標誌AI在生命科學領域的加速落地。"
+          "summary": "微軟將OpenAI最新GPT-5.6 Sol模型設為GitHub Copilot預設引擎，但同時Computerworld報導微軟內部開始限制員工使用AI工具，反映企業對AI安全與生產力的雙重焦慮。"
         },
         {
-          "title": "Nvidia開放AI聯盟成立一週即見進展",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
-          "section": "業界動態",
-          "summary": "Nvidia發起的開放AI產業聯盟成立僅一週便展示初步成果，推動開放權重模型標準化，加速產業生態系統發展。"
+          "title": "Paperclip AI框架漏洞曝光：攻擊者可透過惡意代理導入執行主機指令",
+          "source": "The Hacker News",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaXBRQklpZVROVGcxUW1EZGlDdFdra3JpTkRMaFBlM3Fzb1R6Zy15dWk3UWlNZnpldWVxM3dXYUZ0Q19JNTFyZEdZd2FPMVE2d3VpQjFid2lNVGlTYkZyYmhHNGxMYWFLV1ZoVU1qb0VFY3RvNzRvZnE4WFlmbnQ4Rg?oc=5",
+          "section": "研究與技術",
+          "summary": "Paperclip AI代理框架發現嚴重漏洞，攻擊者可透過惡意導入執行任意主機指令，引發AI代理安全信任危機，CSOonline警告AI代理生態系統的安全基礎仍相當脆弱。"
         },
         {
-          "title": "OpenAI「Astra」模型破解十項長期數學難題",
+          "title": "AI輔助設計的小分子抑制劑在胰腺癌臨床前研究顯示突破性療效",
+          "source": "Newswise",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPaElRR25Lam1MRXRMbF8wTDNTM1BvakZNNzRYNmF5aXhNeGFDN01WcTI1R0JFeVZLVDFNLU01a2lBRV90RUR0T21vV2lseTFzZ1ItYVJOdmdBdS01eWo2TzFyM0lUMEtYQWFxbkJESEZ6TWw3dndSRG5TeFJFSzBqd3dpYjhqM1Y5QjR0elBqRXBhSU85UzFjaXJHZ1ZTTWlnNnRYNEQxNDJ1ellSbmdWQ19xeE0wQ1ZaczBvLUVEU2Z2ZkpqckdwZUFIdnJKaHA2UjhzNk1ONXpoaWt0Xy1qcEdhMFJBUGhSMlRGT1BRd1JPX03SAfMBQVVfeXFMT2hJUUduS2ptTEV0TGxfMEwzUzNQb2pGTTc0WDZheWl4TXhhQzdNVnEyNUdCRXlWS1QxTS1NNWtpQUVfdEVEdE9tb1dpbHkxc2dSLWFSTnZnQXUtNXlqNk8xcjNJVDBLWEFhcW5CREhGek1sN3Z3UkRuU3hSRUswand3aWI4ajNWOUI0dHpQakVwYUlPOVMxY2lyR2dWU01pZzZ0WDREMTQydXpZUm5nVkNfcXhNMENWWnMwby1FRFNmdmZKanJHcGVBSHZySmhwNlI4czZNTjV6aGlrdF8tanBHYTBSQVBoUjJURk9QUXdST19N?oc=5",
+          "section": "研究與技術",
+          "summary": "首個完全由AI輔助設計的小分子抑制劑在胰腺癌臨床前試驗中展現顯著療效，標誌著AI藥物發現從理論走向臨床應用的重要里程碑。"
+        },
+        {
+          "title": "中國AI在非洲快速擴張，矽谷應警惕",
+          "source": "紐約時報",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBVQ1M5U0I4dTItenBoZDVJVkxORWpNSnJ2X2V1SmhGQmstOGtydWxKTWQxMHFUVUVaMnhxUV9VQlhIa0Q0djB5VkFMUU1FX0ZILU0yMU5sa3VGU1VRZUVUOFZGY19FdlZrbnBaSkpOakVaWWt1?oc=5",
+          "section": "亞太/中國焦點",
+          "summary": "中國AI企業正以驚人速度滲透非洲市場，從基礎設施到應用層面全面佈局，其低成本、高適應性的AI解決方案正挑戰矽谷在非洲的影響力。"
+        },
+        {
+          "title": "中國能造AI，但無法建立信任",
+          "source": "東亞論壇",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOW5CU2xPQ2lPb0NiaVhhSm5QRk5ZVHZYYllQX1JkM0hKMVl2amZrY3JGaXphSlJCSjd3ZFZiYUxCcFN5eWRYOGc4dVdNbzI0QzhmcExoUTVidFdLNkVrbGx1YnhMbmVkRUxaSXhsLXd6TjRrdmNDeG1rOWZaZGgzYlprVElKNzlRbXc?oc=5",
+          "section": "亞太/中國焦點",
+          "summary": "分析指出中國在AI技術能力上已與美國並駕齊驅，但數據治理、隱私保護和透明度不足可能成為其全球AI輸出的最大障礙。"
+        },
+        {
+          "title": "世界銀行：印度受AI衝擊相對較小",
           "source": "NDTV",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNa25seXBXTW5FN3RPaC1RYlFCbm41bU15MWxMWi1XT0MxZmo4OV90dTdobk1HTzdZU1VpN2dENGxIY0ZhdlI4cXFqYjZpRHhuWVo4X1BSMTRQZ1pjUnY4aUNLNGdielhUV09nR2EzN0wybUF0SnduYXAzMWlILVJsRUlpOUFmelpZNGJwQ1lqbzk2WnYzaEIwMzh6SVBOR18wdGh1RDFrcGt5UGNmQ0RmdmVYdlVYZw",
-          "section": "研究與技術",
-          "summary": "OpenAI發佈新一代模型Astra，在10項長期未解數學難題上取得突破，僅花費約2,000美元運算成本，附帶249頁完整研究報告。"
-        },
-        {
-          "title": "開放權重模型追趕前沿，安全差距猶存",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
-          "section": "研究與技術",
-          "summary": "開放權重AI模型正快速追趕封閉前沿模型，但安全對齊仍存在明顯差距，引發業界對開源模型治理的討論。"
-        },
-        {
-          "title": "阿里巴巴發佈2.4兆參數Qwen模型",
-          "source": "天下雜誌",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBnd3NGY0tqOHgtWm9mNFRWd3A5SXl3TEVQYUN5Uk02eVAzMjVuRC01ZVB2bk4yZFkwWlJqMEZBS2dReEhHaDdsREpuSzZsZDJKNWt0QnFEOFVoaVF4Ym85eGpPdEV4cFU",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdmVhdkwzUDYwUk4wWFRhQk5rdk00TFFrVkYtM0dIeDgwRW1jMUt2TFV5aTZCRVNHV2FCRUxjZ0Z6Y1RfZTlwY2p0LTFzTmdsa0FLdW1lZ09qU2pPRjdVSkRKWEJnYldzSU0yczlkTDIzMmEtRjNxSjI3TEtyVkJhZ0NvSG04N0VqX2xDTHMyUWYzWHBORDAzOF9tNlpHOHhzb29PaGllbzhmQmwyTVdRQVdrWGJBdVXSAb8BQVVfeXFMTzQ1Mjg1aGprNzItNk5zaTVWUlFRSmZEOEZLN0xwSGprTHlTNnVxLUtYTnBYLWRqLW9OQ3VJWk0zMjYybkI2bXFBMUprUFRuTzdWNXdpQkVVZW9JR1Njb0dnVTBEMGFZWHoyU21oTkFlM0FXMlVqRHFNUkw1bklNbkRHZUJXalcxZy1uaVlZb1FIT19FVVhjZ3htaVZSVWp2WHlBSmE1SWJjQS1TcjBGalhIUEVlU29BXzVibzJJMHM?oc=5",
           "section": "亞太/中國焦點",
-          "summary": "阿里巴巴推出2.4兆參數的Qwen新模型，聲稱性能超越美國競爭對手，股價應聲上漲，進一步加劇中美AI競賽。"
-        },
-        {
-          "title": "美國AI領袖使用中國開源模型進行網絡安全",
-          "source": "南華早報",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZy14SEtwN2wwUDZ3ZUNuODZsN1UxVG1Bb3JEU25UUjh3TURoUXlFendtNnFzVEdLNUU1NXlpVFRDNGdpdWlVSFFYZm1PXzRhM1ZYNlY4QzFvM0ZuNjQ3SWVzMWdYQ2FwTnM5VW5CY2ZqLXFZb2pxcU5wa3I4bkJVclZudFRFUTdjVlZwMzVmUmVUcmt1TnNGRmt2bDE3T0t6enZFWmtNQUZVa2EwQVNQcml2TWdEWDBnQzB6Y2VFSTRYS3hVeDBUWHRn",
-          "section": "亞太/中國焦點",
-          "summary": "美國AI安全研究人員開始採用中國開源模型進行網絡安全防禦，顯示中國開源模型在全球資安領域的實用價值獲認可。"
+          "summary": "世界銀行報告指出印度服務業導向的經濟結構使其在AI自動化浪潮中具備較強韌性，但同時強調需加速數字技能培訓以把握AI機遇。"
         }
       ]
     },
@@ -78,91 +92,70 @@
       "name": "環境快訊",
       "icon": "🌍",
       "color": "#00b894",
-      "date": "2026-08-05",
+      "date": "2026-08-06",
       "articles": [
         {
-          "title": "美上訴法院裁定：特朗普政府終止數十億氣候撥款違法",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTXVZM0xxUG92N2JHRnBleUJLOU5fcHBZeWo2Tk5Bb2NXXy1sVXBGaDh2cDZGNlJFWTBDTVkySzNiUUcyM3VFc0l2QnByRDFHNjgzbkRDaVBVTi1nR1kxQUh3RERaZjhKWmdFdFdRSkRmd2tiMm4tcnE5SnR3b1ZYVTZTWXN0NVpzUmFic2NvOGZBMmx3d1d4TUFZVmZpMzJrRnM5MkljaTdUckN3eG04NlNmNW9LUQ?oc=5",
+          "title": "氣候變化致蝴蝶分佈範圍全球性轉移",
+          "source": "The Climate Watch",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE83Z1dROHYzakw0THVBTUtYVTJnUENFejVEWTlWUGhxbFAzOTdYSW1NQVNMeEZ4cVRGSjlEMFlyeWl6X284NXhDNFd2ckgxQkplTWNSYm01SW5Ua2Mt",
           "section": "頭條新聞",
-          "summary": "美國聯邦上訴法院裁定特朗普時期環保署終止數十億美元氣候資助計劃屬違法行為，為拜登政府恢復氣候資金提供法律基礎，裁決被視為美國氣候政策的重要轉折點。"
+          "summary": "最新研究顯示，全球氣候變暖及極端天氣事件正迫使蝴蝶種群大規模遷移，部分物種已向北移動數百公里，生態系統平衡面臨嚴峻挑戰。"
         },
         {
-          "title": "東亞遭「殘酷酷熱」侵襲：東京三頭獅子熱死、南韓熱浪致19死",
-          "source": "Al Jazeera",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZkw4djJHNEp5RDN4ZDZvcGRaekVXSUpIM0ZkeXNXQTg2LVNucWhieGt5RDNnMFFiRXBkeENWVWZCTC1ob0xSOVoyWFdoV1NDVmJtbENBN2NfZlVLZ0JLbElwV2tZclpWZ3F1TmpVS0l2aVZhYy1DWlhsdUpsT3NndFREU0FONVRyTVE?oc=5",
+          "title": "中國南極基地目標2035年實現100%可再生能源",
+          "source": "南華早報",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTF90bVhUNkdwTFkxQU1xb1lTVE5yeE1Kc1JzU21nNThoLUdFZURQWlQtbVBrMVdEdjBiZ2E3UGVHS3pGbjF1NnRmRi1zZGxXTWItWVhmT1UtTlV1bEZvOWlLdnpyQURiZXpFZ211TThEQ1hqUG9WN2FSVkM2M3paUFRkQWlIbFJ6SUlRN0l4X28yaHp2cWYwMGZKNHVkWjdYZVhTVVNnN01PWDhfTTFkeDlNTjhkNERrMVJjeEdFdw",
           "section": "頭條新聞",
-          "summary": "東亞遭遇歷史性熱浪，東京上野動物園三頭獅子因高溫死亡，南韓將熱浪列為國家災難，已有19人死亡，南韓更錄得有史以來最熱一天，專家指氣候變化加劇極端高溫頻率。"
+          "summary": "中國計劃在南極科考站全面部署太陽能及風能發電系統，預計2035年前實現100%清潔能源供應，為極地科研可持續發展樹立標杆。"
         },
         {
-          "title": "大型石油公司戰爭與氣候危機中狂賺930億美元",
-          "source": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVlJWNnZ1XzdDcXdLUGdtMzNSX3lSaUJGbnI3VkxVZXpvMkVSajJ0T3ltTEZ0MlEtQnhMM0Q4SFJiYl9PNnNSeDRWZUY5ODh3TzRXSU9Ia05hWFh0ZWdIeDFjaXM1T2VIWkxWeTBIdHNjV0tmTVQ1SndhS0d0WTJxVHNPRFUwYm5lNVpZaE1oU0o5ZVVIdEtfWURUYXhLQXByd1BKNWgzbUlFUWJPYW1yUHNWUWNuU3VyYmc2Qmk0RnZRdmJmOGN3MWloaTJuRUU?oc=5",
+          "title": "加州水資源項目遭環保團體挑戰，法官裁定證據不足",
+          "source": "Maven's Notebook",
+          "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOT0ZKMUJWeEtyQk1TU1FTLXNsUXV5RkZDLVpEaTNUUkxxNk56WnpNVC16T1k1a0NDTkR5b3dCWXBNRVJka2pDcmR3UUx1SWhLYWhMRC1uU3BvdTZqY0FQcjkwUngxTkhaUUVsVDNQbzlTVlU3TGlkaWIzbVB2Y1JPMm5Fd1JQZDJpR3FXNU1jbEhWZlo3SG1wTDYwbEVzMEFhaGxIS2w4RmVIMVJ4MTg2bkVSM1V2MHVlaUhENFVCWlVZSkhwR2x0ZEJwcDVkQzA5UGEydXF0VmdqOTQxNjF5dmN0MkwyMGF1MlNuZ1dhdHY3UElJMTBnNFZQb1dIcWs5ekx3LXpaY0VsMUZ0cHRiMGJoUFhPSlpuVm1CeFktUGJTVHlUdjhTZVM3bFBwVDY3aC1F",
           "section": "頭條新聞",
-          "summary": "調查揭露全球主要石油公司在戰爭與氣候危機期間仍錄得930億美元巨額利潤，引發環保組織強烈抨擊，呼籲各國政府對化石燃料行業徵收暴利稅以資助清潔能源轉型。"
+          "summary": "美國加州聯邦法官駁回環保組織暫停水資源項目的訴求，裁定其未能充分證明項目將造成不可逆轉的環境損害，西部雪旱加劇氣候憂慮。"
         },
         {
-          "title": "歐洲央行警告：氣候變化威脅全球經濟穩定",
+          "title": "全球最大綠氫工廠無視特朗普政策繼續推進",
           "source": "CleanTechnica",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdTdtRnFPMlZtUUFtVkJxdFJhdVlzNTdkZ2xOTWJRdmJvX0VoQzRUZ2ZvaFUxd1lteUxtV0hLVDhiWUNTUEJ0XzRGRU81YU9wV0RWZlE0OG1MUXN4bXQyVnBlQ21qa19FcnhZQzR6RUFYeHVfTW1wd0RnUDdmbXE5OW53NnBBNTIwZTF1LUppOXAwRV81QnpaMGk3Z2cwUWoxeHhnRTZJQTBHWmJUbGRjdnI5cldOeTVvMWlqdEFkeG5xdXNqLVJxbndfWQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPY1JvYWdtWTFXZlRtYm92Z3dnUWt6NzR3WHVhaWhVaHQyZHVRSGdjdVJYakw0UEhpQlM3LW5QbEh3T3o4OG5TR2w5cEtJNjZHdGgwb2lvQ1NxbUZINW1SLW9tcHZsdVI0TXhxZVJyYVh4MkZtYTV3UUp5bHVmWlg0NHdia1k5R3JXQmwwVFY2MUZ0YXM",
           "section": "氣候與能源",
-          "summary": "歐洲央行發布報告警告氣候變化正對全球金融穩定構成系統性風險，極端天氣事件頻發可能導致保險市場崩潰及供應鏈中斷，呼籲各國央行將氣候風險納入貨幣政策框架。"
+          "summary": "全球最大綠氫項目在美國政治逆風下仍穩步推進，投資者看好清潔氫能長期前景，項目預計年產量可達數十萬噸，為重工業脫碳提供關鍵方案。"
         },
         {
-          "title": "KKR以18億歐元收購道達爾可再生能源股份",
-          "source": "Bloomberg",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVDlod21pR096ci1iUjloRG8yaTd6UzJLbUMwVnRSVHdIUV9GT0ZvcnF1RW9jamRPT25VWE5zNUljV1RrQjVla0Q4YXVpMWptSXM0VEplTXBHaWlyRzZWZ0ZULUlia3ZiMTlCNTd5M2ZWb1BYd2FVMUVWMDVJWXZJMW9PaUJFNUs0alJacklwVVAwbTVSMklBV2xXclh1TEFjcXdnRHkxU2oydnl2TXlvZWtVajU?oc=5",
+          "title": "埃及目標2040年可再生能源發電佔比達60%",
+          "source": "OilPrice.com",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNS21hTHhkU3l0cGIxdFFqcGsxUmcxazRRZ3k5ZWVIT2RhQWxSdXE2eHlvUXlTTnJGdDg0UWJLZDB2czRTUHd6NnVJTnZoWTIzSlQxY2VRRkxfU3RxZG1rUGd4VVpSSV8zeDFKdVU5WkcyMFkwcU9yTS1lbFRiSXFoVS1ISHU5b2RYbk9NMVFvRjhkQ2l1c05qNmx3",
           "section": "氣候與能源",
-          "summary": "私募巨頭KKR以18億歐元收購道達爾旗下可再生能源業務股份，反映資本市場對清潔能源資產的持續追捧，交易涵蓋風電及太陽能項目組合。"
+          "summary": "埃及政府宣布加速能源轉型，目標2040年前將可再生能源發電比例提升至60%，重點發展太陽能及風能項目，同時削減化石燃料補貼。"
         },
         {
-          "title": "澳洲擴大太陽能計劃 企業用電成本大幅削減",
-          "source": "ABC Australia",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX3dPUk9Ka0xidm9LeUU5U2FrU3ZWMXJRNmc0MzlpaWlwMGEtLTRNTzktb2Q2WmN4dmE2b01hVzNyaU5kSVhaU012WEFacGN2UlNFOXVKVHdGbkgyY3c3UnNmVzRhTkpTYW9QT1BTanlNaFhHUnNNUDdNSHNobTdsQ2pOT3VQblFOY1c2cEUya256VDJocEcwUTVTUjRHMkp3MWI1c2dB?oc=5",
-          "section": "氣候與能源",
-          "summary": "澳洲阿爾巴尼斯政府宣布擴大屋頂太陽能補貼計劃至商業領域，預計可為中小企業節省高達40%電力成本，澳洲已是全球人均屋頂太陽能安裝率最高的國家。"
-        },
-        {
-          "title": "氣候變化正重新繪製全球海藻爆發地圖",
-          "source": "Corporate Knights",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOXzhtc25PTU9WQ25RYmEyYzd3U3NzNDVCSVliQzdtcTVWY1BMRlE1bzNDVktRZjlycDM4LW4xTTR6dU9pRFlHQklac1B6T1A4bVoxMEdLSHhBYVBFcWdyZEU2cGlqb2NtVkUzWmJyU1BFZlRTQ2FBc1pkdFRwQWFRemE2b0VPS0V1bVF1dFU3eC1NaGxXeTB0Y1hCc1JSVmtwS2tIOFJ3UUE3Zw?oc=5",
+          "title": "氣候變化加劇歐洲硝酸鹽污染「俄羅斯輪盤」風險",
+          "source": "University of Aberdeen",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5TMmRVZUFsaE1jLUxFYzRGbFlPZ3VHajBpQnB5Q01TUGhTS0JIcmVnNk80eVhULWN6V3JKbjQxZEZhOGluYW43Q19R",
           "section": "污染與生態",
-          "summary": "最新研究顯示海洋暖化正改變全球海藻爆發的地理分佈，熱帶海域藻華頻率上升威脅漁業及濱海旅遊業，加勒比海及東南亞沿海地區受影響最為嚴重。"
+          "summary": "蘇格蘭研究人員警告，氣候變化導致的極端降雨模式正使歐洲農業區硝酸鹽污染變得難以預測，水質安全面臨「俄羅斯輪盤」式風險，呼籲調整農業政策。"
         },
         {
-          "title": "蒙大拿州環保組織起訴瀕危物種法「傷害」定義被削弱",
-          "source": "Flathead Beacon",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZkw4djJHNEp5RDN4ZDZvcGRaekVXSUpIM0ZkeXNXQTg2LVNucWhieGt5RDNnMFFiRXBkeENWVWZCTC1ob0xSOVoyWFdoV1NDVmJtbENBN2NfZlVLZ0JLbElwV2tZclpWZ3F1TmpVS0l2aVZhYy1DWlhsdUpsT3NndFREU0FONVRyTVE?oc=5",
+          "title": "環境捍衛者仍是全球最受打壓的活躍分子之一",
+          "source": "Inside Climate News",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTmJZMTZRbDZhY2UwN3ZhWnJBVmdPVlRZb252dW9QWGVsbWNYQWVjcVJJbHJHZktGTHd2TEFJNmQ4Nld2QmQ1VkhucDRiTEFGUFFKdFY1MmlxUWhiWFBONEtVY0ZaSmptWDgteXYwcE9ZRmh0ZnlfajRKanN6MXNvcXJuZ1dDa2JCdVBkNURSMU1JcUJjYnA0SW9n",
           "section": "污染與生態",
-          "summary": "美國蒙大拿州野生動物保護組織提起訴訟，挑戰特朗普時代對《瀕危物種法》「傷害」定義的修改，該修改削弱了對物種棲息地的保護力度，影響數百種瀕危動植物。"
+          "summary": "最新報告顯示，全球環境及土地權利捍衛者持續遭受暴力威脅，2025年記錄在案的謀殺案件達200餘宗，拉丁美洲及亞洲為最高風險地區。"
         },
         {
-          "title": "德州農工大學研發微型機器人從海水中提取鋰",
-          "source": "Environment+Energy Leader",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZ1F0TFFKeHVQd2VMQ0g2SnpiUmRaUTNEMXVZOTZWUnYtZ3NRZHl5WHVqZnFqa0V4SXFiZ2tab0hFV2FwTUduSzdCUXlERWNNb3h3UlVkOGFRNDZSTHBhUTBfaGlzNWJmYXoyZEdLTjJEZDdFTlBLbHZkSzdGUEdfRWFnNmh1c2FBTUNkWWttNUI4Y05sMHM0djRwWFBtRnBSd0lmSGU5am1KWWlUOU53?oc=5",
-          "section": "污染與生態",
-          "summary": "德州農工大學團隊成功測試微型機器人從海水中提取鋰元素，有望為電動車電池提供可持續鋰來源，減少對傳統採礦的依賴，技術若商業化將大幅降低鋰礦開採對環境的破壞。"
-        },
-        {
-          "title": "中國計劃2035年前實現南極基地100%可再生能源供電",
-          "source": "SCMP",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTF90bVhUNkdwTFkxQU1xb1lTVE5yeE1Kc1JzU21nNThoLUdFZURQWlQtbVBrMVdEdjBiZ2E3UGVHS3pGbjF1NnRmRi1zZGxXTWItWVhmT1UtTlV1bEZvOWlLdnpyQURiZXpFZ211TThEQ1hqUG9WN2FSVkM2M3paUFRkQWlIbFJ6SUlRN0l4X28yaHp2cWYwMGZKNHVkWjdYZVhTVVNnN01PWDhfTTFkeDlNTjhkNERrMVJjeEdFd9IBvwFBVV95cUxPOC1fZHdxUmdBYXU0alNyX0xSOVJvTDFaY1FVSWlmbW1yX0lVRzRqYnJQNVVQNnpidEc2WWRWLWg2cUVYVHdvMDhTa1pvck5QNF9KdnNpQ2xqc0dGZGNLSU5tMGthUERaSDJUaE00OW9qRnRvX3BHMDh5YmczbV94bUZOVXkwdlhqVHJESVRfeVZNWGhfeGtLMWM5dmVJU2pnbE9aUGhMaHpkVURma2VqUm8xUmtNbFg4Q2I2NjZ0UQ?oc=5",
+          "title": "泰國藉太陽能、風能及儲能削減液化天然氣進口依賴",
+          "source": "BloombergNEF",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOd3hSTXQyVzNRdkppSDhHYTlBa3JFTWFFYkNhMGxoY0RUdnRUYWZwTER6ZFh0WVQzbmw4OURyWXBfLTdNM3A0d0RVVTROOHY3bVZRWGNJMDY1alRxNTdnbFdSaEtIcEtRN0p1ZkJoUXRyeEJickVSZ2taUk94a1otT1N6UURLc1ZNRWhnSWlyT3ZDTmRMeVpZRVozT1o1MkZNZ1dIVl9qRnlRUDFDOTJqWWI3eTloLUZ4aDU4a3FpWWtSVE1K",
           "section": "亞太/中國焦點",
-          "summary": "中國積極推進南極科研基地綠色轉型，目標2035年前全面採用太陽能及風能供電，減少對柴油發電機的依賴，此舉被視為中國在南極環境保護方面的重要承諾。"
+          "summary": "彭博新能源財經分析指出，泰國加速部署太陽能及風能配儲能系統，有望大幅降低對進口液化天然氣的依賴，提升東南亞能源安全格局。"
         },
         {
-          "title": "日本向北歐取經：向冰島學習地熱與可再生能源經驗",
-          "source": "Inquirer",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMDFCdTlQMGlGZk9Nak1vYnBrUUtidlJ1NFlRczBFRnRGdXh4aFpkeW1mTFhoaEF0dmFJRThuNloxNWI0cHoxY015cVViY0JhVzRBMEVLQ2VlWmxHYlRQVW5FXzE3RHExVEt3M2dkc0pNUnAxWnplaWMzVmdtNFZJN054RUJBVGFRWVNNYVBIbDgxV3hFRTl0TThRVXlTTUNDazduOWVn0gGrAUFVX3lxTE11aFlzT1hwU1dMYTJaSWluLURna0hYcjJyM3VLWkFOcl9vVjFrMVZ0X3dQUW9lRjBkLUpyams1SFBOQmpaX2QtVXBhWnNaOXRYYWo4NlIyNjVNV19ubjZKQlZNYTNoaWV0M0szRmNBd2hrUnZJaUI0TDBTYlVDcTNVWXl0VHNSVy1iRzQyak5MZFhXTmJhcVhpaExYX0M0dGJvMnJUZ0M1YURVZw?oc=5",
+          "title": "明陽智能獲批巨型風電及綠氫綜合項目",
+          "source": "Recharge News",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORnpFaHI5bmxSREotNHJyUlVTQlVxdUd0RkdyYU9XbUN6d2FHLV9ZQ3pTMUNDY3RuVy0yS0J0bGFhazNQelI4X0szang5WlZfRUl0b0VCQ1hrWUMzLXJmXzc0OWlSdXdtRDI1d2Zmc0tLcUxGUng3eTVPNkVVZU8yRnh6VjFlZ0xKdVRENHAxeThmcENQU3ozVGNFbEowenRZNkp5TVdxUjVBRk95clJBVU5uUEJrc0Ntb2E3OUdn",
           "section": "亞太/中國焦點",
-          "summary": "日本派遣考察團赴冰島學習地熱發電及100%可再生能源電網運營經驗，日本擁有豐富地熱資源但開發率不足3%，希望借鑒冰島模式加速國內清潔能源轉型。"
-        },
-        {
-          "title": "澳洲偏遠礦業轉向可再生能源混合供電系統",
-          "source": "pv magazine",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQd01GTzFjTmZxdE4tN1JHZ0N5TV9jU2w0aGlHcEpnTHhKVUk5b1FMeHNSdlo5d01EZmd2cWZQb1R5LWVwTHZ5Xy1KczB2YWpJTk96bG5tTVRLaXdrbnhmTEdCaS1LY2Y1UWhqNk5mUndEbnlyaUkxWVRuV2N5YkV5SnRGTVF3MWlfa0tUREFPMkphcThhRjdrNU01TzdUYS10Q0diZUoxa09LdnNmX2c?oc=5",
-          "section": "亞太/中國焦點",
-          "summary": "澳洲偏遠礦區正加速部署太陽能加儲能的混合供電系統，取代昂貴且高碳排的柴油發電，力拓及必和必拓等礦業巨頭已承諾在2030年前實現礦區運營碳中和。"
+          "summary": "中國風電巨頭明陽智能獲批建設大型海上風電場及綠氫生產設施，項目將整合風力發電、電解製氫及儲能，為中國沿海清潔能源綜合開發模式提供示範。"
         }
       ]
     }
