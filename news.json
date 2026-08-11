@@ -1,89 +1,89 @@
 {
-  "updated": "2026-08-10 08:45",
+  "updated": "2026-08-11 08:45",
   "categories": [
     {
       "id": "ai",
       "name": "AI 新聞",
       "icon": "🤖",
       "color": "#6c5ce7",
-      "date": "2026-08-10",
+      "date": "2026-08-11",
       "articles": [
         {
-          "title": "OpenAI因安全疑慮暫停Astra模型開發",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/technology/2026/aug/08/openai-astra-security-concerns",
-          "section": "頭條新聞",
-          "summary": "OpenAI暫停下一代AI模型Astra部分開發，安全審查發現自主代理能力存在潛在風險，引發外界對AI安全治理的關注。"
-        },
-        {
-          "title": "DeepMind：Demis Hassabis轉任Google首席AI科學家",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/technology/2026/aug/08/google-demis-hassabis-deepmind-shifts-role",
-          "section": "頭條新聞",
-          "summary": "DeepMind共同創辦人卸任CEO轉任首席AI科學家，專注長期研究，標誌DeepMind與Google整合進入新階段。"
-        },
-        {
-          "title": "Anthropic將Claude Code自動模式設為默認",
+          "title": "Meta發布Muse Glimmer開源模型，朱克伯格發表6500字AI宣言",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+          "url": "https://techcrunch.com/2026/08/10/meta-glimmer-ai-model-zuckerberg-manifesto/",
           "section": "頭條新聞",
-          "summary": "Claude Code默認開啟自動模式，允許AI自主執行編碼任務，引發業界對AI代理安全性的新一輪討論。"
+          "summary": "Meta推出最新旗艦開源模型Muse Glimmer，可在消費級GPU本地運行AI代理。朱克伯格同步發表長篇宣言，主張開放原始碼AI應普及大眾，反對AI權力集中化。"
         },
         {
-          "title": "OpenAI收購簡報新創NextSlide",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
-          "section": "業界動態",
-          "summary": "OpenAI收購AI簡報新創NextSlide，擴展企業生產力工具，與Google Slides及PowerPoint直接競爭。"
-        },
-        {
-          "title": "Moody's警告：銀行業過度依賴AI科技巨頭",
+          "title": "朱克伯格推動「超級智能AI普及化」，Meta同步釋出開源模型",
           "source": "The Guardian",
-          "url": "https://www.theguardian.com/business/2026/aug/09/ai-push-banks-tech-firms-moodys-risks-financial-sector",
-          "section": "業界動態",
-          "summary": "穆迪警告金融機構加速部署AI，正面臨過度依賴少數科技供應商的風險，可能引發系統性金融穩定隱患。"
+          "url": "https://www.theguardian.com/technology/2026/aug/10/mark-zuckerberg-superintelligent-ai-essay-meta",
+          "section": "頭條新聞",
+          "summary": "朱克伯格描繪「個人化超級智能」願景，稱AI將帶來前所未有的自由。但CTO在內部會議上的發言被指與宣言互相矛盾，引發輿論關注。"
         },
         {
-          "title": "亞馬遜數據中心或成美國最大氣候污染源",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
-          "section": "業界動態",
-          "summary": "亞馬遜新建AI數據中心年排逾千萬噸二氧化碳，引發環保團體抗議，AI基建環境代價再成焦點。"
+          "title": "Bernie Sanders呼籲矽谷「暫停AI開發」以保障人類利益",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/technology/2026/aug/10/bernie-sanders-ai-development-pause-letter",
+          "section": "頭條新聞",
+          "summary": "美國參議員桑德斯致函科技巨頭，要求暫停先進AI開發，警告AI發展速度已超越社會監管能力，呼籲將人類福祉置於企業利潤之上。"
         },
         {
-          "title": "AI學習DNA創造16種自然界不存在的新病毒",
-          "source": "Tom's Hardware",
-          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-creates-16-new-viruses-that-never-existed-in-nature-after-learning-dnas-pattern-from-9-trillion-nucleotides-experts-warn-such-applications-are-way-ahead-of-necessary-guardrails",
+          "title": "Google AI團隊向求職者坦承：HR篩選系統不可靠",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-10/google-ai-team-tells-job-seekers-its-hr-filters-are-unreliable",
+          "section": "業界動態",
+          "summary": "Google內部AI團隊公開承認其人力資源篩選系統存在缺陷，建議求職者繞過正規管道直接聯繫團隊，凸顯AI招聘工具仍不成熟。"
+        },
+        {
+          "title": "AI驅動記憶體晶片短缺，華盛頓遊說戰升溫",
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/10/technology/memory-chip-shortage-ai.html",
+          "section": "業界動態",
+          "summary": "AI需求激增導致高頻寬記憶體（HBM）全球短缺，晶片商與科技巨頭在華府展開激烈遊說，爭取政府補貼及出口管制政策傾斜。"
+        },
+        {
+          "title": "OpenAI德州承諾：AI基礎設施應自負盈虧",
+          "source": "Benzinga",
+          "url": "https://www.benzinga.com/2026/08/10/openai-texas-commitments/",
+          "section": "業界動態",
+          "summary": "OpenAI就其德州大型數據中心計劃作出承諾，強調AI基礎設施應自行負擔成本，不會將能源及水資源負擔轉嫁當地居民。"
+        },
+        {
+          "title": "USC研究：AI閱讀能力優於聆聽能力",
+          "source": "USC Viterbi",
+          "url": "https://viterbischool.usc.edu/news/2026/08/can-ai-read-the-room-usc-study/",
           "section": "研究與技術",
-          "summary": "研究人員利用AI從9兆核苷酸中學習DNA模式，生成16種全新病毒序列，專家警告應用遠超現有安全監管框架。"
+          "summary": "南加州大學研究發現，當前AI模型在文字理解上表現出色，但語音辨識及情境感知能力明顯落後，對語音助手發展具重要啟示。"
         },
         {
-          "title": "AI安全測試本身正成為安全風險",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+          "title": "Waymo擴張速度創紀錄，但「邊緣案例」同步激增",
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/10/technology/waymo-expansion-edge-cases.html",
           "section": "研究與技術",
-          "summary": "業界反思當前AI安全紅隊測試存在根本缺陷，測試流程可能被惡意利用，呼籲建立更嚴謹的評估標準。"
+          "summary": "Waymo自駕車服務正以空前速度擴張，但道路上的罕見邊緣場景同步增加，考驗自駕系統在複雜真實環境中的安全性。"
         },
         {
-          "title": "AI工具發現Apache零日漏洞",
+          "title": "29國簽署協議成立全球AI合作機構",
+          "source": "The Straits Times",
+          "url": "https://www.straitstimes.com/world/twenty-nine-countries-sign-agreement-to-establish-global-ai-cooperation-body",
+          "section": "亞太/中國焦點",
+          "summary": "29個國家在新加坡簽署協議，成立全球AI合作機構，旨在協調跨國AI治理標準，中、美、歐盟均為簽署方。"
+        },
+        {
+          "title": "中國發布升級版AI安全治理框架",
+          "source": "Geopolitechs",
+          "url": "https://geopolitechs.com/china-releases-upgraded-ai-safety-governance-framework/",
+          "section": "亞太/中國焦點",
+          "summary": "中國發布新版AI安全治理框架，針對生成式AI新興風險提出更嚴格標準，涵蓋內容安全、數據隱私及算法透明度等領域。"
+        },
+        {
+          "title": "北韓駭客組織Kimsuky建立離線AI技術棧，強化釣魚攻擊",
           "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/08/ai-assisted-http-terminator-finds-novel.html",
-          "section": "研究與技術",
-          "summary": "安全研究員利用AI工具發現Apache零日漏洞及新型HTTP Desync攻擊手法，展示AI在網絡安全的雙面性。"
-        },
-        {
-          "title": "阿里計劃為下代Qwen模型引入收益分成",
-          "source": "TechNode",
-          "url": "https://technode.com/2026/08/07/alibaba-reportedly-plans-revenue-sharing-terms-for-next-qwen-model/",
+          "url": "https://thehackernews.com/2026/08/kimsuky-offline-ai-phishing-malware.html",
           "section": "亞太/中國焦點",
-          "summary": "阿里據報為下一代Qwen大模型引入收益分成機制，探索AI商業化新模式，或改變中國AI產業盈利格局。"
-        },
-        {
-          "title": "DeepSeek以1.41億人民幣戰略入股Unitree IPO",
-          "source": "TechNode",
-          "url": "https://technode.com/2026/08/07/deepseek-takes-rmb141-million-strategic-placement-in-unitree-ipo/",
-          "section": "亞太/中國焦點",
-          "summary": "DeepSeek以1.41億元投資機器人公司Unitree（宇樹科技）IPO，標誌中國AI加速佈局具身智能賽道。"
+          "summary": "北韓網路間諜組織Kimsuky利用本地部署的AI模型自動化釣魚郵件生成及惡意軟體開發，繞過雲端AI服務的安全審查機制。"
         }
       ]
     },
@@ -92,77 +92,91 @@
       "name": "環境快訊",
       "icon": "🌍",
       "color": "#00b894",
-      "date": "2026-08-10",
+      "date": "2026-08-11",
       "articles": [
         {
-          "title": "歐洲再迎熱浪 多國發出高溫警報",
-          "source": "紐約時報",
-          "url": "https://www.bbc.co.uk/news/articles/cvglp2zlvrlo",
-          "section": "頭條新聞",
-          "summary": "歐洲各國為新一輪熱浪做準備，預計氣溫將突破40°C。英國已實施軟管禁令，影響超過2,000萬戶家庭。科學家警告氣候變化正使極端高溫事件更頻繁、更持久。"
-        },
-        {
-          "title": "颱風「海豚」吹襲日本沖繩後直撲中國",
+          "title": "全球海洋7月溫度創歷史新高",
           "source": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cvglp2zlvrlo",
+          "url": "https://www.bbc.co.uk/news/articles/cpvw8vmmgrwo",
           "section": "頭條新聞",
-          "summary": "颱風「海豚」橫掃沖繩，造成至少44,000戶停電、5人受傷，隨後向中國東南沿海移動。日本氣象廳呼籲居民嚴防暴雨及山泥傾瀉。"
+          "summary": "全球海洋表面溫度在7月達有記錄以來最高，科學家警告海洋熱浪正加速珊瑚白化與海平面上升，凸顯氣候危機持續惡化。"
         },
         {
-          "title": "中國發布首個氣候變化五年專項規劃",
-          "source": "Carbon Brief",
-          "url": "https://www.carbonbrief.org/qa-what-is-in-chinas-new-five-year-plan-for-climate-change",
+          "title": "颱風「海豚」登陸上海 中國疏散逾百萬人",
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o",
           "section": "頭條新聞",
-          "summary": "中國公布第十五個五年規劃中的氣候變化專項方案，涵蓋減排目標、適應措施及能源轉型路線圖，為實現2060年碳中和目標提供關鍵政策框架。"
+          "summary": "颱風「海豚」帶來創紀錄暴雨襲擊上海及華東，逾100萬人緊急撤離，多地水浸嚴重，是今年影響中國最強的熱帶氣旋。"
         },
         {
-          "title": "印度可再生能源裝機突破300吉瓦",
-          "source": "印度經濟時報",
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQb1ZrekdNVFl4TEZWeElSSWFrRDMxMmNKZ28yWHh4UWEtM0NwSVBTb3pEV1QyaDM4bGV4TlpfM0NIU1NLcng5YTBnN1JjdWJPb3F6b2pJcnNybzQzYkhOVU1hc3JXQUE1Q3ZXWk9aVDdqaG5NRGNNTUgyck9TMXlzeG14aVQ2cVdrT1NzRXN2RDZQUlNMcHhjRnJncURUWkltZXJkZEtVOVN3amNGbkU0QUozVzRNRkVZaVcxbnVpLXFYMlNaY2x4czhtUFhhVUltdE1oYm4tMDZFZjg1M2JlTWFPS25IMGJpWVFz?oc=5",
+          "title": "英格蘭四分之三地區陷乾旱",
+          "source": "衛報",
+          "url": "https://www.theguardian.com/uk-news/2026/aug/10/uk-temperatures-heatwave-summer-met-office-warning",
+          "section": "頭條新聞",
+          "summary": "英格蘭75%地區進入乾旱狀態，今夏第五波熱浪來臨，水務公司實施限水，農業及生態系統面臨嚴峻考驗。"
+        },
+        {
+          "title": "美西北部「史無前例」野火季",
+          "source": "衛報",
+          "url": "https://www.theguardian.com/us-news/2026/aug/10/us-wildfires-pacific-north-west",
+          "section": "頭條新聞",
+          "summary": "太平洋西北地區大規模野火肆虐，卑詩省火勢迅速蔓延。研究指氣候變化使加拿大極端火災天氣可能性倍增。"
+        },
+        {
+          "title": "寧德時代電動航空電池通過安全測試",
+          "source": "CleanTechnica",
+          "url": "https://cleantechnica.com/2026/08/10/catl-battery-for-electric-aviation-passes-important-safety-test/",
           "section": "氣候與能源",
-          "summary": "印度已達成300吉瓦非化石能源裝機容量，完成2030年500吉瓦目標的60%，成為全球可再生能源增長最快的市場之一。"
+          "summary": "中國CATL電動航空電池通過安全認證，標誌電動飛行技術重大突破，有望推動零排放短途航空運輸商業化。"
         },
         {
-          "title": "歐洲斥資數十億押注北非清潔能源",
-          "source": "OilPrice",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTGppaEJBN3hRQkFzWlRhUzVaSzZhVFNQYTdPaVM3eldPdG1QR3RWMUt5aTVNTUhTZmI1ZS1YcldfcC1KRHc1YkJTVV8xRTVuNEF3akctYlhHWm9MNEp3NVdWZ0FJZnpzUE9kdUlmVlZhSWkxakx0a1FVN3hDSV9MZlAxOFd3N2VZSi1RQ0pfWlcxRDY4MUtKOXF3UTR1b1hVMWhPX2JPYzdFWHhx?oc=5",
+          "title": "美國防部14億美元支持矽基電動車電池",
+          "source": "CleanTechnica",
+          "url": "https://cleantechnica.com/2026/08/10/silicon-ev-batteries-earn-1-4-billion-seal-of-approval-from-defense-department/",
           "section": "氣候與能源",
-          "summary": "歐洲加速在北非投資太陽能及綠色氫能項目，旨在實現能源多元化並減少對俄羅斯天然氣的依賴。"
+          "summary": "美防部批准$14億資金支持矽基EV電池，能量密度比傳統鋰電池高40%，可望大幅延長續航里程並降低成本。"
         },
         {
-          "title": "亞馬遜伐林警報降至2013年來最低",
+          "title": "中國啟用全球最大12.8GWh電池儲能集群",
+          "source": "CleanTechnica",
+          "url": "https://cleantechnica.com/2026/08/08/worlds-largest-12-8-gwh-battery-storage-cluster-activated-in-china/",
+          "section": "氣候與能源",
+          "summary": "中國正式啟用12.8吉瓦時全球最大電池儲能集群，大幅提升可再生能源電網穩定性。"
+        },
+        {
+          "title": "亞馬遜毀林警報降至2013年以來最低",
           "source": "Mongabay",
           "url": "https://news.mongabay.com/2026/08/amazon-deforestation-alerts-fall-to-lowest-level-since-2013-brazilian-data-show/",
           "section": "污染與生態",
-          "summary": "巴西衛星數據顯示亞馬遜雨林砍伐警報降至13年新低，盧拉政府的環保執法政策初見成效，但專家警告仍需持續努力。"
+          "summary": "巴西數據顯示亞馬遜砍伐警報降至2013年以來最低，較2022年高峰期降逾60%，政府加強環境執法成效顯著。"
         },
         {
-          "title": "塑膠污染成廚餘回收「被忽視」隱患",
+          "title": "哈薩克斯坦70年來首次野放老虎",
+          "source": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/08/kazakhstan-releases-first-tiger-into-the-wild-in-70-years/",
+          "section": "污染與生態",
+          "summary": "哈薩克斯坦成功野放首隻老虎，為該國70年來首次老虎回歸自然棲地，標誌中亞大型貓科復育重大里程碑。"
+        },
+        {
+          "title": "哥倫比亞亞馬遜汞污染危機",
           "source": "衛報",
-          "url": "https://www.theguardian.com/environment/2026/aug/09/plastics-pollution-food-waste-landfill-recycling-research",
+          "url": "https://www.theguardian.com/global-development/gallery/2026/aug/10/mercury-pollution-in-the-colombian-amazon-in-pictures",
           "section": "污染與生態",
-          "summary": "研究發現微塑膠可殘留於堆肥中並滲入農田土壤，專家呼籲將塑膠污染列為廚餘回收計劃的核心考量。"
+          "summary": "非法採金導致哥倫比亞亞馬遜汞污染嚴重，原住民水源及魚類含汞超標，居民面臨慢性中毒威脅。"
         },
         {
-          "title": "狄卡比奧與貝索斯聯手2億美元拯救瀕危物種",
-          "source": "Good News Network",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTUFFU3ZqaGVBelc1NVVYb0diNWlGdTRoQjFHUG4yd2VjR0tRbkYzMkd2ZFhjOWhHV3VCaEtmZlpmbERQUUpYZU11ZF9aZzE5eVFKWS03a0ROYVZaRFEweWM0ekgzNFNhUmZnTkhySzQzZThDaGttWTdJMU83Y3BYUWc4cHdDQ2ZLVlQtbkFHNWllTG03eHFQZGh6ZUdFWmMwa3h0MA?oc=5",
-          "section": "污染與生態",
-          "summary": "影星里安納度·狄卡比奧與亞馬遜創辦人貝索斯聯手啟動史上最大規模瀕危物種保護計劃，目標拯救100種最受威脅物種。"
-        },
-        {
-          "title": "中國發布企業可持續發展報告指引",
-          "source": "Clifford Chance",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUi1mMkc2elNDT3hJSm45SWhJb0hYRkpmdGpsYWlaM0ZZRm5FMzN4aVV0allxQlAwdmpfd2QyMVVheUZkR0ZiSmF3R25Gam9hbXZJZmt5bkJyQjhacFpGdE9fNmVUYUtNQ0R2TXFsa0hkVmoxOFAxcVFGYVBIakdEb1I3VjZkR2ctc1NoSERyYktyYkhoS2pFak5sTmp6UjJEcVpBWmw5cWQ4ZENIek9zbzNtdUhrUQ?oc=5",
+          "title": "颱風「海豚」創上海降雨紀錄",
+          "source": "衛報",
+          "url": "https://www.theguardian.com/world/2026/aug/10/typhoon-dolphin-china-shanghai-flooding-evacuations",
           "section": "亞太/中國焦點",
-          "summary": "中國監管機構發布企業可持續發展報告新指引，要求上市公司加強ESG披露，標誌著中國綠色金融監管進入新階段。"
+          "summary": "颱風「海豚」在上海降下破紀錄暴雨，逾100萬人撤離，暴露城市基建面對極端天氣的脆弱性。"
         },
         {
-          "title": "馬來西亞中小企面臨碳數據新壁壘",
-          "source": "BusinessToday",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUllDa3hMRXM1VEhFVmJlM0JBcWlBd2ZIZjhrXzlLWTg5dlJSQktob19FQ19PcnRvSzhQY0V5N19IRUlwd3h0UVhsYTRBb1JkU1RqdFdkSXFKeFg4N2ZWeXJhdkpWaFRGYll6Z0NJQ2FwWGJvcVUzOG1TOXVLT0J0cEVCOEV1d3lLbTRpOFhFVTNYNUpOUXVpZDd5SGF1T0l1U2JSRlN0TlI1eFdwWGVaSmQ3SWtTZ2tXaDBUYU5xbV9rLTZZ?oc=5",
+          "title": "中國車企加速進軍東南亞電動車市場",
+          "source": "CleanTechnica",
+          "url": "https://cleantechnica.com/2026/08/10/dfsk-launches-right-hand-drive-e5-plus-in-indonesia-as-chinese-automakers-expand-across-southeast-asia/",
           "section": "亞太/中國焦點",
-          "summary": "碳數據正成為國際供應鏈新貨幣，馬來西亞中小企業若不加快碳核算能力建設，恐面臨失去跨國企業合約的風險。"
+          "summary": "北汽、DFSK在印尼推右軚電動車，比亞迪擴展菲律賓產品線，中國車企以價格技術優勢搶佔東南亞市場。"
         }
       ]
     }
