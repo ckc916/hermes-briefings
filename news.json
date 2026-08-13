@@ -1,82 +1,103 @@
 {
-  "updated": "2026-08-12 08:45",
+  "updated": "2026-08-13 08:45",
   "categories": [
     {
       "id": "ai",
       "name": "AI 新聞",
       "icon": "🤖",
       "color": "#6c5ce7",
-      "date": "2026-08-12",
+      "date": "2026-08-13",
       "articles": [
         {
-          "title": "OpenAI高層再震盪：營運長Brad Lightcap離職創業",
-          "source": "紐約時報",
-          "url": "https://www.nytimes.com/2026/08/11/technology/brad-lightcap-openai.html",
+          "title": "Google Made by Google 2026：Pixel 11登場，Gemini用戶突破10億",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
           "section": "頭條新聞",
-          "summary": "OpenAI資深高管Brad Lightcap宣布離職，將創辦新創企業。他是2018年加入的元老級人物，曾任COO至今年4月，為OpenAI近期一系列高管出走潮的最新一例。"
+          "summary": "Google年度硬體發表會推出Pixel 11系列、Pixel Watch 5及AirTag競品Pixel Tag，同時宣布Gemini App全球用戶突破10億，每日生成逾1.5億張圖片，63%用戶使用語音互動。"
         },
         {
-          "title": "Nvidia聯手華爾街六大巨頭，打造5,000億美元AI基建基金",
-          "source": "Tom's Hardware",
-          "url": "https://www.tomshardware.com",
+          "title": "Anthropic宣布為AI生成文字加入浮水印，部分Claude用戶強烈反彈",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/",
           "section": "頭條新聞",
-          "summary": "Nvidia與BlackRock、高盛、KKR等六大金融機構合作，推出高達5,000億美元的AI基礎設施融資計劃，為Nvidia客戶提供長期低利資金以購買運算力，標誌AI算力正式成為可交易資產類別。"
+          "summary": "Anthropic將為所有Claude模型輸出添加可偵測浮水印，並擴展至舊版模型。有用戶在社群媒體抱怨此舉將暴露他們在課業及工作中使用AI，引發作弊與隱私爭議。"
         },
         {
-          "title": "Meta發布最強開源AI模型Muse Glimmer",
-          "source": "紐約時報",
-          "url": "https://www.nytimes.com/2026/08/10/technology/meta-ai-open-source.html",
+          "title": "OpenAI營運長Brad Lightcap離職，將「開啟新事業」",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
           "section": "頭條新聞",
-          "summary": "Meta推出開源模型Muse Glimmer，可自由下載與修改，加劇了AI該不該被限制的辯論。此舉被視為對OpenAI等封閉模型陣營的直接挑戰，Zuckerberg強調開源AI必須保持開放。"
+          "summary": "OpenAI任職最久的高層之一、營運長Brad Lightcap宣布離職創業，表示將「從不同角度推動使命」。此為OpenAI近期又一高層異動。"
         },
         {
-          "title": "CME推出AI算力期貨合約，算力成可交易資產",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com",
+          "title": "AI編碼新創Cognition傳以400億美元估值融資",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
           "section": "業界動態",
-          "summary": "芝加哥商品交易所（CME）推出AI運算力期貨合約，讓數據中心容量和GPU算力成為像石油、黃金一樣的金融商品，標誌AI基礎設施金融化的重要里程碑。"
+          "summary": "開發Devin AI編碼助手的Cognition，在數月前才以260億美元估值融資10億美元後，傳再尋求新一輪融資，估值將躍升至400億美元，反映AI編碼賽道持續狂熱。"
         },
         {
-          "title": "Spotify下月起標註AI音樂人，並減少推薦",
-          "source": "Gizmodo",
-          "url": "https://gizmodo.com",
+          "title": "OpenAI支持的Thrive Holdings融資20億美元，推動企業AI",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
           "section": "業界動態",
-          "summary": "Spotify宣布將於下月開始為AI生成的音樂作品加上標籤，並在演算法推薦中降低其優先級，以提高平台透明度，回應音樂人對AI內容氾濫的憂慮。"
+          "summary": "Thrive Holdings獲軟銀、D1 Capital等投資20億美元，估值達120億美元。該公司專注收購服務型企業並注入AI能力，打造新一代AI驅動的企業服務平台。"
         },
         {
-          "title": "Target任命首位AI長，零售巨頭押注AI",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com",
+          "title": "Meta發表Glimmer開源模型，揭示朱克伯格「個人超級智能」願景",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
           "section": "業界動態",
-          "summary": "美國零售巨頭Target任命首位首席AI官，反映大型零售商正加速將AI融入供應鏈、客戶體驗和運營決策。S&P 500企業使用AI工具後利潤率平均提升1.5%以上。"
+          "summary": "Meta推出開源模型Muse Glimmer，展示朱克伯格「個人超級智能」的長期佈局。該模型標誌著可擁有、可存取的開放式AI與封閉生態之間的分野日益明顯。"
         },
         {
-          "title": "Google推出Gemini 3.7 Flash，迎戰Meta開源模型",
-          "source": "",
-          "url": "https://www.geeky-gadgets.com",
+          "title": "OpenAI推出Linux版ChatGPT桌面應用",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
+          "section": "業界動態",
+          "summary": "OpenAI正式為Linux作業系統推出專屬ChatGPT桌面應用程式，填補長期以來的平台缺口，實現Windows、macOS、Linux全平台覆蓋。"
+        },
+        {
+          "title": "Anthropic未發布模型在黎曼猜想取得突破性進展",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
           "section": "研究與技術",
-          "summary": "Google發布Gemini 3.7 Flash，主打輕量高效推理，針對開發者場景優化，直接與Meta的Llama系列及Muse Glimmer競爭。反映AI模型競賽從「越大越好」轉向「又快又準」。"
+          "summary": "一個未經數學訓練的Anthropic員工，僅提示模型「認真嘗試證明黎曼猜想」，該未發布模型便在1.5天內自主協調，大幅提升了該猜想下界的已知範圍，震撼學術界。"
         },
         {
-          "title": "AI助不孕男性發現「隱形精子」",
-          "source": "紐約時報",
-          "url": "https://www.nytimes.com/2026/08/11/technology/ai-infertility-sperm.html",
+          "title": "Hinton、李飛飛、吳恩達齊發聲：AI越危險越應保持開放",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
           "section": "研究與技術",
-          "summary": "研究人員利用AI影像辨識技術，能在顯微鏡下自動偵測難以發現的精子，為男性不孕症治療帶來突破性希望，大幅提升試管嬰兒成功率。"
+          "summary": "在Ai4大會上，三位AI權威——諾獎得主Geoffrey Hinton、World Labs創辦人李飛飛、Coursera共同創辦人吳恩達——一致主張開源AI的重要性，並辯論監管與中美競爭策略。"
         },
         {
-          "title": "中國AI公司Manus恢復獨立運營，Meta收購遭北京否決",
-          "source": "日經亞洲",
-          "url": "https://asia.nikkei.com",
-          "section": "亞太/中國焦點",
-          "summary": "中國AI初創Manus在被北京當局阻止Meta收購後，宣布恢復獨立運營。此案令創業者與投資者擔憂中國對AI領域外資管控趨嚴，跨境AI併購前景蒙上陰影。"
+          "title": "OpenAI推出Daybreak網路安全AI模型，應對AI驅動攻擊",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+          "section": "研究與技術",
+          "summary": "隨著AI驅動的網路攻擊激增，OpenAI擴展其網路安全計劃Daybreak，推出專為網路防禦訓練的新AI模型，協助企業應對日益複雜的AI攻擊威脅。"
         },
         {
-          "title": "中國女性選擇AI男友取代真人",
-          "source": "衛報",
-          "url": "https://www.theguardian.com",
+          "title": "華盛頓對中國AI崛起應對混亂",
+          "source": "CEPA",
+          "url": "https://cepa.org/article/ai-confusion-washington-struggles-to-respond-to-china/",
           "section": "亞太/中國焦點",
-          "summary": "中國越來越多女性選擇AI聊天機器人作為伴侶，稱「AI男友眼中我的一切都是好的」。反映中國AI伴侶市場快速增長，也引發對人際關係未來的深層討論。"
+          "summary": "美國智庫CEPA分析指出，華府在應對中國AI競爭時策略混亂，缺乏統一框架。美國的機器人禁令反而凸顯中國在AI機器人領域的領先優勢，政策制定陷入困境。"
+        },
+        {
+          "title": "中國AI新創ModelBest啟動A股IPO輔導",
+          "source": "南華早報",
+          "url": "https://www.scmp.com/tech/tech-trends/article/3305035/chinese-ai-start-modelbest-kicks-pre-ipo-tutoring-process-mainland",
+          "section": "亞太/中國焦點",
+          "summary": "中國AI新創公司ModelBest在內地啟動上市前輔導程序，反映中國AI企業在資本市場持續活躍。該公司專注於高效大語言模型技術，為中國AI上市潮再添新員。"
+        },
+        {
+          "title": "中國正在塑造開源技術的未來——包括AI",
+          "source": "The Conversation",
+          "url": "https://theconversation.com/china-is-shaping-the-future-of-open-source-technology-including-ai",
+          "section": "亞太/中國焦點",
+          "summary": "分析指出，中國正從開源技術的消費者轉變為定義者，尤其在AI領域。中國企業在開源大模型生態中的主導地位日益增強，將深刻影響全球AI發展格局。"
         }
       ]
     },
@@ -85,77 +106,91 @@
       "name": "環境快訊",
       "icon": "🌍",
       "color": "#00b894",
-      "date": "2026-08-12",
+      "date": "2026-08-13",
       "articles": [
         {
-          "title": "特朗普政府終止北極氣候報告支持",
-          "source": "華盛頓郵報",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTVIxUGtvUm03dWRlcmlYWHZUWGFsMWpwV1ZLOGtWemZpbkNzdjFSbmpvYjZncjZRVXI4bi1sVlhzZFUyRjdxWkltWmhWbjdIZmExRm5WT2pjWFp5TWpCTHg1WGxTZTZDcXcwRTc1aGFaMW9tdWJQb25vNkI5S1E5ZFVMTlZyRUZucW5wY3Jjem41MnZYWnVLaVZXUXJLRnAtVXZ3em5uVHbSAa4BQVVfeXFMUHRtSTFhRGFWeEFsMlJlWC1aeHlNRzdKSnhFMXZZSG55U3B4QlBkN3JxTnE3VU8zemg4cGVXZHVTZkczN0ZSbGptTDNMZlhjV1FlTjhMakFqVHRQd1VheVo2MkJ1MWtJMVZuclp4ODY0N3M4RDJUX0RiNTQ2NElfODlWdmpPcXFzUWpiWURtY1lzcGlxaFU2MlhDTjVuUzA5V09oZWhBS0VMQWtSOXdB",
+          "title": "科學家確認厄爾尼諾回歸 極端天氣將加劇",
+          "source": "France 24",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQjlYcHJNUnVQc2hpRnZ2S2IzNW1OZFFnVXhzZEo0UnB0SGxNMGE3ckFiY2hqNDlHVDhRMVNPd05QVGNBeUJTRTBGMTBpNXpjLXpxVUc1RHhpWWVZbGpxU0QwQktRWk40eWZTWElFb0Nqdm1UVWJNZ3gwUVBrVTJUTFJ1dGpGQ09tRzhNMnY0UHJhaG4tanBOOGRrTm44ZHVPU2pBNHFRRTJDejA2MGNtYTVn?oc=5",
           "section": "頭條新聞",
-          "summary": "NOAA 將撤回對北極氣候評估報告的支援，該報告是國際科學界了解北極暖化的重要依據，此舉引發環保界強烈批評，被視為美國氣候政策進一步倒退。"
+          "summary": "科學家正式確認厄爾尼諾現象已回歸，預計將引發全球範圍的極端高溫、乾旱及山火，2026年可能成為有紀錄以來最熱年份之一，各國須加強防災準備。"
         },
         {
-          "title": "AI 對氣候的潛在益處被化石燃料推動作用抵銷",
-          "source": "衛報",
-          "url": "https://www.theguardian.com/environment/2026/aug/11/ai-potential-climate-benefits-outweighed-role-boosting-fossil-fuels-study",
+          "title": "亞洲多地暴雨成災 山洪及山泥傾瀉致重大損失",
+          "source": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOVFmallBQjRDc3pUMm4ySzltMFpBSDdLV3RadnVOZjRyejlrbFNtaFRnWUNENW84UHp1SHRGM3NUV0pHT09WZkZVTUdpbDR4LVN1MUZWNzVaNVk3eThxVmN4QzhuN3R1ZndsLXlyMDhxZkxWUjJUZGFVb2FjU1FfX1REaTlOR0std0dEbHNTd2xkbnBZYmtxRjR4YkNUUnpjVDBDQWVRaWhxMXIyWnU4?oc=5",
           "section": "頭條新聞",
-          "summary": "最新研究發現，AI 技術雖能優化能源效率，但其大規模數據中心用電及對石油天然氣勘探的加速效應，使整體碳排放不降反升，AI 對化石燃料行業的增益遠超其氣候效益。"
+          "summary": "極端降雨席捲亞洲多國，引發山洪暴發及山泥傾瀉，多地居民流離失所，農作物大面積受損，氣象專家警告此類極端事件將隨氣候變化更趨頻繁。"
         },
         {
-          "title": "美國最高法院今秋審理重大氣候案件",
-          "source": "時代雜誌",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNX0UxalFTT3NaZnhmLUItczZyTkdjMkhaaHVWQkVueldjeHFNZHhMM25TNnpiQlNleGMtM1lhT1hpVzZvVUVKUE5PVHFNQ1NmMDUwVU56amlPMW5pWmFFV3dBYjJHYjNqc3JkNktGSWFsOGxLVlpTLWc5QXNLbHBuY1hkLWRPXzZHVE0teV9iRWZobDdETVQ1Tw",
+          "title": "特朗普政府撤回北極年度環境報告支持",
+          "source": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPM3diNTdJTUdNZWEya1Q2bjJIVS13TjVfM1MyaEM3SGQtT0NGVFlwQmhmYngzbzBpQ3AtWWtYcjlRMmVqZjlzY19MTnFPc0tESlp1S0dKdW16QW9XSkN1LWkyZXZmNFlhZmlWemtTU1RSR1dyYjh1SGdfSWVfYVNJZWJCSm8tclplX0xJM0FUai1heWI5QUc1REE1Q24?oc=5",
           "section": "頭條新聞",
-          "summary": "案件涉及聯邦政府是否有權限制溫室氣體排放，裁決將深刻影響美國未來氣候監管框架，可能重塑環保署（EPA）的權力邊界，備受各界關注。"
+          "summary": "美國特朗普政府宣布撤回對北極年度環境報告的聯邦支持，該報告已連續發布逾二十年，科學界擔憂此舉將削弱全球對北極暖化速度的監測及應對能力。"
         },
         {
-          "title": "英國新森林大火肆虐，今夏或成史上最熱",
-          "source": "衛報",
-          "url": "https://www.theguardian.com/uk-news/2026/aug/11/new-forest-blaze-uk-hottest-summer-weather",
+          "title": "加州太陽能及電池儲能熱潮正重塑電網",
+          "source": "KQED",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMVBUalVOV2hQQWE1UGI4YnU5ZTZraXN6WDYzZHZGdkdnYXJvenRvSnFZa0pTSVpGQ051cHpFZEFpdmRseFlXT0xURGF4cTlNR0ZjcGoweGdzSkQta2NjUjlLaE5vR25LQ1JjbjdyaFJHSDVIZTFPdTNNUFhNcW45YW1zUktKZkhOd0c3Qk9yY3UxMGFha1JBNEE3ZWpyMkJUcGVldw?oc=5",
           "section": "氣候與能源",
-          "summary": "英格蘭南部新森林國家公園爆發大規模野火，消防員形容「極其艱難」，英國氣象局預測今年夏季將刷新歷史最高溫紀錄，熱浪導致農作物變形欠收。"
+          "summary": "加州太陽能裝機量及電池儲能系統快速增長，可再生能源在電網中佔比屢創新高，日間太陽能過剩已能滿足大部分電力需求，成為全美清潔能源轉型的標杆。"
         },
         {
-          "title": "加州太陽能創里程碑，5月數據揭示電網巨變",
-          "source": "",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0yeUxhckhLMFlhRzVKV3dEczBHekhwYVQ3QXVOX0JVNjZoeVJKSUUtU05aeGtSU2hjUnB2blhCZGp2RDZVUEx6dG5uYnpLSmhfd1V5dWNMa2xqNUxDLXZsWXV1SUd0UlNfQThxY3lJZllTb3Fh",
+          "title": "氫能突破：廢熱轉化為清潔燃料",
+          "source": "ScienceDaily",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA1QUxyZVdaQldKSHNpVE9uZC01TE1pd3dUMTJMcHVzUmFsY2NJX3lLaVJHSW5odnNQeExkZTBOOVpaa0YyMEx6SWxwSl9MN1h0OUkzOENrVXRNZjhtaEhMQUl4aEF5OHk0djhfR0JCMA?oc=5",
           "section": "氣候與能源",
-          "summary": "加州達成主要經濟體前所未見的太陽能供電佔比紀錄，5月數據顯示電網結構已發生根本性轉變，可再生能源在日間時段幾乎完全取代化石燃料發電。"
+          "summary": "科學家研發新技術將工業廢熱轉化為綠氫，大幅降低氫能生產成本，有望推動綠氫價格降至每公斤1美元以下，為鋼鐵及化工等難減排行業提供脫碳路徑。"
         },
         {
-          "title": "SunHydrogen 太陽能製氫突破 10% 效率，邁向試產",
-          "source": "",
-          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPQkVNY1JlQW1ERzBOVlVGcWFDX2x0aFVNR0M3MDR1T24weWpyN1Zfa0FRVWFJUmNLS054b3FDT191OFpwamhPLUlDRkRRcVB6ZHVJOC1BeXNNa2U5Z3NndTRqSkZPSE9vTnNoUk9kQXgyaEVManZuSjZCZVFNSWxiOXVXZVlTQ2s2dHBuSHhUT0oyQ0lXYjdzQzNzQkFiSWJhOHYzbERvN0IzTDdBRlE4ak1QRGJVNlpkcFFUUEZDR0lPaGxzRWtEdlQ2cXk1dzR6UmxXQjQ4bmxkaWJyU243QWxlTkxzT0NBQWRqV2syQXR4aFRad19WQkJmMFI",
+          "title": "英國熱泵不僅供暖還能降溫 酷暑中成「救星」",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/environment/2026/aug/12/heat-pumps-cool-home-heatwave-hot-weather",
           "section": "氣候與能源",
-          "summary": "美國 SunHydrogen 模組在 Sparc Hydrogen 測試中突破 10% 太陽能轉氫效率，即將進入試產階段，有望降低綠氫成本，為清潔能源存儲提供新路徑。"
+          "summary": "英國熱浪來襲，安裝熱泵的家庭發現其製冷功能同樣出色，雙向冷暖功能使其成為應對氣候極端化的理想方案，專家呼籲政府加大安裝補貼力度。"
         },
         {
-          "title": "裏海虎重返哈薩克：曾被認為滅絕的物種復歸",
-          "source": "衛報",
-          "url": "https://www.theguardian.com/environment/2026/aug/11/extinction-caspian-tiger-release-female-kazakhstan-aoe",
+          "title": "霍爾木茲海峽滯留船隻構成「超級傳播」生態威脅",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/environment/2026/jul/29/biodiversity-superspreader-invasive-species-threat-ships-stuck-strait-hormuz-gulf",
           "section": "污染與生態",
-          "summary": "一度被科學界宣告滅絕的裏海虎（西伯利亞虎亞種），在哈薩克成功野放雌虎，標誌著大型食肉動物重引入的重大突破，為全球生態修復帶來希望。"
+          "summary": "科學家警告，霍爾木茲海峽大量滯留船隻的壓艙水可能攜帶入侵物種，一旦擴散將對波斯灣及周邊海洋生態系統造成災難性破壞，呼籲國際社會緊急應對。"
         },
         {
-          "title": "全球 23 項自然目標中 22 項未達標",
-          "source": "聯合國報告",
-          "url": "https://www.carbonbrief.org/world-falling-short-on-22-of-23-nature-targets-for-2030-says-draft-un-report",
+          "title": "Ecobank發行4.5億美元自然債券 支持非洲生物多樣性",
+          "source": "ESG Today",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaU5oMUNwMHdKYkdNckUtX1E3X2Qyak8wb3pSeUU2X2tSWGxBTE5KU09TYjJkaHlTT1RBQUNzOUhkNl9EMUNoblNUNTdkOTFoTURsd3BqYkVsaUwtcnQ4ZjdGWUFNNDdHM0psU2FVWWFwQ2MzUFFxRm1qeFN3cWxiZGowWmdaWlp2Xy1pTDRBOEF2c056VVFPR2VCdDBwd01oMlBvUUNRT21sbE1mLWt3Y1c3cGZjY3FWQTVLbmxMbzk?oc=5",
           "section": "污染與生態",
-          "summary": "聯合國草案報告顯示，2030 年全球生物多樣性框架中的 23 項目標，僅 1 項有望達標，物種滅絕、棲息地破壞持續惡化，各國保護承諾與實際行動差距巨大。"
+          "summary": "非洲Ecobank發行全球最大規模自然主題債券，募集4.5億美元用於非洲生物多樣性保護及可持續農業項目，標誌著生物多樣性金融市場快速興起。"
         },
         {
-          "title": "颱風「海豚」深入中國內陸，多地啟動應急響應",
-          "source": "",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1rRksxczFpZFQ2NlVPMmhrWXk5MkhCdks3REY3N3I0TWFMeU5qc01ZMkZHTXM4M3ZQczR3Z3B5bk1IVE43U0NjWTFZSThkc255eG1yUWVBc28wMnAySlZkWExLLUR3MFNPbzNMazFYZ0ZQOGtvSGc",
-          "section": "亞太/中國焦點",
-          "summary": "颱風「海豚」登陸後持續深入中國東南內陸，帶來暴雨及洪水，多地啟動緊急應變措施，當局要求加強防範山洪及地質災害。"
+          "title": "英國塑膠廢料「垃圾殖民主義」正污染土耳其農地",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/environment/2026/aug/04/uk-plastic-waste-colonialism-recycling-exports-contaminating-water-crops-turkey",
+          "section": "污染與生態",
+          "summary": "調查揭露英國出口至土耳其的塑膠回收廢料大量被非法傾倒或焚燒，污染物滲入土壤及水源，當地農田受重金屬及微塑膠污染，被批為「垃圾殖民主義」。"
         },
         {
-          "title": "越南離岸風電推動海洋戰略雄心",
-          "source": "",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZVNRX2tQTW9WS0RMY0I5UkJEMC14WXI5MWZRNEtCOWt2QzhsZnF4eWpnMWZ0LWdmYUdiQWMtWVVEZTV1R2cxbEU3VWpSdjZBeE1yUGhYenNrQkMyZ0lEazA2SW42UnN0UjdiVmZxaGNJT1laa0NIRDZqQXY1czFuRGZlWEloNHBxeldHZXZjelJicDhTeE1HRDNiNA",
+          "title": "亞洲「危險」濕熱浪正挑戰人體生存極限",
+          "source": "南華早報",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQ1ZjYmVDYlg5QzBwblhia1l2WWgxNkVqMEI5YzNxQk1VZ1J1bGE1TmhTQ0NIWnlnS09FUEh5THY0Y0hOYTlyaE9TczdKV2Y5cE1oZXo0aF9QU0tkOVdnbnB1dFB4am1OQkJYcDlVeHEzM2c2ZnoyWUsxNDlWNGxkcVVoV2QtRS0zMjZSejhyOHlETXVPb1pDSnpCemtBc0R4b0txWTJoQWhqakh2VER2MGdVdmx5LWVJY2tkT1pZbU5zUdIBwgFBVV95cUxQZUJ2NFhXbE00cmtaMmk4bERKb0N4NkRfZHA2a0R2NFVyeEloUlJqeXlVNUdFVm4wSDg1SlBvNEV3dkJUNjdRZFhQZVN5WWlLOXZEMmdwVmFGX0pNY0lSVjBobElCU3l4WDBYUzQteXBiaWZjcmxpU0ZoRW04cWVGMmV2bVhkQUZJeEttYkRNOEF6T0NyOWtkdk45NU1TZk05RVZCOENTTFN2X0sybUpEeWY4S1ZYaDJSc2plY1AwOUpQdw?oc=5",
           "section": "亞太/中國焦點",
-          "summary": "越南加速離岸風電建設，將其定位為國家海洋經濟戰略的核心，目標是在東南亞率先建成大規模海上風電場，減少對燃煤發電的依賴。"
+          "summary": "南亞及東南亞遭遇極端濕熱天氣，濕球溫度逼近人體生存閾值35°C，數億工人戶外工作風險急升，研究警告氣候變化正將亞洲部分地區推向「不適宜居住」邊緣。"
+        },
+        {
+          "title": "喜馬拉雅冰川加速消融 威脅20億人水源",
+          "source": "南華早報",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPcEhDZGFFak5LWWtiLUtpM20zbmFhRGd3Vzh6bjJSVUdxV193WTlVcExjeWNHNGd0S0Y1ekxNVVlUNDRGYi1GdUx3NDlOM0s4ZXJyZ0s3dXNoS0JOR2RILUFLc1VxMHlFOFo4VFg4VU1LSXI4VEx1SzZwdUZjR19MSlpRMDVBeWc4eWZUbW1vSUNvLWVMTzZpNnc5VDZHdDZ4ZGgwajFMVUZOblFZU2JCUEZmTEVEX2FqbEphZGpFS1VwMGRRMVBNakFWa1BsREdQZ1hKdlkzamhZd1RPMFlJWdIB4AFBVV95cUxPQ2xuN0tmaVhKYVFXX1NqTVhNUlRiU0ZFSUg2eFFVaVo4dFF2dXhscGt0SjdheGVLaW1lTk1mc1pwYzM5eGFRdmJ0QnIydTBqNVROaWN1eDA1RC1lOTNpN1d6RHJrZE9zU1pJWHdFSUxlNGRyX0pIbGV5aVBUOFZQOVU5dXktVF9aRkxQX3NaS1VIa1FvMFIxclluS3VWcUtoRGpLUWZXZDJTdlZ4R1o5NE9kcE1kbEpndWxKbU9zVUpmczZfWVNuVGktcndQNXduNURhN0JHdmNJMXBrU1dkVQ?oc=5",
+          "section": "亞太/中國焦點",
+          "summary": "喜馬拉雅山冰川消融速度創歷史新高，作為「亞洲水塔」其水源供給20億人口，冰川退縮將引發跨境水資源爭端、洪水及糧食危機，全球升溫每增加0.1°C都將加速此過程。"
+        },
+        {
+          "title": "中國南極考察站實現綠色能源突破 極夜期間50%電力來自可再生能源",
+          "source": "Global Times",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAzNTUyVllvV1VMS2ZMdzhaZEIxWmZMLUFJVHVyb0NXWWdTYjBGMVhOMDJYQnJTTlJ6THdpQjNEVEVaQVM1SzRHX2d2SXJVSUVLdHZGVXc3Z0wtTmFMb1VZYkdn?oc=5",
+          "section": "亞太/中國焦點",
+          "summary": "中國南極秦嶺站成功在極夜期間以太陽能及風能供應50%電力，成為南極可再生能源應用的里程碑，展示極端環境下清潔能源技術的可行性。"
         }
       ]
     }
