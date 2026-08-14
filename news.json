@@ -1,103 +1,110 @@
 {
-  "updated": "2026-08-13 08:45",
+  "updated": "2026-08-14 08:45",
   "categories": [
     {
       "id": "ai",
       "name": "AI 新聞",
       "icon": "🤖",
       "color": "#6c5ce7",
-      "date": "2026-08-13",
+      "date": "2026-08-14",
       "articles": [
         {
-          "title": "Google Made by Google 2026：Pixel 11登場，Gemini用戶突破10億",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
+          "title": "OpenAI內部安全清算：流氓AI代理事件引爆文化反思",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/openai-safety-security-ai-agents-culture/",
           "section": "頭條新聞",
-          "summary": "Google年度硬體發表會推出Pixel 11系列、Pixel Watch 5及AirTag競品Pixel Tag，同時宣布Gemini App全球用戶突破10億，每日生成逾1.5億張圖片，63%用戶使用語音互動。"
+          "summary": "OpenAI近期發生「流氓AI代理」遭駭事件，成為AI安全與網絡安全的轉捩點，引發內部員工對公司安全文化的深刻質疑。"
         },
         {
-          "title": "Anthropic宣布為AI生成文字加入浮水印，部分Claude用戶強烈反彈",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/",
+          "title": "朱克伯格6500字AI宣言被指空洞無物",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/mark-zuckerbergs-ai-manifesto-is-6500-words-and-barely-says-anything/",
           "section": "頭條新聞",
-          "summary": "Anthropic將為所有Claude模型輸出添加可偵測浮水印，並擴展至舊版模型。有用戶在社群媒體抱怨此舉將暴露他們在課業及工作中使用AI，引發作弊與隱私爭議。"
+          "summary": "Meta CEO朱克伯格發表長達6,500字的AI願景宣言，但分析認為內容空泛，缺乏具體策略與承諾，引發業界議論。"
         },
         {
-          "title": "OpenAI營運長Brad Lightcap離職，將「開啟新事業」",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
-          "section": "頭條新聞",
-          "summary": "OpenAI任職最久的高層之一、營運長Brad Lightcap宣布離職創業，表示將「從不同角度推動使命」。此為OpenAI近期又一高層異動。"
-        },
-        {
-          "title": "AI編碼新創Cognition傳以400億美元估值融資",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
-          "section": "業界動態",
-          "summary": "開發Devin AI編碼助手的Cognition，在數月前才以260億美元估值融資10億美元後，傳再尋求新一輪融資，估值將躍升至400億美元，反映AI編碼賽道持續狂熱。"
-        },
-        {
-          "title": "OpenAI支持的Thrive Holdings融資20億美元，推動企業AI",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
-          "section": "業界動態",
-          "summary": "Thrive Holdings獲軟銀、D1 Capital等投資20億美元，估值達120億美元。該公司專注收購服務型企業並注入AI能力，打造新一代AI驅動的企業服務平台。"
-        },
-        {
-          "title": "Meta發表Glimmer開源模型，揭示朱克伯格「個人超級智能」願景",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
-          "section": "業界動態",
-          "summary": "Meta推出開源模型Muse Glimmer，展示朱克伯格「個人超級智能」的長期佈局。該模型標誌著可擁有、可存取的開放式AI與封閉生態之間的分野日益明顯。"
-        },
-        {
-          "title": "OpenAI推出Linux版ChatGPT桌面應用",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
-          "section": "業界動態",
-          "summary": "OpenAI正式為Linux作業系統推出專屬ChatGPT桌面應用程式，填補長期以來的平台缺口，實現Windows、macOS、Linux全平台覆蓋。"
-        },
-        {
-          "title": "Anthropic未發布模型在黎曼猜想取得突破性進展",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
-          "section": "研究與技術",
-          "summary": "一個未經數學訓練的Anthropic員工，僅提示模型「認真嘗試證明黎曼猜想」，該未發布模型便在1.5天內自主協調，大幅提升了該猜想下界的已知範圍，震撼學術界。"
-        },
-        {
-          "title": "Hinton、李飛飛、吳恩達齊發聲：AI越危險越應保持開放",
+          "title": "AI安全之爭：Hinton、李飛飛、吳恩達三人同台激辯",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
-          "section": "研究與技術",
-          "summary": "在Ai4大會上，三位AI權威——諾獎得主Geoffrey Hinton、World Labs創辦人李飛飛、Coursera共同創辦人吳恩達——一致主張開源AI的重要性，並辯論監管與中美競爭策略。"
+          "section": "頭條新聞",
+          "summary": "在Ai4大會上，三位AI權威就開源策略、監管框架及中美競爭展開辯論，強調開放對AI發展的關鍵作用。"
         },
         {
-          "title": "OpenAI推出Daybreak網路安全AI模型，應對AI驅動攻擊",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
-          "section": "研究與技術",
-          "summary": "隨著AI驅動的網路攻擊激增，OpenAI擴展其網路安全計劃Daybreak，推出專為網路防禦訓練的新AI模型，協助企業應對日益複雜的AI攻擊威脅。"
+          "title": "微軟合併Copilot與Copilot 365為統一應用",
+          "source": "ZDNet",
+          "url": "https://www.zdnet.com/article/microsoft-to-merge-copilot-and-copilot-365-into-one-unified-app-retiring-features/",
+          "section": "業界動態",
+          "summary": "微軟宣布將Copilot與Copilot 365整合為單一應用，並淘汰三項功能，旨在消除用戶在兩個版本間的混淆。"
         },
         {
-          "title": "華盛頓對中國AI崛起應對混亂",
-          "source": "CEPA",
-          "url": "https://cepa.org/article/ai-confusion-washington-struggles-to-respond-to-china/",
+          "title": "調查：75%開發者偏好Claude Code而非Codex",
+          "source": "ZDNet",
+          "url": "https://www.zdnet.com/article/why-most-developers-prefer-claude-code-over-codex/",
+          "section": "業界動態",
+          "summary": "138位開發者調查顯示，四分之三更傾向使用Anthropic的Claude Code進行日常AI編碼工作，反映開發者生態的轉變。"
+        },
+        {
+          "title": "OpenAI推出ChatGPT桌面版Linux預覽",
+          "source": "ZDNet",
+          "url": "https://www.zdnet.com/article/openai-brings-the-chatgpt-desktop-app-to-linux/",
+          "section": "業界動態",
+          "summary": "ChatGPT桌面應用正式登陸Linux平台，支援Ubuntu、Debian及Fedora，為開源社群帶來原生AI助手體驗。"
+        },
+        {
+          "title": "微軟Copilot吉祥物Mico正式退役",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
+          "section": "業界動態",
+          "summary": "微軟移除Copilot語音模式中的Clippy風格黃色吉祥物Mico，標誌著AI助手形象策略的轉向。"
+        },
+        {
+          "title": "AI助偵測脂肪肝：全球逾十億人受惠",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/fatty-liver-disease-ai-detection-cancer/",
+          "section": "研究與技術",
+          "summary": "全球逾十億人患有脂肪肝，研究人員正利用AI工具早期識別病變，有望在疾病惡化前介入治療，挽救生命。"
+        },
+        {
+          "title": "擴展AI代理的關鍵：可信數據",
+          "source": "MIT Tech Review",
+          "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
+          "section": "研究與技術",
+          "summary": "企業正快速採用AI代理，然而數據可信度成為規模化瓶頸；文章探討如何建立可信數據基礎設施。"
+        },
+        {
+          "title": "AI代理時代來臨：專家不再是必需品",
+          "source": "ZDNet",
+          "url": "https://www.zdnet.com/article/polymaths-specialists-arent-required-ai-agent-workplace/",
+          "section": "研究與技術",
+          "summary": "AI代理正在重塑職場，企業更看重跨領域通才而非專才，員工需橫跨多個技術棧才能保持競爭力。"
+        },
+        {
+          "title": "騰訊計劃推出更大規模Hy4模型",
+          "source": "TechNode",
+          "url": "https://technode.com/2026/08/13/tencent-plans-larger-hy4-model-after-hy3-usage-jumps-68-fold/",
           "section": "亞太/中國焦點",
-          "summary": "美國智庫CEPA分析指出，華府在應對中國AI競爭時策略混亂，缺乏統一框架。美國的機器人禁令反而凸顯中國在AI機器人領域的領先優勢，政策制定陷入困境。"
+          "summary": "騰訊Hy3模型週使用量較前代激增68倍，公司已著手開發更大規模的Hy4，加速AI模型軍備競賽。"
         },
         {
-          "title": "中國AI新創ModelBest啟動A股IPO輔導",
+          "title": "阿里雲推出Qwen AI Arena實戰代理測試平台",
+          "source": "TechNode",
+          "url": "https://technode.com/2026/08/13/alibaba-cloud-launches-qwen-ai-arena-for-real-world-agent-testing/",
+          "section": "亞太/中國焦點",
+          "summary": "阿里雲發布Qwen AI Arena，提供真實世界場景的AI代理測試環境，推動中國AI代理生態發展。"
+        },
+        {
+          "title": "榮耀發布配備AI代理的「機器人手機」",
+          "source": "TechNode",
+          "url": "https://technode.com/2026/08/13/honor-launches-robot-phone-with-gimbal-camera-and-ai-agent-features/",
+          "section": "亞太/中國焦點",
+          "summary": "榮耀推出Robot Phone，搭載四自由度鈦合金雲台及系統級AI代理架構，融合手機與機器人功能。"
+        },
+        {
+          "title": "南韓押注後AI經濟：量子晶片與月球登陸",
           "source": "南華早報",
-          "url": "https://www.scmp.com/tech/tech-trends/article/3305035/chinese-ai-start-modelbest-kicks-pre-ipo-tutoring-process-mainland",
+          "url": "https://www.scmp.com/week-asia/politics/article/3363902/south-koreas-moon-landing-quantum-chips-seoul-bets-big-post-ai-economy",
           "section": "亞太/中國焦點",
-          "summary": "中國AI新創公司ModelBest在內地啟動上市前輔導程序，反映中國AI企業在資本市場持續活躍。該公司專注於高效大語言模型技術，為中國AI上市潮再添新員。"
-        },
-        {
-          "title": "中國正在塑造開源技術的未來——包括AI",
-          "source": "The Conversation",
-          "url": "https://theconversation.com/china-is-shaping-the-future-of-open-source-technology-including-ai",
-          "section": "亞太/中國焦點",
-          "summary": "分析指出，中國正從開源技術的消費者轉變為定義者，尤其在AI領域。中國企業在開源大模型生態中的主導地位日益增強，將深刻影響全球AI發展格局。"
+          "summary": "南韓鎖定七大下一代產業（含核聚變及小型模組化反應堆），積極布局量子晶片與太空探索，為後AI時代鋪路。"
         }
       ]
     },
@@ -106,91 +113,98 @@
       "name": "環境快訊",
       "icon": "🌍",
       "color": "#00b894",
-      "date": "2026-08-13",
+      "date": "2026-08-14",
       "articles": [
         {
-          "title": "科學家確認厄爾尼諾回歸 極端天氣將加劇",
-          "source": "France 24",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQjlYcHJNUnVQc2hpRnZ2S2IzNW1OZFFnVXhzZEo0UnB0SGxNMGE3ckFiY2hqNDlHVDhRMVNPd05QVGNBeUJTRTBGMTBpNXpjLXpxVUc1RHhpWWVZbGpxU0QwQktRWk40eWZTWElFb0Nqdm1UVWJNZ3gwUVBrVTJUTFJ1dGpGQ09tRzhNMnY0UHJhaG4tanBOOGRrTm44ZHVPU2pBNHFRRTJDejA2MGNtYTVn?oc=5",
+          "title": "破紀錄厄爾尼諾來襲，未來氣溫預覽",
+          "source": "Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVm5felIyaDBWRjFpN0VoemJ2dnNVTzZ4djZ3a2owdkVhamowWjg4V3p6S0stemdWem1QR0l2YmlYR2R6YTVlR0xxa0NRRVdVSlBkREZaNnN1RVlRVFFpN2o2U2RMRjdBTlFzdDh4N28yaUQ4TlhoRTJZSW1VYU5oN0pQUXVkem5kQXhfTTZ1OGgxVi1aN2J6TTFla3NFc1UzbXZpa3FFQmV6TXF3RGoyUlVxQQ",
           "section": "頭條新聞",
-          "summary": "科學家正式確認厄爾尼諾現象已回歸，預計將引發全球範圍的極端高溫、乾旱及山火，2026年可能成為有紀錄以來最熱年份之一，各國須加強防災準備。"
+          "summary": "全球正經歷有紀錄以來最強厄爾尼諾現象，科學家警告這將為未來氣候提供「預覽」，極端高溫、乾旱及暴雨將在未來數月進一步加劇。"
         },
         {
-          "title": "亞洲多地暴雨成災 山洪及山泥傾瀉致重大損失",
-          "source": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOVFmallBQjRDc3pUMm4ySzltMFpBSDdLV3RadnVOZjRyejlrbFNtaFRnWUNENW84UHp1SHRGM3NUV0pHT09WZkZVTUdpbDR4LVN1MUZWNzVaNVk3eThxVmN4QzhuN3R1ZndsLXlyMDhxZkxWUjJUZGFVb2FjU1FfX1REaTlOR0std0dEbHNTd2xkbnBZYmtxRjR4YkNUUnpjVDBDQWVRaWhxMXIyWnU4?oc=5",
+          "title": "英國創今年最高溫，西歐再陷熱浪",
+          "source": "CBC",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObUdaajVFWlU3bHRiWkFBUUJld29KLUdTSXdFcExxWjF0cUViNXo4Z1JseVJVcVVVOU1CQ1RFclowWW1wazBsVHJfZnE1aS01Vzc0RWhxZ29kYVJPRDFLb2dtQW5vMEI4Sjk2YjVwSFEwQWVPYjVCT3oxUzJHbEtYWDNGemFQWVpIME1PcEFiQjZtSnM0RDJaSXE4bw",
           "section": "頭條新聞",
-          "summary": "極端降雨席捲亞洲多國，引發山洪暴發及山泥傾瀉，多地居民流離失所，農作物大面積受損，氣象專家警告此類極端事件將隨氣候變化更趨頻繁。"
+          "summary": "英國錄得今年最熱一天，氣溫高達38°C，西歐多國同時受熱浪侵襲。英國已發出琥珀色高溫警告，數百萬人面臨乾旱，野火增至逾千宗。"
         },
         {
-          "title": "特朗普政府撤回北極年度環境報告支持",
-          "source": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPM3diNTdJTUdNZWEya1Q2bjJIVS13TjVfM1MyaEM3SGQtT0NGVFlwQmhmYngzbzBpQ3AtWWtYcjlRMmVqZjlzY19MTnFPc0tESlp1S0dKdW16QW9XSkN1LWkyZXZmNFlhZmlWemtTU1RSR1dyYjh1SGdfSWVfYVNJZWJCSm8tclplX0xJM0FUai1heWI5QUc1REE1Q24?oc=5",
+          "title": "2026上半年全球自然災害造成1000億美元損失",
+          "source": "SANA",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE95RVN3dHRVS1FYT2V6RERxT3dSMldVOFFsem9hbm1WZG5qMWl0LXNsRUNyVVA2OWZLMV9VeEtGOThKLXZUSEduNEZ3T2k",
           "section": "頭條新聞",
-          "summary": "美國特朗普政府宣布撤回對北極年度環境報告的聯邦支持，該報告已連續發布逾二十年，科學界擔憂此舉將削弱全球對北極暖化速度的監測及應對能力。"
+          "summary": "2026年上半年全球自然災害經濟損失達1,000億美元，極端天氣事件頻率及強度持續攀升，保險業面臨前所未有的賠付壓力。"
         },
         {
-          "title": "加州太陽能及電池儲能熱潮正重塑電網",
-          "source": "KQED",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMVBUalVOV2hQQWE1UGI4YnU5ZTZraXN6WDYzZHZGdkdnYXJvenRvSnFZa0pTSVpGQ051cHpFZEFpdmRseFlXT0xURGF4cTlNR0ZjcGoweGdzSkQta2NjUjlLaE5vR25LQ1JjbjdyaFJHSDVIZTFPdTNNUFhNcW45YW1zUktKZkhOd0c3Qk9yY3UxMGFha1JBNEE3ZWpyMkJUcGVldw?oc=5",
+          "title": "RWE推動可再生能源擴張，加速可持續增長",
+          "source": "Sustainability Magazine",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa2w0RUdPZGVHQ0xGWmRqbzV4Q3pkcDB4MkQ3bnhYNWxCQjQzMXpnQ0hGV0V3azZRS2xDWEJXc0JXeUs0TWdnaXVBTHFaTDAzZF9nekM2ZzYxY3RVUXo4eFJMYjNMYWE1VnIwTW1BbnFwNXA1clk0MkV3aHY2OFo1blN2emZCQXZqbEpMdnZVSWxtLU1OZXJZ",
           "section": "氣候與能源",
-          "summary": "加州太陽能裝機量及電池儲能系統快速增長，可再生能源在電網中佔比屢創新高，日間太陽能過剩已能滿足大部分電力需求，成為全美清潔能源轉型的標杆。"
+          "summary": "德國能源巨頭RWE加大可再生能源投資，以風電及太陽能為核心加速轉型，目標在2030年前實現清潔能源裝機容量翻倍。"
         },
         {
-          "title": "氫能突破：廢熱轉化為清潔燃料",
-          "source": "ScienceDaily",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA1QUxyZVdaQldKSHNpVE9uZC01TE1pd3dUMTJMcHVzUmFsY2NJX3lLaVJHSW5odnNQeExkZTBOOVpaa0YyMEx6SWxwSl9MN1h0OUkzOENrVXRNZjhtaEhMQUl4aEF5OHk0djhfR0JCMA?oc=5",
+          "title": "電池儲能削減成本與排放：澳洲Origin稱「燃氣機組開動次數大減」",
+          "source": "Renew Economy",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNcDZuNVRNTGJDWGk5dmkwUmdQRGVvNHdpd0pvRnlVNEdRUzl1WE5NanJ1RUNjYktVczVPNHo3TmxnRGhmQlV6LTBKODBwSU5mNU9fQno5TllrVlVidU9uUjNjX3NrbmhuYUtRZFhQa1JGUkxqZVpPeXN3Y2xTTzJuU3hIWVR0V241d3pKbHJoVDJzQ3A1Q3N2QkpDRlAyRkxfSTdaUE45NHR0QkpseEI4MzRfeW4xcG00MUs4Wko4TVIxSWJqSzBmeERrVF9BbXhWMEdFaHlVbVduNUHSAdsBQVVfeXFMTXA2bjVUTUxiQ1hpOXZpMFJnUERlbzR3aXdKb0Z5VTRHUVM5dVhOTWpydUVDY2JLVXM1TzR6N05sZ0RoZkJVei0wSjgwcElOZjVPX0J6OU5Za1ZVYnVPblIzY19za25obmFLUWRYUGtSRlJMamVaT3lzd2NsU08yblN4SFlUdFduNXd6SmxyaFQyc0NwNUNzdkJKQ0ZQMkZMX0k3WlBOOTR0dEJKbHhCODM0X3luMXBtNDFLOFpKOE1SMUliakswZnhEa1RfQW14VjBHRWh5VW1XbjVB",
           "section": "氣候與能源",
-          "summary": "科學家研發新技術將工業廢熱轉化為綠氫，大幅降低氫能生產成本，有望推動綠氫價格降至每公斤1美元以下，為鋼鐵及化工等難減排行業提供脫碳路徑。"
+          "summary": "澳洲能源公司Origin表示大型電池儲能系統顯著減少燃氣機組調度需求，同時降低碳排放及電費，證明儲能已成電網脫碳關鍵基礎設施。"
         },
         {
-          "title": "英國熱泵不僅供暖還能降溫 酷暑中成「救星」",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/environment/2026/aug/12/heat-pumps-cool-home-heatwave-hot-weather",
+          "title": "清潔能源轉型需要「永久化學品」嗎？",
+          "source": "DW",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSjdhWXFyMXo0OEU0X1ltMW9nV1JsNmNGOXpWRFVZVlVGXzJ3c2xwSVNDWEFQd1FrdXlXWi02aWpzb3hRZ2kyc3hiR2lpVllfcUFFb293UjJ2SUVQNnJ3VDhKYVNkNDRuZVlycVdZcWs4akZQU1d2eGZZWUtwWE1oZkhRUDNRQWM4cVZyUEs4VktVZ9IBkgFBVV95cUxPU0w4SGM4MkkwRGJTeHFwNjFkTVpBUGV3T2xQMUlHa24xTUdwOHhGcENXaG85cWMtY1pja2FWcTI4YjFMeVZzMWwxVW5KQkNRWUFHZFNBSll6cF9UaHBndXg4MzYyRW9PMU96c1ZtNFY0b2Z1am1hOE04QVIyZ1R6MnAxU3FCcnNNVUFhcmYtRFhUQQ",
           "section": "氣候與能源",
-          "summary": "英國熱浪來襲，安裝熱泵的家庭發現其製冷功能同樣出色，雙向冷暖功能使其成為應對氣候極端化的理想方案，專家呼籲政府加大安裝補貼力度。"
+          "summary": "德媒探討PFAS（永久化學品）在太陽能板、風力渦輪機及電動車電池中的關鍵角色，引發環保與清潔技術之間如何取捨的激烈辯論。"
         },
         {
-          "title": "霍爾木茲海峽滯留船隻構成「超級傳播」生態威脅",
+          "title": "英國環保署6,600人中僅20人負責氣候適應",
           "source": "The Guardian",
-          "url": "https://www.theguardian.com/environment/2026/jul/29/biodiversity-superspreader-invasive-species-threat-ships-stuck-strait-hormuz-gulf",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSTFyTG1hZlhMTndyd3pEUENHcTBFaTR2bFJYbFE0aWlrendGRzFlZGdQS0NCQVJLb3BvaF96R0w5NElxdGtzWVZMTERSXzBpTzZVNmR0U2M1aF81d3F6aENpZ1QtUkhuSEFsMHFRTG9aY1k5UXhteHUwaHRnNUV2UHRHYkNNdmV6U21EdkVBM2lURy1ZSlZtcjQ4Y1RldzZXVXdiWlkyR0xMUWRodFExXzhCU3ZycF9ES3h5dWVvNFJveVZRNlJCUkMxbjFsWThXSEE",
           "section": "污染與生態",
-          "summary": "科學家警告，霍爾木茲海峽大量滯留船隻的壓艙水可能攜帶入侵物種，一旦擴散將對波斯灣及周邊海洋生態系統造成災難性破壞，呼籲國際社會緊急應對。"
+          "summary": "英國環境署（Defra）6,600名員工中僅20人專職氣候適應工作，在乾旱與野火同時肆虐之際，引發對政府應對氣候危機準備不足的強烈批評。"
         },
         {
-          "title": "Ecobank發行4.5億美元自然債券 支持非洲生物多樣性",
-          "source": "ESG Today",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaU5oMUNwMHdKYkdNckUtX1E3X2Qyak8wb3pSeUU2X2tSWGxBTE5KU09TYjJkaHlTT1RBQUNzOUhkNl9EMUNoblNUNTdkOTFoTURsd3BqYkVsaUwtcnQ4ZjdGWUFNNDdHM0psU2FVWWFwQ2MzUFFxRm1qeFN3cWxiZGowWmdaWlp2Xy1pTDRBOEF2c056VVFPR2VCdDBwd01oMlBvUUNRT21sbE1mLWt3Y1c3cGZjY3FWQTVLbmxMbzk?oc=5",
+          "title": "阿曼海域影子船隊油輪洩漏100萬桶俄羅斯原油",
+          "source": "",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdjZ1cThXeERkdi1kMXRTYlZoVmFMOHM0bFV3RGFKampURkdFbllJcGlBTHhmOHdUQUpkQ3V4eFhGd2pFVDVKRmhiOG52RzlRQi1TQW14bXNQT0djZGphcWFaeXN3SUxMN1JCYjFwYjRhVTZEa0NNcVkyekZHMW9TWGVKRTltRnUwcE9DQWRn",
           "section": "污染與生態",
-          "summary": "非洲Ecobank發行全球最大規模自然主題債券，募集4.5億美元用於非洲生物多樣性保護及可持續農業項目，標誌著生物多樣性金融市場快速興起。"
+          "summary": "一艘影子船隊油輪在阿曼海岸附近洩漏約100萬桶俄羅斯原油，造成嚴重海洋生態災難，凸顯規避制裁的老舊船隻對全球海洋環境的巨大威脅。"
         },
         {
-          "title": "英國塑膠廢料「垃圾殖民主義」正污染土耳其農地",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/environment/2026/aug/04/uk-plastic-waste-colonialism-recycling-exports-contaminating-water-crops-turkey",
+          "title": "英國今年野火突破1,000宗，環保政策成眾矢之的",
+          "source": "",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRVVkNTd6SWxUSmJmb0RoNVEtXzVFMW9vTFNjSjkwb0w4cFFnMkdZSVlnMmJXWUtnYXR3ZUlfVWhtVnJMejd6aVlhS204NHNmWjA0SzlBVFl3SnpMSFd4LVhzMFFvX3Q4b0NCRHhLdnlpVjBrc2RvdEdnb0VBTkZkYVdzMEZnSnBmaEQxS1dqNTY0UGZicExiaEptMFE1WFpUVnp6QWl4czMwU2xGcktrNXN6MA",
           "section": "污染與生態",
-          "summary": "調查揭露英國出口至土耳其的塑膠回收廢料大量被非法傾倒或焚燒，污染物滲入土壤及水源，當地農田受重金屬及微塑膠污染，被批為「垃圾殖民主義」。"
+          "summary": "英國今年野火宗數突破1,000大關，高溫及乾旱加劇火災風險，環保組織批評工黨政府的環境政策未能有效應對氣候變化帶來的火災威脅。"
         },
         {
-          "title": "亞洲「危險」濕熱浪正挑戰人體生存極限",
-          "source": "南華早報",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQ1ZjYmVDYlg5QzBwblhia1l2WWgxNkVqMEI5YzNxQk1VZ1J1bGE1TmhTQ0NIWnlnS09FUEh5THY0Y0hOYTlyaE9TczdKV2Y5cE1oZXo0aF9QU0tkOVdnbnB1dFB4am1OQkJYcDlVeHEzM2c2ZnoyWUsxNDlWNGxkcVVoV2QtRS0zMjZSejhyOHlETXVPb1pDSnpCemtBc0R4b0txWTJoQWhqakh2VER2MGdVdmx5LWVJY2tkT1pZbU5zUdIBwgFBVV95cUxQZUJ2NFhXbE00cmtaMmk4bERKb0N4NkRfZHA2a0R2NFVyeEloUlJqeXlVNUdFVm4wSDg1SlBvNEV3dkJUNjdRZFhQZVN5WWlLOXZEMmdwVmFGX0pNY0lSVjBobElCU3l4WDBYUzQteXBiaWZjcmxpU0ZoRW04cWVGMmV2bVhkQUZJeEttYkRNOEF6T0NyOWtkdk45NU1TZk05RVZCOENTTFN2X0sybUpEeWY4S1ZYaDJSc2plY1AwOUpQdw?oc=5",
+          "title": "中國碳市場累計交易量突破9.3億噸里程碑",
+          "source": "",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTFhQNzBJTG1DcWZGSFFidVltQ1d2R2EtNzdmSkJwSG9aSV95YUtXNHhsQVR6VFE3RTFxQ3dVeDdiVVZLTkg2WEVTS2I1YVFpWjhldnU3ckFKOHdBTzFyZkxsVmdzM0JaYXh6X0RKUE1yWENkYTFnX3FVQnRZa2hldGU4SktBMmIw",
           "section": "亞太/中國焦點",
-          "summary": "南亞及東南亞遭遇極端濕熱天氣，濕球溫度逼近人體生存閾值35°C，數億工人戶外工作風險急升，研究警告氣候變化正將亞洲部分地區推向「不適宜居住」邊緣。"
+          "summary": "中國生態環境部公佈全國碳排放權交易市場累計成交量突破9.3億噸，成為全球覆蓋溫室氣體排放量最大的碳市場，為「十五五」氣候規劃奠定基礎。"
         },
         {
-          "title": "喜馬拉雅冰川加速消融 威脅20億人水源",
-          "source": "南華早報",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPcEhDZGFFak5LWWtiLUtpM20zbmFhRGd3Vzh6bjJSVUdxV193WTlVcExjeWNHNGd0S0Y1ekxNVVlUNDRGYi1GdUx3NDlOM0s4ZXJyZ0s3dXNoS0JOR2RILUFLc1VxMHlFOFo4VFg4VU1LSXI4VEx1SzZwdUZjR19MSlpRMDVBeWc4eWZUbW1vSUNvLWVMTzZpNnc5VDZHdDZ4ZGgwajFMVUZOblFZU2JCUEZmTEVEX2FqbEphZGpFS1VwMGRRMVBNakFWa1BsREdQZ1hKdlkzamhZd1RPMFlJWdIB4AFBVV95cUxPQ2xuN0tmaVhKYVFXX1NqTVhNUlRiU0ZFSUg2eFFVaVo4dFF2dXhscGt0SjdheGVLaW1lTk1mc1pwYzM5eGFRdmJ0QnIydTBqNVROaWN1eDA1RC1lOTNpN1d6RHJrZE9zU1pJWHdFSUxlNGRyX0pIbGV5aVBUOFZQOVU5dXktVF9aRkxQX3NaS1VIa1FvMFIxclluS3VWcUtoRGpLUWZXZDJTdlZ4R1o5NE9kcE1kbEpndWxKbU9zVUpmczZfWVNuVGktcndQNXduNURhN0JHdmNJMXBrU1dkVQ?oc=5",
+          "title": "南韓出動200輛水車應對南部慶尚地區嚴重乾旱",
+          "source": "Tempo.co",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZTVfelBNZ1A5T0pLXzVQZWt5dmlPUm05RjNBTzBDOVlCV1RhMTZnREZVVHhvUTBKMlQ3NzEzOERJbW0xcnRfMmY5bW4tTEJ1eVc2bGZiMmprYURFX0V0a1RlSGRDbGtBeEtYYzRjXzdWeks3dUwyUlJoQk1vcmJTU1BWOWQyNFhGM3BpWW5vdHBydzNSZ3dmcy1RY1RSN1ljeVE",
           "section": "亞太/中國焦點",
-          "summary": "喜馬拉雅山冰川消融速度創歷史新高，作為「亞洲水塔」其水源供給20億人口，冰川退縮將引發跨境水資源爭端、洪水及糧食危機，全球升溫每增加0.1°C都將加速此過程。"
+          "summary": "南韓慶尚南道遭遇嚴重乾旱，政府緊急派遣200輛運水車供應飲用水，農業損失持續擴大，當局正考慮宣告國家級乾旱災難。"
         },
         {
-          "title": "中國南極考察站實現綠色能源突破 極夜期間50%電力來自可再生能源",
-          "source": "Global Times",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAzNTUyVllvV1VMS2ZMdzhaZEIxWmZMLUFJVHVyb0NXWWdTYjBGMVhOMDJYQnJTTlJ6THdpQjNEVEVaQVM1SzRHX2d2SXJVSUVLdHZGVXc3Z0wtTmFMb1VZYkdn?oc=5",
+          "title": "太平洋島國氣候融資缺口威脅適應努力",
+          "source": "FBC News",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVEU0cnpuQ29fMjk1VkVjWnBFVVRNVUpWRGdaZWtVQWZfMzJHZlFqcGhPLWZLX0QyOC1vanY5QVJPVHFOSjgxcEY4MExnYU9lLUdtQmRfS3VrNGVHOFFjbWZRbXEwRG1qOWJkV3pqVGhGb2xQTGZZT2RGWTFrMkFaSGo2NnB1RWwwVThrVmpfZlFLUWxvQUx3",
           "section": "亞太/中國焦點",
-          "summary": "中國南極秦嶺站成功在極夜期間以太陽能及風能供應50%電力，成為南極可再生能源應用的里程碑，展示極端環境下清潔能源技術的可行性。"
+          "summary": "太平洋島國領導人警告氣候融資嚴重不足，適應項目資金缺口持續擴大，部分島國面臨海平面上升及極端風暴的雙重生存威脅。"
+        },
+        {
+          "title": "印度啟用「抽水蓄能」作為長時儲能關鍵路徑",
+          "source": "MVA Pulse",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOTB0WFRWRm82b2RJVnNDc3l5djk4QTdiQy1hNU5nTTNrcU82YmlrNDNxRFhwb1BjR2VEZVdQNzBQNlNfeHBmRDVjUFJ0elRnMEVEc1ZCRFBKbWdRMllSQU5xckhJV2dRYU01V2NDc1k1eTNTSGhnNGxibkp2X211WW9pQ3RXNlQwdUE",
+          "section": "亞太/中國焦點",
+          "summary": "印度加速部署抽水蓄能電站作為可再生能源電網的長時儲能解決方案，目標在2032年前新增數十GW容量，應對太陽能及風電的間歇性挑戰。"
         }
       ]
     }
