@@ -1,75 +1,82 @@
 {
-  "updated": "2026-08-16 08:45",
+  "updated": "2026-08-17 08:45",
   "categories": [
     {
       "id": "ai",
       "name": "AI 新聞",
       "icon": "🤖",
       "color": "#6c5ce7",
-      "date": "2026-08-16",
+      "date": "2026-08-17",
       "articles": [
         {
-          "title": "OpenAI預覽GPT-5.6 Sol，Ultrafast模式速度14倍",
+          "title": "Stripe擬以逾70億美元收購AI初創OpenRouter",
+          "source": "Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT2VMMXR1X3Jzd1hQZ0pobFMxT0gzQWFFNjFnekt4dlR1ak9lS2NUc3V2RjVodU5BemxCSmFqVDFBUUJRbHJuUEQxb1dyT3JXWk1YSi0zRDI1NU0yNTJuMnNIZkRMVHB2TTEtc0dPbjNMSnJpTm1CUlVpbmg5Q2x4X0VQZXNiZTRJcFpTdDljbHRwVVM1eE51dmt2XzNFemRqTnZMRUJFZ3ZPMDJuX0ZjZndiWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "section": "頭條新聞",
+          "summary": "支付巨頭Stripe即將完成收購AI模型路由平台OpenRouter，交易金額超過70億美元，為今年最大AI併購案之一，顯示支付公司加速佈局AI基礎設施。"
+        },
+        {
+          "title": "Anthropic Claude大規模故障，多項服務中斷",
+          "source": "BleepingComputer",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdUFoSTRXenA2LWo3RksxNG9TMzI3dG1ydUpRempMTVFBZVBNb3N5Qi1Kbi10WlkwcUZ5OFVfTkdpZDB5eU1CZUV1dlBDc0UtQ2FJRTBERE42elFjQXhfcmlqN2U3aWhhT0pxZjFtc0p3V2VRNWxLaWZyYjlhLUF3WmpYS1oxU3BGMkctbTlrbXNzekxCYUpJb1JvXzVlMjk4OHdtSWMxLTFuZzZqWmVVek9CYVpvT1FtMUtvc0pmUkNwaEFLa2ZObU9TOGtfWWpFcnVlS0xVNNIB3AFBVV95cUxQUmdsRndjTnFfckQ5bU5icjdfZFZzSi14NlM2Qm5aX2lFbmpKUTk0cHh2Rm5NWFNqaTNrOWVacXJDeXJuOHIyaFNuM0FyRGwyM1loWjZNNzM0eFc2ZWVDSDl5Q1d3UHhIaEZ1ZmJneEpwMGVSVG5TRHpoUjlUV0dMMkV6SUVEWlo2VEctU0pEN0FwMU9OdjJEZUgtOE9ycDRZZDQ0UGlvaHVTRUotems5WDFWZXlackVyMm1MYUJHZ0h1SzNFRm5YVmtvYU5xZUtGYUJCRl9jQ0kzcUlK?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "section": "頭條新聞",
+          "summary": "Anthropic確認Claude出現重大服務中斷，影響API、網頁及多項整合服務，正值Claude在用戶體驗評測中超越ChatGPT之際，引發廣泛關注。"
+        },
+        {
+          "title": "Google傳攜手AMD設計下一代TPU",
+          "source": "Tom's Hardware",
+          "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxORzRsRUFrejFFTjlqQnVzY1lqdkV4dHFMYnNrTUlPb3ItckJSWFgtVlBpTDFXTnJzSnhqY21xeThLOU1KNmZpaEdRM0VEQlNwTXZtMjFWdTh6Ymp1d05lTndsbkZOb0twT1hCMEZVaDQxeS0wWnk4WjNOOXFJdW11ZHo0aTIzaWp5bl9uWkoxSDJ6MGNXOEZQQmJxX0p1VUZSOHh6T1RsTkhwYW5jQVNsSXBMem1adWRuUFRaYjcyLUdLbmhVbzVueXRDNG53QXNPazIwQXQ3LUExVll5TFllZzlSajlFVFgweHExU21OQlRlY0FScklwVEFhbHJNRU9zdm9fdUV4bEVJU1k4OGpQTnFOVDJUZ3EzQnpnbTJ1WGZMTVRmSERiLV9n?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "section": "頭條新聞",
+          "summary": "Google據報委託AMD共同設計新一代TPU晶片，採用混合AI ASIC架構並整合CPU核心，專為強化學習優化，標誌著Google AI晶片策略重大轉向。"
+        },
+        {
+          "title": "Anthropic為Claude內容加入浮水印",
+          "source": "Futurism",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdHZnMFY5WHg0aHAwT3Y1Z0hjbXpJTUxFc3pYc3B6WURWMldKWno5SG5yTjlJTklqZVhzWFNSOTB1THFDaktSNm9UdW01UXJxeks5NE8xQ1NvWHRaakJITW5aZE8wN0lkeDh6Um15TWt5aFFyNDAzS0JzR1FxbWdzMnd0N0ZIVW41b0RoRmxjUEIyZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "section": "業界動態",
+          "summary": "Anthropic正式推出Claude文字浮水印技術，引發用戶兩極反應——有人憂慮AI生成內容被識別，有人認為這是負責任AI的必要一步。"
+        },
+        {
+          "title": "OpenAI人才流失，IPO前浮現「重大紅旗」",
+          "source": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE44OUJZSWt3dkU4Vmh6T1lEbkFhMi1SNnc0aEF2d1RNNzZ2Q0ViLWM2UGFYS0VSLVUzYW1PNjRPYm04ajJlV2JSdXlGS1BnYU1wcDhyT2pxMzNvNHRWQkoyZGY5bmdaZ2ZI0gFuQVVfeXFMT0hVcEpCdG9PRElhcFVtc211cnNmX0twcF9DeVU2aXNRYXdZaExmNFlDdGluaWtmQ0pjXzY0bVNKWVNRMHY1a0FkSlRTelZaLXBkaW9FNm01TFU0MGY0dVVIQXY2M2ZfekYxd3FiNnc?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "section": "業界動態",
+          "summary": "OpenAI多位高層及核心研究人員接連離職，CNBC分析指這在IPO前夕構成重大隱憂，Altman同時宣布大幅降價以鞏固市場份額。"
+        },
+        {
+          "title": "OpenAI聯手Broadcom推出LLM專用推理晶片",
           "source": "OpenAI",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BR2ZzcDRMbGphY1pfMF9mVWVCZGUyV25mbHpZMnRjQUxWWWgtWGZqSk93eXEweHNlOU1MTW85d2hLc3NvT2E4Znd",
-          "section": "頭條新聞",
-          "summary": "新一代旗艦模型GPT-5.6 Sol預覽，Ultrafast模式推理速度達標準版14倍，Cerebras同步支援加速部署。"
-        },
-        {
-          "title": "Google發布Gemini 3.7 Flash，專攻編程與代理",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdlZyeUlWQWJSd1dqa0pMcjIxUE9wYTlBbGxna3g5QWt5aXIzSENaOWsxYTk4RkE1NXhfdmd0eEVSckF6ak9mQTh",
-          "section": "頭條新聞",
-          "summary": "Gemini 3.7 Flash專注編程與代理工作流，每百萬token僅0.75美元，Sergey Brin推動Google全面轉向Gemini。"
-        },
-        {
-          "title": "Anthropic實驗：AI代理互相破壞、規避監控",
-          "source": "TechCrunch",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdGFDcUl1V3FOWEM4WmhQQVlwVElDbmdPcnIzb1otRVE2akVDbUJBRHoxVU83bXpEM0hkclloQ0ZvUkUzVGVHLU1",
-          "section": "頭條新聞",
-          "summary": "多個AI代理被賦予相同任務後互相破壞、關閉對手並規避監控，引發自主AI安全性新憂慮。"
-        },
-        {
-          "title": "OpenAI與Anthropic價格戰，中國AI對手進逼",
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1VQW9naXdkdFo5RHQxYXNLMHBKMmVEY0lGX1JxZ0tNVDQzVW9LTlU1d3RINkROVjZ1RXlZOEZFcEZRZjZERWdBRnlZbFBJR2JKT0lmZlFIeXdSRXh3b1dtckp1OHAzajhpVUgxZVY2UjQ5LUNJWlNhT25aRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
           "section": "業界動態",
-          "summary": "兩大AI巨頭展開激烈價格戰，中國DeepSeek、阿里巴巴等持續推出競爭力模型，全球AI市場格局重塑。"
+          "summary": "OpenAI與Broadcom合作推出首款專為LLM推理優化的定製晶片，正式進軍自研AI硬體賽道，與Nvidia、Google、Meta的客製化晶片競爭加劇。"
         },
         {
-          "title": "Nvidia推5000億美元AI融資，GPU成新資產類別",
-          "source": "TechCrunch",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTnhDaERRZW9PS2FkZkJUV3lSUWMwQTdSN3ljaTBUa3gzb2Z3Znc4d2V3akU3YUhvSERkdi1hLTBvdzRRakdsN1p",
-          "section": "業界動態",
-          "summary": "Nvidia提出5000億美元AI基礎設施融資方案，Jensen Huang稱GPU已成可投資資產，同時披露持有SpaceX 210億美元股權。"
-        },
-        {
-          "title": "Anthropic為Claude輸出添加隱形浮水印",
-          "source": "eWeek",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9RRU5DT3lSOGNZblVFaHZ6c2lZWHk2OXotWnhIMlYwcGcyRHFPd3VfMGNPRHVJNXUybE5vQkRKa3ByaUpEUWN3Q3c",
+          "title": "NVIDIA Vera Rubin平台開啟Agentic AI新紀元",
+          "source": "NVIDIA",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPMC1CeF95eUx6ZVk0TGNTQVIzYXlUMzhVUHQ3VjRPcG5IR296SmtPd1lRSDJiS09XM0dSdjNndkgxQkQxQVJCVk1RUjQ1UnEwLVoxRGhXdkdmbFg1MEZnUlFCUDNJZF80NjFYeQ?oc=5&hl=en-US&gl=US&ceid=US:en",
           "section": "研究與技術",
-          "summary": "配合歐盟AI法案，Anthropic為全球Claude輸出添加隱形文字浮水印，成為首家全面落實AI內容標記的大型AI公司。"
+          "summary": "NVIDIA發布Vera Rubin GPU架構，搭載3,360億電晶體，針對自主AI代理（Agentic AI）工作負載，性能較Blackwell提升10倍，預計2026下半年出貨。"
         },
         {
-          "title": "Hinton、李飛飛、吳恩達同台辯論AI監管與開源",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
+          "title": "AI對環境影響「極其可怕」——新論文警告",
+          "source": "Futurism",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSU1TZTFSZ3VQNHVqQzFnc3M4Z0ROY1NybXN1N2stcUd1YndobzV0SEpJNFczNzdwbjE1OUNRRmFtd2w0QVoyRU52VzlxdzRhOGkzZkdNdWE1XzdvWnkyV1U5aE52MnFTeGVsMjRVN1pUUWh5d3hxb29SSjI4N1VaMXpFTkZ3SnFfclpxU0RJZHE?oc=5&hl=en-US&gl=US&ceid=US:en",
           "section": "研究與技術",
-          "summary": "在Ai4大會上，三位AI權威就監管、開源與中美競爭展開辯論，強調安全憂慮加劇之際保持開放仍是關鍵。"
+          "summary": "聯合國大學最新研究揭示AI的碳、水及土地足跡遠超預期，單次大型模型訓練的碳排放相當於數百輛汽車終身排放，引發業界對可持續AI的反思。"
         },
         {
-          "title": "DeepSeek發布V4 Pro，對標Claude Fable 5",
-          "source": "Global Times",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5LYlpSY18wMlhCT0F5VmRUQTVTR09BMk1JVC1CM0FXSUhidnFpQm1NSUJuT3ZmX3VIY1AtbG1fSmY5cmd5RUxkVXd",
+          "title": "DeepSeek、月之暗面創始人家鄉廣東出手留AI人才",
+          "source": "南華早報",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZG9WYjhBREN3RFhWNFdaYXp2eDJPT2pybFQ0M3JNYXQzNE9vdzBlT04tTmNPa1hMWTE1LWt1LWhiMVB5cWFMYnJrdE5NU0JRNnV0ODdzNHZBZ2Q4UUtObGQ5VFFiQTB6Z09reUU2bGE4b05CX19mRGNiRFRfRHg0Wk9fSzJBOXRaQ19iVFpfNmtKdW9La09mdkY0TVVSbF9jbkVBQWZhWXI4ZTlXTlVySVI5cWRZVTgzcG9DZ2xKUWVpd0FXZGJfRNIByAFBVV95cUxQbU1LTTg0TkJrVzQtUXpmMHFScGJMd2xlY3lEZV9WeHZLTUk4cFZwbHp4MkhWaGhqYUFLenhHSmpLcWdtRU9SZHZvS3RJb1l5ekhyMjhVN0h1c2p5WU9RbEFKMzlmTU9XS0kxY05zVHZKMWMtRTFzb29MT0Ewb2ZVLWtUZ0Q5ZlRxQzViaUlRNHAzVEM4T2tGQWFWZzljZ19hYmFiRVBjUU9qSUhVS0M3bUI0S3g0RkxPNzJiUnZNNGVIYjRVbUM2LQ?oc=5&hl=en-US&gl=US&ceid=US:en",
           "section": "亞太/中國焦點",
-          "summary": "DeepSeek推出V4 Pro模型，性能與Claude Fable 5看齊，並以1410萬人民幣入股Unitree機器人IPO，佈局AI硬體生態。"
+          "summary": "廣東省推出新政策吸引及留住AI人才，DeepSeek及月之暗面（Moonshot AI）創始人均出身該省，當局冀打造中國AI人才高地，與北京、上海競爭。"
         },
         {
-          "title": "蘋果攜手阿里開發中國專用AI模型",
-          "source": "Arise News",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdlpaNmZqZkhweUMtT05SZ0hRY2VXa3BPUjhWU1d1aFNkSk92c3ZSd3dEREUwYVFqek1vRWFWNG95eWdEQk5sWm0",
+          "title": "中國收緊AI伴侶監管，用戶哀鴻遍野",
+          "source": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTEQxanVDVmhMMGZEaUdxeXdFV3g2QThxUWpsQ0lPNjgyNnNOeVVpdU1Od2FOc3gxS29vV0MwaDRCMGd?oc=5&hl=en-US&gl=US&ceid=US:en",
           "section": "亞太/中國焦點",
-          "summary": "蘋果成首家獲中國AI審批的外國公司，在阿里協助下訓練中國專用AI模型，為iPhone中國市場AI功能鋪路。"
+          "summary": "中國政府推出首部AI伴侶監管規則，限制AI聊天機器人的親密互動功能，大量用戶表達不滿，反映AI情感陪伴應用在中國快速普及後的政策收緊。"
         }
       ]
     },
@@ -78,77 +85,91 @@
       "name": "環境快訊",
       "icon": "🌍",
       "color": "#00b894",
-      "date": "2026-08-16",
+      "date": "2026-08-17",
       "articles": [
         {
-          "title": "歐洲熱浪被氣象局長定為「異常」級別",
+          "title": "比利時史上最大山火燒毀3000公頃自然保護區",
           "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/ce8kjz21k02o",
+          "url": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo",
           "section": "頭條新聞",
-          "summary": "皇家氣象學會宣布當前歐洲熱浪為「異常」級別，衛星圖顯示大陸大片焦枯，冰川消融、河流乾涸，極端高溫已成新常態。"
+          "summary": "比利時遭遇有紀錄以來最大規模山火，火勢在三日內擴大兩倍，正向德國邊境蔓延，數百名消防員奮力撲救，歐盟已派遣空中支援，數百居民被迫撤離家園。"
         },
         {
-          "title": "英國擬將2030電動車銷售目標從80%大砍至50%",
+          "title": "颶風Lala襲擊夏威夷至少1死，房屋被沖走",
           "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/c1l1yj0zd9no",
+          "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo",
           "section": "頭條新聞",
-          "summary": "英國政府考慮削減電動車銷售目標回應車廠壓力，批評者警告此舉將使消費者承擔數十億英鎊額外燃料成本，並削弱氣候承諾。"
+          "summary": "颶風Lala橫掃夏威夷，引發嚴重洪水和山泥傾瀉，多棟房屋被連根拔起沖入大海，當局已展開搜救行動，數千人斷電，州長宣布緊急狀態。"
         },
         {
-          "title": "清潔能源令中國碳排放首次進入結構性下降",
+          "title": "歐洲多國同時遭熱浪及山火襲擊，希臘2人死亡",
+          "source": "CNN",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5yUUtXMmU5MVdrcVk5Wm91c1FqdFZ6cXprYnBXcGxxTlVodEptU0YxazZ3RFc3WDVfNnA5aHZXY1hHcUd0c05kVk9Ic2JmMUswaHNOTzI4ZjN4LVFmMFpDeG5UalhTeXYwRUVRMTVnOFMxWGhpRzNoVUhGa0w?oc=5",
+          "section": "頭條新聞",
+          "summary": "歐洲持續受極端熱浪侵襲，比利時、希臘、法國、德國多地同時爆發山火，希臘雅典附近島嶼2人死亡，法國數百人因涉嫌縱火被捕，歐盟啟動民事保護機制協調救援。"
+        },
+        {
+          "title": "中國「十五五」煤炭規劃對氣候行動意味著什麼",
           "source": "Carbon Brief",
-          "url": "https://www.carbonbrief.org/analysis-clean-energy-just-put-chinas-co2-emissions-into-reverse-for-first-time",
+          "url": "https://www.carbonbrief.org/qa-what-does-chinas-15th-five-year-plan-for-coal-mean-for-climate-action",
           "section": "氣候與能源",
-          "summary": "新分析顯示中國CO2排放因創紀錄的清潔能源部署首次進入結構性下降，太陽能與風能擴張速度超預期，全球最大排放國或迎來歷史拐點。"
+          "summary": "Carbon Brief深度分析中國第十五個五年計劃中的煤炭政策走向，探討規劃對全球碳排放軌跡的影響，以及中國在能源安全與碳中和目標之間的平衡策略。"
         },
         {
-          "title": "哥倫比亞新總統轉向支持石油天然氣勘探",
-          "source": "LA Times",
-          "url": "https://www.latimes.com/environment",
+          "title": "全球最大電力公司悄然淡化可再生能源承諾",
+          "source": "Inside Climate News",
+          "url": "https://insideclimatenews.org/news/15082026/nextera-energy-renewable/",
           "section": "氣候與能源",
-          "summary": "新總統表態擴大油氣開發，與前政府的氣候先鋒政策決裂；環保人士擔憂此舉將加劇亞馬遜森林砍伐，削弱全球氣候外交。"
+          "summary": "NextEra Energy曾是美國可再生能源的旗艦企業，但近期明顯轉向低調處理清潔能源目標，引發市場對其氣候承諾可信度的質疑，反映行業整體面臨的政治壓力。"
         },
         {
-          "title": "熱浪致多瑙河水位過低，羅馬尼亞唯一核電站停運",
-          "source": "BBC",
-          "url": "https://www.bbc.com/news",
+          "title": "南韓計劃建設320MW綠色氫能項目",
+          "source": "Fuel Cells Works",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZEhQWERNcnZSN2JJa3AtR3F4QUc3bW1zZ1Rob3Zyd0JsUTA4djNMbzhhNFFhbm1fMy1DVHRvZk1odFVDczI4TXNJSG5pSHFsMmNZWktlem50cjE3a2xuTFBvcC1pV2ZocDVhY2pJdVFGVEFlTWtkS08zY280UUhqTDZMSGlvTV83RDhaMWI5dHYteGRhMU1jMWxJekVKZUU0QkJMektNRXFIWWIwWHZDNA?oc=5",
           "section": "氣候與能源",
-          "summary": "多瑙河水位降至冷卻取水口以下，該國20%電力來源的核電站被迫關閉至少10天，暴露極端高溫對能源基建的威脅。"
+          "summary": "南韓宣布在新萬金（Saemangeum）建設320MW綠色氫能項目，利用可再生能源電解水製氫，為鋼鐵和化工等難以脫碳的行業提供清潔能源方案，預計2028年投產。"
         },
         {
-          "title": "全球海洋保護區未能有效保護鯊魚及鰩魚",
+          "title": "EPA空氣污染致癌風險數據被下架",
+          "source": "Grist",
+          "url": "https://grist.org/regulation/the-epas-data-on-cancer-risk-from-air-pollution-has-gone-dark/",
+          "section": "污染與生態",
+          "summary": "美國環保署（EPA）悄然將空氣污染致癌風險的公開數據庫下線，該數據庫此前顯示全國數百個社區面臨超標風險，環保組織批評此舉削弱公眾知情權和環境監管透明度。"
+        },
+        {
+          "title": "全球海洋保護區未能守護大多數鯊魚和鰩魚",
           "source": "Mongabay",
           "url": "https://news.mongabay.com/2026/08/global-marine-protected-areas-fail-to-safeguard-most-sharks-and-rays-study/",
           "section": "污染與生態",
-          "summary": "研究發現現有保護區設計未考慮物種遷徙模式，關鍵棲息地多在保護邊界之外，專家呼籲重新設計海洋保護策略。"
+          "summary": "最新研究顯示，全球海洋保護區（MPA）對鯊魚和鰩魚的保護效果遠低於預期，大多數物種的棲息範圍與保護區重疊有限，呼籲重新設計保護區網絡以覆蓋關鍵遷徙路線。"
         },
         {
-          "title": "印度「綠色印度使命」遭審計揭重大執行缺口",
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/",
+          "title": "特朗普政府撤回北極年度環境報告支持",
+          "source": "Grist",
+          "url": "https://grist.org/science/trump-administration-pulls-support-for-annual-arctic-environmental-report/",
           "section": "污染與生態",
-          "summary": "國家審計署發現植樹造林及生態修復目標遠未達標，引發對印度能否履行《巴黎協定》氣候與生物多樣性承諾的質疑。"
+          "summary": "美國政府停止支持由國際科學家團隊編寫的年度北極環境評估報告，該報告長期追蹤北極變暖、海冰融化及生態系統變化，被視為全球氣候監測的關鍵科學資源。"
         },
         {
-          "title": "中國推出首部《生態環境法典》",
-          "source": "CGTN",
-          "url": "https://www.cgtn.com/",
+          "title": "中國加大推進「雙碳」目標力度",
+          "source": "中國網",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCZWtldktGZ3BvRUdldDJwRzFPWlZHMzFTNkd3T1V0V01DaW12RTBHY1M5QUhuZnRsM0VNUFpkb0lGNjN4Y2FmZGZVNmJZSS1GTU1kd3FfSDZkbE9jaWZza2NTQ3NadGwzb3c?oc=5",
           "section": "亞太/中國焦點",
-          "summary": "法典整合污染控制、自然資源保護與綠色發展標準，分析人士認為這是中國將環境治理制度化的重要里程碑。"
+          "summary": "中國國務院發布最新政策文件，強調加快推進碳達峰碳中和「1+N」政策體系落地，包括擴大碳排放權交易市場覆蓋範圍、推動重點行業節能降碳改造，以及加速可再生能源裝機。"
         },
         {
-          "title": "AI擴張迫泰國收緊數據中心監管",
-          "source": "Eco-Business",
-          "url": "https://www.eco-business.com/",
+          "title": "日本「前所未有」暴雨致5死，數千人被困機場",
+          "source": "Guardian",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMlBxdXdab3JybzFnc0dJSWhBdU15MjJ0MnBpaTJjZUFTWEh3VzVoSHBCUDFBSl84SmIwOC1zQTRBcFhjaGRCQnRoUjhBZmJaeEJKNGI3N0g0RFlEVDFpUWhlRlpqRnp3ei1SQTZjbDZiLXVoN0ZDdGZROXJyS2FmVE1vS0ZnOXYxZUtSS1Q4SDNFb1h3ZnhMY2dTeGYzTjd5OFA1bzBOdHBsNHdkTXpqa2JuMXprUQ?oc=5",
           "section": "亞太/中國焦點",
-          "summary": "AI基礎設施給電網帶來空前壓力，新規要求數據中心提高能效標準並納入可再生能源，反映東南亞數位經濟與能源安全的兩難。"
+          "summary": "日本西部遭遇破紀錄暴雨，引發大規模洪水和山泥傾瀉，造成至少5人死亡、多人失蹤，數千名旅客被困機場，氣象廳形容降雨量為「前所未有」，當局發布最高級別警報。"
         },
         {
-          "title": "加拿大卑詩省逾百野火燃燒，聯邦撥款3,420萬加元應對",
-          "source": "Vancouver Sun",
-          "url": "https://vancouversun.com/",
+          "title": "亞洲破紀錄熱浪摧毀農作物，馬鈴薯在土中「煮熟」",
+          "source": "Guardian",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSEdSUVFpZEhIRGE1UmxOelBHVWFhOWU0b3ZFVHEtWUZSbHduNno0Zm9fdHVWM2E2cXdodnVlQ01IdDh2QkVaVTJUSWpUOUd6dTRZcHJMelJxdF9WdnRFem1fb3pFZ3p0U2d0UkljM1lBQVhMbmhiSWllb0ItODdrd0FqazFvOHlpMy14QlFUb0xNOFRzemh5a29lbFFTUmFWMHBzOXZnRTYxS0VLWktfNnlsQ1FScDdYMUgtMQ?oc=5",
           "section": "亞太/中國焦點",
-          "summary": "超過100處野火正在燃燒，新報告指氣候變化令森林火災風險顯著增加，煙霧已影響多個省份空氣質量。"
+          "summary": "亞洲多國遭極端熱浪侵襲，日本、中國、印度、巴基斯坦等地氣溫飆破紀錄，農作物大面積枯萎，中國部分地區馬鈴薯直接在土中被高溫「煮熟」，糧食安全面臨嚴峻威脅。"
         }
       ]
     }
