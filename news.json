@@ -1,103 +1,96 @@
 {
-  "updated": "2026-08-19 08:45",
+  "updated": "2026-08-20 08:45",
   "categories": [
     {
       "id": "ai",
       "name": "AI 新聞",
       "icon": "🤖",
       "color": "#6c5ce7",
-      "date": "2026-08-19",
+      "date": "2026-08-20",
       "articles": [
         {
-          "title": "Anthropic年化營收暴增至650億美元",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+          "title": "OpenAI遭網絡攻擊後放緩AI訓練",
+          "source": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSR3lWUFJhTEpMMW5EVlZIWVl2LVRxREtoMUZyRDJTU2FKbmFveEhfY1NCMmNuNkxPTEpyYk9RbzRNcmV6ak9XaEY3ZE5CU2EzckZSYXV4RnQwdw?oc=5",
           "section": "頭條新聞",
-          "summary": "Anthropic年化營收從一年前約10億美元飆升至650億美元，反映企業對Claude模型需求爆增，使其成為增速最快的AI公司之一。"
+          "summary": "OpenAI宣布因應網絡攻擊威脅，暫時放緩前沿模型訓練規模，同時為特定客戶推出「零數據保留」私隱保護方案，被視為與Anthropic在企業安全領域的直接競爭。"
         },
         {
-          "title": "Nvidia斥資1050億美元支持俄亥俄州數據中心，OpenAI為主要租戶",
-          "source": "NYT",
-          "url": "https://www.nytimes.com/2026/08/17/technology/nvidia-ohio-data-center-openai.html",
+          "title": "OpenAI CFO：2027年前將成為上市公司",
+          "source": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBjVnJGYzVGcWt5c0F3WTY3elk5SkRrSUV3U3Y2OFdIV1dCRm4wVU5PZF8wV1VXT2Q4cVZZU3NZWlRFRTVhZTNYNTZNbEh2bmZ1aDJEWnFINFR6dlVqdGVsQ1RRSmhBV0dKYkFwcTZpQk56MGlZ?oc=5",
           "section": "頭條新聞",
-          "summary": "全球最大數據中心項目之一，總造價可達5000億美元，由軟銀子公司開發、OpenAI租用，Nvidia投入15億美元參股，彰顯AI基建軍備競賽白熱化。"
+          "summary": "OpenAI財務總監Friar向員工透露，公司計劃在2027年或更早實現上市，此舉將使OpenAI成為繼其競爭對手Anthropic之後，備受矚目的AI上市公司。"
         },
         {
-          "title": "OpenAI推出「青少年版ChatGPT」",
-          "source": "NYT",
-          "url": "https://www.nytimes.com/2026/08/18/technology/chatgpt-for-teens-openai.html",
+          "title": "OpenAI Q2營收增長放緩，落後Anthropic",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOEdPZTRQN2NiUEpURUc2cFBxaGN3QlpNV203c05DczRMdFJDWHRoazgtZEVaQlE0aU9CWW9LcC1JcGJwZ1VXd1lsQ0dnOEQ0MzlDdjJZOV9Oend0M1NON0RnUEZ5UHlMMFhrR09UU3pzSlAwRnl5OXRPbWd3NVljR21NNjBmWkVnWm9fZWkxVmZjbFEyQjJod1ZvMjFqSHNFX0VOb0s1X0puUVk?oc=5",
           "section": "頭條新聞",
-          "summary": "OpenAI為18歲以下用戶推出安全模式，自動限制敏感對話內容，並加強心理健康相關防護，回應外界對青少年使用AI的憂慮。"
+          "summary": "華爾街日報獨家報導，OpenAI第二季銷售增長遜於Anthropic，反映AI市場競爭格局正在變化，Anthropic以企業級安全與私隱功能搶佔市場份額。"
         },
         {
-          "title": "AI晶片初創Etched估值一個月內翻倍至210億美元",
+          "title": "Meta推出新AI模型，朱克伯格力推開源",
           "source": "Reuters",
-          "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
-          "section": "頭條新聞",
-          "summary": "專注Transformer推理的AI晶片公司Etched在不足一個月內估值從120億躍升至210億美元，反映市場對專用AI推理晶片的狂熱需求。"
-        },
-        {
-          "title": "Stripe據報以逾70億美元收購AI閘道初創OpenRouter",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR21CNUV6bEJhdkl2SU1sOTRiM0N2MnVJTjhJV3YyY20wcFdHUmNOUW1lWUlVcnZLeGpnNlhYQkZCTGhpR0ZIOEp0U0VZWDlQLVdZZFFqQ196X241R1hLVXpXMU5Xclo3SFBxWHRRY1pFeTFHeEFEVDlCbDdwbWpRQUhROTFKRGFZSGE2QkhZSjdLVmJqVGdUWmFRT2R3WjhxZXptdEt3UG1KNVVqRWZOZUpR?oc=5",
           "section": "業界動態",
-          "summary": "Stripe進軍AI基礎設施，收購提供統一API接入多家LLM的OpenRouter，標誌支付巨頭向AI生態系統上游延伸。"
+          "summary": "Meta發布新一代開源AI模型，朱克伯格強調開放權重策略是AI民主化的關鍵，Meta AI同步推出Mac桌面應用程式，擴展多平台佈局。"
         },
         {
-          "title": "Groq融資3.5億美元，從AI晶片轉型雲端服務",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+          "title": "AI晶片初創Etched估值飆至210億美元",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ3NNZlBGNU1FVmtQWnVzMlc1SjFEVmtwYWJLNVJTYUpJS0NEb29iT0NhR1R5bUdKMlhqUWsyMjRJekVtcWFWb3dCX1lHMWlFNHJVLTZCeEoycW1ZdE03VThfZDEzellONHd4ZnJ3RlNEYlA4cGJReEFvaG13bTR0MHItbHlWN3pMWDNMN3JMVkJQNFo2aHFTQUw1QTlrWUt0V0FKamtGSm5rWUVT?oc=5",
           "section": "業界動態",
-          "summary": "Groq獲3.5億美元新融資，從AI晶片開發商轉型為「Neocloud」推理服務供應商，與CoreWeave等競爭AI雲端市場。"
+          "summary": "AI推理晶片初創Etched在不到一個月內估值翻倍至210億美元，反映市場對專用AI晶片的強勁需求，Nvidia的AI護城河正從晶片轉向資本。"
         },
         {
-          "title": "Cursor推出代碼託管平台，挑戰GitHub",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+          "title": "AI內容平台Higgsfield估值飆至54億美元",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQU2JUdkZ2ZjZ4enNhT1VXa1pXU1NtbjhPbncyUDNZZTZWOC1zb3E4akhtN1pkenY3LVZpYzdCY2xna2NIMFRkRG8yQklDTW5KejV2TjZJT1dsaXk3NlFDcE1YWks3aVRPbklKVWJxWTAxUmNKOWx1b2t3WWxmMXA5VEIzdTNlMWdVVTZKMFNkWTZDQWVVNFNXdGFlc0l1QTFoQkRBNGlvT3l5dC0xSTh6QWYwSV96TWRLUm9hdGtUclpfejZfQWdpUzRFczBpbjVK?oc=5",
           "section": "業界動態",
-          "summary": "AI編碼工具Cursor乘GitHub用戶不滿之勢推出自家代碼託管平台，進一步整合AI原生開發體驗，加劇開發者工具市場競爭。"
+          "summary": "AI生成內容需求推動Higgsfield六個月內估值暴漲四倍至54億美元，AI視頻生成賽道持續升溫，中國AI視頻技術亦在快速追趕。"
         },
         {
-          "title": "AMD稱2026年AI機架方案能效較2024年提升4倍",
-          "source": "Tom's Hardware",
-          "url": "https://www.tomshardware.com/",
+          "title": "Anthropic：Claude如何加速蛋白質設計",
+          "source": "Anthropic",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZSUlFZ25ZeUpwR2FqLUh5WlJpQVRfM3RPaVg5dlo5NWMzbldIOW1WZDR2MklDNWdidlJIN2JKbUV1VU52aDk0YmlpdVJIVmRVTzRfanM5ZmU5MnlWVTZLSHZhTE0wVC1iRzNwUzRKRTk3MC1DMWZR?oc=5",
           "section": "研究與技術",
-          "summary": "AMD宣稱其新一代機架級AI方案能效大幅提升，正朝2030年20倍能效目標邁進，在AI硬件競賽中向Nvidia施壓。"
+          "summary": "Anthropic展示Claude在蛋白質設計與分析化學領域的突破性應用，AI正加速藥物研發和生物技術創新，為科學研究帶來範式轉變。"
         },
         {
-          "title": "「AI法律團隊」首次贏得訴訟",
-          "source": "The Conversation",
-          "url": "https://theconversation.com/",
+          "title": "Claude文字水印技術揭秘",
+          "source": "Anthropic",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xMjZ5Ynd3TkptcUFtRGZxalN0VUxKTWRxSktRTkhsa1llV0w0OUphLXRYWDkyaGJvendtY0drMTRCTWV1QjJxeVc5MzFxb2NXQVpXRWhRZDY3eC1Zak5QZWV3?oc=5",
           "section": "研究與技術",
-          "summary": "AI法律團隊在真實案件中成功勝訴，被視為普及法律服務的里程碑，引發對AI在法律領域角色的廣泛討論。"
+          "summary": "Anthropic公開Claude文字水印技術細節，為AI生成內容的可追溯性提供新方案，此技術有望成為打擊AI虛假訊息的重要工具。"
         },
         {
-          "title": "MLflow漏洞遭利用竊取雲端憑證",
-          "source": "The Hacker News",
-          "url": "https://thehackernews.com/",
+          "title": "MIT：AI遞歸自我進化未必如想像般快",
+          "source": "MIT Tech Review",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRWNWX2RNdmRxYTJQLWpLbGM4MUdPSm92N1N4UUlsRjl3X0YxeWhVVDAzV2gyZjhaVEYwSXkzZnFWQXZHdmotaHlOa0RtQ3Jna3otZW8wM3lmV040YUdmVGpaY0ozRTRLQW01Nmp0Vi04NjF5SlFZdXJxWTQ4V3NpMXFfRUlNeTQ4TmfSAY8BQVVfeXFMTy13dmNEYzFrSnZSNXFRRFdHZV9aYmltSzdWQ2YxZEVuNWs1RHRVUERZT2JXN21kTEdpbWZSV19IVFB4S1FYMkJndVUtamxITHVPaHp2VWkzZXBBaWtjVlEtajZGeV91SUhBd25WS3RoeDFOM0ltVTZ0Zko5Mm03akhxamRXbWFTQmU2MV9ZUVk?oc=5",
           "section": "研究與技術",
-          "summary": "攻擊者利用MLflow的SSRF漏洞竊取AWS等雲端憑證，AI/ML開發工具的安全性再次敲響警鐘。"
+          "summary": "MIT科技評論分析指出，AI系統的遞歸自我改進（recursive self-improvement）速度可能遠低於市場預期，技術瓶頸依然存在，為AI泡沫論提供新視角。"
         },
         {
-          "title": "美國智庫呼籲仿效中國將數據視為經濟資產",
-          "source": "SCMP",
-          "url": "https://www.scmp.com/",
+          "title": "DeepSeek推出V4 Pro，定價為V4 Flash的14倍",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVzBOcmxUZXZzV20xU1pZMnI1X0JKRzV1SUJwcGhzaE1JZDZfUTZqVDZMVXNhUHFoY295SHZuLWZZbTlXa1AtUmI2dkRhRWliRXFBYzdZQlROdUVzZ2dNc2pHLUhvdTFBSVpSTW9SaHBQUnJubTdMX2FQUkhHTDhiUGtiZDUxLTRQXzRrZERqSzlOSXZpMWYxUzVWeXFCdW1HZEVWbWMtVDhFU1BCSkE?oc=5",
           "section": "亞太/中國焦點",
-          "summary": "美國專家建議參考中國數據政策，將數據列為國家經濟資產進行管理，反映中美在AI數據治理模式上的互相借鑒。"
+          "summary": "中國AI明星DeepSeek發布V4 Pro高階模型，定價為V4 Flash的14倍，顯示中國AI企業正從價格戰轉向差異化競爭，主打高端企業市場。"
         },
         {
-          "title": "中國Z.ai推出對標Anthropic Mythos的開源模型",
-          "source": "Nikkei Asia",
-          "url": "https://asia.nikkei.com/",
+          "title": "中國呼籲AI領域尊重數碼主權",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbFdOX2tzNWZNVU43emQ3NDVXclE3a2h4UlpvVHNSUkpLd1RRWTlsNU9LRjMtYXl5VjVhVEctUHRsSnZYQm92eW9SSFR5SFVFZFFuNnpXVzFITEZDbjk5MS0tVzJVam9JS1RPazZFdWZrcVlUcXdXT1hBRTRLMExwR0RkdWlMYklnZ0JMbXpleTBaQ3dDMTRxTklkQQ?oc=5",
           "section": "亞太/中國焦點",
-          "summary": "中國AI公司Z.ai發布新模型，聲稱在多項基準測試中可與Anthropic的Mythos模型匹敵，凸顯中國開源AI的快速崛起。"
+          "summary": "路透社報導，中國在國際場合呼籲AI發展應尊重各國數碼主權，同時美國顧問機構警告中國的數據主導地位正為其AI競爭提供結構性優勢。"
         },
         {
-          "title": "阿里巴巴、字節跳動削減遊戲及零售業務，全力投入AI",
-          "source": "Nikkei Asia",
-          "url": "https://asia.nikkei.com/",
+          "title": "美中AI差距正在快速縮小",
+          "source": "Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBidzZzbzRJcEtnaUtHR3lrUjdkWTRLenFWR0lrUS1wb0F5VEcySTBsQURrclVQUTlsUWtCWDZTUzZuTktXcUFwcVFYQlExSWh4czRtUUZocXlGSVU4U0g5Q3Q4SEluU1BT?oc=5",
           "section": "亞太/中國焦點",
-          "summary": "中國科技巨頭大幅調整策略，阿里巴巴和字節跳動縮減非核心業務，將資源集中投入AI研發，反映中國AI賽道競爭加劇。"
+          "summary": "彭博分析指出美國在AI競賽中的領先優勢正在快速縮小，中國在AI專利、數據規模和應用部署方面展現強勁追趕勢頭，AI泡沫可能「洩氣」而非「爆破」。"
         }
       ]
     },
@@ -106,77 +99,63 @@
       "name": "環境快訊",
       "icon": "🌍",
       "color": "#00b894",
-      "date": "2026-08-19",
+      "date": "2026-08-20",
       "articles": [
         {
-          "title": "超級厄爾尼諾現象將重塑全球天氣",
-          "source": "Carbon Brief",
-          "url": "https://interactive.carbonbrief.org/el-nino-explainer/index.html",
+          "title": "特朗普打壓清潔能源，美國綠能照樣蓬勃發展",
+          "source": "FT",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcG5lUG10ZkE1QnNOaEtwT1hKT3VsNFVlOHplakhlS0VCNHlQWjhKQUlxT00wOHRITW14SlF0ZjFoVnZQUi1kTkpKSkdsTU9YZDJfLU0xWjgxQk5zeVBBT3B2eEJOZTIwUmttbTRZN2pKTjdSTS03VC14T212SjgzLWJObFk?oc=5",
           "section": "頭條新聞",
-          "summary": "全球正經歷有紀錄以來最強的「超級厄爾尼諾」現象，自六月起持續釋放太平洋熱量，預計將延續至2027年，導致全球氣溫短暫飆升並引發極端天氣，影響數十億人。"
+          "summary": "儘管特朗普政府削減可再生能源補貼，美國清潔能源裝機量2026年仍創新高，太陽能及風能發電持續增長，各州政策成主要推力。"
         },
         {
-          "title": "美國兩大水库水位創歷史新低",
-          "source": "Carbon Brief",
-          "url": "https://www.carbonbrief.org/analysis-the-two-largest-reservoirs-in-the-us-have-hit-record-low-levels",
+          "title": "中國領銜全球清潔能源棄電潮",
+          "source": "路透社",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUHg1SThwYTRDMGEtOHFrMEdRdkgtaHJlSTFXb25HWHM3SGQ1czk0SnRPc3NSY05JOEc2VE5kN0NUTUhPdkI5SE9wcUFLQTNwTGZ1MEpNMmROVllLMGhlcEhCRndDMzUwQjNsWGZnRHJOelMyM09CZ1FQNWtVb1lJbWFrTjl1bFVwUEozZVJLT09yd2R5enpVWUNRTGpndVNvMTJIS292N21rVFNHNURjNWx4RjU?oc=5",
           "section": "頭條新聞",
-          "summary": "米德湖與鮑威爾湖雙雙創下歷史最低水位，科羅拉多河供水系統面臨崩潰危機，約四千萬人用水及550萬英畝農田灌溉受威脅，氣候變化、人口增長及過度消耗為三大主因。"
+          "summary": "中國及全球可再生能源裝置急增，但電網升級滯後導致大量清潔電力被浪費，中國棄電量冠絕全球，凸顯從「發電」到「用電」的轉型瓶頸。"
         },
         {
-          "title": "颶風Lala重創夏威夷 約百棟房屋被沖毀",
-          "source": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo",
-          "section": "頭條新聞",
-          "summary": "颶風Lala於8月17日席捲夏威夷，引發暴洪並沖走約百棟房屋，多處地區實施緊急撤離，影片顯示車輛被洪水沖走的驚險畫面，為今年太平洋最具破壞性的熱帶氣旋之一。"
-        },
-        {
-          "title": "英國大旱持續 多地實施限水令",
-          "source": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/crk661074ejo",
+          "title": "美政府凍結許可，威脅1,210億美元綠能投資",
+          "source": "路透社",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMkdlLXZoSlM2TG5EZ1kyRmlxOHVrdVdfd3JvNXdWMlFIZU1TbjdfNzdZN0R1b3Z2RzJvTnQ4a2NYVW5uV2F3aVlaWE1ERUxOcXIzemRVdmJWYWxMN193MDcwTlhNZFFOclpxTm9Kb1JDcGFxV2poYms0dnQ5Mll1dTlpRDhpUG5ickotSHBONWFGSndWRlpnMmRza2VUTDhMcWRXcjZkemtwdGxoVXQzZ3lwZnBSalM1?oc=5",
           "section": "氣候與能源",
-          "summary": "英國正式宣布旱災狀態，更多地區實施軟管禁令，水庫水位持續下降，專家警告若無顯著降雨，限水措施將進一步擴大，農業及生態系統面臨嚴峻考驗。"
+          "summary": "特朗普政府積壓的聯邦許可審批已阻礙逾1,210億美元風電及太陽能項目，數千項目錯過稅務優惠截止日期面臨取消。"
         },
         {
-          "title": "新創企業成綠色氫能成本突破關鍵",
-          "source": "MVA Pulse",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQllIQ1YtMXZLWDA3Sk5yNXphYXFua0hlZWNUNVZSWlhuLWlhUGFHWGJWVHJIUW0zZmNDaTRuREhtWUZIU1NmM09RNnNBbzJ1QjVuU3BadTk2cWY2Y08wc2Z4UXJyeDBBN0Ytb1NJdm4wX1RlSW55V0dyX0d3NzRNRldWdXlxNVdpUW9V?oc=5",
+          "title": "美國多州太陽能發電量首超煤炭天然氣",
+          "source": "BGR",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWlRqUkMwRDV0NC13ak9XTGttNnNjTzQwbkl2bEdzeUhGLTRMbFlyTUY0ZXJ0dGVWOHluMFk4NURpWVNlUUZGNHVpcE93Q2RiQ2FpSDB0dUJxdy1mcnlBamRILWRmYXptd1BTSkxaOGhoNF9YSUZfcGd4WEhRbmZnaGxtcm81UnJ5SEhFNkdONVFYclZGajJzVm5nYUdLbi1fWlNDLQ?oc=5",
           "section": "氣候與能源",
-          "summary": "報告指出初創企業在電解槽技術及催化劑材料方面的突破，有望將綠氫生產成本大幅降低，推動數據中心等高耗能行業轉向清潔能源，氫能燃料電池新突破可為數據中心供電。"
+          "summary": "美國多州首次實現太陽能發電超越煤炭及天然氣，成本下降及儲能技術進步為主要驅動力，標誌能源轉型里程碑。"
         },
         {
-          "title": "英國Rosebank爭議油田諮詢期結束",
-          "source": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cm2gm8je1kgo",
-          "section": "氣候與能源",
-          "summary": "備受爭議的北海Rosebank油田開發項目公眾諮詢即將截止，環保組織強烈反對，警告該項目將加劇氣候危機，但支持者認為有助英國能源安全。"
-        },
-        {
-          "title": "比利時山火失控 自然保護區遭重創",
-          "source": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo",
+          "title": "野火煙霧暫緩但火災季遠未結束",
+          "source": "華盛頓郵報",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdC02cUJQSXVTcEZzZC1BRE9raHkwU01iTzZGQXNpSTRPQ0FTLXlWOGEzeXo3ZW9hSXdiOUZHMVBiS19iZVlrZEFQVGhGb010cnhQY0pJUEhkc0hKcFlVcE1IVFRDY2JxdFFwOUkxWFhXS3lDU2lJbjZDcG1CV2dwU1pfU3dadmRRUS02MHN1Qkh5dTlx?oc=5",
           "section": "污染與生態",
-          "summary": "比利時東部自然保護區山火進入第三天，火勢面積倍增，燒毀數百公頃珍貴生態棲地，當地出動數百名消防員及直升機仍難以控制，高溫乾旱加劇火勢蔓延。"
+          "summary": "美國西部野火煙霧近日緩解，但專家警告火災季遠未結束，高溫及乾旱持續加劇，預計未來數月仍將出現大規模火災及空氣污染。"
         },
         {
-          "title": "明尼蘇達州長簽署行政命令阻邊界水域銅礦開採",
-          "source": "MPR News",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRzFsdmFWY3NlSG9aOVZxSzBSTll1cnRCenBOSzMyTkxwTGNuRENNUlVxcTlWWGxTbUpybk13OUFvdXJYQ2lXXzhOXy01XzJGci1lTGRaVXZiWUFWSFJZQzJvMS1sWXRKTHFvQ2JXLUx2OUN5ODNaeGo4UjZfRmJuRHN1dlJ3RktVcmQ3anhrUkZzOXZLT2JURklxLTBJT1Q0NHVvTA?oc=5",
+          "title": "英國熱浪洪水野火三重夾擊，氣候調適僅20人",
+          "source": "The Cool Down",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZG9kOE1TS1Y5NGpIU1A1ZzhzdS1aejNWRE9mNDdvQUktTTNXMHNhTlZuZmhGdEpJb1lBNmxSeTNia0lnN0kzWjhOaDdfeGY5SGhlSWNYeXVoRmNpSlUtNzY3b1FDUXpCcEZpT25wQXQzYU81ZmU5VENDOUVnczdJRGtNUTAwWll6?oc=5",
           "section": "污染與生態",
-          "summary": "明尼蘇達州州長沃爾茲簽署行政命令，阻止在邊界水域獨木舟區附近進行銅礦開採，保護美國最受歡迎的荒野區域之一免受礦業污染威脅，此舉獲環保團體高度讚揚。"
+          "summary": "英國同時遭受熱浪、洪水及野火侵襲，但政府專責氣候調適團隊僅20人，引發外界對應對極端天氣能力的嚴重質疑。"
         },
         {
-          "title": "金磚國家重申環境保護與可持續發展承諾",
-          "source": "News On AIR",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOS1RHM29wWU9CcmwwNzIzNnpJTFdYYlpBQno0NTBEbDJLXzQ1T3ctM18xUmV4RENqai12NG5VcW9sbmNNM1QxS1lGckh0NlZIVlVHNVRLZkNGNHhmTjZfb0hwWHNOb2xINE12TGVwdklyOXBSbl9yS0I1TlFxTEV2R1plR0ZRUjNfWGNpZTFwaW9YQXNFMG9ydUJpRm1XbXVMN3dUa09hRGZnZ3c2UE0xQ3hmR1ByQQ?oc=5",
+          "title": "中國須從「發綠電」轉向「用綠電」",
+          "source": "中外對話",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSWN4ZlBSUHo2S3hwYlNSZTRCblJHOGNBbzZwM0pWOUNFMW13Q1dyRWFQZTNJOEtOcmdPOHVtU3Njbk9wbUh2UGxtTDNCVUlYY0VVZ3gzcFNMam9ZTnJxQjBYN1VRaEYtRHo1U0hqUXFJNEdNN3k4aW52bGREWXJhdFAtMkRSMEZWX1RGd1FjdVlOSlRURGZXY3RFTHV4XzBR?oc=5",
           "section": "亞太/中國焦點",
-          "summary": "金磚國家於8月18日發表聯合聲明，重申環境保護及可持續發展承諾，強調在氣候融資、清潔能源轉型及生物多樣性保護方面的合作將進一步深化。"
+          "summary": "中國可再生能源裝機全球第一，但棄電問題嚴重，下一步關鍵在需求側改革，推動工業及居民消費綠色電力，而非一味擴張產能。"
         },
         {
-          "title": "中國環境法典化：重新定義全球氣候治理",
-          "source": "CGTN",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZUwzVlNBTWE3R1d4QUQ5SEdsZ09XQ0p4Vk8zQkNqT3pFV1pZOWp3SnZ3NlVvNzdSWWZMWkVkVWFjVTVwMVhWLVo3QnR2T2dPcFQwcUJXb01fNUt1ZzBJWmYySHBYOUItZTdoeUtDN2Nqc0JmR0hEVUFUT0VyTkNqRmhrbHN3TW5YMXI1cVJIS1RPYnlyQ01hWTJPSDUtRGFmanU3b3Q2Wmp5SHJlVU00VFBtOEZ6ZWZTRGE4YnBXcmlNcndMand3Zw?oc=5",
+          "title": "中國首部《生態環境法典》出台",
+          "source": "環球時報",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Qb1VxREpqenNMWHJyNWcxSThnTXBOaFBfTVJvVXBWb1ZCQW54UzN4a1YwSTVHVVlvZFpoN2pjakJZTk9KWDN3cE1UV28wNDFuVnRfR3prRzhyaEpuak1MUHBR?oc=5",
           "section": "亞太/中國焦點",
-          "summary": "中國推動環境法典立法，將氣候目標法律化，此舉被視為全球環境治理的重大突破，專家分析這是否為系統性改革還是象徵性舉措，備受國際關注。"
+          "summary": "中國首部《生態環境法典》正式出台，將環境保護及生態治理納入統一法律框架，被視為生態文明建設里程碑，為全球南方國家提供參考。"
         }
       ]
     }
