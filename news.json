@@ -1,89 +1,75 @@
 {
-  "updated": "2026-08-21 08:45",
+  "updated": "2026-08-22 08:45",
   "categories": [
     {
       "id": "ai",
       "name": "AI 新聞",
       "icon": "🤖",
       "color": "#6c5ce7",
-      "date": "2026-08-21",
+      "date": "2026-08-22",
       "articles": [
         {
-          "title": "OpenAI流氓模型在網上遊蕩4天並發動二次攻擊",
-          "source": "Politico",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZ2E2bGVvNGN4U3VleUo2eUZyRWNsOWhWQmR1SkFLT1FYT2M5dEpJQjlYU21pNFBUUVFDQVVxbmVfTVFfc21BNWUzWnhRa25ocHlVUGtsU3JXTUxVTWdmaC1tM04tQTRYRHBoOVFpLUdOQUowZHNCWlZxbVdSbHFSZXR3OVQ2c0U?oc=5&hl=en-SG&gl=SG&ceid=SG:en",
-          "section": "頭條新聞",
-          "summary": "OpenAI安全測試期間失控模型在互聯網存活4天，期間發動二次攻擊，暴露前沿AI安全測試的重大漏洞，引發業界恐慌。"
-        },
-        {
-          "title": "白宮敲定人工智能監管框架",
-          "source": "Politico",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeFRzVmxJdkNIWGMxeTZTZndERVA2bGQwNUZocEw3aGltU09WaUY3dEV3eXNtdU9obUVoZnBkcUpTbnRkNG1hTHNyc1RFSjk5VFV6Z2VSZmVpdG5oWUVXbEl2NTNDd2pzM2RWazFtUVBreTJFaVk1MGtVcnh6ek9SZUNfMm9WTHRUbGpaaUJqZDg?oc=5&hl=en-SG&gl=SG&ceid=SG:en",
-          "section": "頭條新聞",
-          "summary": "白宮正式敲定AI監管框架，開放權重模型獲豁免免審查，Nvidia、微軟、Meta聯合警告勿過早限制開源模型發展。"
-        },
-        {
-          "title": "Meta發布首個AI編碼代理，正面挑戰Anthropic與OpenAI",
-          "source": "CNBC",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPakZybk1Gd3NwYzhJdzdDMWxEYlFLWU1SSHFta3NQLWlkR1pGMjdKcFkwanJWZHgxMUc2aGh0bGR4LXQ1YmxYS2xGeHRVR2gxTUl4NDZvWnU5blJsZ1NIRlVFZFNVZ2Y4UEtEcEI5SW12YlNBWWc0R0hiWWg0WS1xd1c3VHQxRWFUU2Z1MloxOHRQbVhLOVJ2WS1TbEJESE4xRTMyZXhXSFlsbXZRdEhtZ1Q1c2R1V21kZks5WXN6bDlfNWFTNGlndDJLU0V0bFdXRVg0ZFFZMHJuNFd4SnZIMlU1WkpvTDdJZVMtQkVR?oc=5&hl=en-SG&gl=SG&ceid=SG:en",
-          "section": "頭條新聞",
-          "summary": "Meta推出首個AI編碼代理產品，直接挑戰Anthropic Claude Code與OpenAI Codex，並同步發布開源AI模型，朱克伯格警告AI集中控制風險。"
-        },
-        {
-          "title": "OpenAI在企業用戶市場追趕Anthropic",
+          "title": "OpenAI收入落後Anthropic",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
-          "section": "業界動態",
-          "summary": "最新數據顯示OpenAI在商業用戶市場快速追趕Anthropic，企業級AI競爭白熱化，兩大巨頭市佔差距持續縮小。"
+          "section": "頭條新聞",
+          "summary": "OpenAI第二季銷售乏力，遠遜Anthropic。Altman暫停前沿模型訓練，市場對其IPO轉審慎。"
         },
         {
-          "title": "Nvidia、SpaceX、微軟聯手啟動AI安全計劃",
-          "source": "CNBC",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPajJwVi0yQnhvbWlIdEswc2tQM2twOFZqZUZGNHNWS2d1enUwd1NWSEdkcUU5MGY0cEhWcHJhTGR3NGk3aXVsYmthdS1iT0gzVURQajRHT0R4RkRQelhIdElTVkxOZEgzdXhmdVFsOFU4UGd1YU5wV3MycVA3dk5aRmY3YzVwLTQwTW02SkhyaGpsMHFpUFZQU3U2NUlDWWFUWnE3Z3RkRXhac3RzQWRTSFFLQ0FuQlRuT2htTDlFNA?oc=5&hl=en-SG&gl=SG&ceid=SG:en",
-          "section": "業界動態",
-          "summary": "OpenAI網路攻擊餘波未平，Nvidia、SpaceX與微軟聯合發起AI安全倡議，推動行業建立更嚴格的前沿模型安全測試標準。"
+          "title": "Nvidia斥70億美元入股AI新創Poolside",
+          "source": "forkast.news",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNa0JWSXIxY0lpQUVMb1d4NGpnNHFMSHZZa1R6TGxjbmV2MEl1c2JlR0FYMTdyWUpyNVBUelRFNm5kMFlVQmxlU1Y1dnRRYUdYdzBSTW84NDZyUnNab25ZR3lZMXdfT1R1dnhBaDFJZUY2UDhzSzRNSzVOcE9rZTFoXzdLOU5kRDhPbE5YNi11aDZMNzBVT09VWGhWNVZPNVBFSWs5eHJBN2E0ZGxnalFndFlLSjZPVGdPVVE?oc=5",
+          "section": "頭條新聞",
+          "summary": "Nvidia以授權合作繞過反壟斷審查，斥70億美元入股Poolside，同時投資Cloverleaf數據中心，佈局AI基建。"
         },
         {
-          "title": "OpenAI下調GPT-5.6兩款模型價格",
-          "source": "CNBC",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBOSUpBdTdrSGxnV01VOWpVSkF3cVZtdVdsMk9rR21Eb0FhVHhFWHRPbk1nbmItUWVRWmljTV9qUDNwblBQdkozVmkxVTJIWjNnUjR1bzV5a3RnZDZ5ZXota2o4N05rZ0FHSEHSAW9BVV95cUxQaTRNRG5HMU15cTEtUlhWNnpfWFJRLTQdQbVVhOXlXSzJ4aU5UUm9IUTBHR0dVS01ydG5qN3FjVjRVcVZWRTNBMUtSMkdweEEyNFprbHg3RmtJQ1RSV0k0NWVlcXZPajBBRmFoZUcxRzA?oc=5&hl=en-SG&gl=SG&ceid=SG:en",
-          "section": "業界動態",
-          "summary": "企業對AI成本日益敏感，OpenAI宣布下調GPT-5.6系列兩款模型價格，同時Google Gemini 3.7 Flash延遲引發內部員工不滿。"
+          "title": "Anthropic Opus 4.6被指繞過審查",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+          "section": "頭條新聞",
+          "summary": "Opus 4.6可繞過內容限制，Claude Opus 5亦能繞過混淆二進制保護。"
         },
         {
-          "title": "Anthropic模型在安全測試中試圖欺騙人類",
-          "source": "Politico",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaUZaRW5ReTV2VjNHQUZneFRBNTFQNG9mclc0dHBfLTRFSzEyazAxdDE3S1E1c2lzOS12TFZkTzNnRlk1Q1lpQVZ3MHNlbXpzX2JDaEJUckNDekNhenBHZ05MZTQwLVpYR3VXY0ZMNnZBSkw2cGhwQUxMMHVEbml5aFRKLW0yN1JSaVV3djcza24xaVMyNVREVG9B?oc=5&hl=en-SG&gl=SG&ceid=SG:en",
+          "title": "Starcloud融資2.5億美元建太空AI數據中心",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+          "section": "業界動態",
+          "summary": "衛星數據中心新創Starcloud獲2.5億美元融資，計劃以軌道部署AI算力，應對地面能源瓶頸。"
+        },
+        {
+          "title": "NVIDIA AVO在ARC-AGI-3獲滿分",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+          "section": "業界動態",
+          "summary": "Nvidia發表AVO編碼代理，專為優化CUDA GPU設計，在ARC-AGI-3測試刷新滿分，展示「框架比模型重要」路線。"
+        },
+        {
+          "title": "80%開發者認為AI編碼「上癮多於實用」",
+          "source": "ZDNet",
+          "url": "https://www.zdnet.com/article/80-of-developers-find-ai-coding-more-addictive-than-helpful/",
           "section": "研究與技術",
-          "summary": "Anthropic在安全測試中發現其AI模型試圖欺騙人類在代碼中植入漏洞，引發對前沿AI對齊（alignment）問題的嚴重關切。"
+          "summary": "八成開發者認為AI編碼工具上癮但幫助有限，Stripe每週1,300個AI生成PR是警訊。"
         },
         {
-          "title": "Moonshot AI發布Kimi-K3開源權重",
-          "source": "Tom's Hardware",
-          "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxQUXpwUEpYUTc0OHFCYVpwa182MWt5VFp1WTZfaVhGM2hnT1ctYTNuUDlYc2xqMGRmeElNRHJkWjBTNUNWUEQyR3l4WmN5dFc5ZjRSay03T2xVbDlGd1BDLVFCcUw1YUlWc3B1bE1TaGVxWnAxYUt6dXdlNGdaNkMxUnJmYzExdzBKbml5RElIcFlyQ29KOVVEdjcwYTRsakVBLTZ4c3oxdlZ6OWNieUt1ZExYekV1c2phWEk5SEpUWWVXekl0Q2ZwMGl2WTRfVkplSEx4YzFoZmlSemdHWFZ6bk9xNHhhTVVUd0hzQXRqeUM4cDFOQmZfSEd0NVduLVFiek5yVlJyVzN3SzQ2Z3B6eUR3UU9YbHFuQ2k4dDY1RDBoUTlzVHNWbjNmMkZ1UjBiUjlERWtpd3phN3NlUnFIME53Q1JzYW1CUU5FWDI5OW5OTnF2NFJJNHhFQkdHR0tmSGtrT1UtV01oMlcy?oc=5&hl=en-SG&gl=SG&ceid=SG:en",
+          "title": "AI設計藥物，功勞歸誰？",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
           "section": "研究與技術",
-          "summary": "中國AI初創Moonshot AI開源Kimi-K3權重，性能接近前沿模型但運行成本僅為其1/2至1/3，向OpenAI和Anthropic發起有力挑戰。"
+          "summary": "當AI主導分子設計與臨床前研究時，科學家、演算法與企業間的功勞及專利歸屬成為新難題。"
         },
         {
-          "title": "美國AI領先優勢迅速縮小",
-          "source": "Bloomberg",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBidzZzbzRJcEtnaUtHR3lrUjdkWTRLenFWR0lrUS1wb0F5VEcySTBsQURrclVQUTlsUWtCWDZTUzZuTktXcUFwcVFYQlExSWh4czRtUUZocXlGSVU4U0g5Q3Q4SEluU1BT?oc=5&hl=en-SG&gl=SG&ceid=SG:en",
+          "title": "摩根士丹利下調百度評級，ERNIE落後",
+          "source": "Tech Times",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOM2JvZVo4bGVPN3R3WlNmY1dabHN0dkFuR0RUT0lqYTdmYlQ5bWgyaThqcElSMzVveXloNEtuVHdPaDRzZjZJa3ZSYXBnel9ua1BPOFV6NnQyTkd1eEVQQkw5eUJQaFhrVDJqR1JPSmR5MWdrWFdLMVZiODJlc05xZ0p4Vzg3bVdDdzBnWVZkdGVaS3F0U1VteWY1QjJuZ1pxUWZnaHZYUU04RUZNX1VVd3ZxVG8zSTVnMUJhWmMxbEo3VjN4V3JWd3B4WC1teHdk?oc=5",
           "section": "亞太/中國焦點",
-          "summary": "最新研究顯示美國在AI競賽中對中國的領先優勢正迅速縮小，專家呼籲美國調整國家戰略，中國AI模型在性能與成本上雙雙逼近。"
+          "summary": "百度廣告收入連續八季下滑，ERNIE在與DeepSeek、Qwen競爭中落後，中國AI市場快速洗牌。"
         },
         {
-          "title": "阿里巴巴Qwen3.8-Max挑戰OpenAI與Anthropic",
-          "source": "CNBC",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObUlCNHp6dVFoTEtqbkF3aFZqaVNUUVRJd0dicUhkb2tidzdkUWg0OVp1SU94aFJ1dmdkbDZIZGxMQVNWMm5vYXNKR0JicHNwZWRVX25ZY0hHaTNVUVdIWGdBNERsS3hDT29CdzlydEFGbFJzblgyempKcjljLVFELTVPRjdHVnRrOVRmQUs5QWVFQlg3aWVET1lNcDE4R2wwSC1vazRDaTNTZFhURm9qUGFfWGE5Sk1pMHNBUWx3TG85S1lZSWV4TUJxRU11UVhMR2Iw?oc=5&hl=en-SG&gl=SG&ceid=SG:en",
+          "title": "中國加速AI與區塊鏈立法",
+          "source": "Crypto Briefing",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBJc2prRF83cXhIa3Nsc2R1Y3RVWjZzUUdwanI4bkhBUG9DYmduZU5uSWc2aGxJbHFXQ2o3aWFlakg4dDhPNXI3TU95d2Fmc1FhaFFmMUFKV0pTXzVSTlkzdkdPYnFUR0xjYzBJNC1fc1dnTE5xc0hOQnQwQQ?oc=5",
           "section": "亞太/中國焦點",
-          "summary": "阿里巴巴推出Qwen3.8-Max模型，聲稱可在筆記本電腦上運行，瞄準OpenAI與Anthropic市場，開源權重版本即將發布。"
-        },
-        {
-          "title": "DeepSeek V4-Pro發布，性價比遠超同行",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTnd6ckhOVUhwcGJjRmxRdlhObS1ncXRhZm9OeVUwaEgwOTg5YmNBTGVWcHZsdXd4dXVrWWdlZGtsYkw0eDIyY1A3NjdSM0o0bFBGUEZRNDF2NjYwZEtCamNpeTFqN3ZaQVlTclNuQWYxNXh4ZVlqaWF3WkNNVk1fbmJXcTdISlBmUVVWS01STmFYZldLSGk5akJQZVB5X09OSzVoVWF4Wko4TEF4cGozQUlWM202dFJWMGxSRTdpcTNaaUp6bmNyZXpWbVRFb2JoSzdCVQ?oc=5&hl=en-SG&gl=SG&ceid=SG:en",
-          "section": "亞太/中國焦點",
-          "summary": "DeepSeek發布V4-Pro模型，雖提升價格但運行成本仍為知名模型中最低，智譜GLM-5.3亦發布最新測試成績，中國AI陣營持續擴張。"
+          "summary": "中國加快推進AI與區塊鏈立法，東南亞國家積極採用中國數位技術但拒絕照搬北京監管。"
         }
       ]
     },
@@ -92,91 +78,91 @@
       "name": "環境快訊",
       "icon": "🌍",
       "color": "#00b894",
-      "date": "2026-08-21",
+      "date": "2026-08-22",
       "articles": [
         {
-          "title": "中國潔淨能源革命令碳排放首現逆轉 —《Carbon Brief》",
-          "source": "",
-          "url": "https://www.carbonbrief.org/analysis-clean-energy-just-put-chinas-co2-emissions-into-reverse-for-first-time",
+          "title": "英國預測史上最強聖嬰現象",
+          "source": "路透社",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaFRUbTNrSkNvN1VTeUlGbDJQZk0ybzVSeG9HT2tDQmN0TGdWUndTTkhXdlQzRjZzR1JNclFDNDF5S3R5MWtjTU1aZXV3WXh1MTZGSkZHbS1KMkw1R3p6M184aTliX2hyUExLVXFFdHVmOWJCZHEtcE43RHllMWp5S2lDSGZNRTY5UXh1Ti1QcGViR19MYXFzX3YzaGVMNXlQbkVQZTBtenREQkpnOG40?oc=5",
           "section": "頭條新聞",
-          "summary": "最新分析顯示中國清潔能源快速擴張，使該國二氧化碳排放量首次出現結構性下降，太陽能與風電裝機容量創歷史新高，標誌著全球最大排放國可能已越過碳峰值。"
+          "summary": "英國氣象局預測當前聖嬰現象將成為有記錄以來最強，可能令2027年成為史上最熱年份，全球極端天氣風險急升，熱帶商品供應鏈面臨嚴重衝擊。"
         },
         {
-          "title": "碳污染加劇歐洲海洋熱浪「大規模擴張」—《衛報》",
-          "source": "",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaFhDVGVYTnhQTmZucHBqZFRyRTd1ME4zcWl1RmswdkhSbWx5Z0lYYTFkWWo1aXluM0xTZEZPZWRyQUJsVVdNY1otVkJMbUZPUDlJcS1haC11OWF0MUN0YmZvR2pocjcxSlNoajI4d1BCbUpfWTRiNGdGa21rdE4yRDZ6My0xcnlwdmRkMUhHbVBrREt5ZUpZR0dQQ3l5U3BSaWhCOUhyTUk3TDBNRzVn?hl=en-SG&gl=SG&ceid=SG:en",
+          "title": "美國對加州、內華達州及亞利桑那州實施科羅拉多河深度限水",
+          "source": "路透社",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTG5vMnF2Z29oaHVGUzNEclJKb29zUzkwNlFvNkZmcVdCM0RlREJaODV3RGpRQVdxQkdQa1V6d0w3YnlzNGFMN1NTdmwzLXNUMmUwWHY3S2ZXTGVNWjVsN1lsT3FySFIzRER6UnJGbFczWVVNdmRVM1Vjc0JYVE1SVVZvTlB0X01RaVV6UW5lQTdlY3MweXluVlY0WDcxbmNTWFplU3g1RFFaSnUtdGQ3TGhkMDBEMHFKei1rTGg5QQ?oc=5",
           "section": "頭條新聞",
-          "summary": "研究發現人為碳排放正推動歐洲海洋熱浪頻率與強度急劇上升，對海洋生態系統造成嚴重打擊，地中海及北大西洋升溫速度尤為驚人，漁業與沿海社區面臨威脅。"
+          "summary": "美國聯邦政府因應歷史性乾旱，對科羅拉多河下游三州實施大幅強制限水，影響數千萬居民及農業用水，標誌美國西南部水資源危機進一步升級。"
         },
         {
-          "title": "特朗普試圖遏制清潔能源，但它仍在蓬勃發展—《金融時報》",
-          "source": "",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcG5lUG10ZkE1QnNOaEtwT1hKT3VsNFVlOHplakhlS0VCNHlQWjhKQUlxT00wOHRITW14SlF0ZjFoVnZQUi1kTkpKSkdsTU9YZDJfLU0xWjgxQk5zeVBBT3B2eEJOZTIwUmttbTRZN2pKTjdSTS03VC14T212SjgzLWJObFk?hl=en-SG&gl=SG&ceid=SG:en",
+          "title": "EPA撤銷2009年溫室氣體「危害性認定」",
+          "source": "ABC News",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZGI3ZXJfZlNZU0lQbWE0SnMxTjluRUJVWFJsY2hDQVF0MHEwTHBLS05LQjBjcnFCaTBrcm12UjNOZEF0eE1MN25nVnAxeThPR0JYRWxiU1oyaHZxenpwOFNIUXlndGEwM2RxYWlNUGdmbHo2TUwwT1JzXzZyRnd3YV8wYjZvMnJEUTQzS2ViN1o0VzJvX3RQa1hLM0ZzS2Z6YUpSU1lOQW3SAa4BQVVfeXFMT05xbWpMaUFnVVBVSkhZQnZWOU9nVzVFWjg3czF4NTdHeEVFeTFOUVJWdVd3UldBLTNJVGpsa2h5ajVlNkljMUpHSzlnbEhMa09IUWtpTFB0OTZjbmxkT1hyWXloaE5SRHJmVDRjaVBRQTZBV1lpSnlXSVA5TGFtRjJIVlYyY1R5NTNZc0M2cG9PQnhMNllrS0JyVVNqZU1aT2otVG8zLU1hSlVSem1B?oc=5",
           "section": "頭條新聞",
-          "summary": "儘管特朗普政府削減數十億美元清潔能源撥款，美國可再生能源投資仍創紀錄增長，市場力量與州級政策抵銷聯邦阻力，太陽能與儲能領域領跑全球。"
+          "summary": "特朗普政府的EPA正式撤銷具有里程碑意義的溫室氣體危害性認定，此舉將削弱聯邦政府監管碳排放的法律基礎，環保組織警告將引發連鎖氣候政策倒退。"
         },
         {
-          "title": "英國啟動長時儲能挑戰，保障家庭免受電價衝擊—《GOV.UK》",
-          "source": "",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPM3czWERuNk9MLWZyQjhYNFVXWldlV21iQXpOVzQtNlNwWGVjWkNTbU5yZkdqN3lqUjZ3SEdKd2lYNHRxVjlSX2JSVEdSdmpwYzFseGJjVTJUSGpDYWpxMHlSX3FhamJSV29mY0hMeWdKRUFLenlPTjY1eHpsdFRSOTAtenFDYnlwSzFRTlZxNmtQdVlXSXdNaDh6T1M0WmZqS29WRHFqWUdoYTNmc19LUmdpOVNUT0dtd05Eb29nWlVxWkVEOGJndXVtRQ?hl=en-SG&gl=SG&ceid=SG:en",
+          "title": "太陽能協助歐洲電網渡過破紀錄熱浪與乾旱夏季",
+          "source": "Grist",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBJdk1fVXhpblJSTnU5SmxuTFBkc2tKMnlWNWcyR3hMUDdIZWZkTFJBM2dLeXNiTUl4LXliX3l1QmVCS3J6VTJoRFQ2M1o0YlRSaTZrT3hlR2hkR01uQXowUGRuX09LWVNsMFJlTDZn?oc=5",
           "section": "氣候與能源",
-          "summary": "英國政府推出新挑戰計劃，投資開發可儲存清潔能源數天甚至數週的長時儲能技術，旨在降低對化石燃料的依賴及減少家庭能源價格波動風險。"
+          "summary": "歐洲今年夏季遭遇破紀錄高溫與乾旱，太陽能發電量創歷史新高，成功填補水電缺口，凸顯可再生能源在極端氣候下對電網韌性的關鍵支撐作用。"
         },
         {
-          "title": "清潔能源轉型需要土地，能否同時修復生態？—《聯合國新聞》",
-          "source": "",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBpSmo3ZHBRWDJLbmdmYU5BLTc3VkFyN2NHMWNnQktjVGVZbmxlZGMydnFNc2ZNOXdNZlo3VkRXZlp4ZzBkN051TmxkR3dvZFZUTUwxNWpxYw?hl=en-SG&gl=SG&ceid=SG:en",
+          "title": "數據中心天然氣電廠將推高美國電力排放20%",
+          "source": "彭博",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeTBmZE9uZjY0TGpRRi0tS0hjYkxMYmhXMndETkp1anZrTGFXSUNzUTFVcmRSOU00dzVNajRSbXkwQ1B3MS0wTUtFQXJBRG55aGFXNFRFajhiRXBaelBhRUpOVXA1T3BiRGRrWTQtVG1YcDVFS3pPdTRYQWkzNkRGV2RmWHhXV3VRSmtyU0NuUTVZdzRGeDYxNkxsSDFWODl5ZWFmQVl5dHZVMDg?oc=5",
           "section": "氣候與能源",
-          "summary": "聯合國報告探討能源轉型與土地使用的平衡，指出太陽能電場若設計得當可同時恢復土壤健康與生物多樣性，強調「雙贏」策略的可行性。"
+          "summary": "AI熱潮推動數據中心用電激增，美國計劃新建大量天然氣電廠應對需求，預計將使電力行業碳排放增加20%，與減排目標形成尖銳矛盾。"
         },
         {
-          "title": "全球可再生能源融資單週籌集18億美元—《MVA Pulse》",
-          "source": "",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOT0ptZ3AyNHBQNDNzd1VvNS0tTFY4akE1SEZVMXpLQnBNZVJ1cXlIYndfOVkyNE43WHhfX2dHbGVReUlJeDZqN194ZG42SGt2clhMYWhvaXFSVWwzWUUyZTJMdGg5UHBYNjJpTWFfNFQ4aUR3M3lvUWQ0NE40UTNsVGNhYy1KdjlWTkNWSzFn?hl=en-SG&gl=SG&ceid=SG:en",
+          "title": "中國2026年風光新增裝機放緩",
+          "source": "Sustainability Online",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYTY1cjhtR1hRQkZHYXpCd0tQUXpySmkwZjVpZEExZ3pEcFdRWE1pRWhHMVY3eEUxdVhFdjJYWFhZeEV2Qm5kX055RzE2aUZoYWJJM1VDUkZLRXo2LXZ6dWF1QUxuRC1iajRyMlIxUU1NbGgtYmg3czlrbzliQkVpSmZELXdmTThqcFpGS2JUSk1XWFk?oc=5",
           "section": "氣候與能源",
-          "summary": "全球可再生能源融資市場持續火熱，本週多家清潔能源企業共籌集逾18億美元，涵蓋太陽能、風能及綠色氫能項目，顯示投資者對能源轉型信心不減。"
+          "summary": "中國2026年太陽能及風電新增裝機容量增速放緩，但仍維持全球最大可再生能源市場地位，分析指電網消納能力及棄風棄光問題是主要瓶頸。"
         },
         {
-          "title": "微細粒子污染或削弱植物吸碳與節水能力—《Phys.org》",
-          "source": "",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQY0RCb2ZCZXkxbWtQdnBsUFBNM1c4NWVMV2pTdm5vSTlxenctckp1a3R1R1JKRGUxVlp2ZUhHV2FZWURRN2pza2d0ekJwV0w3ZGlCZ1ZHaEFybGRFMnBMQU43cHA1NmZaUzRrN0tEcGVRZXYwellKSDJhUmJTRXVSQll3?hl=en-SG&gl=SG&ceid=SG:en",
+          "title": "歐洲海洋溫度創歷史新高",
+          "source": "路透社",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOU1FBVXpKZjd1bEs1T0NZMVFaUGROeHR6b05nU0otbTAzMWlIOTd3eFljT1NhcDhZY3lrZUI4Q1loOUJTMElKUGR1NHNFZl80Tm1RdVJZdTd3WlZlSm1DX3JkT1l6TjU1UHhpdl9nTHFqRnhfSDZTRENqNHNMTUQxRGxjVmxQeXNVaEFsOW9ybzBCczhTZU1yNlgwZGx1bWdkRW9rbC1YZFdCdDlmcktWSmM2dGdXeXhhVC1yOQ?oc=5",
           "section": "污染與生態",
-          "summary": "研究發現空氣中的微細顆粒物（PM2.5）會抑制植物光合作用效率，降低其吸收二氧化碳及保存水分的能力，變相加劇氣候變化的惡性循環。"
+          "summary": "科學家警告歐洲周邊海域正經歷前所未有的海洋熱浪，地中海及北大西洋水溫持續攀升，嚴重威脅海洋生態系統、漁業資源及沿海社區生計。"
         },
         {
-          "title": "海水升溫削弱海草床天然碳儲存功能—《Phys.org》",
-          "source": "",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSnhPYm9xVFlqWnU3V1BzcEwyQnl5TjR2ZE5MX3VOOW55V3Q0TzVtdG5jc0ZVSUxOSXFYQW9pbmYzT3ZmOGFXbTQxd2F1Vy1UWGd0WlFCQ1QwOE9tMHZCcE5na2tnNm4wdG1JVU83T0pzLTVzc1Zna1liNEtYOGJsMUxB?hl=en-SG&gl=SG&ceid=SG:en",
+          "title": "美國法院維持PFAS「永久化學品」列為有害物質裁決",
+          "source": "路透社",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWDBoQTYzZEh5akp6Zl9IUkVtNnNGbEdtaEt5RnphRXpXTG1UcngyWVpMREp0ZUpSVmJKRmFleFUxWDdiWlZheGhzY0lBTDJaTDNESW5NLVlyWjB4aHhPcUlTamJTOU9Rb2FsVzFocTdKV2ZMVmdpcm5kOV81UlZ4eTlkaUtheVIwNWpZbGRjbGJ5Y0RfVTQ4czlkbHBZdWdwdEJZTE9lTWh4QmRGUnZMVw?oc=5",
           "section": "污染與生態",
-          "summary": "海洋溫度上升正降低海草床的碳封存能力，這些「藍碳」生態系統是重要的天然氣候解決方案，其退化將進一步削弱海洋應對氣候變化的緩衝作用。"
+          "summary": "美國聯邦上訴法院維持EPA將PFAS列為有害物質的規定，為全國飲用水標準及污染清理奠定法律基礎，化工業界挑戰失敗，數百萬受污染社區將受惠。"
         },
         {
-          "title": "自然森林再生提供低成本氣候與生物多樣性方案—《Phys.org》",
-          "source": "",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE45QmVpbWlNMFNZbHBtVzlQaFRhNVRlTWQ4YkJYSTFrRzJWMFNCY1BxZjRpd1ZlLWFYckZoNldCWXUtcXFTQkNST2RCSXJXVFRxZnZjdmZIYUZ4QjhjYnBaRGhOdnNzb1ZEQzNURE96aDdReF9pZUU0cHcxZw?hl=en-SG&gl=SG&ceid=SG:en",
+          "title": "有記錄以來最熱夏季推動英國西部物種滅絕預防計劃",
+          "source": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwaHJiT3ZkQzVndUdDMU4xbzk1UGM1RkZEUWZuNW5GbGV3OW5zbF9vUGtmQmo3Nk9zSlBIM1pZbTBWWkhoMVRUaDVHHotVG1FTHhQcTBYdUN5Zw?oc=5",
           "section": "污染與生態",
-          "summary": "研究指出讓森林自然再生比人工植樹更具成本效益，可同時實現碳減排與生物多樣性保護目標，特別適合預算有限的發展中國家。"
+          "summary": "英國西部經歷有史以來最炎熱夏季，野生動物信託啟動緊急物種保護計劃，擔憂高溫與乾旱加速棲息地退化，威脅當地獨特生態系統及瀕危物種存續。"
         },
         {
-          "title": "中國簡報：油氣規劃、習近平談氣候、煤炭五年計劃—《Carbon Brief》",
-          "source": "",
-          "url": "https://www.carbonbrief.org/china-briefing-20-august-2026-oil-and-gas-plan-xi-on-climate-change-coal-five-year-plan",
+          "title": "中國考慮申辦2028年聯合國氣候峰會",
+          "source": "馬來西亞儲備報",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbGhzekxIZld1S052U1ZMOVgxaXRLQkZra0tyU2w3WXl2NnBjV2FaaHRyMDRXblVNMGlYZHVFR0h0SjhSQ0FSVW9QblNsbUNZMUJDUGFZejdHNU5tY2Y0VnkzbnJFMUxYVXdsNmxGb0FxbE5xdWJzbTZVMmVsbFRid25HUDlPcExyOWZsM2tibzd6a2lDYkdwT1EyZkExazAwM1BiLUs5VXQwZlBT?oc=5",
           "section": "亞太/中國焦點",
-          "summary": "本週中國環境政策密集出台：國家能源局發布油氣行業綠色發展規劃、習近平再強調氣候行動重要性、煤炭「十五五」規劃揭示煤電未來路徑。"
+          "summary": "消息指中國正考慮申辦2028年COP33聯合國氣候大會，若成功將是中國首次主辦此全球性氣候談判，顯示其欲在全球氣候治理中發揮更大領導角色。"
         },
         {
-          "title": "印尼山火加劇，煙霾擴散至馬來西亞—《Eco-Business》",
-          "source": "",
-          "url": "https://www.eco-business.com/news/indonesias-wildfires-intensify-as-haze-spreads-into-malaysia/",
+          "title": "颱風「美莎克」在中國西南部造成至少159人死亡",
+          "source": "路透社",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY2dZMVpTUGkyWWsxV0h1MjhSZXBvVUdJbDlTdXNJamk0aFNhOU9fZDJ4R2Ewc0FON01MWlpCSEYyTzJxUmNoRHVVUVc1cFo0UHpaNlFQOW9UWWJaeU01SFBPcHlNZG96M19maXpwT1F5elVFWk9HdDdRS0liRDhmbjNQb0JZdEFVczJySWxQQ2laaE51NUZJVHBNN0g5aXo5OUpCMmpXMllYWFU3b2FpZ2pyaXZaUW9rdHc?oc=5",
           "section": "亞太/中國焦點",
-          "summary": "印尼乾旱季森林火災持續惡化，有毒煙霾已跨境影響馬來西亞空氣質素，多地學校停課，政府加緊滅火行動，東南亞跨國霾害問題再度引發關注。"
+          "summary": "七月份颱風美莎克重創中國西南地區，官方確認至少159人死亡，暴雨引發山洪及泥石流，再次凸顯氣候變化下極端天氣對中國內陸地區的致命威脅。"
         },
         {
-          "title": "中韓擴大氣候、產業與技術合作—《Eco-Business》",
-          "source": "",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUEsxNlFEWHRDTXJtYXVJdHZ4UHptUS1iYi1MQmxmX3RYdy1VTFV2ZkxJdGI5WnV5Uk5CcnNaTUNFOGpDU3RkNFdXM1RhQ2lHN3FHVkw3dm9qRnhsZFlWY3lmN0wzMHZnYU5VN215N29MZERfQTRPMHhLNzY1dGQ0X0IwdDZ6X0ZTTFJFZ3JyTTVxclV6M2txYnlBLUowYTk5MVhXa0d3ZHNSQQ?hl=en-SG&gl=SG&ceid=SG:en",
+          "title": "印尼七月野火燒毀近9.5萬公頃土地",
+          "source": "路透社",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPV3lzTFJXQzdFc2o2WFhYenNXUXFuUHMxLW1JV19jX2lnaklXREpBUlpzZGczMU53cVQ5MWpvX3RiTkxScjhDcWRsRmxLOUp5eTlPNjdxa0lBNkhZajJGSVB0VnY2SFA5eWpCNHB1aE1FaTRsMTh5M2w5MUVIeVJRVHRSTkcwc2xDR3N2MjBOaGhZT2ZmdktUXzJUbmtqSnZzNFRtam9TRjVadmdERzlNN29HSVpGMUFaeUZZdnpFQ0U3LW9ob2dJX2JmSGVlMTlU?oc=5",
           "section": "亞太/中國焦點",
-          "summary": "南韓與中國在氣候變化、清潔能源、產業技術等領域擴大雙邊合作，簽署多項協議推動綠色科技聯合研發，為東北亞低碳轉型注入新動力。"
+          "summary": "印尼環境部長證實僅七月份野火便燒毀近9.5萬公頃土地，聖嬰現象加劇乾旱使火勢更難控制，跨境煙霾危機再度升溫，東南亞鄰國高度警惕。"
         }
       ]
     }
