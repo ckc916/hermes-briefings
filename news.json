@@ -1,89 +1,75 @@
 {
-  "updated": "2026-08-23 08:45",
+  "updated": "2026-08-24 08:45",
   "categories": [
     {
       "id": "ai",
       "name": "AI 新聞",
       "icon": "🤖",
       "color": "#6c5ce7",
-      "date": "2026-08-23",
+      "date": "2026-08-24",
       "articles": [
         {
-          "title": "Nvidia通知客戶AI晶片價格將上漲超過15%",
-          "source": "Fortune",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWS1NOHBfNzB3RGJTaXpPM25VZENhMWdGdkg1M2JHZjZoOWxtOGotQXh4TXZ2V0tIcDBscldpd0VuMy1fTEJzbF94dWVpTmZOZUd1NTdyZ2tjQzAzc0JHWEU0eWt3Mng3aVlObXZhMkYtaDVPNXh4b0hlUGJUb0VyNW5EU3hmcmY0WEFLMzRCakhpeFdIUWFkV2tZMTJXWllhR29DTUREQktNOHlUMnhSQ0s1Vk9ndw?oc=5",
+          "title": "OpenAI警告：AI將發動「持續性」網絡攻擊",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/technology/2026/aug/23/openai-cyber-attacks-threat-chris-lehane",
           "section": "頭條新聞",
-          "summary": "Nvidia正式通知客戶，AI伺服器價格將於2027年初起上調逾15%，主要受記憶體晶片成本飆升推動，Bloomberg、Fortune及SCMP均確認此消息，市場憂慮AI基建成本進一步升溫。"
+          "summary": "OpenAI全球事務總監Chris Lehane表示，前沿AI模型已具備規劃和發動網絡攻擊的進階能力，公司本周宣佈暫停最先進內部模型的開發，並呼籲業界建立新安全標準。"
         },
         {
-          "title": "OpenAI大幅下調GPT-5.6 Sol API定價逾20%",
-          "source": "ET Enterprise AI",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNYU1NZTc1WUE0amNaV3dYTkItSU1DV00zMnpuVTNYc2EzLUx0ZGJTOE03NzJ2LU9rOEhCZlppcVRjSzlKV3Y2VTRxa2taSEZDUERLMGxnRHE3OEgyWmVBQU9kVnJCWkttcGhRUDdMdXJtWFZWcTJRb2ZNVnA4WVNjV293S1BONHpwWE03aHc4THotSmpoalllM3VXTTNQbm94T1gzbVBVXzZIdlA0aWRqN0hUVjhvdElPTDl6UDlfVUNPUnVkQkp0cUMyR0V5UQ?oc=5",
+          "title": "OpenAI安全全面改革：Astra模型具「關鍵級」網攻能力",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue/",
           "section": "頭條新聞",
-          "summary": "OpenAI宣布GPT-5.6 Sol開發者API價格下調逾20%，較Anthropic Claude Fable 5便宜約40%，反映AI模型定價戰持續升溫，開發者成本顯著受惠。"
+          "summary": "繼AI代理入侵Hugging Face事件後，OpenAI大刀闊斧改革安全協議，停止大量訓練運行並收緊內部防護措施。Astra模型被評估已達「關鍵級」網絡能力。"
         },
         {
-          "title": "DeepMind校友創辦Inherent，AI研究複現超越OpenAI和Anthropic",
-          "source": "TechCrunch",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOemw4clFhZFIwSksyVXJnZ2pjYURuQXBncnpNVDZRb05ucVVqZjJFdFNaTjUyZUFQdTctRXlqcEFMWC1MeDhvSEpFSDFlRXhOMVdWakFOSmFKQ0dGUGdNX0dqS1JMMEpxZHpyMXBUTEpoNGNPZ2VkNFhOc3hkUXJoWGk5cHJ2WWdhQnpFVDFWdmNtUWZ5cmhhSXo3bzQwTXM1M3l0UUJrNmxVdHpQNzNBUTktTllpSkFXNWNwNUVsUTcteFdNLXdpR3FIc3J2dWcwY0p6OU1TQ3JYdEN0VGQwSlBZc3BBZ19HYkE?oc=5",
+          "title": "Greg Brockman的OpenAI時代",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
           "section": "頭條新聞",
-          "summary": "由DeepMind校友創立的初創Inherent聲稱其AI「隊友」Faraday在科學研究複現任務上表現優於OpenAI及Anthropic的模型，引發業界對小型專業AI代理的關注。"
+          "summary": "經歷馬斯克訴訟、Apple商業機密案、高管離職潮後，OpenAI聯合創辦人Greg Brockman悄然成為權力核心，在IPO籌備期間全面掌控公司方向。"
         },
         {
-          "title": "Anthropic Glasswing網絡安全AI項目吸引微軟和AWS加入",
-          "source": "UC Today",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYlFCMEltMzJjdGJfNnhYRXZ0UFF5eC1oVDdfUWZtdE52c3FwLWFfcGFIQms1LXEzUGNKdzM5R3o4TWNiUmdlVWFfYTlUSC15aEl6ZlhXY3lYNTNWRFBOamJCSGMtVjFWZFh2MUpMcEtfd3RHR3B0UEhrekMzbEE1RkxzWE4tM2xrdUc4QWtrTjZMejlMY0NWZjl3RFQ?oc=5",
+          "title": "LinkedIn「AI垃圾」按鈕已獲百萬人點擊",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
           "section": "業界動態",
-          "summary": "Anthropic的網絡安全AI項目Glasswing吸引微軟和AWS成為合作夥伴，顯示AI巨頭正將戰場擴展至企業級安全領域，加劇雲端AI競爭。"
+          "summary": "LinkedIn推出「看似AI垃圾內容」舉報按鈕僅三週，已有超過100萬人使用。此前調查顯示平台41%長文帖為AI生成，公司同步移除AI輔助寫作提示功能。"
         },
         {
-          "title": "Broadcom以潛在1000億美元AI融資交易挑戰Nvidia",
-          "source": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPem5iNks2cklZUkwxVldQVjN1UktQYUR2SGRHZktnYURGelRtWlVWREF2b3ZseV9QZWxNYkMteXFDRms3bmxsYkFma0E5dHZ3NGx2OHBiSFBpMjRoOHB2OF8zMW1JbHo5cnU4VEVlY2tYS0R6TnVoYzJfNVV0aFZtRXJhME9MbzRMSGFTa3pOSXppbG1uX3JBTS1yVUJucVB1WHAwamFtZFp6dlJ3VGUxMVNZaXBNZWZjYjI2MDZzYVQ1TWhhb3U1elllN2NETFdfRWRfdw?oc=5",
+          "title": "Nvidia據報向客戶預警AI相關加價",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/08/22/nvidia-customers-reportedly-warned-about-ai-related-price-hikes.html",
           "section": "業界動態",
-          "summary": "Broadcom正籌劃高達1000億美元的AI融資方案，冀在AI晶片市場挑戰Nvidia霸主地位，反映AI硬件競爭進入資本密集型階段。"
+          "summary": "Nvidia據報通知客戶將因應AI需求飆升而調高晶片價格，引發市場對AI基礎設施成本持續攀升的擔憂。"
         },
         {
-          "title": "Qualcomm推出AI晶片與Nvidia、AMD競爭",
-          "source": "TechRepublic",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQLVBsbkotY05raGpocUd5b0J3aXo4RjJDZEpzUlBSM1cyekZBZWtpV1BpeUN6alJGV2dlOHlfbmtxcnFiWEFRYmx5M2hFMXV1Yi1uYjNqVW9WZmZMNjZQSEpydWxQY1p2UmJUZDJHdy1kal8tcjBjdFdCeFp5VHQyZlBJZVczb3BSUWprVVdDUjNOZnIxd2c?oc=5",
-          "section": "業界動態",
-          "summary": "Qualcomm發佈新一代AI晶片，正式加入與Nvidia及AMD的AI硬件競賽，瞄準數據中心推理市場，AI晶片戰局日益擁擠。"
-        },
-        {
-          "title": "AI代理需要預算，而不僅僅是代幣",
-          "source": "StartupHub.ai",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeEZvWlFjNWQ1RWExRXV3ZVVMNmdsX3F2UUVpak1CQVhJYi01Rm93cUtuNk1sWnlKVFNwaUNKTEFfTkJDSWl1dURET3RJemJSQkZqUmdEd3VEc3hEUmVkREhaVEFlbERFTEkzcXZDa09pV0x0X1N0dWhxelMxTEdIZ3dTYzkwSFI1NmhQcnF1dWs3eGNPOUJEOWFzUElVSVdSMEF3?oc=5",
+          "title": "AI引發數學界存在危機：OpenAI Astra一次解決10大難題",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
           "section": "研究與技術",
-          "summary": "業界提出新的AI代理設計理念：應為代理設定「預算」而非僅限制代幣使用量，讓代理在成本約束下自主決策，更貼近真實商業場景。"
+          "summary": "OpenAI內部模型Astra一次性解決了包括高維球體堆積、量子博弈論在內的10個長期未解數學難題，菲爾茲獎得主James Maynard坦言「正在靈魂拷問」，數學界陷入前所未有的存在危機。"
         },
         {
-          "title": "Rémi Louf：代理框架是「有害的」",
-          "source": "StartupHub.ai",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOc2lJWjAzM3JLZ25uNGFydjFmT3k1LXRFZ3RZcW03SF94MVNabTNrS2VoMXJXbWU2VW9ER3J0R0p2UE5MVDF2Z044Snc5TG1MNjF6Rk9BbFJMZlR6X0NnZWVoRWdXc0ZmeVoxMkFOQ3N4dG1KYXhlYmF2cmdsRDI5OW9Td05CaV9ZYl9oa2ZON29WRkZST1JVTWlGc3hJekpDUDRN?oc=5",
+          "title": "Anthropic隱形浮水印數小時內被破解",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/coders-say-they-already-found-workarounds-to-claudes-invisible-watermarks/",
           "section": "研究與技術",
-          "summary": "知名開發者Rémi Louf公開批評當前AI代理框架過於複雜且「有害」，呼籲業界回歸簡潔設計，引發開發者社群熱烈討論。"
+          "summary": "Anthropic為遵守歐盟新規在Claude輸出中加入隱形浮水印，但程式員在數小時內即在網上公佈繞過方法，引發對AI內容標記技術實效性的質疑。"
         },
         {
-          "title": "Elon Musk稱中國「遙遙領先」是最強AI競爭對手",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUkdCeGdDaHJscWhNQ2JLV3ozcVBicTZwaUdiYy1hdlRBc25Gby1zcTlKUWJEVjI5Sm1qeXN4M1BRUHdmWHczTWtLM05BM3FucEVYQ1VVMk1fV1cyTl9wNDBLSTllY0kyRXYxRHJ2N0wtWWNlRlg3eVVHbWpZRUpYNW1FQTJiNFFsSzJGU1FLa1NZZw?oc=5",
+          "title": "內蒙古：中國AI熱潮的意外心臟地帶",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/",
           "section": "亞太/中國焦點",
-          "summary": "Elon Musk公開表示中國「遙遙領先」是美國最強AI競爭對手，呼應其2011年的警告，正值中美AI軍備競賽白熱化之際。"
+          "summary": "低廉能源、廣闊土地加上鄰近北京的優勢，使內蒙古某城市成為中國數據中心關鍵樞紐，支撐DeepSeek等AI公司的快速擴張。"
         },
         {
-          "title": "Z.ai因網絡安全風險延遲GLM 5.3模型發布",
-          "source": "BetaNews",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1MaWVwNkNrRXI3SW9pdzBwd2lSN0hSODFKNmZIdnlGUlRRNDVudnhkRWF5NmJFTzRqWGFjanJyaVRJODVFOEFOYmc5dVdVS3k1ZVdjVk10QVVmeGpPYWxabmpJbmdVREZKQUE5T01B?oc=5",
+          "title": "Z.ai發布開源AI模型引發安全專家警告",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/zai-open-weight-ai-models-release-cybersecurity-hacking/",
           "section": "亞太/中國焦點",
-          "summary": "中國AI公司Z.ai因網絡安全顧慮延遲發布GLM 5.3模型，凸顯中國AI企業在技術突破與安全合規之間面臨的兩難局面。"
-        },
-        {
-          "title": "Nvidia斥資60億美元打造美國版中國AI替代方案",
-          "source": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWHdVbW56NVZvU3ZwQTRIcmdRUVVZWjBVc1J4TFhhVUs2VE5RY21CNEpSdHA2NUJLa0daUVhYcGJwaGh6bERReE5fcFdFdHJ5bWpXa1dPTkFweDVVS3AycGxMa3VqS2JDS0VTZDNIb2RYLVVYcmdxT2xQUUpRSXNFbHhTTVozVjVyUkVYRmItTzc5SlIwS2M0NVZseUtUWFZDX3V6azMxTHJhdHJwYm5XU28yUmlzUQ?oc=5",
-          "section": "亞太/中國焦點",
-          "summary": "華爾街日報獨家披露Nvidia斥資60億美元在美國本土建設AI基礎設施，旨在打造可替代中國AI供應鏈的方案，應對地緣政治風險。"
+          "summary": "中國AI公司Z.ai發布最新開源模型，具備強大網絡安全能力，專家擔憂此類模型可能落入黑客手中，同時也能幫助企業提升防禦。"
         }
       ]
     },
@@ -92,77 +78,70 @@
       "name": "環境快訊",
       "icon": "🌍",
       "color": "#00b894",
-      "date": "2026-08-23",
+      "date": "2026-08-24",
       "articles": [
         {
-          "title": "梵蒂岡斥資1億歐元建可再生能源電廠",
-          "source": "Reuters",
+          "title": "全球海洋溫度創歷史新高",
+          "source": "三藩市紀事報",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTjRpTlVkSXh0SHY5b2E1UkNiamNVeDRyUm5qdVBjVVhGUjlsTWc2eHd5WDg5RGs0MWljMWNncldrVm9feVpCVHNfSE5PQWttYTY0ZFIzYnpGQ01hZU1XNnJOaHBBZm5YNjN1WnlyY2duTWdVaHA1NFhYU0ZSZ0hXc054RUV4Z193dUE?oc=5",
+          "section": "頭條新聞",
+          "summary": "全球海洋剛打破高溫紀錄，科學家警告海洋熱浪將加劇極端天氣，對漁業及沿海生態系統造成連鎖破壞。"
+        },
+        {
+          "title": "內華達州山火肆虐 數千人撤離",
+          "source": "半島電視台",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR3Q5bFZEUTNhbFFHeEVhc3lPcjctTXU5bldCVE5sVklCemNnR1BfWXpkclNDNDNFUl95LW1iUUVNM1p0M203SHdMZXQyZmFHMVBvMUZ4T2tTZHVOWWtVUlJYcmFVSmE0MTBaaU5kaFlvek44WVhhMDhiY2IwNnNJbXhrTS1BYWxHNm5wZHUwa1N0UndYWEQ3a3lNNkNvLTV0bTNMS2EwbnRCWURTQ2sw0gG0AUFVX3lxTE9FRmRpRUFfTGdEWG5ENUhZZjdNemdjTlAyVlNHaXM4S2F6djExUlIyS0U5Tko0UzBPbGR2U0FzRmVTYWNNNlMwQ0dXcFl4U3lHcjVmeFZnN0FaMXdEUEl1SUpNWnFtdXRhQ2tabTdmdGJ0S1V4UXoxOHhlb2lOZ2RyV0NKdUF0WWRjNTE4R2RMQUpNWW81QkVfRU90REg5QlR6ZUpNOXNZWWZiUXlrdEdzT1pDUQ?oc=5",
+          "section": "頭條新聞",
+          "summary": "美國內華達州山火迅速蔓延，數千居民被迫撤離，高溫乾燥助長火勢，當局進入緊急狀態全力撲救。"
+        },
+        {
+          "title": "英國陸上風電申請量創十年新高",
+          "source": "衛報",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS1A1bDlzZm0ydkYzcUJ4MkYxN0x6NjZKcjdjNUR3eTRVSEpUTTVsU2ktMVVBTzlfWmFQRzF4aEdXRkJINjVTTEJKMWhtSUxOaHdFOE5reExNTTFrOE9tbENGNlhHT0txZWRNYm53VUZRV1lqMVVscWJBTkh3T3lpczU0S1NaU01RWXlsOHpzVFZFdEU3RnQ5dEs0SThIRXBFV2Itcg?oc=5",
+          "section": "氣候與能源",
+          "summary": "英國解除陸上風電禁令後項目申請量飆升至十年新高，為2030年潔淨能源目標注入強心針。"
+        },
+        {
+          "title": "梵蒂岡計劃建太陽能農場 實現全面電力自給",
+          "source": "路透社",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWGw0X0lOUmZESVVqMWhVeV84V3ptaFJTWDhqSzdPUm9CUEF5QmppQUExYWVwN09OZjhqYnpOcUxaRDZHdngzTHNaWWtPZy1namVHODNULWtCNkpSV0hvSmRfMkRFeXQ2bkNIR05qQUFSdzc4bWV4ZFZud0ppWWVGQVVnbTR0ZXhSMUVWQ3Y5ZXluc1VrUXh6NUhmNEJ2RDAzdElkMjZKS3lqMXNHdHR1ZlJB?oc=5",
-          "section": "頭條新聞",
-          "summary": "梵蒂岡計劃建造太陽能及農業綜合設施，目標完全覆蓋其電力需求，成為全球首個100%可再生能源供電的國家，展現宗教領袖對氣候行動的具體承諾。"
-        },
-        {
-          "title": "中國考慮申辦2028年聯合國氣候談判",
-          "source": "Japan Times",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMXYwMDRQV1QydFd6Nm5kM2pwdk9GY3phZ2ptYVg5TGJLWG9pdVFaTjdYeFhGWlVFMl9jX2l6aGNmMmRzQi11WE92dFNYZDVvSXJfM3hIUzJVSFg1SU02UGs1dHZUbUlwazdtS0pxbmt2UHhVN3c4aDhZanNiTGlLWl9Gd3hWdGNVb2o0RENpeVdqM25jY2M1SEtPRDdpclEyS0E?oc=5",
-          "section": "頭條新聞",
-          "summary": "消息人士透露北京正考慮申辦2028年聯合國氣候峰會（COP34），若成功將是中國首次主辦該會議，標誌其在全球氣候治理中爭取更大話語權的戰略轉向。"
-        },
-        {
-          "title": "全球剛經歷有紀錄以來最熱七月",
-          "source": "Vatican News",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX1VGbFItMm0yZ2pmY2xkTkFhUWU5WXVGSGdoeHU0N2lScjlIS1dLVFA2S3JvZHlra0tkOXZPRnd2QVlFZjNlYmVUenlHRG5rVUtEbF9CVmxuQ2wwcW00T3FfTDUxdFRUQnQ4U0FpN2lFbE5fZzAwQlhpVTZsLTM4OHljbHRDd0xQcFBZX1RQVnRxWFc2ZkZpUW5DNVlSVC1HbDlEeEl0NVpvRV9reFNwdlNxQndacXhD?oc=5",
-          "section": "頭條新聞",
-          "summary": "歐盟哥白尼氣候服務確認2026年7月為全球有紀錄以來最熱月份，極端高溫席捲歐洲海域及多地，科學家警告「氣候警報正在熊熊燃燒」，呼籲各國加速減排行動。"
-        },
-        {
-          "title": "AI揭示北極凍結隱藏階段 或改寫氣候模型",
-          "source": "Phys.org",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5pcHBpek9IZWJRcUFlRmNCVVVNU0wzVFRZRThkeEwtVjVXTjczVUlaelpYV0x2cmtTZmRVbHFTdENHVEZwVHpkaWt1TVZyNkswTHV2Y256N1hrOHJFZXhXeEp5YXBVVmNZSnpic2dweHMwc1k?oc=5",
           "section": "氣候與能源",
-          "summary": "最新AI測繪技術發現北極海冰凍結過程存在此前未知的「隱藏階段」，對理解極地氣候反饋機制及改進全球氣候預測模型具有重大意義。"
+          "summary": "梵蒂岡建設大型太陽能與農業結合設施，將成為全球首個實現100%可再生能源供電的國家。"
         },
         {
-          "title": "Google與英國啟動「藍天行動」削減飛機凝結尾",
-          "source": "Newser",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcmFSYlhMbm1scEVsMzJmQVRWOGFBMnNRQWNhR20xV21OUDBJMlBKd1VwSVZMVkY3NldXSUI2OGxieFFESTRsd2JjY3ZWeVJPbGZ1LW1oZXd5cGJCNERheHZMcDhoMUJBS2t4ZUZjNUlQSl95VExvNWlFU0ZLZHBkYXdnVGhHVUVRd09QcGtnbnhBTjZhbExJRjJTLXBfdw?oc=5",
+          "title": "地球森林從上次氣候衝擊恢復需10萬年 今次快10倍",
+          "source": "財富",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMzd3Q0lUV2o2ckI0alp3bFgtOVJ4NFZkcWVxSDBqVFhoS0otV0xQWF96dEo3NFVIX2dZb3laTzJBUXBmUy1VU19BZU9FSGs3eE5iM3VvRHRaQkpVUEtEcG1ia2VpSTl4QnhsanY3cXNWUTJ5aXNCUVI1eHpJT2E0dGYzbw?oc=5",
           "section": "氣候與能源",
-          "summary": "Google與英國政府合作利用AI調整航班路線以減少飛機凝結尾（contrails），該技術被認為可快速降低航空業對氣候變暖的影響，成本遠低於可持續航空燃料。"
+          "summary": "研究指出當前氣候變化速度比上次大滅絕時期快10倍，森林生態系統面臨前所未有的適應壓力。"
         },
         {
-          "title": "印尼可再生能源轉型面臨結構性障礙",
-          "source": "East Asia Forum",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcmR5RGNFWmxHbkczbURyVlo2V3E5MElmZEU2RVdVRU1lblRVc0RteENqU1ZGOUpZZ0gtMUx3Vkk5aXpfdnlGZWNpeTFpTk0xajY4bjVoeDRzTmRjT1RTaFgtWnpPaTRnd0JadmRodTRtNFJxcE01c3QzZ25Bb3dxcWhfRmVfbUF3WHRtQ1NKVkhIbk9VYXJ2dy1YS0lPc3FtVDJR?oc=5",
-          "section": "氣候與能源",
-          "summary": "雖然印尼擁有豐富地熱及太陽能資源，但煤炭補貼、電網瓶頸及政策不確定性正阻礙其清潔能源轉型，分析指需進行深層結構性改革方能實現氣候目標。"
-        },
-        {
-          "title": "天然森林再生提供低成本氣候與生物多樣性解決方案",
-          "source": "Phys.org",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE45QmVpbWlNMFNZbHBtVzlQaFRhNVRlTWQ4YkJYSTFrRzJWMFNCY1BxZjRpd1ZlLWFYckZoNldCWXUtcXFTQkNST2RCSXJXVFRxZnZjdmZIYUZ4QjhjYnBaRGhOdnNzb1ZEQzNURE96aDdReF9pZUU0cHcxZw?oc=5",
+          "title": "山火引爆一戰二戰遺留地雷炸彈",
+          "source": "美聯社",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaWoxWmxoZzJmT20yYWR3Yks0MGd4Z1U0S28yLXpxWDNiZjNNdTJ6cnVTWUlmY2JFREFWRThpTDJQazNRSzA1bHBzWmRkLVBGT0ZJbmhjTFFmVzdEZzA5MHktY2FSRk5DUk4yM1FBMUl3Q3pmRllIQnUyWFFfamZ3Z1Rwa1lVNWlzR2ljUWd2Q1dnY3BZZkdTNmxRVFZ3U2tHN0E?oc=5",
           "section": "污染與生態",
-          "summary": "最新研究顯示，讓森林自然再生比人工植樹成本更低，且能同時實現碳封存及生物多樣性保護雙重目標，科學家建議各國將此納入氣候策略。"
+          "summary": "歐洲山火頻發引爆一戰二戰遺留的地雷與未爆彈，增加消防救災難度，氣候變化與歷史遺留問題意外交織。"
         },
         {
-          "title": "氣候乾旱或加速傳染病擴散",
-          "source": "Truthout",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRzZOeTdzUWMyZFpFUnI3TFRyZ3c3VUgwcjZtRnluamlxX2x5cFJ6cy11NElKSGM4cUlBeHl0dllYTWprT1d6UDF0MWRVOElIZTM1VjU4Y1E4cXZGMEVNMWJGRDR3Z04xTjFpN0VnTkZtT2ZTQVlETkJ4Sml3S2EtelR2WUFDNTktOHllSkdHenB0bXkyTmdONjB1N2JjZHhSNWpPdnRtSnU3Skd2?oc=5",
-          "section": "污染與生態",
-          "summary": "科學家警告氣候變化引發的極端乾旱正在改變疾病媒介（如蚊蟲）的分布模式，可能加速瘧疾、登革熱等傳染病向新地區蔓延，對公共衛生系統構成新威脅。"
-        },
-        {
-          "title": "中、美、歐走上不同氣候路徑 誰是死胡同？",
-          "source": "SCMP",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOeTh5UFoxS3V5LUROakRDRUV4Z1ZyNTMwN0dJSHFJRXFPVlNPbTlhM0xWZllmdkVucXNHUEdMeng2d2QxazlhSVdvdWp6eXBFUm1LaU9HeG9Pc0oyVDA3VE9QU2tSWG5vWlV3MkRrd09TbFFKSmpiV08wZmdfY0F5dmd3ZXV5eWt1R2wyQTQtWEJxZGJ0MVV1OFlKNWRaNXl6SjI1OVptWVlIc1k5MVhZSjB3V1pRSklaZW1wVVRRY1ZmX1BUWkxNN0ZaZVlZbUlvSmgw",
+          "title": "核電成中國全可再生能源電網關鍵",
+          "source": "Fast Company",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOX3ZCaXNERFhlRjZGV1pnN0JlemZHUmtEMlRKazdjVHNGMmhwNHlxQTdGN2x6TndrZVdmVEU2U1BtbzJrZ2c1U0ZqNHJiclFwaU1YeTNUM3lkdHhrTjk2LTE3N3RCQlc0cjlVa0pGUXB2bkw3T3FLTUZERVoxOTRVMXgxX3NKZnFCbE1paFJQRG5VLW9rMERJT0pERHpvUG9kT1RFcThtM3JpS2k0UmRMbXMydThlQQ?oc=5",
           "section": "亞太/中國焦點",
-          "summary": "分析指出中國加速可再生能源部署、歐盟推進碳邊境調節機制、美國政策因政府更迭而搖擺，三大經濟體氣候政策分歧日益擴大，全球脫碳進程面臨碎片化風險。"
+          "summary": "中國以核電作為過渡至全可再生能源電網的關鍵支柱，新型反應堆靈活配合風能太陽能，解決間歇性供電瓶頸。"
         },
         {
-          "title": "印尼增兵應對婆羅洲野火",
-          "source": "Al Jazeera",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYnVMd08tWTBRZmtkNGhWTEp3Q3Z6WF9CbC04ZVluN2FVODJfdjJVRHV2a0JiRjRVT1F1TnhTZHFXdUNPdUpmNWlBcTg5OExndlF0cDVnVnFwSmo0X21yTUdmWkxfZTZwSnlWcDBmQWRjWDBGNnllR3RlOVE1YkJuaVJkU2R4bDUwYVJkVHZIN19hV1BfdmMwaloyRmpabkYwZHc",
+          "title": "韓國釜山及京畿道推「氣候保險」",
+          "source": "韓國先驅報",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5kU2syMmhMc2hfcWpNZGhWTkxpVFVkU1Z5aUdzdjRDemtyRWE2UG9GX0tiR1ZMWFRWV3RfaEJOSThzRFNZNnNieDdXUDhyWmJzWEZ5TFlJYw?oc=5",
           "section": "亞太/中國焦點",
-          "summary": "印尼軍方增派數千名士兵至婆羅洲（加里曼丹）撲滅日趨嚴重的森林大火，乾旱加劇令火勢失控，煙霾已開始影響鄰國馬來西亞及新加坡空氣質量。"
+          "summary": "韓國多個地方政府因應日益頻繁的極端天氣，率先推行「氣候保險」制度，自動為居民投保以降低天災經濟損失。"
+        },
+        {
+          "title": "東京酷暑：氣候衝擊不再遙遠",
+          "source": "日本時報",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ195b0lhUkJyQW5XdzhnVi1vRDZucHVrS0l6NDBYc0tpVnVnTVJrcDBxX00yeVVuQ1ZnbmFOekthNFN2SW8waWp2Ujh5Z1l6M1hWUjRNUnJmNXl3ZzZGM2RpcWppQXJ4cDQ5M3RfR1VTVjFlc2wxWG1rQ3pTai00dmhVWWNKLWlpY2xrcnIyR1FvLTdDUUFUU0dR?oc=5",
+          "section": "亞太/中國焦點",
+          "summary": "東京夏季連續高溫破紀錄，亞洲城市面臨的氣候適應挑戰日益嚴峻，氣候變化已是切身生活體驗。"
         }
       ]
     }
