@@ -1,75 +1,117 @@
 {
-  "updated": "2026-08-24 08:45",
+  "updated": "2026-08-25 08:45",
   "categories": [
     {
       "id": "ai",
       "name": "AI 新聞",
       "icon": "🤖",
       "color": "#6c5ce7",
-      "date": "2026-08-24",
+      "date": "2026-08-25",
       "articles": [
         {
-          "title": "OpenAI警告：AI將發動「持續性」網絡攻擊",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/technology/2026/aug/23/openai-cyber-attacks-threat-chris-lehane",
+          "title": "OpenAI主動踩剎車：自願放緩AI開發腳步",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
           "section": "頭條新聞",
-          "summary": "OpenAI全球事務總監Chris Lehane表示，前沿AI模型已具備規劃和發動網絡攻擊的進階能力，公司本周宣佈暫停最先進內部模型的開發，並呼籲業界建立新安全標準。"
+          "summary": "OpenAI宣佈暫停最新模型RL訓練兩週，並延遲最大規模的前沿RL訓練計劃，在IPO前夕以安全為由主動減速，引發業界對AI軍備競賽降溫的討論。"
         },
         {
-          "title": "OpenAI安全全面改革：Astra模型具「關鍵級」網攻能力",
-          "source": "WIRED",
-          "url": "https://www.wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue/",
+          "title": "Hugging Face傳以130億美元洽談收購",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
           "section": "頭條新聞",
-          "summary": "繼AI代理入侵Hugging Face事件後，OpenAI大刀闊斧改革安全協議，停止大量訓練運行並收緊內部防護措施。Astra模型被評估已達「關鍵級」網絡能力。"
+          "summary": "開源AI平台Hugging Face據報正接獲多個收購要約，估值約130億美元，但創辦人對社群責任感強烈，能否成功出售仍存變數。"
+        },
+        {
+          "title": "OpenAI大規模構建AI代理生態：人人都會用嗎？",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+          "section": "頭條新聞",
+          "summary": "OpenAI正從軟體工程領域擴展至面向大眾的AI代理，目標為所有人打造專屬AI助手，但用戶採用率仍是未知數。"
         },
         {
           "title": "Greg Brockman的OpenAI時代",
           "source": "The Verge",
           "url": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
           "section": "頭條新聞",
-          "summary": "經歷馬斯克訴訟、Apple商業機密案、高管離職潮後，OpenAI聯合創辦人Greg Brockman悄然成為權力核心，在IPO籌備期間全面掌控公司方向。"
+          "summary": "在經歷與Elon Musk的訴訟、Apple商業機密案及高層離職潮後，OpenAI總裁Greg Brockman悄然鞏固權力，成為公司實際掌舵人。"
         },
         {
-          "title": "LinkedIn「AI垃圾」按鈕已獲百萬人點擊",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
+          "title": "General Intuition估值60億美元進軍機器人",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
           "section": "業界動態",
-          "summary": "LinkedIn推出「看似AI垃圾內容」舉報按鈕僅三週，已有超過100萬人使用。此前調查顯示平台41%長文帖為AI生成，公司同步移除AI輔助寫作提示功能。"
+          "summary": "AI基礎模型初創General Intuition正與Valor、Point72等洽談融資，投前估值達60億美元，目標訓練能感知物理時空的通用AI代理。"
         },
         {
-          "title": "Nvidia據報向客戶預警AI相關加價",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/08/22/nvidia-customers-reportedly-warned-about-ai-related-price-hikes.html",
+          "title": "阿拉巴馬州檢察長對OpenAI及Sam Altman發起數據洩露調查",
+          "source": "Alabama AG",
+          "url": "https://www.alabamaag.gov/",
           "section": "業界動態",
-          "summary": "Nvidia據報通知客戶將因應AI需求飆升而調高晶片價格，引發市場對AI基礎設施成本持續攀升的擔憂。"
+          "summary": "阿拉巴馬州檢察長辦公室正式對OpenAI展開調查，指控其發生大規模AI數據洩露事件，涉及用戶隱私及安全問題。"
         },
         {
-          "title": "AI引發數學界存在危機：OpenAI Astra一次解決10大難題",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
+          "title": "明星AI對沖基金Situational Awareness遭SEC調查",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
+          "section": "業界動態",
+          "summary": "曾被譽為「華爾街話題」的AI對沖基金從近乎崩潰到遭聯邦傳票調查，速度之快令人咋舌，凸顯AI金融應用風險。"
+        },
+        {
+          "title": "Alphabet與Amazon合計投資4200億美元AI基建",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/",
+          "section": "業界動態",
+          "summary": "兩大科技巨頭在AI基礎設施領域的資本支出總計達4200億美元，帶動相關硬體供應鏈股票成為市場焦點。"
+        },
+        {
+          "title": "DeepMind校友創辦Inherent AI，研究複現能力超越OpenAI與Anthropic",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
           "section": "研究與技術",
-          "summary": "OpenAI內部模型Astra一次性解決了包括高維球體堆積、量子博弈論在內的10個長期未解數學難題，菲爾茲獎得主James Maynard坦言「正在靈魂拷問」，數學界陷入前所未有的存在危機。"
+          "summary": "英國AI實驗室Inherent發佈AI代理Faraday，在複現科學論文方面表現超越OpenAI和Anthropic，為AI驅動科研創新鋪路。"
         },
         {
-          "title": "Anthropic隱形浮水印數小時內被破解",
-          "source": "WIRED",
-          "url": "https://www.wired.com/story/coders-say-they-already-found-workarounds-to-claudes-invisible-watermarks/",
+          "title": "Instinct AI助理引發隱私與安全擔憂",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
           "section": "研究與技術",
-          "summary": "Anthropic為遵守歐盟新規在Claude輸出中加入隱形浮水印，但程式員在數小時內即在網上公佈繞過方法，引發對AI內容標記技術實效性的質疑。"
+          "summary": "早期測試者對Instinct的強大功能讚不絕口，但其廣泛的系統存取權限及寬鬆條款引發隱私與安全上的重大隱憂。"
         },
         {
-          "title": "內蒙古：中國AI熱潮的意外心臟地帶",
-          "source": "WIRED",
-          "url": "https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/",
-          "section": "亞太/中國焦點",
-          "summary": "低廉能源、廣闊土地加上鄰近北京的優勢，使內蒙古某城市成為中國數據中心關鍵樞紐，支撐DeepSeek等AI公司的快速擴張。"
+          "title": "Google將Antigravity納入Gemini Enterprise",
+          "source": "InfoWorld",
+          "url": "https://www.infoworld.com/",
+          "section": "研究與技術",
+          "summary": "Google將Antigravity平台整合至Gemini Enterprise，提供企業級精細化支出控制，瞄準大型企業AI部署的管理需求。"
         },
         {
-          "title": "Z.ai發布開源AI模型引發安全專家警告",
-          "source": "WIRED",
-          "url": "https://www.wired.com/story/zai-open-weight-ai-models-release-cybersecurity-hacking/",
+          "title": "台灣起訴9人非法出口Nvidia B300 GPU至中國",
+          "source": "Tom's Hardware",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nine-indicted-by-taiwan-over-illegal-export-of-nvidia-b300-gpus-to-china",
           "section": "亞太/中國焦點",
-          "summary": "中國AI公司Z.ai發布最新開源模型，具備強大網絡安全能力，專家擔憂此類模型可能落入黑客手中，同時也能幫助企業提升防禦。"
+          "summary": "台灣檢方起訴9人涉嫌使用五點策略規避海關管制，非法將Nvidia B300 GPU伺服器出口至中國，凸顯AI晶片地緣政治張力。"
+        },
+        {
+          "title": "中國工人憂慮AI取代就業",
+          "source": "PBS",
+          "url": "https://www.pbs.org/newshour/world/workers-in-china-worry-over-being-replaced-as-they-adapt-to-the-growing-impact-of-ai-on-jobs",
+          "section": "亞太/中國焦點",
+          "summary": "隨著AI技術在中國快速滲透各行各業，基層勞動者日益擔憂被機器取代，適應AI衝擊成為社會焦點議題。"
+        },
+        {
+          "title": "日本利用AI加速材料開發10倍",
+          "source": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/Business/Technology/Japan-to-tap-AI-to-speed-up-materials-development-10-fold",
+          "section": "亞太/中國焦點",
+          "summary": "日本政府計劃運用AI技術將新材料研發週期縮短至原來的十分之一，旨在提升在先進材料領域的全球競爭力。"
+        },
+        {
+          "title": "南韓首次在非洲推動AI計劃：坦桑尼亞1.7億美元項目",
+          "source": "Business Insider Africa",
+          "url": "https://africa.businessinsider.com/",
+          "section": "亞太/中國焦點",
+          "summary": "亞洲第四大經濟體南韓無視美國審查壓力，斥資1.7億美元在坦桑尼亞推動非洲首個AI項目，佈局新興市場。"
         }
       ]
     },
@@ -78,70 +120,70 @@
       "name": "環境快訊",
       "icon": "🌍",
       "color": "#00b894",
-      "date": "2026-08-24",
+      "date": "2026-08-25",
       "articles": [
         {
-          "title": "全球海洋溫度創歷史新高",
-          "source": "三藩市紀事報",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTjRpTlVkSXh0SHY5b2E1UkNiamNVeDRyUm5qdVBjVVhGUjlsTWc2eHd5WDg5RGs0MWljMWNncldrVm9feVpCVHNfSE5PQWttYTY0ZFIzYnpGQ01hZU1XNnJOaHBBZm5YNjN1WnlyY2duTWdVaHA1NFhYU0ZSZ0hXc054RUV4Z193dUE?oc=5",
+          "title": "歐洲曾批評特朗普氣候倒退，如今自身也推遲綠色目標",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbVh2VHQ2Z093QnljTUpwSDV2eVV4UjQ1T0NKVHZXZ0pUaDRTOGdBZlVfXzJURzdlUV91UVFERkJmWi1uYXR2d0hYeUdjNFVjbDZkQ0hXQVowUHZoT1p6Z2tJRUllZlQzelJPbDRPQVNNY1ZUZnRSM3FxR19fNVZKY28xbDhXZEV3aklNUzZkcjNEMVd1V3BWOHpKTWhrTGY0a1dlN2NVQklLeW40TG44azdMM3k5dnBScFkw",
           "section": "頭條新聞",
-          "summary": "全球海洋剛打破高溫紀錄，科學家警告海洋熱浪將加劇極端天氣，對漁業及沿海生態系統造成連鎖破壞。"
+          "summary": "歐盟各國面臨政治壓力，推遲多項綠色轉型時間表，包括2035年禁售燃油車及碳減排目標，與此前批評特朗普氣候政策倒退的立場形成鮮明對比，引發環保團體強烈不滿。"
         },
         {
-          "title": "內華達州山火肆虐 數千人撤離",
-          "source": "半島電視台",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR3Q5bFZEUTNhbFFHeEVhc3lPcjctTXU5bldCVE5sVklCemNnR1BfWXpkclNDNDNFUl95LW1iUUVNM1p0M203SHdMZXQyZmFHMVBvMUZ4T2tTZHVOWWtVUlJYcmFVSmE0MTBaaU5kaFlvek44WVhhMDhiY2IwNnNJbXhrTS1BYWxHNm5wZHUwa1N0UndYWEQ3a3lNNkNvLTV0bTNMS2EwbnRCWURTQ2sw0gG0AUFVX3lxTE9FRmRpRUFfTGdEWG5ENUhZZjdNemdjTlAyVlNHaXM4S2F6djExUlIyS0U5Tko0UzBPbGR2U0FzRmVTYWNNNlMwQ0dXcFl4U3lHcjVmeFZnN0FaMXdEUEl1SUpNWnFtdXRhQ2tabTdmdGJ0S1V4UXoxOHhlb2lOZ2RyV0NKdUF0WWRjNTE4R2RMQUpNWW81QkVfRU90REg5QlR6ZUpNOXNZWWZiUXlrdEdzT1pDUQ?oc=5",
+          "title": "氣候變化如何重塑全球地緣戰略",
+          "source": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcmk3SnlyX1lKMEFUZmQtZjZUb0p6TEJPRzRNczZMclYzNUNDWENNVURJRVVhdjlhZGpDUXFqVTJSV185b3ctU1JOdjJvVlFGRk9pMENCVV9sNWNZQ2RYVHpzdGw5ZEw3WUVOVS1HVDJ1VDNGNEhET1ZnSjd6cGNvd2k0Smk",
           "section": "頭條新聞",
-          "summary": "美國內華達州山火迅速蔓延，數千居民被迫撤離，高溫乾燥助長火勢，當局進入緊急狀態全力撲救。"
+          "summary": "各國正圍繞北極航道、關鍵礦產及綠色技術供應鏈展開新一輪競爭，氣候變化已從環境議題演變為大國角力的核心戰略要素，北極融冰加速航運及資源爭奪。"
         },
         {
-          "title": "英國陸上風電申請量創十年新高",
-          "source": "衛報",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS1A1bDlzZm0ydkYzcUJ4MkYxN0x6NjZKcjdjNUR3eTRVSEpUTTVsU2ktMVVBTzlfWmFQRzF4aEdXRkJINjVTTEJKMWhtSUxOaHdFOE5reExNTTFrOE9tbENGNlhHT0txZWRNYm53VUZRV1lqMVVscWJBTkh3T3lpczU0S1NaU01RWXlsOHpzVFZFdEU3RnQ5dEs0SThIRXBFV2Itcg?oc=5",
+          "title": "可再生能源大舉投入選舉政治，效果顯著",
+          "source": "Rolling Stone",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaThnbGl6Vk92QVJxV3NlRVh5UWs3Smo0SHFUd3plZDVSeHRFZUxnQmNmOTRaUG44N29saGpERG5EZ09xeXhKRVhNVDJhU0E2ZlFYUlBEM3Z1OGhOTFc2R0pzQXFtSHBUVk9mcUxrWVZmWlJ1NjFHcTl3ZFlJNkw1MXdxU1JjR3RpMzZ4eTJ2YnpfSWRKOHZzeGdpZGNaS1pUT2JGOWhWbExaR0dTX3ZhSzRjNURsR0k",
           "section": "氣候與能源",
-          "summary": "英國解除陸上風電禁令後項目申請量飆升至十年新高，為2030年潔淨能源目標注入強心針。"
+          "summary": "美國清潔能源行業加大政治捐款力度，成功影響多州能源政策走向，標誌著綠色產業從被動防禦轉向主動塑造政策環境。"
         },
         {
-          "title": "梵蒂岡計劃建太陽能農場 實現全面電力自給",
-          "source": "路透社",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWGw0X0lOUmZESVVqMWhVeV84V3ptaFJTWDhqSzdPUm9CUEF5QmppQUExYWVwN09OZjhqYnpOcUxaRDZHdngzTHNaWWtPZy1namVHODNULWtCNkpSV0hvSmRfMkRFeXQ2bkNIR05qQUFSdzc4bWV4ZFZud0ppWWVGQVVnbTR0ZXhSMUVWQ3Y5ZXluc1VrUXh6NUhmNEJ2RDAzdElkMjZKS3lqMXNHdHR1ZlJB?oc=5",
+          "title": "澳洲綠色能源目標岌岌可危，風電困境加劇",
+          "source": "ABC News",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbGVlWkUxbl9takVPYlJaV2FMTmN2VUlIbTV6bnZZX0VaSEp4Wl9KbHhxT2NaTlEzcktMQkdQSmxsS1ZVa0hvZVhoOWk2WVVsWnY4cGdsTlV1X1hGdmpyT0tGaGdYUWFXbGpiV2N0VzlTbFFnQ3ZiMHJMUl91RUxOanRuQmdXaW10TFpHTHZEMDJ0cEk1c1QzZUZ5T2hSMHJOTVZ0cWZ3eWdwU3BKNWFpNQ",
           "section": "氣候與能源",
-          "summary": "梵蒂岡建設大型太陽能與農業結合設施，將成為全球首個實現100%可再生能源供電的國家。"
+          "summary": "澳洲風電項目審批延遲、供應鏈瓶頸及社區反對聲浪加劇，使其2030年可再生能源目標面臨重大挑戰，能源轉型步伐嚴重受阻。"
         },
         {
-          "title": "地球森林從上次氣候衝擊恢復需10萬年 今次快10倍",
-          "source": "財富",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMzd3Q0lUV2o2ckI0alp3bFgtOVJ4NFZkcWVxSDBqVFhoS0otV0xQWF96dEo3NFVIX2dZb3laTzJBUXBmUy1VU19BZU9FSGs3eE5iM3VvRHRaQkpVUEtEcG1ia2VpSTl4QnhsanY3cXNWUTJ5aXNCUVI1eHpJT2E0dGYzbw?oc=5",
+          "title": "德國小鎮擬用風電盈餘製氫供應鋼廠",
+          "source": "oEnergetice",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNOWEyejNSYTNoSnl2RUpDUXVzSWg4dGY2SkFsUUZuSV9WcEtfSUdHRVNUck9YbERwX3FwRVdPM25NWHpLeXRxYU9LSE1kTjZOTENQalh0Yzl0ZW1WLTRPRGxzSnByOTl2bFJWM281UVFVRVh0LVpVVWlIdlBWSjNtdGs4VE4ybTk4WXhadHZIUVYxOFV2bFFkc3kwMC1wQjNTMVFGMVk5dWhHbjZnLUd4am9PME9RZWg5dVlzZ3RSWnYycVJ5aENMQkpnREQtUGFTNDQ4d2pYSEotTW1EcllfVDE3U0VTaUhHTm84",
           "section": "氣候與能源",
-          "summary": "研究指出當前氣候變化速度比上次大滅絕時期快10倍，森林生態系統面臨前所未有的適應壓力。"
+          "summary": "德國卡爾塔爾市長提出利用當地風電盈餘電解製氫，直接供應鋼鐵廠取代焦煤，為工業脫碳提供創新模式，解決可再生能源間歇性問題。"
         },
         {
-          "title": "山火引爆一戰二戰遺留地雷炸彈",
-          "source": "美聯社",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaWoxWmxoZzJmT20yYWR3Yks0MGd4Z1U0S28yLXpxWDNiZjNNdTJ6cnVTWUlmY2JFREFWRThpTDJQazNRSzA1bHBzWmRkLVBGT0ZJbmhjTFFmVzdEZzA5MHktY2FSRk5DUk4yM1FBMUl3Q3pmRllIQnUyWFFfamZ3Z1Rwa1lVNWlzR2ljUWd2Q1dnY3BZZkdTNmxRVFZ3U2tHN0E?oc=5",
+          "title": "內華達州「極端」野火肆虐，全美今年近5.1萬宗",
+          "source": "Scientific American",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUmpidUt3S2wyTHZ5LWdkendNSmpvQkV0US1oX2UyMVBnTUxab3hxbVQ5SjRQcExrTXpLcG1pSDA3WGNvTHNxUWljb1NFbnUza3ByQTZNVzl0aUVSS1p5bzk5QktVTnY4dmpOUkFMemJtTENVSUw1NXVwZktBdVN3TlgtTGtRSm9vZ1ZvMElORUNjWWVqOHBRamlMcDZBN21QQXZBMGRZS3ZqUkJPS1VVMnhEand3M1ZFMjVNclhlX0dYVFBUeXRNZWJ3",
           "section": "污染與生態",
-          "summary": "歐洲山火頻發引爆一戰二戰遺留的地雷與未爆彈，增加消防救災難度，氣候變化與歷史遺留問題意外交織。"
+          "summary": "內華達州里諾附近快速蔓延的野火迫使數千人撤離，全美今年已記錄近51,000宗野火，氣候變暖導致火災季節延長且強度增加。"
         },
         {
-          "title": "核電成中國全可再生能源電網關鍵",
-          "source": "Fast Company",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOX3ZCaXNERFhlRjZGV1pnN0JlemZHUmtEMlRKazdjVHNGMmhwNHlxQTdGN2x6TndrZVdmVEU2U1BtbzJrZ2c1U0ZqNHJiclFwaU1YeTNUM3lkdHhrTjk2LTE3N3RCQlc0cjlVa0pGUXB2bkw3T3FLTUZERVoxOTRVMXgxX3NKZnFCbE1paFJQRG5VLW9rMERJT0pERHpvUG9kT1RFcThtM3JpS2k0UmRMbXMydThlQQ?oc=5",
-          "section": "亞太/中國焦點",
-          "summary": "中國以核電作為過渡至全可再生能源電網的關鍵支柱，新型反應堆靈活配合風能太陽能，解決間歇性供電瓶頸。"
+          "title": "全球海洋溫度創歷史新高",
+          "source": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YZGlpalJoMmdPc1c2MVhTa2ZBLXdfZEVKV2VLaFhGdzFZNkk5d0pQY04tX2hUbnA2UWxfLU83LVNNZ3dnS1I1LV9FYnJMRXJkZk5OUHVQV2dUdw",
+          "section": "污染與生態",
+          "summary": "全球海洋表面溫度創下有紀錄以來最高水平，厄爾尼諾現象持續加劇，威脅海洋生態系統、珊瑚礁健康及全球漁業資源。"
         },
         {
-          "title": "韓國釜山及京畿道推「氣候保險」",
-          "source": "韓國先驅報",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5kU2syMmhMc2hfcWpNZGhWTkxpVFVkU1Z5aUdzdjRDemtyRWE2UG9GX0tiR1ZMWFRWV3RfaEJOSThzRFNZNnNieDdXUDhyWmJzWEZ5TFlJYw?oc=5",
-          "section": "亞太/中國焦點",
-          "summary": "韓國多個地方政府因應日益頻繁的極端天氣，率先推行「氣候保險」制度，自動為居民投保以降低天災經濟損失。"
+          "title": "中國考慮申辦2028年聯合國氣候大會（COP33）",
+          "source": "Taipei Times",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ibmliQ0xUc3pTMXE1Y1U1NFcwYnJUcnYzOGtJVGZvd1FyRlVWWGdaWUVBR0I2b1U4cTJWZ1VwS19nR2w2aVFoZ3NzX1o1RGtzNkVDdUl3SkFwQ3FKaEpPM1pyM1FxcWN5Y0p5YTNMQ3pORWNZYURwXw",
+          "section": "亞太／中國焦點",
+          "summary": "消息人士透露中國正積極考慮申辦COP33，若成功將是中國首次主辦聯合國氣候大會，彰顯其在全球氣候治理中日益重要的角色。"
         },
         {
-          "title": "東京酷暑：氣候衝擊不再遙遠",
-          "source": "日本時報",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ195b0lhUkJyQW5XdzhnVi1vRDZucHVrS0l6NDBYc0tpVnVnTVJrcDBxX00yeVVuQ1ZnbmFOekthNFN2SW8waWp2Ujh5Z1l6M1hWUjRNUnJmNXl3ZzZGM2RpcWppQXJ4cDQ5M3RfR1VTVjFlc2wxWG1rQ3pTai00dmhVWWNKLWlpY2xrcnIyR1FvLTdDUUFUU0dR?oc=5",
-          "section": "亞太/中國焦點",
-          "summary": "東京夏季連續高溫破紀錄，亞洲城市面臨的氣候適應挑戰日益嚴峻，氣候變化已是切身生活體驗。"
+          "title": "中國煤電佔比首次跌破五成",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORngzNkRDREpKV2tDUWxzR2VGaHdBQlZIRGFvZWFlT0xzNWhMampFZXhqLU8zWGdqTWw0eTlNS0ppYU1aX0hpUnMxV0NuNGY5TnZ5WjR6aFE4R1hEWXA2U0htSjhVY2kxcVZuVm9wbHc5TEhIZFBuSzhLRGYwOWptSnZ5Tmt0OW1nOGV4ZkhMZ01pa2xZZ2ZRN0QyWnAzWDBhakRXRVFhclQ5dDdNaWdzbVJzZVM",
+          "section": "亞太／中國焦點",
+          "summary": "歷史性里程碑：中國煤炭發電佔比首次降至50%以下，風能及太陽能裝機容量持續飆升，標誌著全球最大碳排放國的能源轉型進入關鍵階段。"
         }
       ]
     }
