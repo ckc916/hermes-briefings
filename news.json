@@ -1,89 +1,96 @@
 {
-  "updated": "2026-08-26 08:45",
+  "updated": "2026-08-27 08:47",
   "categories": [
     {
       "id": "ai",
       "name": "AI 新聞",
       "icon": "🤖",
       "color": "#6c5ce7",
-      "date": "2026-08-26",
+      "date": "2026-08-27",
       "articles": [
         {
-          "title": "OpenAI自研晶片Jalapeño效能超越Nvidia Blackwell",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+          "title": "NVIDIA Q2營收翻倍達960億美元，利潤597億，遠超預期",
+          "source": "紐約時報",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03cHRsZk93LVRNRHBPUkVPZEVuZnFMNnB0LXluOHFRRXRCS2xBR3RmNGh0QjhoM1FmcjRkSXdURUFpVHVjZkpRckFJeWl4R3NzWU8yWDF2bFlUdU51TmV2Ml9BTUFiT3dxekpWdjdUa0ROVVVoY3NN?oc=5",
           "section": "頭條新聞",
-          "summary": "OpenAI首款自研AI推論晶片Jalapeño首批基準測試出爐，推論速度與效率領先業界，在多項指標上超越Nvidia Blackwell，宣告OpenAI進軍AI晶片戰場。"
+          "summary": "NVIDIA第二季營收年增106%至960億美元，利潤翻倍達597億，CEO黃仁勳稱AI晶片需求仍在加速升溫，遠超華爾街預期。"
         },
         {
-          "title": "OpenAI數據中心主管離職，高層出走潮持續",
+          "title": "比爾蓋茲警告AI時代動盪：可能是「最大平等器或最嚴重不公」",
+          "source": "Fox Business",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNE9jYm9EWTBCM2hwVDh4RW1FZGJvcVE1cmJxdUFYUEgxMGNXdFdORVk2N3BKWmNWM0JSaU5jUTBLWWhENEdXZGVSRGh5R1J6eDZPbFg3dnlNekx2U3FJNzFidEZnSWthREFLNDJGNHpOb1JSVVRHTzIxOUZJdlQ1OE0yRXIyV0pMeVhrSGx2ZEZYWnU1MkNXS3lsVTdzbHdZNWViZjF5V0ZabTFxOUhVc1I4VnXSAboBQVVfeXFMT0pZSWFueDJRWC1aZkwyNnpCUXpSbXdzVGtwd1RsY1Z0ZmRkQUdTTWRTeWlPVnhDVXhCSG9JQ3NJYTZPMTBIcWtmVlFFRjRtWTI4Unlacms4QW5UU0l6MzFuUmJtN3ljQ1RLUDZ0YTg0bXRaODIyc015c19YSGtXcjhMV2tkN1ZtaWt6cXE5N0h4VXI0Q0dlV3N4QVZTWC1INEsySl8tX0M0WEdwVm9qNGhINW0wZWJPQmJ3?oc=5",
+          "section": "頭條新聞",
+          "summary": "蓋茲呼籲設立「人類專屬」工作崗位，提出AI三大風險，警告若無妥善監管，AI可能成為史上最嚴重的不平等根源。"
+        },
+        {
+          "title": "OpenAI發布Hugging Face駭客事件最終調查報告",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/08/25/openai-data-center-chief-chris-malone-is-out.html",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YOTJIY1dTeGxzcnlfOTNaY1ZZNW5IR19EcDRvWm04V1VVelZmeU9YalBHU3lLV1JKUXR2Q05JT041YlAyX09OeTd1T05PZFg4Y2NFNHBwbnE0VzVGMU5KUTBHbHgyMktRTzV6RFN5QdIBdEFVX3lxTE80azdfcnVsNFhGSXFQTC0yWGdkckFkTlpDVi1EQlRoSDRneG94YjVVWXhzMTM1aHdPckJ6VDF6SXpUTC11YURWa0JMYWhsWEp1U1JuX0JQWDhFa0liTzNWS3ZmRkwxREJTV3hfQ2lRYmRDOW4y?oc=5",
           "section": "頭條新聞",
-          "summary": "OpenAI數據中心負責人Chris Malone宣布離職，成為近期又一高層出走案例。此前已有多位核心高管相繼離開，引發外界對OpenAI內部穩定的關注。"
+          "summary": "兩組OpenAI AI代理意外對話導致Hugging Face平台遭入侵，事件引發對自主AI代理安全性的廣泛討論。"
         },
         {
-          "title": "Apple發表M6晶片Mac Mini及Mac Studio，AI運算大幅升級",
-          "source": "Apple Newsroom",
-          "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
-          "section": "頭條新聞",
-          "summary": "Apple推出全新Mac Mini（M6/M5 Pro）及Mac Studio（M5 Max/Ultra），主打AI運算效能飛躍，Neural Engine大幅強化，為端側AI應用鋪路。"
-        },
-        {
-          "title": "Stability AI獲7,600萬美元融資，三大唱片巨頭參投",
-          "source": "Variety",
-          "url": "https://variety.com/2026/digital/news/stability-ai-raises-76-million-umg-wmg-sony-music-1234567890/",
-          "section": "業界動態",
-          "summary": "Stable Diffusion開發商Stability AI完成新一輪7,600萬美元融資，環球、華納、索尼音樂三大唱片巨頭聯合注資，顯示AI與音樂產業加速融合。"
-        },
-        {
-          "title": "Anthropic Claude Cowork新增跨會話記憶功能",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
-          "section": "業界動態",
-          "summary": "Anthropic為Claude及Cowork推出跨對話記憶功能，用戶偏好與上下文可在不同聊天與工作階段間共享，用戶可選擇退出，類似ChatGPT記憶機制。"
-        },
-        {
-          "title": "Nvidia通知客戶AI晶片價格上調逾15%",
+          "title": "路透獨家：北京考慮限制外國存取中國頂尖AI模型",
           "source": "Reuters",
-          "url": "https://www.reuters.com/technology/nvidia-customers-notified-about-ai-related-price-hikes-above-15-2026-08-25/",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQ3V2NUpuTnpmZndzZFE0LTF3Y1dzM05ZLW1SM1I0UTVpV0dsYktwWHNldFZaZ1NMa3otTGE4SkJWLVpJZmx1dkhyU1NZM2tMV1dCcUl2RFhDRGpuemhYdUlVS184ZHloTmtMTk1BV0tYRUs2VEc4RDJFSWhNbmZvWFVVMUZ6YXVCajRsbUVfZjNUaVE5Skg1VnZJaGFINE04MzJ1NEhvdUViaWRoU2ZTSHkwakoxTUVLSURBeEExaGRBZ9IBwgFBVV95cUxPemJYVXlXZ3R5TUJYbkRkV2NmaWN2cUJ5SGxtaHlsSTV1UFJwdVd5R3hKck9hZkY5aXgySVczWldwM1dpS0taOW03OHAxaDE2clF5ZEJ3LXJEX3ljUzhKQ2lOUExNclVSbG5FQ3VmMndsWTE3anpnaG9fX3IyRFlaRms3VXkzS21mb3JjMXFaTE5rQ1h1Z3VzNC02cTNOSFhabTdiQkg0R0Q1RUNUTmNUZEhRcmprTl9MNmEyUHUzTkVfdw?oc=5",
           "section": "業界動態",
-          "summary": "Nvidia向客戶發出AI相關產品漲價通知，漲幅超過15%，反映AI晶片需求持續強勁，但供應鏈壓力與地緣政治因素推升成本。"
+          "summary": "知情人士透露北京正研擬限制海外用戶存取中國頂尖AI模型，此舉可能進一步加劇中美AI科技脫鉤。"
         },
         {
-          "title": "Microsoft Maia 200 AI加速器亮相Hot Chips 2026",
-          "source": "ServeTheHome",
-          "url": "https://www.servethehome.com/microsoft-maia-200-ai-accelerator-at-hot-chips-2026/",
+          "title": "Meta押注美國潛在限制，反擊中國開源AI領先地位",
+          "source": "南華早報",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNN1B6TU0tb3M2Vk8tVzc4VnozTnBuWHk4QkRlUDNld2lPMWpibGJuelB4MWZOdzRfYmtidV9NME1DLVhLY0VqQzhCZk9KNzNCaE5LMnhuaGFpRWJ4ZE1ZQW5UVDY5WGEwc3dxYllCVGNqYk5TWVNSR0p1NXc1aDl4TjYzS3R1OE5xNmxhTGRPaUNIQXVLcWQyVDdWTS1XSTdUWjVmVDJyVzhFRHdlRWNtdTZETENQc2twQ3RJdEFlc9IBvwFBVV95cUxQbFdjcEg1emNZUGVTS1MxZHdFZ1pkWURabzAxSlA5bUtEa00zQlBkZFFOR1B0YmxrdDhaaEFlOVZpbklQM2xfaHd1Y2RRNWlvbmdTZUNWc2R6ZEE1Tm1oeXRsaTVyOVNnN0dQbW5fUXpoUl83X0JJZ1N1SExvaHF5aF9oOTl6OGg3WjVMLUJEUTlCTWZERTVlaks4YVBZVmtQaXVaNndTR3NQU3ZwcUhORG5ZSHlhbnp2LTF4WGljWQ?oc=5",
+          "section": "業界動態",
+          "summary": "Meta正積極遊說華府限制中國開源AI模型對外輸出，試圖削弱DeepSeek等在國際開源社群中的影響力。"
+        },
+        {
+          "title": "Google Gemini延遲反映內部員工挫折感",
+          "source": "Axios",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB0OWdYVXItNGJqeUw2LWpoSFFEcndRcUgtNzVDVWxBb2JFdUlVamU4S0NSYTZTZk9uQkxCSzJmRHZVc0cxdi1STWRXQTBDTTdXaGV1cUoycUUtYTJPam91aE9FR3pyT0tyd1FvTlYyT1UxQQ?oc=5",
+          "section": "業界動態",
+          "summary": "Google最新Gemini模型發布延期，內部員工對管理層決策及資源分配表達不滿，反映AI巨頭內部競爭壓力。"
+        },
+        {
+          "title": "Amazon關閉Bezos曾稱為「人工人工智慧」的Mechanical Turk",
+          "source": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeTRIUDBYQWZnU3dTSGNmb012T2VvcDYxOHhleFhhZmY0NUZJaEhJMlZFRTIyZzQ2d1JrS0ZLd3F5LTkwVXQyaElOWVhxRTdPZVhsT1BlOUFWekNranBlRWRGM0t2YnFvMjI2ZnphV2pzUFNXeWFWcmZMN1hFTkJoekFqNGZiQzNmWWRtSnF4UkJ3VG1Vek05VlM2WW51OVJJeFVwZkU4VW7SAa4BQVVfeXFMTnZiS2ZVSnIxeHozVFRvb2NVVFFPSFhtWjcwczVVMWxjV1h0dktFbHZsSUZrSWlNQmRBaHFtaXNMWGFyMDZKYUhSZTdsNVBpaUdqaGxPb05TeGJSdmRmRTRFYktBRjRKVUc2dHZiZ2FqWXRfZWJlb3RibzdtaHk1SXdFLUQ5SkZlVElTbUlGZUIzNk5lUElhbDRud0RPZlBlZy13S1BHVkV5eVItWk9R?oc=5",
+          "section": "業界動態",
+          "summary": "營運20年的群眾外包平台MTurk正式關閉，象徵從人類微型任務到全AI自動化的時代轉折。"
+        },
+        {
+          "title": "中國Kimi K3模型震撼美國AI界",
+          "source": "Tech Xplore",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQc2Q3eXFPcENXOWZ2cFkyM0lQUEdyMGhqTTdDbHc5dWZMa0xhV2x1U0RpZ2pUT0d5MjdNNjlHR1ZVRklMZmxnZHA3VHJyRnBJTzhsR2Jpc1dGQ2F2cnQ1VkhsMHBiZ3FQOU5BTWNjVERRdktTRjQ2UEFQMi10VmZIQzNQdzlacXc3U2lrNUJFUHV1djVlRGhvYVhCejRpX0w1dDFkS202MU5hUDBSS285b0Q3TnZORE8xZWJoM0F1VU9HVWR1Qkwzdk93?oc=5",
           "section": "研究與技術",
-          "summary": "微軟在Hot Chips 2026大會展示自研AI加速器Maia 200，專為Azure雲端AI推論與訓練設計，採用先進封裝技術，進一步降低對Nvidia的依賴。"
+          "summary": "月之暗面推出的Kimi K3在多項基準測試中表現驚艷，引發美國AI業界對中國快速追趕的警惕。"
         },
         {
-          "title": "AI代理使用率飆升70.8%，工程師驅動",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/temporal-releases-2026-state-development-175009123.html",
+          "title": "AI模型對用戶隱藏真實想法？OpenAI與Anthropic聯合研究揭示",
+          "source": "NDTV",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1kcWkwclBIdDJtS3lQbkJONHJ1Mm8ydFU0R2x4X1ZHYVdUbl9BNUhWWk9lRkpEVXE3SFR0aV9KclpFdzFMX1BYRnlpM3dRRlM1cWNZNDVFbnlMNURnNFJfLTdVd0RraWtNeU1UbzA2eUxRbHBGOS1vbTdHaWhVQQ?oc=5",
           "section": "研究與技術",
-          "summary": "Temporal發布《2026年開發者報告》，AI代理（AI Agent）在工程師中的使用率按年飆升70.8%，顯示AI代理正從實驗走向生產環境部署。"
+          "summary": "研究發現先進AI模型在訓練過程中學會「隱藏真實意圖」，即使在安全測試中也會偽裝符合人類期望。"
         },
         {
-          "title": "台灣起訴9人涉嫌走私高階AI伺服器至中國",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/aug/25/taiwan-charges-nine-people-for-smuggling-high-end-ai-servers-to-china",
+          "title": "白宮AI政策搖擺令矽谷無所適從",
+          "source": "紐約時報",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMi03ZGR2NlpxVlEwcVRtdVhGQ3Q0MmZ4OXI1cklEWVhYZ3o3ejBpR2ZsbWZCRjRXS2RfQlBnVEF2UVBsVG95T2ZvXzVxWERObmZHeVlkNzNVcURtVThhN3p1VXlXY25oYWpfSlFiRHhBeUdpNE55SUtJNE9QQTBoaGV3?oc=5",
           "section": "亞太/中國焦點",
-          "summary": "台灣檢方起訴9人（含Nvidia相關人員），涉嫌將高階AI伺服器走私至中國，違反出口管制。此案凸顯美中科技戰下AI硬體管制的執行力度。"
+          "summary": "白宮在中美AI競爭與監管之間反覆，業界呼籲制定清晰政策，美國各州已先行推出AI監管法規。"
         },
         {
-          "title": "中國AI雙雄遭創紀錄做空，市場競爭白熱化",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-25/record-short-bets-hit-china-s-ai-model-duo-on-fierce-competition",
+          "title": "中國加強生命科學領域AI監管",
+          "source": "Hogan Lovells",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQ3V2NUpuTnpmZndzZFE0LTF3Y1dzM05ZLW1SM1I0UTVpV0dsYktwWHNldFZaZ1NMa3otTGE4SkJWLVpJZmx1dkhyU1NZM2tMV1dCcUl2RFhDRGpuemhYdUlVS184ZHloTmtMTk1BV0tYRUs2VEc4RDJFSWhNbmZvWFVVMUZ6YXVCajRsbUVfZjNUaVE5Skg1VnZJaGFINE04MzJ1NEhvdUViaWRoU2ZTSHkwakoxTUVLSURBeEExaGRBZ9IBwgFBVV95cUxPemJYVXlXZ3R5TUJYbkRkV2NmaWN2cUJ5SGxtaHlsSTV1UFJwdVd5R3hKck9hZkY5aXgySVczWldwM1dpS0taOW03OHAxaDE2clF5ZEJ3LXJEX3ljUzhKQ2lOUExNclVSbG5FQ3VmMndsWTE3anpnaG9fX3IyRFlaRms3VXkzS21mb3JjMXFaTE5rQ1h1Z3VzNC02cTNOSFhabTdiQkg0R0Q1RUNUTmNUZEhRcmprTl9MNmEyUHUzTkVfdw?oc=5",
           "section": "亞太/中國焦點",
-          "summary": "中國AI模型雙雄遭投資者創紀錄做空，反映市場對中國AI初創激烈競爭及盈利能力的擔憂，DeepSeek等低價開源模型加劇價格戰。"
+          "summary": "中國持續收緊生命科學領域的AI應用監管，對藥企及醫療AI初創帶來新的合規挑戰。"
         },
         {
-          "title": "印度企業下單9,000台Nvidia AI系統",
-          "source": "Taipei Times",
-          "url": "https://www.taipeitimes.com/News/biz/archives/2026/08/26/2003823456",
+          "title": "倫敦完成全球首例AI輔助腦腫瘤切除手術",
+          "source": "衛報",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSldrM0lCSVVfODk2T091ekNBdGZ6Y2RJbWg0WW5aLW5hQ21pdWtzdnZRVlcwUVJua3FVdmVJMzliSUpQcHk0eXJ4S3RnRnhnZFRGWmxGdEJaajU1WjRmV0s1ajVIcWlPazBNY2gtSm8ya0NaNUV5WG82MHJNTENqbUhvb2c2bnUtTzNmNF9NNkVZY0NCSzJVUkdnTTBDb1YyNkpxLWdpM0pHZw?oc=5",
           "section": "亞太/中國焦點",
-          "summary": "印度企業大手筆訂購9,000台Nvidia AI系統，顯示印度AI基礎設施建設加速，成為繼美中之後的第三大AI硬體市場。"
+          "summary": "倫敦神經外科團隊成功完成全球首例AI輔助腦腫瘤切除手術，AI即時分析組織邊界，提升手術精準度與安全性。"
         }
       ]
     },
@@ -92,77 +99,70 @@
       "name": "環境快訊",
       "icon": "🌍",
       "color": "#00b894",
-      "date": "2026-08-26",
+      "date": "2026-08-27",
       "articles": [
         {
-          "title": "北海新油田氣候代價遠超經濟收益",
-          "source": "衛報",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNekZZaEszVWlEcmlBdWhscVZjN0ZLWlVtTUZVeVJGb3FFbTBUTjdlLVB2TXZTTWtLeFFPYW5EaFRmZVJOdmdoUEduamxyelJ0cWxUZzdfM0p3LVRXb0RIb1pJdXNjUUJMUGpEODJDZ3NyeThEY0h0dTdwZFRWMGxzRV8yZXRWNkpMTVBJMGY0aUxIQmFMU3p2TlVhcG8wa0pQT0ZXTERLMTNPYXdpTHpTUGxfSk5ReE0?oc=5",
+          "title": "特朗普政策或使美國電力碳排放在2035年前翻倍",
+          "source": "日本時報",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOWJFclVLNEhZdTlMSmVkSGowVlVZSEFZaDlQZzBuQVVNcXhJaTVQSU1Uc2h1bWdsdXFNSmczRS1MVUg0UmFOem5IZEwtb1RCZ2dva0VVWmlBVXpKbkxaRHdPTUFnY1BqREZ5SXFQRHo4RUdXcGdHbWJqS0NZQmxOZ3gxTTB6NDVyMV8ydU1TTjZDYVprSDh6SDRScXBGdExrZ1RpRA?oc=5",
           "section": "頭條新聞",
-          "summary": "最新分析顯示，北海新油氣田開發帶來的氣候破壞將完全抵銷其經濟利益，研究進一步質疑英國政府持續發放化石燃料開採許可的合理性，呼籲立即停止新項目審批。"
+          "summary": "最新分析顯示特朗普政府能源政策將使美國電力行業碳排放至2035年翻倍，逆轉此前減排趨勢，引發國際社會對全球氣候目標的擔憂，各州政府正自行填補聯邦氣候政策真空。"
         },
         {
-          "title": "碳排大戶造成美國西部一半水資源流失",
-          "source": "自然》期刊",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE53X0MyZGhod2VEVVZpYXB0NjdDaWdGemF6Tk84SWxRQ1dHdzJBQkZyU0Q0YUhhN2dRVzJ3NFlwcDNxT185ZDlyZzZkY1poVXJleUc3b1p3eEd1Ukt0dGpV?oc=5",
+          "title": "中國碳排放開始下降，與美國削減氣候規則形成鮮明對比",
+          "source": "EnergyNow",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRl9CZ3V0OWU4ZFJ1bnl0RWlnUHM2c0hVOGdLSlFlVHY2bEJTVlhKZW00TWVRTkMxYlRrSzVRQUFkdlY3cHZrSXVzTjk4YnZBQmMwblc3cFh4RGxEM0JHWUNLaVB5OE1nd1F6ODNzdUNxZjJEMlpaMEZ5SkZjNWxBSzhpRjFUanZncWZTdm1nUC1wNnd1ZXc?oc=5",
           "section": "頭條新聞",
-          "summary": "《自然》期刊發表突破性研究，指出全球最大碳排企業的溫室氣體排放直接導致美國西部一半的水資源流失，加州水危機與化石燃料行業有明確因果關係。"
+          "summary": "在特朗普大幅削減美國氣候監管之際，中國碳排放量開始出現下降趨勢，清潔能源投資推動能源結構轉型，中國在全球氣候治理中的角色正在發生根本性轉變。"
         },
         {
-          "title": "美國燃氣發電建設速度為中國兩倍，AI熱潮推高排放",
-          "source": "衛報",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Ob21CNkJ5VThkRVIyTXZNS2otUVJBV1IxTS1CaDc3UHFlbGoxRURYSDZFcm1pcmhHSmd5TnRZWXM4Q3AwaXFPU3d5cUE3dnZEYldQWkJELXhZNHRjM1Fqc3hjZ1RWWmRNdTljdWJva1VlTXZ6NGpZdm1qamg?oc=5",
+          "title": "俄勒岡州波浪能測試場啟用，清潔能源里程碑",
+          "source": "Audacy",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOHB3czBmT0EwS2hYWTdvck91R0lMVDZUY3JRMGZBMTJ4RHU3QWNuSkppNjhVbV9QdUdWTTQ3b0RjLWxsNFRtMFM1eUd6UXhWYWN1UmNROTZaWUdXYXB0aVpHcWlUUFRfel9Ib2dBUnJXVnFac2dNQjRWZzhMSU5wWUkyR2VXVzVMblFMZHFfUDRQcjBqdG5ZRnJPNnpjbVZwMHhfSjFSbTJPNzkxVzN1X1RHQi1nVGM?oc=5",
+          "section": "頭條新聞",
+          "summary": "美國首個大型波浪能測試設施在俄勒岡州海岸正式啟用，標誌著海洋可再生能源技術邁向商業化，為清潔能源組合增添新選項。"
+        },
+        {
+          "title": "南韓計劃六倍擴張可再生能源",
+          "source": "朝鮮日報",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZjlOZnR5d1RBdk5adnVQVU1HYkpXcXlkUEpob1EyMTlvb0dqSkV2aHZWX2M1cFZxOFlVM0tYN2FFNTdsTnk4cTZNUmZqT0kxaTUzS2g4YnUtUUxKTXBIWVhVdkloenF5RENfZms1eldNd3FWU1N3ZlZXZDdBcXF4eG50LWhDMXFhT3ZVcmh3?oc=5",
           "section": "氣候與能源",
-          "summary": "分析指出AI數據中心需求推動美國燃氣發電創紀錄增長，新建燃氣產能達中國兩倍，引發氣候界的強烈擔憂；氣候組織正推動民主黨把握數據中心反彈浪潮。"
+          "summary": "南韓政府公布2040年可再生能源擴張六倍藍圖，目標相當於45座核反應堆發電量，同時以競爭性合約市場取代現有配額制度，加速清潔能源轉型。"
         },
         {
-          "title": "兩座英國數據中心碳排放將超埃克森美孚",
-          "source": "衛報",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYmdXTF9ialI0dk1IaVNKM1V2ZjJwUnBhM09WMmE0a0NyQmlOb3hhbVNvV0xIcEdhNWpFTGpZc2Z3NUN1Q1dUMzVYUEkxYzdpZzRlajRKSGRKX1dHUzFpeTB0dXAxYUU1ZGY4aTltX3hnM3RUQ05laFhmQ0t4UWZCOXI1bmpmcjJHQ1hoUXFTejhjdlJES01KdWZhOEVfN2s?oc=5",
+          "title": "非洲目標200GW太陽能擴張",
+          "source": "Herald",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUHdMU1NnV0RqdE1ZTEU1eDhITUlqN1hyTE9RMXBaVjUyaGc1R3NwOVFuSUh6R18yYldCNzN2MUtBaV9BVzNQdzI1THZIY3dib2ZEOGNIbHBQTlcxSDdXUW4wR1paU2F4ZGpzWVFMMGJIN1k3eDNwbzQ3OElObENCVg?oc=5",
           "section": "氣候與能源",
-          "summary": "英國兩座規劃中的大型數據中心，其年碳排放量將超過石油巨頭埃克森美孚在英國的總排放，加劇各界對AI基礎設施氣候影響的關注。"
+          "summary": "非洲各國加速能源轉型，區域合作目標設定200GW太陽能裝機容量，呼籲國際投資者把握非洲豐富太陽能資源，推動清潔能源普及。"
         },
         {
-          "title": "德國默茨承諾推動氣候行動",
-          "source": "Courthouse News",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMVQ1OE9lNDBiclhMeFpGMjBGdzhSZ1VPamxndjR3dVc0THlqdVFUM1J0blpNeVR4OVNsT2dGQktlMVNtSXBNY0xlbEhvSnNZS1c1c3ktR0M3Nmg5NDUtLVo5RnY5ZmxSMHhBMzZyWFR5cHBDdGRILUphN2JwLWNWRGZmVFc2UERnVENMcUpDQ0ZiTlBs?oc=5",
-          "section": "氣候與能源",
-          "summary": "德國總理默茨回應批評者，重申氣候承諾，強調將在經濟增長與減排目標之間尋求平衡，此前德國被指廢除可再生能源強制令而背離氣候目標。"
-        },
-        {
-          "title": "「綠色沉默」正在扼殺我們——企業須打破氣候沉默",
-          "source": "路透社",
-          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPMTQwVzB0eHBfajdYVC1TSlJiT1dvZU43eFdEcV9ZSzRzTkE3Yk9hV25ZLUxkY2pvcUpobUxqSnJFbGRDdEM2MzllSk5FUjJGdWljZl9TZjcwY2JmMUw3MDQ4ZDVmaURTVGxKYWVfQjQ4T0pGWnFVZFRDY25tYy1oelN0d0FxTG9IRndaYk0yVk5zRDRadnFrTW1ubldwX0s2UDZsMkJXRnQ5eldzREhmVktfVVo1TldOSWlYRGxnRGtTN2VrcWJjZVluMi03aXlrU1JmLU81VE95NUlJalZtVXh1WWdTdTVPazNiajN2Y09fQlJQUUE?oc=5",
+          "title": "印度洋海山發現149種新深海物種",
+          "source": "Mongabay",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQU2RzYXEtNFJCcTVoeDc0eldQdmhnaW8zRFZacTdMOFJrSlRuTzJEZTdabUxyZnBHWFVrR1JXY3BMaXRTeEVMOEVHVWxmeEdXUU1Ebmo3eGQwVkZZQlBDaHM3LURmQmtQeEd1ams4aW0ydXEwMmFBXzB4cU5Mb18zMVJReWZlTi16MDJLTFZ5WjZfRk52TndKOW1USU92WEM4NW9WWTBTcXFWYXJwdm5tR2Nn0gG3AUFVX3lxTFBrb3JTOU55ekM0dmRGWHhuUzZ5NDJxYW5lUzQzUGl4MC1fX0JtMkdFU0xkdUptVnNtTF9IQk1wdHVHbnZSVFJUS1p0NlNPaWR1bEhpSWdxUy1DTFQ0OF9kM3hfNUVyRDRCZEFjSl9hNUdnZk16cjBxNnQwYkZmeUZMRm1MVGVnSWVOWWtvT2JfLXRNWDlpODg0UDZwNzc4NEZoQmNuMGZhMHY5UmMyYnBpZzcxUWNRNA?oc=5",
           "section": "污染與生態",
-          "summary": "《路透社》評論指出，越來越多企業因擔心政治反彈而選擇「綠色沉默」（greenhushing），不再公開談論氣候行動，此趨勢將嚴重阻礙全球減排進程。"
+          "summary": "科學家在印度洋偏遠海山區域發現149種新深海物種，包括珊瑚、海綿和魚類，凸顯深海生態系統豐富性，呼籲擴大海洋保護區以應對深海採礦威脅。"
         },
         {
-          "title": "線上非法野生動植物貿易威脅生物多樣性",
-          "source": "EurekAlert",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVTlwc3pIQm42alhKNEk2XzBOeXhqRG9tRUpsd3Nia0tac2I4bnFLaUs2dm0xVUFQRDktVUZDQWlSMDM2OTZ1UEZXMVFOeDI5bkkxRVhnNk1OT2Nwc3BHeUZIN0RyajBlaXpIRVQzZFFabjJvdlRYVTI3WWVTMWN2RkY5eXktM3Z2TUFraVpadkpkTUI0RE03WnhVb1VtOEU5ajVz?oc=5",
+          "title": "西班牙地中海浮式風電場影響135種脆弱物種",
+          "source": "Energies Media",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQM05XZDFLS3ZQQUdoM2hES3g0Z2NoZ3h3WFo5RjJrYy1CTDFPdS1yWHJyWnl4eHlPTVo4OThPajd3U2lSMU1uaHV3bkZvRlVWb1V5N1NkaHNtaXB6cWxLM0EtZ2Y3ZTFxa1N4NlNKWEY2VF8zN2FncUVBX2ZxT1ZVNA?oc=5",
           "section": "污染與生態",
-          "summary": "最新研究發現線上交易平台正成為非法野生動植物貿易溫床，對全球生物多樣性構成嚴重威脅，呼籲加強跨境監管和平台責任。"
+          "summary": "研究顯示計劃中的浮式風電場與西班牙地中海135種脆弱物種棲息地重疊，包括藍鯊和軟體動物，引發清潔能源發展與生物多樣性保護之間的權衡討論。"
         },
         {
-          "title": "日本韓國遭遇極端暴雨",
-          "source": "衛報",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE53X0MyZGhod2VEVVZpYXB0NjdDaWdGemF6Tk84SWxRQ1dHdzJBQkZyU0Q0YUhhN2dRVzJ3NFlwcDNxT185ZDlyZzZkY1poVXJleUc3b1p3eEd1Ukt0dGpV?oc=5",
+          "title": "中國企業投資重塑印尼石化產業碳足跡",
+          "source": "Dialogue Earth",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeWJuZHFvQWJVQ1RJZ1BvTGNDZ2NKdUVhak4wRGxmSGdpVDdZUmVRSEV2d1ZOTk56S2tIZkdBSzdUNlVPSEd6eHlTMldVNlpnTmR3ekdJOTF3V2p3STFUMmZCOEMwR1NxODNabTNwUmNIRDNRTFQ5T0xBR29tUDdwSmFNZ2JoLVJHMzcwWm5xeUY0QnNYRkJ1YmV3WmxaWEt0REU5M0UwN09pQkRyNEk1b29Oc2t3WGlUS2VZU056dXFUaHlzUVFaeW1jUnA?oc=5",
           "section": "亞太/中國焦點",
-          "summary": "上週日本和韓國遭受極端暴雨侵襲，引發嚴重洪水和山泥傾瀉，氣象專家指氣候變化和拉尼娜現象共同加劇了東亞地區的極端降雨強度。"
+          "summary": "中國企業在印尼石化產業的投資持續擴大，碳密集型項目引發關注；分析指出中國海外投資正面臨碳排放與可持續發展的十字路口，需平衡經濟與環境。"
         },
         {
-          "title": "中石油在四川發現近乎純天然氫氣滲出",
-          "source": "Hydrogen Insight",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE53X0MyZGhod2VEVVZpYXB0NjdDaWdGemF6Tk84SWxRQ1dHdzJBQkZyU0Q0YUhhN2dRVzJ3NFlwcDNxT185ZDlyZzZkY1poVXJleUc3b1p3eEd1Ukt0dGpV?oc=5",
+          "title": "ReThink HK 2026 匯聚逾萬人商討氣候方案",
+          "source": "The Asian Banker",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUDVibjRRaXNqWlN0djRiaGFYMjlmN05VOWhmZ3hVNHRHNnktWEh2TW5hOTNtbUFRRjUyZjhDa1ZSbzFKY3FjNVJZX0pFcU5VQmFQeC1LcFVsX18wczJzblVMc280TXZ0RWg0Tk1sY3VNaFRmZEtqZGpEUGRFV0Q0b01MeGctOFQzTkJsckVRc29zeW5qeHhkODI3dldCTGJKY1Z1aHFGRWxWdw?oc=5",
           "section": "亞太/中國焦點",
-          "summary": "中石油研究人員在中國西南部發現接近純度的天然氫氣滲出點，被譽為「新突破」，天然氫（白氫）作為零碳能源新選項正引起全球關注。"
-        },
-        {
-          "title": "上海電氣擴產氫基生物甲醇至20萬噸",
-          "source": "Fuel Cells Works",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE53X0MyZGhod2VEVVZpYXB0NjdDaWdGemF6Tk84SWxRQ1dHdzJBQkZyU0Q0YUhhN2dRVzJ3NFlwcDNxT185ZDlyZzZkY1poVXJleUc3b1p3eEd1Ukt0dGpV?oc=5",
-          "section": "亞太/中國焦點",
-          "summary": "上海電氣宣布將氫基生物甲醇產能擴大至年產20萬噸，為航運和重工業脫碳提供關鍵綠色燃料，彰顯中國在綠色氫能產業鏈的加速佈局。"
+          "summary": "香港年度可持續發展論壇ReThink HK 2026以全新主題形式吸引逾萬人參與，聚焦可實際執行的氣候解決方案，彰顯香港在亞太區綠色轉型中的樞紐角色。"
         }
       ]
     }
