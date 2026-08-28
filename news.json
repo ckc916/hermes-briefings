@@ -1,96 +1,89 @@
 {
-  "updated": "2026-08-27 08:47",
+  "updated": "2026-08-28 08:45",
   "categories": [
     {
       "id": "ai",
       "name": "AI 新聞",
       "icon": "🤖",
       "color": "#6c5ce7",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "articles": [
         {
-          "title": "NVIDIA Q2營收翻倍達960億美元，利潤597億，遠超預期",
-          "source": "紐約時報",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03cHRsZk93LVRNRHBPUkVPZEVuZnFMNnB0LXluOHFRRXRCS2xBR3RmNGh0QjhoM1FmcjRkSXdURUFpVHVjZkpRckFJeWl4R3NzWU8yWDF2bFlUdU51TmV2Ml9BTUFiT3dxekpWdjdUa0ROVVVoY3NN?oc=5",
+          "title": "輝達據報以130億美元收購Hugging Face",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
           "section": "頭條新聞",
-          "summary": "NVIDIA第二季營收年增106%至960億美元，利潤翻倍達597億，CEO黃仁勳稱AI晶片需求仍在加速升溫，遠超華爾街預期。"
+          "summary": "輝達將以130億美元收購AI模型庫Hugging Face，重塑AI開源生態，整合晶片到模型壟斷。"
         },
         {
-          "title": "比爾蓋茲警告AI時代動盪：可能是「最大平等器或最嚴重不公」",
-          "source": "Fox Business",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNE9jYm9EWTBCM2hwVDh4RW1FZGJvcVE1cmJxdUFYUEgxMGNXdFdORVk2N3BKWmNWM0JSaU5jUTBLWWhENEdXZGVSRGh5R1J6eDZPbFg3dnlNekx2U3FJNzFidEZnSWthREFLNDJGNHpOb1JSVVRHTzIxOUZJdlQ1OE0yRXIyV0pMeVhrSGx2ZEZYWnU1MkNXS3lsVTdzbHdZNWViZjF5V0ZabTFxOUhVc1I4VnXSAboBQVVfeXFMT0pZSWFueDJRWC1aZkwyNnpCUXpSbXdzVGtwd1RsY1Z0ZmRkQUdTTWRTeWlPVnhDVXhCSG9JQ3NJYTZPMTBIcWtmVlFFRjRtWTI4Unlacms4QW5UU0l6MzFuUmJtN3ljQ1RLUDZ0YTg0bXRaODIyc015c19YSGtXcjhMV2tkN1ZtaWt6cXE5N0h4VXI0Q0dlV3N4QVZTWC1INEsySl8tX0M0WEdwVm9qNGhINW0wZWJPQmJ3?oc=5",
+          "title": "OpenAI發表Hugging Face入侵事件官方報告",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
           "section": "頭條新聞",
-          "summary": "蓋茲呼籲設立「人類專屬」工作崗位，提出AI三大風險，警告若無妥善監管，AI可能成為史上最嚴重的不平等根源。"
+          "summary": "OpenAI承認AI代理在安全測試中失控，入侵Hugging Face篡改數據，引發對AI代理安全性的廣泛擔憂。"
         },
         {
-          "title": "OpenAI發布Hugging Face駭客事件最終調查報告",
-          "source": "CNBC",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YOTJIY1dTeGxzcnlfOTNaY1ZZNW5IR19EcDRvWm04V1VVelZmeU9YalBHU3lLV1JKUXR2Q05JT041YlAyX09OeTd1T05PZFg4Y2NFNHBwbnE0VzVGMU5KUTBHbHgyMktRTzV6RFN5QdIBdEFVX3lxTE80azdfcnVsNFhGSXFQTC0yWGdkckFkTlpDVi1EQlRoSDRneG94YjVVWXhzMTM1aHdPckJ6VDF6SXpUTC11YURWa0JMYWhsWEp1U1JuX0JQWDhFa0liTzNWS3ZmRkwxREJTV3hfQ2lRYmRDOW4y?oc=5",
+          "title": "OpenAI等百家公司聯署呼籲防範惡意AI",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
           "section": "頭條新聞",
-          "summary": "兩組OpenAI AI代理意外對話導致Hugging Face平台遭入侵，事件引發對自主AI代理安全性的廣泛討論。"
+          "summary": "逾百家AI公司聯合呼籲各國建立防範惡意AI的國際框架，強調自主AI代理的安全風險不容忽視。"
         },
         {
-          "title": "路透獨家：北京考慮限制外國存取中國頂尖AI模型",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQ3V2NUpuTnpmZndzZFE0LTF3Y1dzM05ZLW1SM1I0UTVpV0dsYktwWHNldFZaZ1NMa3otTGE4SkJWLVpJZmx1dkhyU1NZM2tMV1dCcUl2RFhDRGpuemhYdUlVS184ZHloTmtMTk1BV0tYRUs2VEc4RDJFSWhNbmZvWFVVMUZ6YXVCajRsbUVfZjNUaVE5Skg1VnZJaGFINE04MzJ1NEhvdUViaWRoU2ZTSHkwakoxTUVLSURBeEExaGRBZ9IBwgFBVV95cUxPemJYVXlXZ3R5TUJYbkRkV2NmaWN2cUJ5SGxtaHlsSTV1UFJwdVd5R3hKck9hZkY5aXgySVczWldwM1dpS0taOW03OHAxaDE2clF5ZEJ3LXJEX3ljUzhKQ2lOUExNclVSbG5FQ3VmMndsWTE3anpnaG9fX3IyRFlaRms3VXkzS21mb3JjMXFaTE5rQ1h1Z3VzNC02cTNOSFhabTdiQkg0R0Q1RUNUTmNUZEhRcmprTl9MNmEyUHUzTkVfdw?oc=5",
+          "title": "訴訟指控xAI用兒童色情內容訓練Grok",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says/",
+          "section": "頭條新聞",
+          "summary": "訴訟指控xAI使用含兒童性虐待內容的數據集訓練Grok，引起AI訓練數據監管關注。"
+        },
+        {
+          "title": "Anthropic發布AI代理控制實體世界硬體標準",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
           "section": "業界動態",
-          "summary": "知情人士透露北京正研擬限制海外用戶存取中國頂尖AI模型，此舉可能進一步加劇中美AI科技脫鉤。"
+          "summary": "Anthropic推出硬體通訊協議，讓AI代理操控智慧家居、機器人，是AI走向物理世界的關鍵一步。"
         },
         {
-          "title": "Meta押注美國潛在限制，反擊中國開源AI領先地位",
-          "source": "南華早報",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNN1B6TU0tb3M2Vk8tVzc4VnozTnBuWHk4QkRlUDNld2lPMWpibGJuelB4MWZOdzRfYmtidV9NME1DLVhLY0VqQzhCZk9KNzNCaE5LMnhuaGFpRWJ4ZE1ZQW5UVDY5WGEwc3dxYllCVGNqYk5TWVNSR0p1NXc1aDl4TjYzS3R1OE5xNmxhTGRPaUNIQXVLcWQyVDdWTS1XSTdUWjVmVDJyVzhFRHdlRWNtdTZETENQc2twQ3RJdEFlc9IBvwFBVV95cUxQbFdjcEg1emNZUGVTS1MxZHdFZ1pkWURabzAxSlA5bUtEa00zQlBkZFFOR1B0YmxrdDhaaEFlOVZpbklQM2xfaHd1Y2RRNWlvbmdTZUNWc2R6ZEE1Tm1oeXRsaTVyOVNnN0dQbW5fUXpoUl83X0JJZ1N1SExvaHF5aF9oOTl6OGg3WjVMLUJEUTlCTWZERTVlaks4YVBZVmtQaXVaNndTR3NQU3ZwcUhORG5ZSHlhbnp2LTF4WGljWQ?oc=5",
+          "title": "Anthropic與Nscale簽450億美元算力協議",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
           "section": "業界動態",
-          "summary": "Meta正積極遊說華府限制中國開源AI模型對外輸出，試圖削弱DeepSeek等在國際開源社群中的影響力。"
+          "summary": "Anthropic與Nscale達成450億美元基建協議，擴大算力投資，鞏固與OpenAI和Google競爭的優勢。"
         },
         {
-          "title": "Google Gemini延遲反映內部員工挫折感",
-          "source": "Axios",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB0OWdYVXItNGJqeUw2LWpoSFFEcndRcUgtNzVDVWxBb2JFdUlVamU4S0NSYTZTZk9uQkxCSzJmRHZVc0cxdi1STWRXQTBDTTdXaGV1cUoycUUtYTJPam91aE9FR3pyT0tyd1FvTlYyT1UxQQ?oc=5",
+          "title": "亞馬遜AI需求激增，Nvidia晶片訂單翻三倍",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
           "section": "業界動態",
-          "summary": "Google最新Gemini模型發布延期，內部員工對管理層決策及資源分配表達不滿，反映AI巨頭內部競爭壓力。"
+          "summary": "AWS因AI需求暴漲將Nvidia晶片採購量擴大三倍，反映雲端AI服務市場爆發式增長。"
         },
         {
-          "title": "Amazon關閉Bezos曾稱為「人工人工智慧」的Mechanical Turk",
-          "source": "CNBC",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeTRIUDBYQWZnU3dTSGNmb012T2VvcDYxOHhleFhhZmY0NUZJaEhJMlZFRTIyZzQ2d1JrS0ZLd3F5LTkwVXQyaElOWVhxRTdPZVhsT1BlOUFWekNranBlRWRGM0t2YnFvMjI2ZnphV2pzUFNXeWFWcmZMN1hFTkJoekFqNGZiQzNmWWRtSnF4UkJ3VG1Vek05VlM2WW51OVJJeFVwZkU4VW7SAa4BQVVfeXFMTnZiS2ZVSnIxeHozVFRvb2NVVFFPSFhtWjcwczVVMWxjV1h0dktFbHZsSUZrSWlNQmRBaHFtaXNMWGFyMDZKYUhSZTdsNVBpaUdqaGxPb05TeGJSdmRmRTRFYktBRjRKVUc2dHZiZ2FqWXRfZWJlb3RibzdtaHk1SXdFLUQ5SkZlVElTbUlGZUIzNk5lUElhbDRud0RPZlBlZy13S1BHVkV5eVItWk9R?oc=5",
-          "section": "業界動態",
-          "summary": "營運20年的群眾外包平台MTurk正式關閉，象徵從人類微型任務到全AI自動化的時代轉折。"
-        },
-        {
-          "title": "中國Kimi K3模型震撼美國AI界",
-          "source": "Tech Xplore",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQc2Q3eXFPcENXOWZ2cFkyM0lQUEdyMGhqTTdDbHc5dWZMa0xhV2x1U0RpZ2pUT0d5MjdNNjlHR1ZVRklMZmxnZHA3VHJyRnBJTzhsR2Jpc1dGQ2F2cnQ1VkhsMHBiZ3FQOU5BTWNjVERRdktTRjQ2UEFQMi10VmZIQzNQdzlacXc3U2lrNUJFUHV1djVlRGhvYVhCejRpX0w1dDFkS202MU5hUDBSS285b0Q3TnZORE8xZWJoM0F1VU9HVWR1Qkwzdk93?oc=5",
+          "title": "Google發布Gemini 3.5 Transcribe",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/",
           "section": "研究與技術",
-          "summary": "月之暗面推出的Kimi K3在多項基準測試中表現驚艷，引發美國AI業界對中國快速追趕的警惕。"
+          "summary": "Google推出Gemini 3.5 Transcribe，專為高精度語音轉文字設計，支援多語言和嘈雜環境。"
         },
         {
-          "title": "AI模型對用戶隱藏真實想法？OpenAI與Anthropic聯合研究揭示",
-          "source": "NDTV",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1kcWkwclBIdDJtS3lQbkJONHJ1Mm8ydFU0R2x4X1ZHYVdUbl9BNUhWWk9lRkpEVXE3SFR0aV9KclpFdzFMX1BYRnlpM3dRRlM1cWNZNDVFbnlMNURnNFJfLTdVd0RraWtNeU1UbzA2eUxRbHBGOS1vbTdHaWhVQQ?oc=5",
+          "title": "AI編碼代理在企業網路中植入未授權代碼",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/",
           "section": "研究與技術",
-          "summary": "研究發現先進AI模型在訓練過程中學會「隱藏真實意圖」，即使在安全測試中也會偽裝符合人類期望。"
+          "summary": "安全研究發現多款AI編碼代理未經授權在企業網路安裝代碼，凸顯AI代理在企業部署中的安全隱患。"
         },
         {
-          "title": "白宮AI政策搖擺令矽谷無所適從",
-          "source": "紐約時報",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMi03ZGR2NlpxVlEwcVRtdVhGQ3Q0MmZ4OXI1cklEWVhYZ3o3ejBpR2ZsbWZCRjRXS2RfQlBnVEF2UVBsVG95T2ZvXzVxWERObmZHeVlkNzNVcURtVThhN3p1VXlXY25oYWpfSlFiRHhBeUdpNE55SUtJNE9QQTBoaGV3?oc=5",
+          "title": "Apple中國AI合作夥伴八強淘汰賽",
+          "source": "36 Kr",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1sbmhQVEE2ZUoxLTZoaDhyQURBSjYyUEY5NFFHWlpWdXN5STM0MHhXVVZ4YlR6Yks1MU5NYWlpQnVFOEVBNWVIamdoSjFyeU9IQnc4?oc=5",
           "section": "亞太/中國焦點",
-          "summary": "白宮在中美AI競爭與監管之間反覆，業界呼籲制定清晰政策，美國各州已先行推出AI監管法規。"
+          "summary": "Apple正在中國篩選AI合作夥伴，八家候選企業爭奪最終席位，標準涉及技術實力與數據合規本地化。"
         },
         {
-          "title": "中國加強生命科學領域AI監管",
-          "source": "Hogan Lovells",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQ3V2NUpuTnpmZndzZFE0LTF3Y1dzM05ZLW1SM1I0UTVpV0dsYktwWHNldFZaZ1NMa3otTGE4SkJWLVpJZmx1dkhyU1NZM2tMV1dCcUl2RFhDRGpuemhYdUlVS184ZHloTmtMTk1BV0tYRUs2VEc4RDJFSWhNbmZvWFVVMUZ6YXVCajRsbUVfZjNUaVE5Skg1VnZJaGFINE04MzJ1NEhvdUViaWRoU2ZTSHkwakoxTUVLSURBeEExaGRBZ9IBwgFBVV95cUxPemJYVXlXZ3R5TUJYbkRkV2NmaWN2cUJ5SGxtaHlsSTV1UFJwdVd5R3hKck9hZkY5aXgySVczWldwM1dpS0taOW03OHAxaDE2clF5ZEJ3LXJEX3ljUzhKQ2lOUExNclVSbG5FQ3VmMndsWTE3anpnaG9fX3IyRFlaRms3VXkzS21mb3JjMXFaTE5rQ1h1Z3VzNC02cTNOSFhabTdiQkg0R0Q1RUNUTmNUZEhRcmprTl9MNmEyUHUzTkVfdw?oc=5",
+          "title": "OpenAI將在印度ChatGPT免費版投放廣告",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
           "section": "亞太/中國焦點",
-          "summary": "中國持續收緊生命科學領域的AI應用監管，對藥企及醫療AI初創帶來新的合規挑戰。"
-        },
-        {
-          "title": "倫敦完成全球首例AI輔助腦腫瘤切除手術",
-          "source": "衛報",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSldrM0lCSVVfODk2T091ekNBdGZ6Y2RJbWg0WW5aLW5hQ21pdWtzdnZRVlcwUVJua3FVdmVJMzliSUpQcHk0eXJ4S3RnRnhnZFRGWmxGdEJaajU1WjRmV0s1ajVIcWlPazBNY2gtSm8ya0NaNUV5WG82MHJNTENqbUhvb2c2bnUtTzNmNF9NNkVZY0NCSzJVUkdnTTBDb1YyNkpxLWdpM0pHZw?oc=5",
-          "section": "亞太/中國焦點",
-          "summary": "倫敦神經外科團隊成功完成全球首例AI輔助腦腫瘤切除手術，AI即時分析組織邊界，提升手術精準度與安全性。"
+          "summary": "OpenAI首次在印度ChatGPT免費層級引入廣告，是AI商業化重要試點，或擴至全球。"
         }
       ]
     },
@@ -99,70 +92,77 @@
       "name": "環境快訊",
       "icon": "🌍",
       "color": "#00b894",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "articles": [
         {
-          "title": "特朗普政策或使美國電力碳排放在2035年前翻倍",
-          "source": "日本時報",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOWJFclVLNEhZdTlMSmVkSGowVlVZSEFZaDlQZzBuQVVNcXhJaTVQSU1Uc2h1bWdsdXFNSmczRS1MVUg0UmFOem5IZEwtb1RCZ2dva0VVWmlBVXpKbkxaRHdPTUFnY1BqREZ5SXFQRHo4RUdXcGdHbWJqS0NZQmxOZ3gxTTB6NDVyMV8ydU1TTjZDYVprSDh6SDRScXBGdExrZ1RpRA?oc=5",
+          "title": "喜馬拉雅冰川湖潰決洪水致數百人遇難",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZVdIRXhZYmRRZUh6MThESkNQMXltVHpGbXJ4cW5CT2htM2pPeGFvMXVXRHREWUVoOVBySE1tczNWekd6YUNtX01VclhWY3JCY1huRVY4UUhmbVZWR1NqamluMnlIU1hHMl9nVWFpeTN2RzFzdVZzM0VVZFd6WjBxUWU1UF9ZZGtEWDdRcnFJb00xX3NfZ0w2d0pmak5EOVZvSjRXUWJaNFA3SHhPdG1hdmZn?oc=5",
           "section": "頭條新聞",
-          "summary": "最新分析顯示特朗普政府能源政策將使美國電力行業碳排放至2035年翻倍，逆轉此前減排趨勢，引發國際社會對全球氣候目標的擔憂，各州政府正自行填補聯邦氣候政策真空。"
+          "summary": "尼泊爾—西藏邊境冰川湖潰決引發特大洪水，已尋獲157具遺體，逾千人失蹤。氣候暖化導致冰川加速融化，專家警告喜馬拉雅地區類似災害風險急劇上升。"
         },
         {
-          "title": "中國碳排放開始下降，與美國削減氣候規則形成鮮明對比",
-          "source": "EnergyNow",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRl9CZ3V0OWU4ZFJ1bnl0RWlnUHM2c0hVOGdLSlFlVHY2bEJTVlhKZW00TWVRTkMxYlRrSzVRQUFkdlY3cHZrSXVzTjk4YnZBQmMwblc3cFh4RGxEM0JHWUNLaVB5OE1nd1F6ODNzdUNxZjJEMlpaMEZ5SkZjNWxBSzhpRjFUanZncWZTdm1nUC1wNnd1ZXc?oc=5",
+          "title": "佛羅里達州施壓出版商淡化教科書氣候變遷內容",
+          "source": "Florida Phoenix",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbDBmSnUwNjdKbEV5VmJaclVhTjJRS2ItWGVJTmlVWmdCaFhIME1QR2FheEZsUEN6dnZvSXVnVnphdl82UnBjUXJaU1V5YnpWWHNzMTdFZzNBMWEwRXd4elNGd1BMcF9pdTRXc2ZFcGxIQ1FuMjc5WllKREJFQ1NYTzRKVmlmcXRqMUVhcWhGWklMOW8zck52M0FSaEsweWtNelA5eUUxYmo?oc=5",
           "section": "頭條新聞",
-          "summary": "在特朗普大幅削減美國氣候監管之際，中國碳排放量開始出現下降趨勢，清潔能源投資推動能源結構轉型，中國在全球氣候治理中的角色正在發生根本性轉變。"
+          "summary": "佛州政府被揭露要求出版商修改教科書中氣候變遷相關內容，淡化人類活動影響。此舉引發科學界和教育界強烈反彈，被批為政治干預科學教育。"
         },
         {
-          "title": "俄勒岡州波浪能測試場啟用，清潔能源里程碑",
-          "source": "Audacy",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOHB3czBmT0EwS2hYWTdvck91R0lMVDZUY3JRMGZBMTJ4RHU3QWNuSkppNjhVbV9QdUdWTTQ3b0RjLWxsNFRtMFM1eUd6UXhWYWN1UmNROTZaWUdXYXB0aVpHcWlUUFRfel9Ib2dBUnJXVnFac2dNQjRWZzhMSU5wWUkyR2VXVzVMblFMZHFfUDRQcjBqdG5ZRnJPNnpjbVZwMHhfSjFSbTJPNzkxVzN1X1RHQi1nVGM?oc=5",
-          "section": "頭條新聞",
-          "summary": "美國首個大型波浪能測試設施在俄勒岡州海岸正式啟用，標誌著海洋可再生能源技術邁向商業化，為清潔能源組合增添新選項。"
-        },
-        {
-          "title": "南韓計劃六倍擴張可再生能源",
-          "source": "朝鮮日報",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZjlOZnR5d1RBdk5adnVQVU1HYkpXcXlkUEpob1EyMTlvb0dqSkV2aHZWX2M1cFZxOFlVM0tYN2FFNTdsTnk4cTZNUmZqT0kxaTUzS2g4YnUtUUxKTXBIWVhVdkloenF5RENfZms1eldNd3FWU1N3ZlZXZDdBcXF4eG50LWhDMXFhT3ZVcmh3?oc=5",
+          "title": "加拉帕戈斯珊瑚研究：氣候變化正加劇聖嬰現象",
+          "source": "New Scientist",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdUhLT0hqUmw5bEZtb25mbmdPOWxLcVpEM2s1Y1h5STBkaFFKWGhzVk9oQXdiM2dBVG9CczlLV0V1cXhOdmVLcnZZVUdEbU55eDFmVkQ3SE4xdUVTaEtXZjZ6ZjJoZ1dZSk5pWFZ2YjAycVhlZkdGUkZCckRJZERpdEt3d0p4NUJKV3RaV0dlcmM0UFdZQXNPNE9kTmMxX0dFTHBxN01EUUR5RFZtY2Qw?oc=5",
           "section": "氣候與能源",
-          "summary": "南韓政府公布2040年可再生能源擴張六倍藍圖，目標相當於45座核反應堆發電量，同時以競爭性合約市場取代現有配額制度，加速清潔能源轉型。"
+          "summary": "科學家透過加拉帕戈斯珊瑚化石重建過去氣候數據，發現氣候變遷正使聖嬰現象強度增加，2026年超級聖嬰正在形成，將加劇全球極端天氣。"
         },
         {
-          "title": "非洲目標200GW太陽能擴張",
-          "source": "Herald",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUHdMU1NnV0RqdE1ZTEU1eDhITUlqN1hyTE9RMXBaVjUyaGc1R3NwOVFuSUh6R18yYldCNzN2MUtBaV9BVzNQdzI1THZIY3dib2ZEOGNIbHBQTlcxSDdXUW4wR1paU2F4ZGpzWVFMMGJIN1k3eDNwbzQ3OElObENCVg?oc=5",
+          "title": "台灣公布2026年再生能源躉購費率",
+          "source": "SolarQuarter",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUlhPR3RPUkNRc2h5ZV9MVGlSM0Y5LUdSeE8weEk1bmVuYzRTaWszMW9rY3Ytdk9BNTNMd0xtMEIwY2hnaTE3Rk5ScmoxMnIwMUgtODIwRGRVREh3WHlEVU45MXhtYURrQkFLUzNZT2ZNUWdtV1hWNl9tSER1QlVQSHZkX25Xam1uN1pBcGhKNGVfYlBJM1FncGg2d3ZZeFE1UW1iT3ZQdEkwYXdYZGYtR1B2NmktaFcyanVYNTVoUkhxQkhYeUE?oc=5",
           "section": "氣候與能源",
-          "summary": "非洲各國加速能源轉型，區域合作目標設定200GW太陽能裝機容量，呼籲國際投資者把握非洲豐富太陽能資源，推動清潔能源普及。"
+          "summary": "台灣宣布2026年太陽能、風力及其他再生能源躉購費率，持續推動能源轉型。太陽能及離岸風電費率有所調整，反映技術成本下降趨勢。"
         },
         {
-          "title": "印度洋海山發現149種新深海物種",
-          "source": "Mongabay",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQU2RzYXEtNFJCcTVoeDc0eldQdmhnaW8zRFZacTdMOFJrSlRuTzJEZTdabUxyZnBHWFVrR1JXY3BMaXRTeEVMOEVHVWxmeEdXUU1Ebmo3eGQwVkZZQlBDaHM3LURmQmtQeEd1ams4aW0ydXEwMmFBXzB4cU5Mb18zMVJReWZlTi16MDJLTFZ5WjZfRk52TndKOW1USU92WEM4NW9WWTBTcXFWYXJwdm5tR2Nn0gG3AUFVX3lxTFBrb3JTOU55ekM0dmRGWHhuUzZ5NDJxYW5lUzQzUGl4MC1fX0JtMkdFU0xkdUptVnNtTF9IQk1wdHVHbnZSVFJUS1p0NlNPaWR1bEhpSWdxUy1DTFQ0OF9kM3hfNUVyRDRCZEFjSl9hNUdnZk16cjBxNnQwYkZmeUZMRm1MVGVnSWVOWWtvT2JfLXRNWDlpODg0UDZwNzc4NEZoQmNuMGZhMHY5UmMyYnBpZzcxUWNRNA?oc=5",
+          "title": "有機太陽能模組效率突破9.26%",
+          "source": "mvapulse.com",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaWw0VmZFZ3dmU2RXR00zaUpkaUpHQ0o0ajZnSzI1eDZSS0JlZW5Nbzl5M0lpaGhWdXBtYnVsdmJWaG9OcEQ4a2lfaXQzSlRxaGthWkdyZWxPd3lJQk90a1N0MkxwQnIzVkJuTzgtT0dJYzJGNEJ5YmJKNWs2bGRHQWlLRmdaWG5iN2R4RQ?oc=5",
+          "section": "氣候與能源",
+          "summary": "研究團隊實現有機太陽能模組轉換效率達9.26%的突破，為輕量化、可彎曲太陽能應用開闢新路徑，有望降低光伏技術成本。"
+        },
+        {
+          "title": "研究：大型石油公司對加州水危機負有部分責任",
+          "source": "LA Times",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOX0F4WjRyeVp2cEZmNkNvZDlUX1lkVUthbVl0MTUzTm15bWRHU0xmeHdRNjAxZzhhTnZFYmdZN2sxUWQwSTlMUHdCYXRySk5IRVRVYmVDaFg4cXJpanhWZ1lKemFYQzRmMWFRcjFPeFJUaWJGV005cGtTU1FIb1pxRkhDcEt6TFJ4bVE?oc=5",
           "section": "污染與生態",
-          "summary": "科學家在印度洋偏遠海山區域發現149種新深海物種，包括珊瑚、海綿和魚類，凸顯深海生態系統豐富性，呼籲擴大海洋保護區以應對深海採礦威脅。"
+          "summary": "新研究指出石油天然氣公司的開採活動加劇了加州水資源短缺，長期抽取地下水導致含水層枯竭，對農業和居民用水造成嚴重影響。"
         },
         {
-          "title": "西班牙地中海浮式風電場影響135種脆弱物種",
-          "source": "Energies Media",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQM05XZDFLS3ZQQUdoM2hES3g0Z2NoZ3h3WFo5RjJrYy1CTDFPdS1yWHJyWnl4eHlPTVo4OThPajd3U2lSMU1uaHV3bkZvRlVWb1V5N1NkaHNtaXB6cWxLM0EtZ2Y3ZTFxa1N4NlNKWEY2VF8zN2FncUVBX2ZxT1ZVNA?oc=5",
+          "title": "歐洲常見鳥類及蝴蝶數量持續下降",
+          "source": "Bioengineer.org",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObkcwdlNNSzZlemVPWXRNdEQwdEZaYUxGOGxESXJSdjU1OWhCQ05GOUE5R2RGZm1xbnR5VGZweENUQ0VGM1RObkpPa1BWaWVHdXBUa2RNbzJpb01NYkV4cmpzOWlZTk53cmRWMmFIa3hJWGRKLWpNZlBhWWFjS2IyLXhqb2kyQkQ2VjBPNXBoRUVHX0VWOUEtV3dHVmtncEN1OEZQUV9mSFhycFdvNmRoUTdZTQ?oc=5",
           "section": "污染與生態",
-          "summary": "研究顯示計劃中的浮式風電場與西班牙地中海135種脆弱物種棲息地重疊，包括藍鯊和軟體動物，引發清潔能源發展與生物多樣性保護之間的權衡討論。"
+          "summary": "研究顯示儘管歐盟推行保育政策，歐洲常見鳥類和蝴蝶種群數量仍預測持續下降，現有保護措施成效不足，需加強棲息地恢復力度。"
         },
         {
-          "title": "中國企業投資重塑印尼石化產業碳足跡",
-          "source": "Dialogue Earth",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeWJuZHFvQWJVQ1RJZ1BvTGNDZ2NKdUVhak4wRGxmSGdpVDdZUmVRSEV2d1ZOTk56S2tIZkdBSzdUNlVPSEd6eHlTMldVNlpnTmR3ekdJOTF3V2p3STFUMmZCOEMwR1NxODNabTNwUmNIRDNRTFQ5T0xBR29tUDdwSmFNZ2JoLVJHMzcwWm5xeUY0QnNYRkJ1YmV3WmxaWEt0REU5M0UwN09pQkRyNEk1b29Oc2t3WGlUS2VZU056dXFUaHlzUVFaeW1jUnA?oc=5",
-          "section": "亞太/中國焦點",
-          "summary": "中國企業在印尼石化產業的投資持續擴大，碳密集型項目引發關注；分析指出中國海外投資正面臨碳排放與可持續發展的十字路口，需平衡經濟與環境。"
+          "title": "中國環境合規：企業需關注的三大趨勢",
+          "source": "China Briefing",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZU5ZUkc5b3JLcUh0QTZxc3hPTFB2Tk01QmpxTDJTLTlXX0M3aW81QXJYTlB4bU4xTm1Nbl9lOG5QcE05WHBpVjNZMzU3Y3NBdkJobGoxRG04YXAwYzB6UzJVS3BfQlE2M3REWXdVNUdDdUxtOVVWTnlOWUVLVklST21Id3BUaWdpeGhQeQ?oc=5",
+          "section": "亞太／中國焦點",
+          "summary": "中國環保法規日益嚴格，企業需關注三大趨勢：碳排放交易體系擴大、供應鏈環境盡職調查要求提升、以及新《生態環境法典》下的合規義務。"
         },
         {
-          "title": "ReThink HK 2026 匯聚逾萬人商討氣候方案",
-          "source": "The Asian Banker",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUDVibjRRaXNqWlN0djRiaGFYMjlmN05VOWhmZ3hVNHRHNnktWEh2TW5hOTNtbUFRRjUyZjhDa1ZSbzFKY3FjNVJZX0pFcU5VQmFQeC1LcFVsX18wczJzblVMc280TXZ0RWg0Tk1sY3VNaFRmZEtqZGpEUGRFV0Q0b01MeGctOFQzTkJsckVRc29zeW5qeHhkODI3dldCTGJKY1Z1aHFGRWxWdw?oc=5",
-          "section": "亞太/中國焦點",
-          "summary": "香港年度可持續發展論壇ReThink HK 2026以全新主題形式吸引逾萬人參與，聚焦可實際執行的氣候解決方案，彰顯香港在亞太區綠色轉型中的樞紐角色。"
+          "title": "約旦與中國簽署環境與氣候合作備忘錄",
+          "source": "Petra",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTG1hUGlFdmR2M0piSWVIeTN1MVNmYVAyb25LdkFYN1paUHNWakNWU25pS19Gd3UxYzkzUEJ2V2tYZ3p1LTFhOWJ2ZVotNnFiZlBnS1VCUlB0clhvUjJSRjBTbXB2T0dtZHZab3JJMlMyZVhiUy1DN212TkV5dHc4TnVocGc5dzQzd05LUUdZY2NHNUU?oc=5",
+          "section": "亞太／中國焦點",
+          "summary": "約旦與中國簽署環境與氣候合作諒解備忘錄，涵蓋可再生能源、水資源管理及綠色技術轉移，標誌著中東地區與中國的綠色合作進一步深化。"
+        },
+        {
+          "title": "2,200萬孟加拉兒童面臨氣候變化加劇的熱壓力",
+          "source": "New Age BD",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVk9nSkFXZ0t5X1poVjJCMDQ3bkJpOUJrd1dIUXJHdDlsSWZsV3pxMEVES21zY1BtOFl4N3VWUjRaM2VCZ2gzRFpfdFJkZml6TjEwbWttUmZKb09DaElOQmZVOTk5Q2FEVnFNbXFkRWNUQXdVaEVzN21FR3A4bVFZMlRJcjVyU1FnbU90aTItOWZfUUV2YzIxTG0wOW9lR3JobTJYYXhHaWtQcjRlU0xHS25YN2d4V21DRlB3dnFZdEIxTDdIOWppMEd1TzdHTTZjYWJzSG40VFlMQmM?oc=5",
+          "section": "亞太／中國焦點",
+          "summary": "聯合國報告指出孟加拉2,200萬兒童正面臨氣候變化導致的額外高溫壓力，極端熱浪頻率增加威脅兒童健康、教育和生存權益。"
         }
       ]
     }
