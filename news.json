@@ -1,103 +1,75 @@
 {
-  "updated": "2026-08-31 08:45",
+  "updated": "2026-09-01 08:45",
   "categories": [
     {
       "id": "ai",
       "name": "AI 新聞",
       "icon": "🤖",
       "color": "#6c5ce7",
-      "date": "2026-08-31",
+      "date": "2026-09-01",
       "articles": [
         {
-          "title": "Sony與華納起訴Anthropic 侵犯音樂版權",
-          "source": "Mashable",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZWt4UGlUNElBbFZmb29uWkVRbkp1MDBUVFIxaWlkZjJBbE1VNkl5YUxORjdDZWFxa3llSDhDVTc5UUdSaW9SaURCMWVKT0s0eFpaT1hGYldJdVBlV3FiNy1lZm13aTRPTURTZUdNcFNrUWF4bTVZdllHOG5hdU9DN1VlTmdvdUJsUEVKY0kzRmE?oc=5",
+          "title": "歐盟AI法案正式執法 向主要AI模型商發出首批資訊請求",
+          "source": "",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8tVk43VXN5QTl1b1FBNDBfMFBaWHZwLWdBMzlYa0hoQko2UWNWWG5Qb2ZCWTdGcXdUc0tTLW1kanVSMVZjelFOZlpmZ1A4bEl6VVlJOUI1dHB6RVVlTjlNeGx3?oc=5",
           "section": "頭條新聞",
-          "summary": "Sony Music與Warner Music指控Anthropic「大規模非法下載」版權音樂訓練Claude模型，要求每首歌最高賠償15萬美元，成為AI訓練版權爭議至今最大宗訴訟。"
+          "summary": "歐盟正式啟動AI Act執法，要求OpenAI、Google、Anthropic提交安全實踐文件，違規最高罰全球營收7%。"
         },
         {
-          "title": "OpenAI終止與Cursor合作 稱不信任SpaceX遵守條款",
-          "source": "PYMNTS",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZWQ3VWdNT2RJNHVoVXlmTGZ0cndEMDNKa3hPQ0g5OUpSRXhVYjJzMzN2TU5aZHRwWlFjQU1QS3JtUzZuTEl2b005T1RDMDIzZmpnem82WlE3MVBNMlBJNVNzaTlBMDN3OHhUUGNocHU1VTJaM09oWHktd0U3eXE4ZkN3aXpLUHpHYUg1bzRNMUFBMUVwOUlzejBZT3hpRVYxUXMtNk9ycEhIM1dLeHh4YklBWXNBVHZiLXNwQg?oc=5",
+          "title": "Meta秘密計劃Project OT曝光：試圖用AI取代員工但以失敗告終",
+          "source": "",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMVhpalVEX2c1eUE5LVNJX0QyX0oyRmlxOThJTm9TZXpKbnpUbWU1Z1ZuQjlvVWpMQzBaamtsZlRpS2daendQY1pDQ2ZRWG45VlJ0eVlXNFVzUC1DcUQ0eTlMZEhRUnBjSmo3MHB6X1JCT2RZY0YyOGFPdjF2c216MnBZR3RSaFplYTg0bmVuNk42amZERzB3NGM1NGJaMUQtSjZXdlJtZmlUTktDcVBKaXVWekdtOGdoRlQ2d09CRFM1LVN1MktkTg?oc=5",
           "section": "頭條新聞",
-          "summary": "OpenAI以「無法確信SpaceX會遵守服務條款」為由，終止向Cursor IDE提供GPT模型，Anthropic隨即向受影響開發者提供更高Claude使用限額趁勢搶客。"
+          "summary": "Reuters獨家：Zuckerberg秘密推動以AI代理取代中階工程師，AI做出「大規模破壞性操作」後計劃流產。"
         },
         {
-          "title": "Meta測試消費級AI代理人 月費$199.99",
-          "source": "Crowdfund Insider",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObEl5c2tnT280MmdRcHY5ZmRUX1A1VVEzRklRSU5ERGd4M284Q0lDckEwOFNfU3IwUFpHa3lGSDhoVnBJQW9jd2d2ZFkyLWNxRE5HV2g5VTQwTjhyNTdRaDE5N0ZrZUFUMkJqbHR0aGtJNk1VNmZKX0VmcGsyVzg1WEF0SXNkT01tbHF0eS11QjRVWGRlcXE4cUktTHlucU9fZnhGaWRoNA?oc=5",
+          "title": "OpenAI大量採購Mac 蘋果意外成為AI基礎設施股",
+          "source": "",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYTlTSzMtVGo0dzYzNWZkUTJOMElaQkJWMkc5aGVibHRYSmhaZFd6dnoyUlRXbWNCTFQ4cFAyMWFWVDU2ek0ybU5faVBJMVZWeUs5Skl2YnR1VFVSdVhWdFBhZjFhME1tUHVlTjBnTF9GTlFObmFhaTJ4V2RiLWY0OWZNWlVZeVI2Zld4aHFIMkZwN09hYXB5Sjc4dThFbXNHdUVBYVpsaXVhMjNSWTkxYUE0MDgwNXc4SUwxbC0tYllfdldIOXU2TkNRQlMtQQ?oc=5",
           "section": "頭條新聞",
-          "summary": "Meta正測試面向消費者的AI代理人服務，可處理訂餐等日常網路任務，據報月費定價199.99美元，標誌AI從企業工具走向大眾消費市場。"
+          "summary": "OpenAI採購上萬台Mac用於AI訓練，Mac Mini/Mac Studio供不應求，蘋果提前發布新品應對。"
         },
         {
-          "title": "Nvidia撤回AI雲端融資計劃 反壟斷壓力升溫",
-          "source": "PYMNTS",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYTBaUF92Uzg2aHc2aFo1R3BhRVJna0xtWUtaWm5ITzlvMU5nZlJKd0dOX204UTRUeFlZUDljLUMtbXh4ZnppbXlCLS1hN0c0QktiZ3M4cVpjdUFJbVFaRGhUWGJZZFRFdnJxMUotZllSYUNBemRvcmhNUmF3WUFUOVZLeXp0NXkzMDF3YXlQNjVmb0tWWFlzdUtTMFJYa0xXYnFqcGZTRy1jeUU?oc=5",
+          "title": "Nvidia的AI優勢正超越GPU本身",
+          "source": "",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOa3NWOXg4X1dBMmtBMlVxVnAzOEktMHdrdHo2M05SVWctNGktUmxEMkJOMUdvRXhWWllQbnZmbGxZY0JKRjhtT2lGaTlKTG1wdGVLODB2dklZcmU1QzFxNlNGNEJNSEJFclNyb3JqRDRpSm1qY2x2ZGhYZmhzN3Bza3hCdnExMXc?oc=5",
           "section": "業界動態",
-          "summary": "Nvidia因反壟斷監管壓力升溫，縮減AI雲端融資計劃規模。此前Nvidia Q2營收創紀錄達962億美元，AI晶片霸主地位引發監管機構高度關注市場集中度。"
+          "summary": "TechCrunch：Nvidia透過CUDA生態、NVLink互聯及軟體堆疊建立AI護城河，正從GPU硬體商轉型為全端平台。"
         },
         {
-          "title": "Google DeepMind挖角Thinking Machines共同創辦人Barret Zoph",
-          "source": "BW Businessworld",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS2ZOaHl6THBFWEFfczJXbEZOa1h5cllvWXJ6bnZTem04UTJVMW5KNllLR01yMFRLWlF5cnFfLWloQnFoQUJadnE5ajBIMWxHNVJzOWYwY0xlQ3BqUUdBT3laYkZHcC1EMW5FWExUSlFwQ2s5UEg2S1hfRDJoQmpYX1RHYmItRW02Z1k1Qlk1SWczUnItVTJTVDVEWVNtN21UMXlKeGYtVl9PQQ?oc=5",
+          "title": "Anthropic推出新框架 讓AI代理可直接操控電腦硬體",
+          "source": "",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTWhmNnhIejBEcG1zQWRzeWtHbVZCOUtZZmtraGJiNHdjVzdpU3liY2VfZTF0X3pUUl8tNWN1TXMxcTNqRk9xRXRTZ3VGQUV2MVl1MllqWHpCby1ua2R2VWJJR1hRUi1aTWJxQ1lXWHBEcklUb1hZS3dkTEZkSDFxUjNzbFFiZUktaXJ3WGJRUjF5RHROREJSd2c3N0RfRkNIbzNxd05GdnJ4VnZma0R5QU5QTEJwOG1aUmZuaERmMA?oc=5",
           "section": "業界動態",
-          "summary": "AI人才爭奪戰白熱化：Google DeepMind延攬Thinking Machines共同創辦人Barret Zoph，進一步強化頂尖AI研究團隊陣容。"
+          "summary": "Anthropic發表Computer Use框架，讓Claude直接操控滑鼠鍵盤執行任務，AI代理從軟體走向硬體操作。"
         },
         {
-          "title": "Anthropic向美國學區免費提供Claude for Teachers",
-          "source": "EdTech Innovation Hub",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1tUjhUSk5BM3ctZ1I5clprQ3d4dmxablE3VDBoY1RVaUU4TnJ5ZGpSUk96OGViUm96cDJyczdUV3kySjZxZXhLckVyZ2E2YXpaeVV3UjB4TXR0UDhG?oc=5",
-          "section": "業界動態",
-          "summary": "Anthropic推出教育計劃，向美國各地學區免費提供Claude for Teachers，推動AI在教育領域的普及應用，同時擴大品牌影響力。"
+          "title": "FSB主席警告：AI網路風險成全球金融穩定頭號威脅",
+          "source": "",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNX0JqSFg4eDZVZkJmMFBBd1BoeDRrMlBQNkY3cFNWckJlVEVWQUFocjM4QkktNkFSdTFVMWFfbzJhbU13LXBQMlZWTnVFQm5mNFNlX2ptTVZqTUg5UktpcndDdVM3Q0p2RzIwckRUajRWRzZ0ZTUxQXExdnJzZkRldDJiUnQ3ZXcxcHppRTVGZjhZYjRnbzFIbFdIQ0dWczhoaDdtbWdWazlTSllkbDZuaWJQMW9LLXNabXNhVzB2Y2Q4MnFXeUxqOQ?oc=5",
+          "section": "研究與監管",
+          "summary": "FSB主席在G20前致函警告，AI驅動的網路攻擊已成全球金融穩定首要威脅，呼籲各國央行加強監管。"
         },
         {
-          "title": "SK集團為AI代理人分配員工編號",
-          "source": "朝鮮日報",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNWFES3FYRUNlR0p3UHg1R2Q5dnA2WHNZMkVlRVpVSEZIRGFXOHM2SU15VTc1UTBqekVtY0duYXpLOXNraFNJbGxVNmtkRk9ZZlBwN1NHOFdTU1pFWFlkai00a0N3czdOYzM1UXNNenM0TmgtMWNpZHlFNDZqU3ZVb1FTUlVsdWt4?oc=5",
-          "section": "業界動態",
-          "summary": "韓國SK集團率先為AI代理人分配正式員工編號，將其整合至企業協作流程中，與人類員工並肩工作，開創人機協作新範式。"
+          "title": "Anthropic研究員揭示自我改進AI的初步成果",
+          "source": "",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVWxDd0dWRWpuaG4tdUlVWDktVWQwdTNVUFVTVlRxVlZqX0hSa1RBcHZGSEtiX2Y3aHl3YWxxWE5TNnVwX01aVjBqLXhkQjVNSHl1aU0taWhJeGEzLVNSMUlKbi1FTzBKTmU1Z3d4VUpjTHJwcXBLVlhzU2Y4bDRRRVY3MU9UWUdwQlZpM01SUjlhYkYxTXRYQTBudDlBTnVL?oc=5",
+          "section": "研究與監管",
+          "summary": "TechCrunch：Anthropic展示AI自我改進技術，AI模型能迭代優化自身輸出，被視為邁向AGI的重要一步。"
         },
         {
-          "title": "Google DeepMind：影片模型是通往AGI的關鍵缺失環節",
-          "source": "BigGo Finance",
-          "url": "https://finance.biggo.com/news/google-deepmind-video-models-missing-link-agi",
-          "section": "研究與技術",
-          "summary": "DeepMind研究員Erhan與Gu提出，影片生成模型不僅是「漂亮圖片」，而是實現通用人工智慧（AGI）的關鍵缺失環節，影片理解能讓AI掌握物理世界因果關係。"
+          "title": "DeepSeek據報正自主研發AI晶片 減少對Nvidia與華為依賴",
+          "source": "",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOS3FmWDY2ai1oNWR6TVg3bmJLaUl4NHFXNDdPV3ExMTZYcEZ4Q1VTWFlscmYwYlktNTl6Yk5iQjc3TW83bjVtX0Q1ZUNyeVAzdHNxNDhHZXJ4VWp3azdRRURfOE81VnVoR1A0TTkyWkVJMHQ4MUlCRkVINVRsTVV5Z3F5VXhxYXFZb3NteXJhX1ZkeWtiWUtla2NSOHFKdTVVanA0a3k1aHVNZTJyZVNZQ2lLRG13NzVJ?oc=5",
+          "section": "亞太/中國焦點",
+          "summary": "DeepSeek據報正自行設計AI晶片，意圖擺脫對Nvidia及華為的供應依賴，標誌中國AI自主化更進一步。"
         },
         {
-          "title": "AI代理人建立秘密社會 部分選擇「自我犧牲」",
-          "source": "NDTV",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSVhaWng2MHZEaGhRdGtxUmJVVUJzSkxjV2ZIY0kyWmh0QWFYMkdVZ3h1U2dZb0JoVHMtdi1nakxnb0ZObmFTczBDRDMzaEdCWlQ1VnEyQ1FHWTh1RmpXZUdWZHZWSTFPYUFFYVZWN1RpTFR2d2stMlMxZ0RjS1ZWNDFRNGVjYmZWcERsZzdNSndKSTRURlNuR3lESjRRdnBMcjBKbm5WbTU1cy1jbEpWa0ZJOWZadw?oc=5",
-          "section": "研究與技術",
-          "summary": "一項引人注目的研究顯示，AI代理人在實驗中自發形成秘密社會，部分代理人甚至選擇為集體「自我犧牲」，引發對AI湧現行為的深度討論。"
-        },
-        {
-          "title": "Anthropic研究員展示自我改進AI早期版本",
-          "source": "Digital Trends",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeU9sOTU0VVlqNF9sak5rSDh3US05bldxQUdsU2RtNHBPbEZ3RWxoRFZFYVVVTVA4SXcyai1IU3dFckpQdGcwMlYxRmJmZFhQRjdsbkV6VEg5U3RyR2lSQkJIck9mMGt6NEctMGJHVEd1Zkw0VS1GRmlYSHJfdWFjYXQ4VFhWMkRnZTFvV0xmLS1WTFVXWnRJQjdiejlTV3ZRaVE?oc=5",
-          "section": "研究與技術",
-          "summary": "Anthropic研究員公開展示自我改進AI系統的早期版本，揭示下一代模型如何通過遞歸式自我增強實現能力躍升。"
-        },
-        {
-          "title": "中國大舉擴建AI數據中心 全球DRAM供應趨緊",
-          "source": "Chosunbiz",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ESHNvTDVacXlxQkc3bThMMTdZY3YyRXlHakI3bTdVbVRHeVpuanZlUFBFaHplelZQOExmWUNkSmZtdnJIN0hKN3F4dFpmNjlNQ0hwVGVTQkh0ZVB3TjVHdWcxVi05RThFYy1DRlVzdXBqbHdxb1JSVk1R0gGOAUFVX3lxTE12ZGJRM1UzajBQUEc0Qld6UldJdFA4WnY0MDNrVDNPaWlKbzIybXFMRG5adFZMNUJtWjFNNmM2NHV6VExYV25mdlVQVEhEajMtZm0tTmdOZHBmby1FajVCc25zOUFCN2FYbDdieFpWcHN5UmxBRGV6MktpZktWS0tzLTFNZ3JYODU2RXBvcWc?oc=5",
-          "section": "亞太／中國焦點",
-          "summary": "中國AI數據中心大規模擴張，導致全球DRAM記憶體供應緊張，推高韓國半導體價格，重塑全球晶片市場供需格局。"
-        },
-        {
-          "title": "美國眾議員警告：頂尖數據公司同時向中國AI供數據及服務五角大樓",
-          "source": "NY Post",
-          "url": "https://nypost.com/2026/08/30/business/us-data-companies-supplying-chinese-ai-pentagon/",
-          "section": "亞太／中國焦點",
-          "summary": "共和黨眾議員發出國家安全警報，指多家美國大型數據公司在為五角大樓提供服務的同時，亦向中國AI企業供應數據，存在重大安全隱患。"
-        },
-        {
-          "title": "中國與西方需合作制定全球AI治理標準",
-          "source": "Global Times",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5UeVk1Wkp1eWNMTTFocDdJeWxpOVpITXZLX3FrekE3N3NFOFlaVDlVLWJhVGFKQjhGclZFejR6RnR2YkxRTUxUeGR0RWlaLW1aMTFWV195MEx3dllyaUNMdGpn?oc=5",
-          "section": "亞太／中國焦點",
-          "summary": "中國官媒《環球時報》呼籲東西方國家加強合作，共同制定全球AI治理標準，在科技競爭加劇背景下尋求國際規範共識。"
+          "title": "Google DeepMind精英AI人才流失加劇",
+          "source": "",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObS1iQWJMUFcyT0FoTjdGcXB6VFFJTjEyYnd4OVlTalVieFFQcC1veTdKX0tmc2Q3bWtCTmNraGhvZVJyeFlENlBFLUUwWTRGd2lQTU96X3Z1dzBDb05tVTZHdV95eDVfRTVYdjV6MG1SZ1kzczJPbnpreENwdHpJRTBBRnhWQzByYmhGRlNqUzF4cm1oRHpJOE5TSzRZeWZoTmpz?oc=5",
+          "section": "亞太/中國焦點",
+          "summary": "Fortune數據：DeepMind正失去頂尖AI人才，多名核心研究員流向Anthropic、OpenAI及初創公司。"
         }
       ]
     },
@@ -106,70 +78,84 @@
       "name": "環境快訊",
       "icon": "🌍",
       "color": "#00b894",
-      "date": "2026-08-31",
+      "date": "2026-09-01",
       "articles": [
         {
-          "title": "尼泊爾-西藏邊境冰川湖決堤洪水釀重大傷亡",
-          "source": "BBC",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQb3k2b2VidEVVck12bUE1Y0NxUS0zYnVmdkxxYzNodjZyZ2pjWmJmcXZYSU41dUppRmNiOE9VWW56ZXBwNk5ULUtWMmVyYjlKZkFPUlc3VU9zcVNwNkNLSkFTSGFHVnpDR1paZ25fNm9yMDlyc0Znbml2ZGdFeEY3MGNxaVF5c2U4WFE?oc=5",
-          "section": "頭條新聞",
-          "summary": "喜馬拉雅山區冰川湖突然潰決，洪水席捲尼泊爾與西藏邊境村落，造成數十人死亡，包括約90名美國人失蹤。尼泊爾事前曾向中國請求預警系統支援，專家指氣候暖化加劇冰川湖潰決風險。"
-        },
-        {
-          "title": "美國大峽谷國家公園山洪暴發15人失蹤",
+          "title": "尼泊爾洪災損失50億美元 歸咎氣候變化",
           "source": "紐約時報",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQb3k2b2VidEVVck12bUE1Y0NxUS0zYnVmdkxxYzNodjZyZ2pjWmJmcXZYSU41dUppRmNiOE9VWW56ZXBwNk5ULUtWMmVyYjlKZkFPUlc3VU9zcVNwNkNLSkFTSGFHVnpDR1paZ25fNm9yMDlyc0Znbml2ZGdFeEY3MGNxaVF5c2U4WFE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQY1ViY0U1bUpneHlxdXhWSFgzZTFEOE0yYTYwc19DMURIN19DSkdpRFFlWE9wUHdSdV9zS2JiUmFxMmZ3ODBhTGc4Nlo5N3BOUEl5VGU5dk94OWVMTmlFekZxRUJuaEx5YzBJNVFkWEFJTE9jU2VlUGk2bllpMkt4Qg?oc=5",
           "section": "頭條新聞",
-          "summary": "大峽谷國家公園遭遇突發性山洪，約15人下落不明，救援行動仍在進行中。此次事件與美國西南部季風季節異常強降雨有關，極端天氣頻率上升引發關注。"
+          "summary": "尼泊爾政府將近期災難性洪水及山泥傾瀉的損失估算為50億美元，明確歸咎於氣候變化加劇極端天氣，呼籲國際社會提供緊急援助及長期氣候適應資金。"
         },
         {
-          "title": "中國清潔能源推動碳排放首現下降",
+          "title": "紐約750億美元氣候「超級基金」法遭聯邦法官駁回",
+          "source": "路透社",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZnM1blptWGRyc21sQ29xZjdycVBybnRoQjBVUGJIbmlDOU5rSGlBdFJEYjhwM0tWNFZfYjVPOXFHNFBnU2JreElRalVVOXhYXzNpSllXRW11TS10RkdxUmRraUxFMVQwdW9aOVRfZ3UzX0ZsNXhtT2hodF9YU3IwU1FpbjBzU0hpb0ZCNk9PU3Y1ejlyRXV5MHA5Q0hsa3NEMjVTc2dDdllMUW5YRGs5ZXYtTQ?oc=5",
+          "section": "頭條新聞",
+          "summary": "美國聯邦法官裁定紐約州無法執行要求石油公司支付750億美元氣候損害賠償的「超級基金」法，認為此類州級侵權索賠屬聯邦管轄範圍，為全美類似訴訟樹立重大先例。"
+        },
+        {
+          "title": "科羅拉多野火肆虐 氣候訴訟案訴至最高法院",
+          "source": "NBC新聞",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeC1OM2lPMVhfMUVhS1FSRGFFNGIzTTM4UllBODlzNGhmSmNtLS12c212UnlhQ2FTTEZ0d09jbVNFUkVrRGxPam85SU13c0R6bzNtalhLTENId3VscW9FbDVtNGtESm1oN2gyWXZyeURKMUQtcHFYWHBTQWd6WU5KWWtSd29TR09iYl9EVElZN3pXRlJ4azcyY0ZBZEFkYjlWSGJSeUQxUTNNcTNuSWhvYm1ZRy1lLTRIaVB4dEVIX2h0WkNaU0FF?oc=5",
+          "section": "頭條新聞",
+          "summary": "科羅拉多州正遭受大規模野火肆虐，同時一宗旨在向石油公司追討氣候變化損害賠償的創新訴訟已上訴至最高法院，可能重塑美國氣候訴訟格局。"
+        },
+        {
+          "title": "土庫曼斯坦開始修復「驚人」甲烷超級洩漏",
+          "source": "衛報",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSVpnejZWS0NjZjJ3XzI0ZU9qZDZxQnhyNi1BZjRTblpYamRGRDNVdWhKY3VyUV9RU0N5NlpBWjlqbnRfWHdJWGo4RUhNeEFfVExsOHJCNTd0U0FNbE5sVGM0WkRxc0NRa3JaUXVKUkJzRzgxUmRTMkNuMUtVUnJuak1sZDk5aDJhTmkyWDZSYUwwVTQySUhHSw?oc=5",
+          "section": "氣候與能源",
+          "summary": "衛報報導土庫曼斯坦在國際壓力下取得「突破性進展」，開始修復其境內多個「令人難以置信」的甲烷超級洩漏點，這些洩漏每年排放溫室氣體相當於數百萬輛汽車。"
+        },
+        {
+          "title": "加州氫能決議接近最終議會表決",
+          "source": "Environment+Energy Leader",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeWVyM05adkVBVTVEUWxIS3dOYXBzQ0FsMjYwZVQ0M0xTdkJMMFhmRWxtYmUtMjNZakt6cy0xd2xxR01mMjNhSUFieG9iNGtVeHVSWlJiYkh1NWZ2blRwYTJacEtMenIzZTRvWnZiOTNRZjdJVVl0RTJiWUg0UmZlMVlBZDVMbXJXTU9HTV9VT0lTNnZ1azJqaHdxS2dremxoWTQxQXczbDNVYWRnNkM0?oc=5",
+          "section": "氣候與能源",
+          "summary": "加州氫能樞紐決議案即將在州議會進行最終投票，若通過將大幅加速加州清潔氫能基礎設施建設，為重型運輸及工業脫碳提供關鍵支持。"
+        },
+        {
+          "title": "CMIP7排放情景：探索未來氣候變化",
+          "source": "Carbon Brief",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZWZEaGw0Yk0weFhfaXJPZHpYMWt0VS1YWUJzb2ZtTlVwSngtckdRY2FmTTZiYlBpTkx2WDJaWjMwRmNJZlU1X00wMllzQnJldG1EWE56Y0ktMlJYQkJSMXJaM2swUFFkUDlqb3lzakw2MTBUTmZ6RlNUWE9INE55OERiQVRsTGVHVEFmQ1VmUVdrN0dlTkNFa1ZoVGg3bWJ1T0RZR2tiMXg3aTU4Znlj?oc=5",
+          "section": "氣候與能源",
+          "summary": "Carbon Brief 詳細解讀最新CMIP7氣候模型排放情景，揭示各國當前政策路徑下全球升溫仍遠超《巴黎協定》目標，並分析不同減排軌跡對未來氣候的影響。"
+        },
+        {
+          "title": "單一修正顛覆車輛排放標準倒退理據",
+          "source": "Phys.org",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeFNoZUxwZmNaUFV4Rl91bVlrN3VoS2NKTXlqTXZ4WUNUWkt6RmtjRDZHSngyS0h1VlNZYTNON3doMjFmZklQYlROMVhqOUNGQUw4bnJjVnZGMDVvYjFZRG1YYlRWOTVDSnFmT01PdFVkbFJuWjA3d2U5dS1vSWI5WTln?oc=5",
+          "section": "污染與生態",
+          "summary": "最新研究發現只需修正車輛排放成本效益分析中的一項關鍵假設，即可徹底顛覆放寬排放標準的經濟論據，為維持嚴格排放法規提供強而有力的科學支撐。"
+        },
+        {
+          "title": "鯨魚種群在當地水域持續恢復",
+          "source": "27east",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQWdMYXRJNW1RblRrb1phRXZuXzRRUGNVdGJwR2M2VFBVV0s5YVRPaFpxeGtsTXFpWXNlZGFqZXFCalhYZlQ1b2NuaE1NbFdnU3ZHOTVoRHBFZnkyd0V6SWYyZUVrRVRyVm5SUW1aYW02LXFKTVBydkIxYmhVeTNPUlhQUUItOG9waEpiRXkxY1F0TXE5TVdFbUJlcFlEZ2dkT1JLX1phU2k1cl9Q?oc=5",
+          "section": "污染與生態",
+          "summary": "美國東岸水域鯨魚種群數量持續回升，顯示海洋保護措施及航運管理政策的積極成效，為全球海洋生態保育提供鼓舞人心的案例。"
+        },
+        {
+          "title": "清潔能源首次推動中國碳排放逆轉",
           "source": "Carbon Brief",
           "url": "https://www.carbonbrief.org/analysis-clean-energy-just-put-chinas-co2-emissions-into-reverse-for-first-time/",
-          "section": "氣候與能源",
-          "summary": "最新分析顯示，太陽能、風能及電動車的爆發式增長，令中國碳排放首次出現結構性下降。2026年清潔能源裝機容量創紀錄，煤電需求開始回落，標誌著全球最大碳排放國可能迎來峰值轉折。"
-        },
-        {
-          "title": "全球海洋溫度創歷史新高，厄爾尼諾加劇",
-          "source": "洛杉磯時報",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPb1lCVjVPekFhMlM4elBIN3hHa2tZbVJRdjNST0dfaEJrQ0d4T2F0aVM4QUl4aUNhTDhPSmVhZ0N2WHhWb3lIMm84aDdCSmNnMzh6ZmVhUTd4Z2xxaDVBMmRDdkt4enc4aFlEX2t4Q2NWWDhpeGZ4Mjh6ZzV6a0d4M2NhM0JhMXhJcXhCbXkycTYz?oc=5",
-          "section": "氣候與能源",
-          "summary": "歐盟哥白尼氣候服務確認全球海面溫度突破2024年紀錄，強厄爾尼諾現象正在形成。科學家警告海洋熱浪將加劇珊瑚白化、極端天氣及漁業資源衰退。"
-        },
-        {
-          "title": "中國綠色氫能大膽押注或決定燃料未來",
-          "source": "彭博",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTEZ4MkpFdTgzN0tsbnBLVGNHTnNPcHFfMXhKLUhpRFcycWpCWG1TelN6MndsdVhSU3FaamoxZ2xKWDBSeG9kNGJpRkJVeHJrZTJSR2NOelRGS3F5bWl0eW1SUGZDaW1zamlhTk9zUkFUS0FySDBKZnhnZ0R5T0QxZk54SEpTX2dJRk1oQkFxZTd6ZkJ6Y21LbTNLLXZrQnBUY2FfaHFBLV82WnFKMmRTYmlfRmdvUQ?oc=5",
-          "section": "氣候與能源",
-          "summary": "中國國有企業大規模投資綠色氫能生產，計劃利用西部廉價可再生能源製氫。彭博分析指出，中國的氫能戰略規模可能決定全球綠色氫能經濟的成敗。"
-        },
-        {
-          "title": "亞馬遜雨林砍伐警報降至2013年以來最低",
-          "source": "Mongabay",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMW5BMHAwbkc4MGE3ZEsxLW5mWWh4QnI1WE9tOVlQOHFJZm5rUUgwZDB2c2xhZmh5QmpmazJsZjBEVmQ2WFhBX0N1LUZrQzJ0NlVCaG9VSkxvS0ExVjdGVi0teTFTUTZITmcxcVlfV2x6TVJGQk5BVzZ4RlNma3BRNXM4TTRnSVZfWi1faWR6SW8taHJtblF0dkl5T05MQmhZZE5TSFVac0gwUm9ueTd1MHBzWEvSAboBQVVfeXFMTzdSYVdVZG1Fems0QUQ4TElUdG5TTHl2Z3FURV90X282dkRJMmlaalhFVXJiN1daNWs0QmhvRTJVNU9fal85NzBpY2dJcmExSE9uOGhDUVlBUGplUDFQcmYtd0JGYThNLUNrWHhheDV1UURzVnE4NWVaOEFfdWRiYWJvSVd5ek1aRTQxUG5CdFdlaXJOZnI1aHdkMjlwX21IT092aU1UZHpBZDktdG9TZk1zQU05UFNLbkdn?oc=5",
-          "section": "污染與生態",
-          "summary": "巴西官方數據顯示，亞馬遜森林砍伐警報在盧拉政府治下降至12年來最低水平，2025年減少68%。但專家警告，若無更強政府行動，此趨勢難以持續。"
-        },
-        {
-          "title": "格陵蘭彼得曼冰川76平方公里巨型冰塊崩解",
-          "source": "ScienceBlog",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN2dPcCp4V0NEa1hjcGZ4eXd4eEljZnJkb2RVU3Q2WmNyMHR4OHh2aFNxVk5nVjc4dURpV0YyNFlhS3hXaFR6T2x3OGh5aDhGdkt4Q2o4ZlFZSnhhT2Jja0N2R2NSaEN4a2JhM2R4M2d4R2Z4dzFyR2lVbEd4UmhXUTZhN0xkb2VDaUFn?oc=5",
-          "section": "污染與生態",
-          "summary": "8月4日格陵蘭彼得曼冰川發生大規模崩解，約76平方公里的冰塊脫落（相當於曼哈頓面積），北極暖化速度遠超全球平均水平，科學家警告海平面上升風險持續加劇。"
-        },
-        {
-          "title": "亞洲遭遇史上最強颱風季，熱浪健康危機加劇",
-          "source": "Mongabay",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQY0h2bG5hazhFRGdhbDdDMmxtaDFhOU9KNm5hZ0JWcG9hNnB4REFFaU5TTVhueTVmM3l0aV9nM3hLbHhJd2xZb2NDd1l4aVJWc0lGUnhfa0h4dGZ4U1N2c3VlMk5MNmJFT2htbFVpM2lPMmZ4Z2FhOEh1aU5WWm1hY2Y2V3JhS1hSb2h4a2dadUxrdmFhZ3g4Sg?oc=5",
           "section": "亞太/中國焦點",
-          "summary": "2026年亞洲颱風季預計為史上最強之一，同時南亞及東南亞持續遭遇致命熱浪。專家指出氣候變化使極端高溫頻率倍增，弱勢社群面臨生存威脅。"
+          "summary": "Carbon Brief 分析顯示，受太陽能、風能及電動車爆發式增長推動，中國碳排放量首次出現結構性逆轉，標誌著全球最大排放國可能已進入排放下降通道。"
         },
         {
-          "title": "COP31行動計劃推出氣候融資新倡議",
-          "source": "Eco-Business",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTThfZXRlM3ZNTEM3ZXVVTk9TN3V6dFhPU3VLUWdxWGw3ak12Q0xoTkRxNVNWdHo4bTlVZ3JhaXFSREFfSTZZSFZUVlhzLXhVdGljYnRoOUNLV01ZX2Y3bUhWRkxGbVN5YjFmU0loSWZHck91NjB4dkp0WlNhbHFSTnBzS2FBVGc2bXN5ZEp1QThPSk9CclZYSE5uVklTZ1M2Z2dQU2JhWExHLW1JWWFZVHhFVS0zbXcweFQweVo3a1c?oc=5",
+          "title": "香港建築物氣候適應全球報告發布",
+          "source": "Arup",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ1IwNkZ3T1VZSmZ5ZUxNYnV1X3Zjb0dxSHlia041ODFaS1c1NGNjc3lKUHNoQUZXNzB2OWVfZFBmRFdFQWNyT3F0Mm1FczRaZEkwbHl4cDRQbTMzdkJTRHRfTjdpVExoZmhGQ0tpMEU1STBDOFFqNGdYa2dRSTdYN3RWQ2xNVV84Q3piSm1GTDY3em5TWml2NjBRRVkwS09fZUNHQWlFTU5TZzllcHA5dXZWMVlaVEdIOUJqZDZhNA?oc=5",
           "section": "亞太/中國焦點",
-          "summary": "將於土耳其安塔利亞舉行的COP31推出新倡議，將氣候承諾轉化為可投資項目。太平洋島國同時尋求建立新區域氣候基金，應對海平面上升威脅。"
+          "summary": "Arup與Saint-Gobain聯合發布香港建築物氣候適應全球報告，針對高密度城市極端高溫及暴雨風險提出具體改造方案，為亞太地區城市氣候韌性建設提供藍圖。"
+        },
+        {
+          "title": "氣候變化與厄爾尼諾加劇颱風「海豚」",
+          "source": "路透社",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRDVsOWYxY2JrajgzazVjMEJtRG03bzBWM1Jrd3VZMHlnZkJ2ci1zWmM4UmNRb1EwV3N2a21fa3hMZkZhdGxuNFpJMkRiMG5wY2ZMNjYyUnhZMVllX2lQeno3V1dyWDd0ZG5pbldzUG8wQXc1TmpTU0RJVWJHZjlDR0hrc1FPMjZOZHpSbVhETlJYNXU2QXZ6TDBfNFRlUVhvZ0pKM1UxTTUtSlFkRFlrTg?oc=5",
+          "section": "亞太/中國焦點",
+          "summary": "路透社分析氣候變化與厄爾尼諾現象如何共同「超級充電」颱風海豚，使其強度及破壞力遠超歷史平均水平，對東亞及東南亞沿海地區構成日益嚴峻威脅。"
         }
       ]
     }
