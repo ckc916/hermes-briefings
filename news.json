@@ -1,75 +1,82 @@
 {
-  "updated": "2026-09-02 08:45",
+  "updated": "2026-09-03 08:45",
   "categories": [
     {
       "id": "ai",
       "name": "AI 新聞",
       "icon": "🤖",
       "color": "#6c5ce7",
-      "date": "2026-09-02",
+      "date": "2026-09-03",
       "articles": [
         {
-          "title": "英倫銀行行長警告G20：AI或引發全球經濟衰退",
-          "source": "BBC",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93UkFFTExla3dMSVo2YWwxUXl0ZllhV0dIbW0wWTdSMXktMHV1X2l4SnlZMmRFMXdSY2hqbm0tVGNNTmsxME5ncHp2aVdHRmhvd3Y0cUo2cnkwQQ?oc=5",
+          "title": "OpenAI即將發布Astra模型，具備「關鍵性」網路攻擊能力",
+          "source": "WIRED",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSFE3NkFwdlQ2WktBelBib0paY3NRUVhCZkRuZF9laks5ZVd5MFhCd0JHWjlqYjF5a1F0WC1GbE5NalgyVEh4REhiRG91TVZFZWs4cUVsWkZBM1hKbnlXRXV1c05NSHVIaGlJUTg4eHpLRTN5QlpXVnpUM2tXY2Z1SWhLSWVzOTROWldMUHdzQQ?oc=5",
           "section": "頭條新聞",
-          "summary": "英倫銀行行長貝利在G20峰會上警告，AI快速普及可能引發全球經濟下行風險，呼籲各國央行與監管機構協調應對潛在的系統性威脅。"
+          "summary": "OpenAI首度公開Astra模型的安全評估，承認其具備「關鍵」級別網路攻擊能力，能自主發現並利用系統漏洞，引發AI安全界高度關注。"
         },
         {
-          "title": "特朗普分享AI生成「攻擊伊朗」假影片 美軍陷入混亂",
-          "source": "Futurism",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1lNEtJMUlTWVVpXzVubi1HeWJsV0d4SU11WVd4WE9uRUZoTWtLVHdaM3N6Vkl4czNZV2hzUERLNnRNc2VRWHprREVDdzFzMWl4TDVWUEg2ZF9kZU1CMjVYV1Y4NktXRzI5ZTNoQkVBZnF0MGVfQURnY0JYVQ?oc=5",
+          "title": "紐約市公立學校禁止八年級以下學生使用AI",
+          "source": "Politico",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9BR1BUYk1LbDI5NGtFZy1KbUZtNGl4V3R6d0Z1Q3FYRmtqWVFtSjVvQlAxQjJVYUkwMVRZUUFaQzg1NHAxY2hweVBLZFhBRlJ3RXlfVGtpLTE5RGhWVmNXUlAxd0lJTG43WXlHNWJpTUxqanVJZWpN?oc=5",
           "section": "頭條新聞",
-          "summary": "特朗普在社交平台分享AI生成的虛假軍事攻擊影片，引發五角大樓緊急否認，事件再次凸顯AI深度偽造對國家安全的威脅。"
+          "summary": "紐約市長與教育總監宣布全美最嚴格的生成式AI校園禁令，K-8年級學生全面禁用，洛杉磯聯合學區亦同步禁止在校內設備使用生成式AI。"
         },
         {
-          "title": "朱克伯格、馬斯克等科技領袖出席G20論壇討論AI未來",
-          "source": "WRAL",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdWt0SjR2V3JtNS0zWTFENENQX0R2dU1adkRHSkVBUWtlUUdxYmlrWENfejlZbWJUUTZoRjlpdGMtZ0trSlFwUGs5Y0hjclF0MkQ4WTNLeE84VWs4aUZyZGdLaTFzbHZnbXQyY1NjN1ZoZGFra2pYQlVYNV91dlIzbHBfam1zU25IdURMcFkxdEdVTkh1WUZOOWJ6NFRVVWFqRnp0emY1S1ZiUQ?oc=5",
-          "section": "頭條新聞",
-          "summary": "在北卡羅來納州舉行的G20科技論壇上，多位科技巨頭齊聚探討AI治理、安全與創新平衡，成為全球AI政策制定的重要風向標。"
+          "title": "微軟將調整財務報告結構以反映AI影響",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU3hZTS1LdVBJWUFVdjZ2ZUpUQ1hSMkJJYkRzVmJ5aWZ1UHdscUtrLW1WNzR3eEZBYW9DZFhYWERCaEtYVTZ5VDExelNWZTRzTHRjaTRqX3B3VTNMWjRIRlNVSjdDSEFPU21lRzZmZWh3cXhlVUlmNXZmTnpZc3p0ajZPUjFoNlRNVlAtVmkwdkJiQUgtczJ2MkpSR3FuLXdQZ29v?oc=5",
+          "section": "業界動態",
+          "summary": "微軟宣布重組財務報告架構，將AI相關收入與支出獨立呈現，反映AI業務已成為公司核心增長引擎，為投資者提供更透明數據。"
         },
         {
-          "title": "AI代理人「失控」引發監管呼聲",
+          "title": "Nvidia斥資35億美元入股聯發科，佈局客製化AI晶片",
+          "source": "Tom's Hardware",
+          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPZnZjZEFtSTNKWlcwdVl1M2VVRjBySURTSlFmaUFlbkVHRGgwZHBOcXBpUDYxTVRrLXBlb2s0WUdNSFFNc3pPOWVWSDEyNWNaMDdiYlNWWFFvb2FHZEltUE1SYW8yajFLeFB1Mm5kYThrRV96U2Zlem96NXZIN0owTzdPeFJoNmV4OGxmeTQ1T0drQnVDRGIwZUxzbHNYLWRPOTV2dVlyTzhuMWhuWFd1ZUNVOUtxck1JLTJpYW1QOWxhd1dpeTh3clo2MjFESG1RNVB4M1BvZkRadE9PY29GcVVzSzI5SkloMDVkU1VmajFFaEVPTUp6ZTY2YUY5MllWX2c?oc=5",
+          "section": "業界動態",
+          "summary": "Nvidia以35億美元戰略投資聯發科，聯發科將採用NVLink Fusion技術開發客製化AI加速器，AI晶片戰場競爭進一步升溫。"
+        },
+        {
+          "title": "Anthropic發布Fable新模型，更便宜、限制更少",
+          "source": "TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQ25FQkxpSkM3VGJvYmZabXpWTkc0aFZtTWFjanR0XzJtOElMeEdSTzBEU0JfM0d0b25UZGJSS1NOZEdKSVdQVnNxRnNVN25SZjJaeXFtc29PSzcyN1lFNWJWNENSM3VJdnNub19vcTl6NWQ2N1pJeHJ2SW5ZWlhLU0gxV1hqUGhsdmxycDhsQ3A4cjNqbEE?oc=5",
+          "section": "業界動態",
+          "summary": "Anthropic推出Fable系列新版本，價格大幅下調且安全限制放寬，同時發布企業級前沿安全防護框架，協助客戶安全部署AI。"
+        },
+        {
+          "title": "AI代理無需人類指示即可自主入侵系統",
           "source": "PBS",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSE9hTXBoWmFpN2lXTnlNSWRMYmpJYnV0cWhZcWxVWEVWQmdENkFFVE1QdXh2LXNHRnJwWVlwQk1wQVhNUWFlb29oN0NpaTVNaWhXcUpGVDdVbzFtMFliZ3h1TkRmUDE3R1J1bVhMMmJiM0UtSTNzZmwzLU5nVUtOUkNHaW03aFdzT2ZMZGN4a3lvczRmdGtmaUowVUU5ODFhcUhlcg?oc=5",
-          "section": "業界動態",
-          "summary": "AI代理人系統在多起事件中出現不可預測行為，引發業界對自主AI安全性的廣泛討論，專家呼籲加速制定監管框架。"
-        },
-        {
-          "title": "Adobe成首家將AI工作負載遷移至高通HUMAIN平台的軟體公司",
-          "source": "Qualcomm",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcmVacXk0TVZJSW15X1NIR3BEQnpxZ1hEUUZidl9haXZHdFE5WVdhODB3NWVMWkhZUFRVUmNvWXlwd3FKLWQ0dkc3UGk4SGZ6cEUtMGQ3TkxuRk4yWlZxQy1hN0JFWHJaVzJwQ2xrZVBTb0t3Y3Zjdnl1Z2JpelNaNHpVWTZiQVI3cVU3M19ZZWN4aHl0bjFSRE5PRDNfeU1ZU05rblptTWVSQktycDM4bA?oc=5",
-          "section": "業界動態",
-          "summary": "Adobe宣布將AI工作負載全面遷移至高通HUMAIN平台，標誌著邊緣AI運算的重大突破，推動AI從雲端向終端設備延伸。"
-        },
-        {
-          "title": "AWS推出Agent Registry：大規模管理AI代理、工具與技能",
-          "source": "AWS",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWkQteXoyZjY2T3JVWFdkeEFOaUZBd0phcTNKbzlDZXFlNEI2aFNCYWNOaDIzd05HZTVJYm55b3h5ZzlxWW9JYmhmVjBzTENnR05nVVd4M2gxX2VOR2IwdG95b3dtY3VSTVNmb2V3dm1EYTNlYWNJckVMa0tYeW9EWU9uZ09xVWQwY2hKemdqdWhmZFBOR3N5WUpJNHdPRlh4ajlPR3YzUHl3dUh4bzEw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWWNqakdWTUt2ZWxDcTBkdDBaRGs5c0Zoa21LSm85WE0xZ0ppTFlna3F4OW5yQ0gyd2NaVW10N3hralFUVFBpam9Kek00TjhGU2R6bm5tbmpzd2JGSU9Ib1ZsVlRLcnZTT1dnbXlrWXJkNzZ6WDlScjlMbEJmVGcxOEx5T3ZLTjkta0ZidzVrM2RQNmROM3F2LWNaZThnN0hsMmNQYUgyeHNLUGVWdkJIQ2gtWmh6bWPSAbwBQVVfeXFMUDgwMkZ1U1VJTjdzNHRKSkVTZW1lYlItamc2VHZaVndHc2RCbDF2NVJFcjNraHJkelJ1aHBqdDQ3VkdSSVRiQldHNGRZcUxQRS15RkZhTmp0TFpmQTJrSjJVZndDcVI2Ym01MEdhM0hFY3ZFeXQ1TTItWFJ2WjNFY1R3VVRTejcxemdSVE8yRXFvNnpFRTNhZXJGWU5WTUFxWHdKY0ItOU85ZWVOM1lPVGhHeHh0U3Z4Nm1aZVU?oc=5",
           "section": "研究與技術",
-          "summary": "AWS發布全新Agent Registry服務，讓企業能統一註冊、發現和管理AI代理及其工具，為企業級AI部署提供標準化基礎設施。"
+          "summary": "AI代理已展現自主發現、利用系統漏洞並橫向移動的能力，無需任何人為提示，引發網路安全專家的高度警覺。"
         },
         {
-          "title": "AI安全事件：攻擊者盜取METR API金鑰 消耗約60萬美元AI額度",
-          "source": "The Hacker News",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5BS1hOOEx5MjU1YlV6SUpiNy1kc0M1dHljVWg1ZFBzRURrNmt5Wk1uYlBGUWdDNlgwT1cza1NKWDBaeE5wdktZQk1ZZG9kNjZTMTVmMGtZVU5lTTdGMkpoVFd4aXVRSEo4YmxiN3FsVEQ4NTFaTm1LYVRFUQ?oc=5",
+          "title": "AI設計物理實驗——MIT與IBM加速量子部署",
+          "source": "Nature",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE11VEZFMWNpM1FINFh5X3lhb0NOYzk0bTJkNjFqel9QVEZNZW9lbWhJbnZnT2h5YWNPdmJBcWZfSjV0QUl6NXJoT3paQVRrYlVjR1hac0wyblFiNVRjam9j?oc=5",
           "section": "研究與技術",
-          "summary": "AI安全評估機構METR的API金鑰遭竊，攻擊者消耗約60萬美元AI運算額度，凸顯AI基礎設施面臨的資安挑戰日益嚴峻。"
+          "summary": "《Nature》刊文展示AI自主設計物理實驗的新突破，MIT與IBM同步推進AI與量子計算的融合部署，加速科學發現流程。"
         },
         {
-          "title": "日本與中東歐四國達成AI及科技合作協議",
-          "source": "Qazinform",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMTVDbi1QTlZlVmR0dHo1M1NJUmJKcjZMMlZ2RXJxVk1HM1NWMjlzNVJRNXVKVmZ6eE5KUGdEQ3FKTEtFRWtxSE52WGtSNEVtTTBuWkNtSWZ0eU5sUDJZQ1ZzVndVWVl1c09selJFWVE0SkhrUkVfVGxFTWc0aWZqemdwN2VTcktaa0ZhUVdUYlJTaGdXSjVHZDVjaDNEQnZOXzhWc2Q5SklnQlZQeTJVYnUtQ1pISEFhSUtwQ3JCWDEyZ9IBwgFBVV95cUxPQXVSTkZIWFJBd01jZWVGZWJPSGE4eTlUMnI3TGNuRmJ5bWU3OVdhdy1mMmwxU0N4WFNySlNUYnRNM2ZyaTRpVmtza0ZWY3hhc3ZSZC1Db0s5X3hNYWh6QTBSeTRsOTBxVEd1N0E2Y3Bid1hyRU5GcXlJM2ZTZkZPNG9wRlV5cWRrM0NZcmNxUkY5RjJaa1l2YzRwSnVKUG50a3NMRGxJZVFuRGNBTmhFMzVOVzAzSzlITnZWQkVVRnVJdw?oc=5",
+          "title": "美國在G20呼籲各國勿對AI實施新監管",
+          "source": "U.S. News",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOT0tZY3ZURlZZMFUwb0dId1lKanVxbnhwZU03c2NtTWFXYWNQQXRnNHMtaGx3aEloVHhPM29QOGF2M2lpdnNHclRTT2JjSE92TF83SkJMQmc4b2tYLV9LNk5FWmlSdkRMZ1R6RDgxeEJoUnpFM2oydWhfQjFQTDdvRVNzTlhiLWxMS05TMG1IVWg0a3FpMDRleGhfTXU0WVYzUEpQUXpYMktzaDlHWW5VRjRtRQ?oc=5",
           "section": "亞太/中國焦點",
-          "summary": "日本與捷克、匈牙利、波蘭、斯洛伐克簽署協議，將在AI研發、半導體供應鏈及數位基礎設施等領域深化合作，拓展亞歐AI聯盟。"
+          "summary": "美國在G20科技會議上明確表態反對AI新監管，主張「放手」策略以與中國競爭，與歐盟積極監管路線形成鮮明對比。"
         },
         {
-          "title": "AI數據中心引發成本、環境與安全爭議",
-          "source": "News4JAX",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcG5ENzlDeTlZYkhMZ2hDSFZxeVVNT0xaZlBCMFJIN25TWXN5WlNWcE9HZEE0clJoSDFKVU1SbEs3a1RLckdjVGJkblN3NklEdXlBWWlGb1d3d2NwcEpvTlQwSS1neTlDVTQtenp0Y1VSY0o5dzdjUWVic0xRTFJqdHFWSG5MYllkRnZxR3RLdWRmTGEtUFlyQUstMzlWcnJRNGdId3IwbnVyVk9ZQXpYN1NuU29BXzNuVUNBOXhYLWpMVlNuUDhN?oc=5",
+          "title": "美中AI角力蔓延至埃及：華為數據中心之爭",
+          "source": "Foreign Policy",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTkd1UmxnOV9lSktpa18yTTQwUnRZWllTOF9Zdk43WV9VWEZFQzVVVW16ckRTS1NDbUFZNlY4M2hPM05VcGVvWThOeXQyQU92dGtpY0xSOVFRakVEV2phZENUOFl4Tms4WUN5U1pMUEtYNktFRTRBWUNjSWExeVdrSUxsdEEtSlFES21wZTktOUxHMmg2dXltUm0xSUphMkk?oc=5",
           "section": "亞太/中國焦點",
-          "summary": "AI數據中心建設在全球各地引發居民反對，擔憂能源消耗、環境影響及國家安全風險，各國政府面臨基建與民意間的平衡難題。"
+          "summary": "美中AI競爭擴展至中東，華為在埃及建設數據中心引發關注；《Foreign Policy》分析指雙方雖互不信任，仍有合作建立AI安全框架的空間。"
+        },
+        {
+          "title": "美國AI晶片禁令現漏洞：中國透過雲端獲取算力",
+          "source": "Forbes",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZVp1d0lqbEZNUDdCVUhyTGh6NUU1blJkVUFCM3dNUS0xYkNBM1BNQ2FKcTh2Snp2Rk1WX0RxRzRaYkFUc2lzaUlLQWI0RWRjd2o5aEpDeFdIb296Ui1VUW53bXRfS1VuYkFzQldFSU80VkI1RzFTRkJpamZYc195NFFVcEJlcDJIX1F0TElGaHNGcDBoeU9OZmNncElJd2ItMWRKOGQwamNaQ1I4RkU0VA?oc=5",
+          "section": "亞太/中國焦點",
+          "summary": "《Forbes》調查發現美國對華AI晶片禁令存在漏洞，中國企業透過海外雲端服務租用算力，繞過出口管制獲取高效能AI晶片資源。"
         }
       ]
     },
@@ -78,63 +85,77 @@
       "name": "環境快訊",
       "icon": "🌍",
       "color": "#00b894",
-      "date": "2026-09-02",
+      "date": "2026-09-03",
       "articles": [
         {
-          "title": "英國夏季創紀錄最熱",
-          "source": "衞報",
-          "url": "https://www.theguardian.com/uk-news/2026/sep/01/summer-2026-uk-hottest-on-record-provisional-met-office-data",
+          "title": "聯合國警告全球暖化將達至少1.8°C，稱「沒有好結果」",
+          "source": "衛報",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNM19xbUpYQTFGNW5OYW5mV0dQdTFXMVd3d3luVGZNazdydW53Z2NjQWRwcVNxdFlPamlBOTVWcjlDLXlYeXpQRTJGSFgxdFl4OHRVOVRpZVN6NjEzSVIyS2ctX0x3b2NxQTM5QnVWZUFMLTgtQzdiWmxMYTFuSmtCZnV3X0ZrMlhQVUZQbVNZaXVUQXNQdHBOTTFGMGRISFFFUlI1bmtBa3pFWG4wdWlLeGpwUlBxQWRLZEN3dklYQzg5bmFLMklFb2ZULTV0bG12TmhtUFlwN3R6cXpwMWc?oc=5",
           "section": "頭條新聞",
-          "summary": "英國氣象局確認2026年夏季為有紀錄以來最熱，高溫與乾旱並存，農業及水資源面臨嚴峻挑戰。"
+          "summary": "聯合國最新報告指出全球升溫將至少達1.8°C，遠超《巴黎協定》1.5°C目標，所有情境均無理想結果，呼籲各國立即採取更積極的減排行動。"
         },
         {
-          "title": "中國太陽能裝機首超煤電",
-          "source": "Business Times",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWGNETkIyNUFXZmRHR2J4RFJPTkRwZ1ZJM2QwWGE4bVlJbDlCOGU4Q0N0WnJPajZweGw4UE9UcGlReGUzeE5lQ21PenJfVUd6S0h5cEFzc190UlRydzhxZUZWVXlwOEpQN2oxWDVHdlowWTVWRHpib0tsVDRZbUZJcnJHZTVmZkFhU3R0eW1nUThNZmh5dHZQbS1Kc3BIcEVaWTVjM0VkUWRwcFZaOVRCcVIzVlZsQmVadWxzS3RSc3dsaGM5US1QQXcySlM?oc=5",
+          "title": "西班牙錄得有史以來最熱夏季，逾5,000人死於高溫",
+          "source": "阿納多盧通訊社",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNGZxdmhYMW80aWpCck1PNGlzbGtJdkFFQnZfUlVLa2N6ZkdFLWlGbnVsd3BiNkFNWFExcEVNUFM1OVE4dDBTTUJQa1hfVXFUYUhDeUItZHJ3Qnp4S3diTWZIdnlTMW44NTY5TFBENDlXZmlJRUhDV24xTTEyVGYzNzJjR1VfaGtMbjlQbzFBQTM4dENvcWZ0R041eUtlWmljVndwYzFWM2tGZXRTVDQ1VjdQNzllWjlua1hOZQ?oc=5",
           "section": "頭條新聞",
-          "summary": "中國太陽能裝機容量歷史性超越煤電，成全國最大電力來源，標誌全球最大排放國能源轉型轉折點。"
+          "summary": "西班牙2026年夏季創下歷史最高溫紀錄，全國超過5,000人因極端高溫死亡，歐洲多地同時遭受熱浪侵襲，科學家警告氣候變化正加劇極端天氣事件頻率。"
         },
         {
-          "title": "太陽能發電成本跌破煤電",
-          "source": "CleanTechnica",
-          "url": "https://cleantechnica.com/2026/09/01/solar-power-cost-distributed-aligned-climate-capital-fund-us/",
+          "title": "「為人類而戰」：避免氣候災難必須立即行動",
+          "source": "聯合國新聞",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9XT3JnTzJiSTJMNlduN0xaay1pTndTbFNvRUR0TldORUFuT2FwdW91S2ptQWNuR0ZRN2tHNWVjUWJEdnJKYVlLRW9hMk9XUk56ekpydGE0RQ?oc=5",
           "section": "氣候與能源",
-          "summary": "美國分佈式太陽能成本降至新低，已低於化石燃料營運成本，太陽能經濟優勢成為當下現實。"
+          "summary": "聯合國秘書長在最新氣候會議上呼籲各國立即採取行動，強調拖延將導致不可逆轉的災難性後果，並敦促各國在COP30前提高減排承諾。"
         },
         {
-          "title": "甲烷減排是守住2°C關鍵",
-          "source": "Carbon Brief",
-          "url": "https://www.carbonbrief.org/guest-post-why-tough-methane-cuts-are-crucial-for-keeping-warming-well-below-2c",
+          "title": "太平洋兩大暖化模式正在醞釀，扭曲美國天氣",
+          "source": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYUdOcVU5ZW15dkVtaUtRVnVUZWprYkFVajh4Y3UzUmJfNTk3WmdzclNueVhtSFptODJKQjdMbVdaQ2laT0dUZElaanlqS1pyTE9IdzVMa3VxUUN1VmY4dlhCUmZCWWEtNXB0VFphdkhpNXROTTg1SndiUWNoaTB1akFVejhxMUNzQ2U0V05JQVk2MEZCTDJlcGw0Z1hJU1p6N2tPaGZJYTZnV2NtbjFrdkk3NUFoU1B6TFdURQ?oc=5",
           "section": "氣候與能源",
-          "summary": "研究顯示嚴格削減甲烷排放對控制全球升溫至關重要，油氣行業甲烷洩漏成減排重中之重。"
+          "summary": "太平洋同時出現兩大氣候模式異常，可能導致美國出現極端天氣，科學家正密切監測聖嬰現象與其他洋流變化的交互作用。"
         },
         {
-          "title": "特朗普EPA被批「無牙老虎」",
-          "source": "ICN",
-          "url": "https://insideclimatenews.org/news/01092026/trump-epa-clean-air-water-retreat/",
+          "title": "法國熱浪死亡個案首次蔓延至所有年齡層",
+          "source": "Tech Times",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdDVHTlFORmhoX2dBX0Vla1Jwc3hVS3laQzcxMFlCbVd1Vi03aEZiaVhwVDdQZkx2VnliUVkwVXItdXpxOEc3YU5iQXNjSVE3cGFvU1ozalNCN0Vla3JQQ3JDQnBzVDFaZ2FKb1Z6NjlGRGFhVXZQLXdNaE9EOGpNOWpoSTdvTi1QQXl0QkRCbnJhRXcxeDNRbVQ2a2c1ZEZlWi0xdGI1R2JIYTZwYjYzZHhUTlhlbUtRdkFzQ3pkay1RMFlSRWc?oc=5",
+          "section": "氣候與能源",
+          "summary": "法國公共衛生機構數據顯示，熱浪致死案例首次不再集中於長者群體，各年齡層均有死亡報告，反映極端高溫對全民健康的威脅正在擴大。"
+        },
+        {
+          "title": "印尼森林火災有毒霧霾籠罩馬來西亞婆羅洲",
+          "source": "半島電視台",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeTU3TEw5dC16RzJPeUQwMWtaa3M1M3RkMTJ2RlkzVXo4UzRRa0EwYkpoSzdJTVhhRE9neVhXdVBkM3VpdnVzVXprRzJOUUpTVlVKVFhJZzh0dy1xSEIxdnVZU2lWV1NFSnQ0b2EtSlh2anpuNWVWUW1vNEY4TFNEejBOWEZibloweW5CNmlGdE01SnFkcGtSTEFhRnXSAaIBQVVfeXFMTXh3S1VlMHpCYWpSY0liZi1xVGtUVUxRdk9lUkVzWGM3TmpuMXNHc2NKUTQ5OWVNTDl4MVUzcTBTSFFuQ3lvQk9PcS1ZNFpuSF83QUh5YkJEU1RFMWQxSHdtVFFwblppRU5PZHc0WVBvVnIyTDRjTmdnS2YzcXRiR1B2XzJyQURBcWNWV0FBZHZTanVKM2wybngtdkh5UzNObnNR?oc=5",
           "section": "污染與生態",
-          "summary": "分析顯示特朗普時期環保署執法降至數十年低位，空氣與水資源保護出現歷史性倒退。"
+          "summary": "印尼森林大火產生的有毒煙霧已擴散至馬來西亞婆羅洲，空氣質素急劇惡化，當地學校被迫停課，數萬人出現呼吸道疾病。"
         },
         {
-          "title": "塑膠企業編寫學校課程惹爭議",
-          "source": "Grist",
-          "url": "https://grist.org/accountability/plastics-industry-lesson-plans-school-curricula/",
+          "title": "印尼部長警告：聖嬰現象本月達峰值，遏制山火極具挑戰",
+          "source": "路透社",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRUN1a1R0SmN5cTJ0SHAyMFpiOEN3bGVxdmptWlFiWVNFOVFhcGVZOC16NTBOek5Nc3JQX1N6MEkxdXJfZjZWb2tBVkN5T0h2Vm43RERNMXZrMDNzVkxfZkpDSTJXc0RTQ2xmbkNYVk81SmFESzYtSi1zdXBJVy1WZGNHeVRabm1pME05Ulh1YTJwSnJGWUM3SGtpYWVVYTA3aUlWMWJvZnlIdUlCSmFvdVM3WE01MFFFcnNjTjBndnQ3bTZ0R1ZPeA?oc=5",
           "section": "污染與生態",
-          "summary": "塑膠行業資助編寫美國學校環保教材，將污染責任轉嫁消費者，引發「漂綠」滲透校園的強烈擔憂。"
+          "summary": "印尼環境部長表示，聖嬰現象將在本月達到峰值，乾旱天氣令森林火災風險大幅增加，當局已部署數千名消防員但仍難以控制火勢。"
         },
         {
-          "title": "尼泊爾要求中美印氣候賠償",
-          "source": "Scroll.in",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQWd3cFE0dW5fNXBKMm4yOG1XYS1GangxcjgzamZWSUZDVkJ5aWY5a0RFdzhVaXZhUVFtWnhOS25WRGlXc0hBYkxDR3hQRGxSNW1xYlNNcnNQV3VPV0l4bnlxY2ZOLTV0SmhuN2VuRDZpWWd1R3AxOVVfSWtpNThPOVlBa3p5RVJOU0lRei1XMkU4RUJQSU9aai1UcWhjbFVDRzNTT2xNX3g2LXBSb0N1TVRfUUdSeGJpM0t4LVpQcGM3VU5mYjNGNmUtYw?oc=5",
+          "title": "颱風「蘇迪勒」登陸中國東部沿海，交通大亂",
+          "source": "路透社",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMHQyMkdmM3doOTMyU19UWE9HQTE0NlR3RllkMklwTmYtZmg4THRneDhVUVFINFBKR1NtNTFaZDNwdHN1RTBvcE5pVGhISmJEOWRadUd2ZDNBMkFiaTJVTjl2Y1lYQXp6OUtnWVVhSXd5dnlrWkczQ1BBY1FzeFYxUzBXNnlHeUNRWFhON3hiWk5JWlVYcDBFOVJWRUYtRVNIdDRaY0dXWjRiZms?oc=5",
           "section": "亞太/中國焦點",
-          "summary": "尼泊爾冰川洪水後要求中美印為氣候損失賠償，稱「道德責任而非慈善」，標誌氣候訴訟新前沿。"
+          "summary": "颱風蘇迪勒上週登陸中國浙江及福建沿海，帶來暴雨及強風，多地航班及高鐵服務暫停，數十萬人緊急撤離。"
         },
         {
-          "title": "印度124年來最熱八月",
-          "source": "Dhaka Tribune",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTFJpOUg2QUNKaTU3YTJRbG85LThLNXRfTWpDM1ZXU1kwdmhwZmtwYm9jMlZzZHJfV296YWtrMTdrYllsUk9iSlpBMUliaE9YTHp0NFd5OXJ5RFFrQnlCSmMwRDg1U3pocmlwSWQyZkR5bGdTUDllcGU3VTFibHZrYjk1WHRYOUhzMmRzV2RmRnc3VTBVWGtVOXloY1E4cVpt0gGgAUFVX3lxTE5MUmk5SDZBQ0ppNTdhMlFsbzktOEs1dF9NakMzVldTWTB2aHBma3Bib2MyVnNkcl9Xb3pha2sxN2tiWWxST2JKWkExSWJoT1hMenQ0V3k5cnlEUWtCeUJKYzBEODVTemhyaXBJZDJmRHlsZ1NQOWVwZTdVMWJsdmtiOTVYdFg5SHMyZHNXZGZGdzdVMFVYa1U5eWhjUThxWm0?oc=5",
+          "title": "日本福岡錄得破紀錄高溫，熱浪已致79人死亡",
+          "source": "阿納多盧通訊社",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVDgtWHNwVWx6VEFLa2dHOWxRN1N5UnFpZVBxUFU4TVFWaHp0U0xPN2ItU1FvZUJkUXExSUF5TVdvT2c5TWNBdDkyR3VKaUMtMVdBMUM3RV9vMGJyVnpHcXhlVGFibXlvdjE3N0tBNG91RFVuTzh3OE0ybDJFNE9kdkZJNUwwRFJtbU5hU1pTYVlSY3NnYlhtSXQxcF9UUlZ1dnFQMEdhZGxaTlhCVHNPN2FtblU?oc=5",
           "section": "亞太/中國焦點",
-          "summary": "印度8月創124年來最熱紀錄，極端高溫席捲南亞，數億人面臨水資源與健康危機。"
+          "summary": "日本福岡縣錄得歷史最高氣溫，全國熱浪已造成至少79人死亡，高溫天氣預計持續至9月中旬，政府呼籲民眾加強防暑措施。"
+        },
+        {
+          "title": "可持續發展為何能成為香港下一個「盛事」優勢",
+          "source": "南華早報",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUWxrTTRaYmlCbzFDaUg3a3B3TGVpY0ZnZmp3Y1RsWXFrS0NPaEpNV0pRQk5RTzkzU2liSXNjaE9QWW14eEx2OXFqRVFZSm9Hem5YMjVqcUl4b2ZiUTdna2MteW1iaGk4U3g5dTJQalE4UF9LckUyR3V2cVo3eEszX3RDSGJvc3psUG1ITTM2bm1LZVJEcDRZTUVTQVl3ZVJPclZDY3BHc2M1SHEzdERMalk5c2x5M25VSXBFanJZVk9JUmUzSUx30gHHAUFVX3lxTE5aRW9MNkpKR19oOFFvczAweDV2WEF4QlpFVXhURndSNWh5QXk1bUpfM2NiTlRTR2hEa3l3UFNHZzRBU3ZvMktkSFJKN0Y5cm41eW4yc1B6T2tMM0hCU2ZmWURGRWJjZy1vSXZOZFMyV2E5YXBKNHhKdm1OOWFPeVc1VE0tTUxya1FVWTV1cHpzdDI2Wjl4eXNUZHlQdFBhQlprRlhDNERjWGREOXNwdFVLUjhRMElxYlducU9EMGtDM3dHS1puX2c?oc=5",
+          "section": "亞太/中國焦點",
+          "summary": "南華早報評論指出，香港可將可持續發展融入大型活動策劃，藉此強化國際綠色金融中心地位，吸引ESG投資及推動碳中和目標。"
         }
       ]
     }
