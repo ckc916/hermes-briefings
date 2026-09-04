@@ -1,82 +1,75 @@
 {
-  "updated": "2026-09-03 08:45",
+  "updated": "2026-09-04 08:45",
   "categories": [
     {
       "id": "ai",
       "name": "AI 新聞",
       "icon": "🤖",
       "color": "#6c5ce7",
-      "date": "2026-09-03",
+      "date": "2026-09-04",
       "articles": [
         {
-          "title": "OpenAI即將發布Astra模型，具備「關鍵性」網路攻擊能力",
-          "source": "WIRED",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSFE3NkFwdlQ2WktBelBib0paY3NRUVhCZkRuZF9laks5ZVd5MFhCd0JHWjlqYjF5a1F0WC1GbE5NalgyVEh4REhiRG91TVZFZWs4cUVsWkZBM1hKbnlXRXV1c05NSHVIaGlJUTg4eHpLRTN5QlpXVnpUM2tXY2Z1SWhLSWVzOTROWldMUHdzQQ?oc=5",
-          "section": "頭條新聞",
-          "summary": "OpenAI首度公開Astra模型的安全評估，承認其具備「關鍵」級別網路攻擊能力，能自主發現並利用系統漏洞，引發AI安全界高度關注。"
-        },
-        {
-          "title": "紐約市公立學校禁止八年級以下學生使用AI",
-          "source": "Politico",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9BR1BUYk1LbDI5NGtFZy1KbUZtNGl4V3R6d0Z1Q3FYRmtqWVFtSjVvQlAxQjJVYUkwMVRZUUFaQzg1NHAxY2hweVBLZFhBRlJ3RXlfVGtpLTE5RGhWVmNXUlAxd0lJTG43WXlHNWJpTUxqanVJZWpN?oc=5",
-          "section": "頭條新聞",
-          "summary": "紐約市長與教育總監宣布全美最嚴格的生成式AI校園禁令，K-8年級學生全面禁用，洛杉磯聯合學區亦同步禁止在校內設備使用生成式AI。"
-        },
-        {
-          "title": "微軟將調整財務報告結構以反映AI影響",
-          "source": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU3hZTS1LdVBJWUFVdjZ2ZUpUQ1hSMkJJYkRzVmJ5aWZ1UHdscUtrLW1WNzR3eEZBYW9DZFhYWERCaEtYVTZ5VDExelNWZTRzTHRjaTRqX3B3VTNMWjRIRlNVSjdDSEFPU21lRzZmZWh3cXhlVUlmNXZmTnpZc3p0ajZPUjFoNlRNVlAtVmkwdkJiQUgtczJ2MkpSR3FuLXdQZ29v?oc=5",
-          "section": "業界動態",
-          "summary": "微軟宣布重組財務報告架構，將AI相關收入與支出獨立呈現，反映AI業務已成為公司核心增長引擎，為投資者提供更透明數據。"
-        },
-        {
-          "title": "Nvidia斥資35億美元入股聯發科，佈局客製化AI晶片",
-          "source": "Tom's Hardware",
-          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPZnZjZEFtSTNKWlcwdVl1M2VVRjBySURTSlFmaUFlbkVHRGgwZHBOcXBpUDYxTVRrLXBlb2s0WUdNSFFNc3pPOWVWSDEyNWNaMDdiYlNWWFFvb2FHZEltUE1SYW8yajFLeFB1Mm5kYThrRV96U2Zlem96NXZIN0owTzdPeFJoNmV4OGxmeTQ1T0drQnVDRGIwZUxzbHNYLWRPOTV2dVlyTzhuMWhuWFd1ZUNVOUtxck1JLTJpYW1QOWxhd1dpeTh3clo2MjFESG1RNVB4M1BvZkRadE9PY29GcVVzSzI5SkloMDVkU1VmajFFaEVPTUp6ZTY2YUY5MllWX2c?oc=5",
-          "section": "業界動態",
-          "summary": "Nvidia以35億美元戰略投資聯發科，聯發科將採用NVLink Fusion技術開發客製化AI加速器，AI晶片戰場競爭進一步升溫。"
-        },
-        {
-          "title": "Anthropic發布Fable新模型，更便宜、限制更少",
+          "title": "OpenAI發布GPT-6「Astra」模型，宣稱進入「AGI時代」",
           "source": "TechCrunch",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQ25FQkxpSkM3VGJvYmZabXpWTkc0aFZtTWFjanR0XzJtOElMeEdSTzBEU0JfM0d0b25UZGJSS1NOZEdKSVdQVnNxRnNVN25SZjJaeXFtc29PSzcyN1lFNWJWNENSM3VJdnNub19vcTl6NWQ2N1pJeHJ2SW5ZWlhLU0gxV1hqUGhsdmxycDhsQ3A4cjNqbEE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZ0RxN25tUmIwSWNkRUtlaDUzM2UwOVNtMFROYkZrYW1QU1o0LUN1Ukw5RWVaRTU2d1AzV2ZkQ25iOS04WDJPX0dLWlk4dVpvb2g5cHBtTEpPaGx1MzdZYU5vLXJnRUZDWkgtSEpyWmNOWWFkOTQzdUZLaHFvazRmWlg5TVVfX0Q3MDlvV091dXpsNVBMMFQtOUQ4NHduQQ",
+          "section": "頭條新聞",
+          "summary": "OpenAI推出新一代旗艦模型GPT-6 Astra，具備105萬token上下文窗口及電腦操控能力，在基準測試中超越Anthropic Fable 5.1。Greg Brockman宣稱「AGI已到來」，但因安全風險被評為「關鍵級」，採取分階段開放策略。"
+        },
+        {
+          "title": "ChatGPT、Claude、Grok同時大規模宕機",
+          "source": "Ars Technica",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbVNZTFBXMFJEM3pOVjNhOFlyR0tITXZjaG1tb1V0YU1waDZmU3lwZTJjRUVTbmFCWEM0QTVobDdxNGdfbkx5cFFCT2JrcHZDcHE1aGNlTGh4RWxuMUJXdC1hYkVHVEhZbEVmbURmWXhHbzRuRDBEbV8ycUpqa2FhSVpLRFo3RDZVT1B4VXhxQkk0WDQ",
+          "section": "頭條新聞",
+          "summary": "9月3日上午，ChatGPT、Claude及Grok三大AI平台同時全球宕機，數千用戶無法登入。Grok問題歸因於Memphis數據中心故障，服務數小時後陸續恢復。企業界呼籲建立AI備援方案。"
+        },
+        {
+          "title": "NVIDIA以129億美元收購Hugging Face",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSktMTEFzVUpJM09CZGMxcnEtMVJHTElxMllESE9QbHdMbjl4MmQ2TjJvSjRXY1Q3RUVmNGMxQ2xIMTVtOWhnVHYyWGluNmNDektRcVloUmZfTmdWMDJyMFRrTjZHYzl6aUYyd1JYM3hQenBmeFJ1N3FleW01SF9HeFVSZ3oxMlBsS3BrcHZiblZBWTNSWDQyMzdSWGMwMnJ3NnNTbG14R3FTb1BUdGc",
+          "section": "頭條新聞",
+          "summary": "NVIDIA以129億美元收購開源AI模型平台Hugging Face，Hugging Face CEO透露在交易前數週主動聯繫黃仁勳。此舉標誌著NVIDIA從晶片硬體向AI模型生態系統的重大擴張，引發業界對AI模型選擇權的討論。"
+        },
+        {
+          "title": "阿布扎比AI研究所發布完全開源模型，包含訓練數據與代碼",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPOFFMOVN0WFItRlg2RExOaGQwNlVCaVk4UEdVSDhNbEZVUElvejVDUUxVRklVRnNESzd1bUczRS1EOXNXVlZ2R01vSlhqSVdNa0FVVW5wZXdDNERnXzFoaGJUOFdEdldTU1M5ODRPRzg5UEViTmx6MEtPTlBsQ0dHTUNEeE11YU1hTFJDaEtRNF9tRTd2MlRIRGxweEttX0lJRENPOW4tY3FiaElKZ0FYYXdWOVAxOVlsdTJfbDhwQm9vV19udEJTaTBWRmI1VzQ",
           "section": "業界動態",
-          "summary": "Anthropic推出Fable系列新版本，價格大幅下調且安全限制放寬，同時發布企業級前沿安全防護框架，協助客戶安全部署AI。"
+          "summary": "阿布扎比技術創新研究所（TII）發布完全開源的AI模型系列，包含訓練數據、代碼及權重，為全球AI開源社群提供前所未有的透明度，被視為對抗封閉源模型的重要一步。"
         },
         {
-          "title": "AI代理無需人類指示即可自主入侵系統",
-          "source": "PBS",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWWNqakdWTUt2ZWxDcTBkdDBaRGs5c0Zoa21LSm85WE0xZ0ppTFlna3F4OW5yQ0gyd2NaVW10N3hralFUVFBpam9Kek00TjhGU2R6bm5tbmpzd2JGSU9Ib1ZsVlRLcnZTT1dnbXlrWXJkNzZ6WDlScjlMbEJmVGcxOEx5T3ZLTjkta0ZidzVrM2RQNmROM3F2LWNaZThnN0hsMmNQYUgyeHNLUGVWdkJIQ2gtWmh6bWPSAbwBQVVfeXFMUDgwMkZ1U1VJTjdzNHRKSkVTZW1lYlItamc2VHZaVndHc2RCbDF2NVJFcjNraHJkelJ1aHBqdDQ3VkdSSVRiQldHNGRZcUxQRS15RkZhTmp0TFpmQTJrSjJVZndDcVI2Ym01MEdhM0hFY3ZFeXQ1TTItWFJ2WjNFY1R3VVRTejcxemdSVE8yRXFvNnpFRTNhZXJGWU5WTUFxWHdKY0ItOU85ZWVOM1lPVGhHeHh0U3Z4Nm1aZVU?oc=5",
+          "title": "洛杉磯學區禁止學生使用大部分AI工具",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcnVGZFNVdFlpRXBrNmMzYkt1Z2xjTVp6eC1uczFycnVVZWhkbVFocGVVZHJHNlp5UU5CLXdGazVDN1JoTTNFVFNxNkM5cVhNdWhqRTlsYV9udjRheFp0ZnMtU2pEZ1U2dElKMWZBVGRsU0c3bldUNXlQSzlOREUyXzIzektibV93dXMtbDR2QUM",
+          "section": "業界動態",
+          "summary": "洛杉磯聯合學區宣布禁止學生在校內使用大部分AI工具，為美國大型學區中對AI最嚴格的限制之一，反映教育界對AI作弊及學生依賴的日益擔憂。"
+        },
+        {
+          "title": "NVIDIA投資35億美元於聯發科，定制AI晶片",
+          "source": "Techzine",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOW9VY2ZudmdBYm5pS3ZNSzFkQnBkS2lLMnhCNjhPbGlUcmg5MVBnN2pWejBVYlVUREVxTGtIaUpTMC1SOWl5NFNxSENCV3I5Y1FpY0RTQkFhalBOR0Y0MDljMVBSN2tiWUd5eFFUTzFnTU9POVNOS1pzdUNLLVkxb1FTdDg0aDFVSEhhWVZldW5iYWg5djJCampGZFRITUp3d056Yk9OYUYzOHloTzNSNkstWjBKZGpq",
           "section": "研究與技術",
-          "summary": "AI代理已展現自主發現、利用系統漏洞並橫向移動的能力，無需任何人為提示，引發網路安全專家的高度警覺。"
+          "summary": "NVIDIA向聯發科投資35億美元，合作開發定制AI晶片，進一步拓展其在AI基礎設施領域的佈局，並強化與Arm生態系統的整合。"
         },
         {
-          "title": "AI設計物理實驗——MIT與IBM加速量子部署",
-          "source": "Nature",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE11VEZFMWNpM1FINFh5X3lhb0NOYzk0bTJkNjFqel9QVEZNZW9lbWhJbnZnT2h5YWNPdmJBcWZfSjV0QUl6NXJoT3paQVRrYlVjR1hac0wyblFiNVRjam9j?oc=5",
+          "title": "AI基礎設施支出預計2030年達1.4萬億美元",
+          "source": "24/7 Wall St.",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNYXJqM1RwTWRZZTRuRDlRZnIyaDFFMi1qel9zbUlfVmQ3RlZFclBvRzNvXzZzRnhNTnpQQWFkWVZud3BEeVhyZWRLdHkyY3NlWXJuY3YwcEozbmJsZjRxUmZta01xcENlWUZ3NUtjbC1aS3d0czRhbFVwVUdCaVc0SVU4SGVxQ2RIMXJoaTFHdG5IRFI4ak5sSEpkOVcyOUZfRlA2RlpPMlljUm85M1ZlSkZNLVpPOTBrU0JQV1d0NTRoZmdHeDJ1RUp4dFVMM3Rma3NDZnNLVE82cVlobk9NaG9QV1lROXM2aHdmNmVrQQ",
           "section": "研究與技術",
-          "summary": "《Nature》刊文展示AI自主設計物理實驗的新突破，MIT與IBM同步推進AI與量子計算的融合部署，加速科學發現流程。"
+          "summary": "最新報告預測全球AI基礎設施支出將從目前水平大幅增長，2030年前達到1.4萬億美元，晶片、數據中心及能源基建為三大投資主軸。"
         },
         {
-          "title": "美國在G20呼籲各國勿對AI實施新監管",
-          "source": "U.S. News",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOT0tZY3ZURlZZMFUwb0dId1lKanVxbnhwZU03c2NtTWFXYWNQQXRnNHMtaGx3aEloVHhPM29QOGF2M2lpdnNHclRTT2JjSE92TF83SkJMQmc4b2tYLV9LNk5FWmlSdkRMZ1R6RDgxeEJoUnpFM2oydWhfQjFQTDdvRVNzTlhiLWxMS05TMG1IVWg0a3FpMDRleGhfTXU0WVYzUEpQUXpYMktzaDlHWW5VRjRtRQ?oc=5",
+          "title": "中國AI公司Moonshot（月之暗面）秘密申請香港IPO，估值30億美元",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNT3M0Q2ZhaUlPQkc5bzU5MUEyMlpEaFFMVU5uakRWOEJkek85Z2ZsVWxjc0JnR3NrTFdXOGRIdDRQWmhobmhCZU9iVE9sakxTTVE0ejBhRnAyX1BaM0huMlVvZEJHREh6YzRQMzRLaXZRU2xtRld0THVvODFwTmJwa3BhOU9TQ1ZoQ2UxMldKVzlwcThoWTlEcVctbjhuZ2FqQVc4UTZwejhYeGtvWXJCdTBMaHVnSTVFbDVZSG1nVXYwOEtp",
           "section": "亞太/中國焦點",
-          "summary": "美國在G20科技會議上明確表態反對AI新監管，主張「放手」策略以與中國競爭，與歐盟積極監管路線形成鮮明對比。"
+          "summary": "中國AI獨角獸Moonshot AI（Kimi聊天機器人開發商）秘密向港交所提交IPO申請，目標集資約30億美元，成為中國AI領域最受關注的上市案之一。"
         },
         {
-          "title": "美中AI角力蔓延至埃及：華為數據中心之爭",
-          "source": "Foreign Policy",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTkd1UmxnOV9lSktpa18yTTQwUnRZWllTOF9Zdk43WV9VWEZFQzVVVW16ckRTS1NDbUFZNlY4M2hPM05VcGVvWThOeXQyQU92dGtpY0xSOVFRakVEV2phZENUOFl4Tms4WUN5U1pMUEtYNktFRTRBWUNjSWExeVdrSUxsdEEtSlFES21wZTktOUxHMmg2dXltUm0xSUphMkk?oc=5",
+          "title": "中國Z.ai公布Ox Alpha隱形模型規格與價格",
+          "source": "The Malaysian Reserve",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSnAtRmZpLWdYMk5FRHJfU1o4U0J6UFEtUnljRGFuYjJjakxKaGRDRGZEMlUwUmg4MGZCbVQ2ZTFRSDZ1cmVUSkhnQTJ1eGtLckV1enU3dTVoQThVVWVVLTJUVmtXN2JPbkc1Z0hLaE5DWXhVVi1SMmk2NVZVUTBCUjBJMXJvaTdYOTBJS3hBLWZGOXBJVjkybTNLUUlsYmhjY0JjWFcwaUVOZw",
           "section": "亞太/中國焦點",
-          "summary": "美中AI競爭擴展至中東，華為在埃及建設數據中心引發關注；《Foreign Policy》分析指雙方雖互不信任，仍有合作建立AI安全框架的空間。"
-        },
-        {
-          "title": "美國AI晶片禁令現漏洞：中國透過雲端獲取算力",
-          "source": "Forbes",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZVp1d0lqbEZNUDdCVUhyTGh6NUU1blJkVUFCM3dNUS0xYkNBM1BNQ2FKcTh2Snp2Rk1WX0RxRzRaYkFUc2lzaUlLQWI0RWRjd2o5aEpDeFdIb296Ui1VUW53bXRfS1VuYkFzQldFSU80VkI1RzFTRkJpamZYc195NFFVcEJlcDJIX1F0TElGaHNGcDBoeU9OZmNncElJd2ItMWRKOGQwamNaQ1I4RkU0VA?oc=5",
-          "section": "亞太/中國焦點",
-          "summary": "《Forbes》調查發現美國對華AI晶片禁令存在漏洞，中國企業透過海外雲端服務租用算力，繞過出口管制獲取高效能AI晶片資源。"
+          "summary": "中國AI新創Z.ai（隸屬崑崙萬維）公布其Ox Alpha隱形模型細節，採用全新架構，在推理效率上與頂級開源模型競爭，展現中國AI生態的快速迭代能力。"
         }
       ]
     },
@@ -85,77 +78,63 @@
       "name": "環境快訊",
       "icon": "🌍",
       "color": "#00b894",
-      "date": "2026-09-03",
+      "date": "2026-09-04",
       "articles": [
         {
-          "title": "聯合國警告全球暖化將達至少1.8°C，稱「沒有好結果」",
+          "title": "聯合國警告史上最強厄爾尼諾逼近",
           "source": "衛報",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNM19xbUpYQTFGNW5OYW5mV0dQdTFXMVd3d3luVGZNazdydW53Z2NjQWRwcVNxdFlPamlBOTVWcjlDLXlYeXpQRTJGSFgxdFl4OHRVOVRpZVN6NjEzSVIyS2ctX0x3b2NxQTM5QnVWZUFMLTgtQzdiWmxMYTFuSmtCZnV3X0ZrMlhQVUZQbVNZaXVUQXNQdHBOTTFGMGRISFFFUlI1bmtBa3pFWG4wdWlLeGpwUlBxQWRLZEN3dklYQzg5bmFLMklFb2ZULTV0bG12TmhtUFlwN3R6cXpwMWc?oc=5",
+          "url": "https://www.theguardian.com/environment/2026/sep/03/un-warns-record-el-nino-approaching",
           "section": "頭條新聞",
-          "summary": "聯合國最新報告指出全球升溫將至少達1.8°C，遠超《巴黎協定》1.5°C目標，所有情境均無理想結果，呼籲各國立即採取更積極的減排行動。"
+          "summary": "聯合國最新報告指出，正在形成的厄爾尼諾現象強度遠超預期，可能成為有紀錄以來最強烈的一次，全球極端天氣風險急劇升高，各國需緊急部署應對措施。"
         },
         {
-          "title": "西班牙錄得有史以來最熱夏季，逾5,000人死於高溫",
-          "source": "阿納多盧通訊社",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNGZxdmhYMW80aWpCck1PNGlzbGtJdkFFQnZfUlVLa2N6ZkdFLWlGbnVsd3BiNkFNWFExcEVNUFM1OVE4dDBTTUJQa1hfVXFUYUhDeUItZHJ3Qnp4S3diTWZIdnlTMW44NTY5TFBENDlXZmlJRUhDV24xTTEyVGYzNzJjR1VfaGtMbjlQbzFBQTM4dENvcWZ0R041eUtlWmljVndwYzFWM2tGZXRTVDQ1VjdQNzllWjlua1hOZQ?oc=5",
+          "title": "英國政府呼籲民眾儲備數日物資應對「超級厄爾尼諾」",
+          "source": "衛報",
+          "url": "https://www.theguardian.com/environment/2026/sep/03/uk-stock-up-supplies-el-nino-warning",
           "section": "頭條新聞",
-          "summary": "西班牙2026年夏季創下歷史最高溫紀錄，全國超過5,000人因極端高溫死亡，歐洲多地同時遭受熱浪侵襲，科學家警告氣候變化正加劇極端天氣事件頻率。"
+          "summary": "英國內閣部長公開建議國民提前儲備食物、水及應急用品，以應對即將到來的極端天氣和潛在供應鏈中斷，這是英國近年罕見的官方級別預警。"
         },
         {
-          "title": "「為人類而戰」：避免氣候災難必須立即行動",
-          "source": "聯合國新聞",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9XT3JnTzJiSTJMNlduN0xaay1pTndTbFNvRUR0TldORUFuT2FwdW91S2ptQWNuR0ZRN2tHNWVjUWJEdnJKYVlLRW9hMk9XUk56ekpydGE0RQ?oc=5",
+          "title": "法國2026年迎來「史上最熱夏季」",
+          "source": "France 24",
+          "url": "https://www.france24.com/en/europe/20260903-france-recorded-hottest-summer-ever-2026",
           "section": "氣候與能源",
-          "summary": "聯合國秘書長在最新氣候會議上呼籲各國立即採取行動，強調拖延將導致不可逆轉的災難性後果，並敦促各國在COP30前提高減排承諾。"
+          "summary": "法國環境部長確認2026年夏季為該國有紀錄以來最炎熱，多輪熱浪導致農業減產、能源需求飆升，凸顯歐洲對極端高溫的脆弱性。"
         },
         {
-          "title": "太平洋兩大暖化模式正在醞釀，扭曲美國天氣",
-          "source": "BBC",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYUdOcVU5ZW15dkVtaUtRVnVUZWprYkFVajh4Y3UzUmJfNTk3WmdzclNueVhtSFptODJKQjdMbVdaQ2laT0dUZElaanlqS1pyTE9IdzVMa3VxUUN1VmY4dlhCUmZCWWEtNXB0VFphdkhpNXROTTg1SndiUWNoaTB1akFVejhxMUNzQ2U0V05JQVk2MEZCTDJlcGw0Z1hJU1p6N2tPaGZJYTZnV2NtbjFrdkk3NUFoU1B6TFdURQ?oc=5",
+          "title": "聯合國：全球幾乎肯定將突破關鍵氣候門檻",
+          "source": "華盛頓郵報",
+          "url": "https://www.washingtonpost.com/climate-environment/2026/09/02/un-climate-threshold-overshoot-warning/",
           "section": "氣候與能源",
-          "summary": "太平洋同時出現兩大氣候模式異常，可能導致美國出現極端天氣，科學家正密切監測聖嬰現象與其他洋流變化的交互作用。"
+          "summary": "聯合國報告警告全球升溫至少達1.8°C，且「沒有好的結果」，強調各國減排承諾遠不足以避免災難性氣候衝擊，呼籲加速行動。"
         },
         {
-          "title": "法國熱浪死亡個案首次蔓延至所有年齡層",
-          "source": "Tech Times",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdDVHTlFORmhoX2dBX0Vla1Jwc3hVS3laQzcxMFlCbVd1Vi03aEZiaVhwVDdQZkx2VnliUVkwVXItdXpxOEc3YU5iQXNjSVE3cGFvU1ozalNCN0Vla3JQQ3JDQnBzVDFaZ2FKb1Z6NjlGRGFhVXZQLXdNaE9EOGpNOWpoSTdvTi1QQXl0QkRCbnJhRXcxeDNRbVQ2a2c1ZEZlWi0xdGI1R2JIYTZwYjYzZHhUTlhlbUtRdkFzQ3pkay1RMFlSRWc?oc=5",
-          "section": "氣候與能源",
-          "summary": "法國公共衛生機構數據顯示，熱浪致死案例首次不再集中於長者群體，各年齡層均有死亡報告，反映極端高溫對全民健康的威脅正在擴大。"
-        },
-        {
-          "title": "印尼森林火災有毒霧霾籠罩馬來西亞婆羅洲",
-          "source": "半島電視台",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeTU3TEw5dC16RzJPeUQwMWtaa3M1M3RkMTJ2RlkzVXo4UzRRa0EwYkpoSzdJTVhhRE9neVhXdVBkM3VpdnVzVXprRzJOUUpTVlVKVFhJZzh0dy1xSEIxdnVZU2lWV1NFSnQ0b2EtSlh2anpuNWVWUW1vNEY4TFNEejBOWEZibloweW5CNmlGdE01SnFkcGtSTEFhRnXSAaIBQVVfeXFMTXh3S1VlMHpCYWpSY0liZi1xVGtUVUxRdk9lUkVzWGM3TmpuMXNHc2NKUTQ5OWVNTDl4MVUzcTBTSFFuQ3lvQk9PcS1ZNFpuSF83QUh5YkJEU1RFMWQxSHdtVFFwblppRU5PZHc0WVBvVnIyTDRjTmdnS2YzcXRiR1B2XzJyQURBcWNWV0FBZHZTanVKM2wybngtdkh5UzNObnNR?oc=5",
+          "title": "尼日利亞公布2026年塑膠廢物管控法規",
+          "source": "EnviroNews Nigeria",
+          "url": "https://www.environewsnigeria.com/nigeria-unveils-2026-plastic-waste-control-regulations/",
           "section": "污染與生態",
-          "summary": "印尼森林大火產生的有毒煙霧已擴散至馬來西亞婆羅洲，空氣質素急劇惡化，當地學校被迫停課，數萬人出現呼吸道疾病。"
+          "summary": "尼日利亞正式推出全國塑膠廢物管控法規，旨在減少一次性塑膠污染，推動循環經濟發展，成為非洲大陸塑膠治理的重要里程碑。"
         },
         {
-          "title": "印尼部長警告：聖嬰現象本月達峰值，遏制山火極具挑戰",
-          "source": "路透社",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRUN1a1R0SmN5cTJ0SHAyMFpiOEN3bGVxdmptWlFiWVNFOVFhcGVZOC16NTBOek5Nc3JQX1N6MEkxdXJfZjZWb2tBVkN5T0h2Vm43RERNMXZrMDNzVkxfZkpDSTJXc0RTQ2xmbkNYVk81SmFESzYtSi1zdXBJVy1WZGNHeVRabm1pME05Ulh1YTJwSnJGWUM3SGtpYWVVYTA3aUlWMWJvZnlIdUlCSmFvdVM3WE01MFFFcnNjTjBndnQ3bTZ0R1ZPeA?oc=5",
+          "title": "「星際漂綠」：太空競賽的環境代價",
+          "source": "Canada's National Observer",
+          "url": "https://www.nationalobserver.com/2026/09/03/starwashing-space-race-environmental-problem",
           "section": "污染與生態",
-          "summary": "印尼環境部長表示，聖嬰現象將在本月達到峰值，乾旱天氣令森林火災風險大幅增加，當局已部署數千名消防員但仍難以控制火勢。"
+          "summary": "火箭發射頻率激增引發環保爭議，專家警告太空產業的碳排放、臭氧層破壞及太空垃圾問題被嚴重低估，「星際漂綠」成新興環保議題。"
         },
         {
-          "title": "颱風「蘇迪勒」登陸中國東部沿海，交通大亂",
-          "source": "路透社",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMHQyMkdmM3doOTMyU19UWE9HQTE0NlR3RllkMklwTmYtZmg4THRneDhVUVFINFBKR1NtNTFaZDNwdHN1RTBvcE5pVGhISmJEOWRadUd2ZDNBMkFiaTJVTjl2Y1lYQXp6OUtnWVVhSXd5dnlrWkczQ1BBY1FzeFYxUzBXNnlHeUNRWFhON3hiWk5JWlVYcDBFOVJWRUYtRVNIdDRaY0dXWjRiZms?oc=5",
+          "title": "台灣第五屆SDG亞洲博覽會展示永續行動力",
+          "source": "台灣光華雜誌",
+          "url": "https://www.taiwan-panorama.com/en/",
           "section": "亞太/中國焦點",
-          "summary": "颱風蘇迪勒上週登陸中國浙江及福建沿海，帶來暴雨及強風，多地航班及高鐵服務暫停，數十萬人緊急撤離。"
+          "summary": "2026年第五屆SDG亞洲博覽會在台北舉行，匯聚亞太各國企業與政府展示永續發展成果，聚焦綠色供應鏈、淨零轉型與社會創新。"
         },
         {
-          "title": "日本福岡錄得破紀錄高溫，熱浪已致79人死亡",
-          "source": "阿納多盧通訊社",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVDgtWHNwVWx6VEFLa2dHOWxRN1N5UnFpZVBxUFU4TVFWaHp0U0xPN2ItU1FvZUJkUXExSUF5TVdvT2c5TWNBdDkyR3VKaUMtMVdBMUM3RV9vMGJyVnpHcXhlVGFibXlvdjE3N0tBNG91RFVuTzh3OE0ybDJFNE9kdkZJNUwwRFJtbU5hU1pTYVlSY3NnYlhtSXQxcF9UUlZ1dnFQMEdhZGxaTlhCVHNPN2FtblU?oc=5",
+          "title": "澳洲首套國家環境標準正式生效",
+          "source": "Norton Rose Fulbright",
+          "url": "https://www.nortonrosefulbright.com/en/knowledge/publications/2026/08/epbc-reform-first-national-environmental-standards",
           "section": "亞太/中國焦點",
-          "summary": "日本福岡縣錄得歷史最高氣溫，全國熱浪已造成至少79人死亡，高溫天氣預計持續至9月中旬，政府呼籲民眾加強防暑措施。"
-        },
-        {
-          "title": "可持續發展為何能成為香港下一個「盛事」優勢",
-          "source": "南華早報",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUWxrTTRaYmlCbzFDaUg3a3B3TGVpY0ZnZmp3Y1RsWXFrS0NPaEpNV0pRQk5RTzkzU2liSXNjaE9QWW14eEx2OXFqRVFZSm9Hem5YMjVqcUl4b2ZiUTdna2MteW1iaGk4U3g5dTJQalE4UF9LckUyR3V2cVo3eEszX3RDSGJvc3psUG1ITTM2bm1LZVJEcDRZTUVTQVl3ZVJPclZDY3BHc2M1SHEzdERMalk5c2x5M25VSXBFanJZVk9JUmUzSUx30gHHAUFVX3lxTE5aRW9MNkpKR19oOFFvczAweDV2WEF4QlpFVXhURndSNWh5QXk1bUpfM2NiTlRTR2hEa3l3UFNHZzRBU3ZvMktkSFJKN0Y5cm41eW4yc1B6T2tMM0hCU2ZmWURGRWJjZy1vSXZOZFMyV2E5YXBKNHhKdm1OOWFPeVc1VE0tTUxya1FVWTV1cHpzdDI2Wjl4eXNUZHlQdFBhQlprRlhDNERjWGREOXNwdFVLUjhRMElxYlducU9EMGtDM3dHS1puX2c?oc=5",
-          "section": "亞太/中國焦點",
-          "summary": "南華早報評論指出，香港可將可持續發展融入大型活動策劃，藉此強化國際綠色金融中心地位，吸引ESG投資及推動碳中和目標。"
+          "summary": "澳洲《環境保護與生物多樣性保育法》改革第一階段正式上路，首套國家環境標準涵蓋瀕危物種、棲地保護與氣候評估，為企業帶來新合規要求。"
         }
       ]
     }
