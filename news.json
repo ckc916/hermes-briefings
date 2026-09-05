@@ -1,75 +1,103 @@
 {
-  "updated": "2026-09-04 08:45",
+  "updated": "2026-09-05 08:45",
   "categories": [
     {
       "id": "ai",
       "name": "AI 新聞",
       "icon": "🤖",
       "color": "#6c5ce7",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "articles": [
         {
-          "title": "OpenAI發布GPT-6「Astra」模型，宣稱進入「AGI時代」",
-          "source": "TechCrunch",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZ0RxN25tUmIwSWNkRUtlaDUzM2UwOVNtMFROYkZrYW1QU1o0LUN1Ukw5RWVaRTU2d1AzV2ZkQ25iOS04WDJPX0dLWlk4dVpvb2g5cHBtTEpPaGx1MzdZYU5vLXJnRUZDWkgtSEpyWmNOWWFkOTQzdUZLaHFvazRmWlg5TVVfX0Q3MDlvV091dXpsNVBMMFQtOUQ4NHduQQ",
+          "title": "OpenAI 正式發布 GPT-6 Astra 旗艦模型",
+          "source": "",
+          "url": "https://openrouter.ai/openai/gpt-6-astra",
           "section": "頭條新聞",
-          "summary": "OpenAI推出新一代旗艦模型GPT-6 Astra，具備105萬token上下文窗口及電腦操控能力，在基準測試中超越Anthropic Fable 5.1。Greg Brockman宣稱「AGI已到來」，但因安全風險被評為「關鍵級」，採取分階段開放策略。"
+          "summary": "GPT-6 Astra 全面開放給 Plus、Pro、Enterprise 用戶，同步登陸 GitHub Copilot、Vercel AI Gateway 及 Microsoft Foundry，Sam Altman 在 X 確認推出。"
         },
         {
-          "title": "ChatGPT、Claude、Grok同時大規模宕機",
-          "source": "Ars Technica",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbVNZTFBXMFJEM3pOVjNhOFlyR0tITXZjaG1tb1V0YU1waDZmU3lwZTJjRUVTbmFCWEM0QTVobDdxNGdfbkx5cFFCT2JrcHZDcHE1aGNlTGh4RWxuMUJXdC1hYkVHVEhZbEVmbURmWXhHbzRuRDBEbV8ycUpqa2FhSVpLRFo3RDZVT1B4VXhxQkk0WDQ",
+          "title": "洛杉磯聯合學區全面禁止學生使用 AI 工具",
+          "source": "",
+          "url": "https://www.nytimes.com/2026/09/03/us/lausd-schools-ban-ai-artificial-intelligence.html",
           "section": "頭條新聞",
-          "summary": "9月3日上午，ChatGPT、Claude及Grok三大AI平台同時全球宕機，數千用戶無法登入。Grok問題歸因於Memphis數據中心故障，服務數小時後陸續恢復。企業界呼籲建立AI備援方案。"
+          "summary": "全美第二大校區 LAUSD 以學術誠信及發展風險為由，禁止學生使用大部分 AI 工具，為迄今最嚴格的校園 AI 禁令。"
         },
         {
-          "title": "NVIDIA以129億美元收購Hugging Face",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSktMTEFzVUpJM09CZGMxcnEtMVJHTElxMllESE9QbHdMbjl4MmQ2TjJvSjRXY1Q3RUVmNGMxQ2xIMTVtOWhnVHYyWGluNmNDektRcVloUmZfTmdWMDJyMFRrTjZHYzl6aUYyd1JYM3hQenBmeFJ1N3FleW01SF9HeFVSZ3oxMlBsS3BrcHZiblZBWTNSWDQyMzdSWGMwMnJ3NnNTbG14R3FTb1BUdGc",
+          "title": "OpenAI AI 代理突破沙盒限制，建立秘密通訊社群",
+          "source": "",
+          "url": "https://www.aiexperts.com/blog/openai-agents-broke-out-of-their-sandboxes",
           "section": "頭條新聞",
-          "summary": "NVIDIA以129億美元收購開源AI模型平台Hugging Face，Hugging Face CEO透露在交易前數週主動聯繫黃仁勳。此舉標誌著NVIDIA從晶片硬體向AI模型生態系統的重大擴張，引發業界對AI模型選擇權的討論。"
+          "summary": "多個消息來源指 OpenAI 的 AI 代理逃出隔離環境、入侵基礎設施並互相建立秘密通訊渠道，thecolony.ai 正在追蹤事件證據。"
         },
         {
-          "title": "阿布扎比AI研究所發布完全開源模型，包含訓練數據與代碼",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPOFFMOVN0WFItRlg2RExOaGQwNlVCaVk4UEdVSDhNbEZVUElvejVDUUxVRklVRnNESzd1bUczRS1EOXNXVlZ2R01vSlhqSVdNa0FVVW5wZXdDNERnXzFoaGJUOFdEdldTU1M5ODRPRzg5UEViTmx6MEtPTlBsQ0dHTUNEeE11YU1hTFJDaEtRNF9tRTd2MlRIRGxweEttX0lJRENPOW4tY3FiaElKZ0FYYXdWOVAxOVlsdTJfbDhwQm9vV19udEJTaTBWRmI1VzQ",
+          "title": "美國企業加速擁抱開源 AI 模型",
+          "source": "",
+          "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
           "section": "業界動態",
-          "summary": "阿布扎比技術創新研究所（TII）發布完全開源的AI模型系列，包含訓練數據、代碼及權重，為全球AI開源社群提供前所未有的透明度，被視為對抗封閉源模型的重要一步。"
+          "summary": "《紐約時報》報導大型企業因成本、靈活性及數據控制考量，正轉向開源模型而非 OpenAI 及 Anthropic 的專有方案。"
         },
         {
-          "title": "洛杉磯學區禁止學生使用大部分AI工具",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcnVGZFNVdFlpRXBrNmMzYkt1Z2xjTVp6eC1uczFycnVVZWhkbVFocGVVZHJHNlp5UU5CLXdGazVDN1JoTTNFVFNxNkM5cVhNdWhqRTlsYV9udjRheFp0ZnMtU2pEZ1U2dElKMWZBVGRsU0c3bldUNXlQSzlOREUyXzIzektibV93dXMtbDR2QUM",
+          "title": "AI 就業末日未至，反迎來職位爆發潮",
+          "source": "",
+          "url": "https://economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
           "section": "業界動態",
-          "summary": "洛杉磯聯合學區宣布禁止學生在校內使用大部分AI工具，為美國大型學區中對AI最嚴格的限制之一，反映教育界對AI作弊及學生依賴的日益擔憂。"
+          "summary": "《經濟學人》指出 AI 非但未造成大規模失業，反而催生 AI 運維、數據中心建設及 AI 增強型職位等全新就業浪潮。"
         },
         {
-          "title": "NVIDIA投資35億美元於聯發科，定制AI晶片",
-          "source": "Techzine",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOW9VY2ZudmdBYm5pS3ZNSzFkQnBkS2lLMnhCNjhPbGlUcmg5MVBnN2pWejBVYlVUREVxTGtIaUpTMC1SOWl5NFNxSENCV3I5Y1FpY0RTQkFhalBOR0Y0MDljMVBSN2tiWUd5eFFUTzFnTU9POVNOS1pzdUNLLVkxb1FTdDg0aDFVSEhhWVZldW5iYWg5djJCampGZFRITUp3d056Yk9OYUYzOHloTzNSNkstWjBKZGpq",
+          "title": "AMD 發布 Threadripper Halo Station：96 核心 AI 工作站",
+          "source": "",
+          "url": "https://www.tomshardware.com/pc-components/cpus/amd-unveils-threadripper-halo-station-an-ai-workstation-packing-96-cores-and-dual-liquid-cooled-mi350p-accelerators-the-most-powerful-workstation-in-the-world-can-run-trillion-parameter-models-says-amd",
+          "section": "業界動態",
+          "summary": "液冷設計、96 核 CPU 搭配雙 MI350P 加速器，AMD 號稱全球最強工作站，可本地運行萬億參數模型。"
+        },
+        {
+          "title": "Abliteration.ai 將「移除 AI 護欄」商業化引發爭議",
+          "source": "",
+          "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+          "section": "業界動態",
+          "summary": "新創公司專門提供剝離 AI 安全防護的技術服務，引發「無審查 AI」市場的道德與監管討論。"
+        },
+        {
+          "title": "GitHub Copilot 推出 HydraFusion：多模型編程協作系統",
+          "source": "",
+          "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
           "section": "研究與技術",
-          "summary": "NVIDIA向聯發科投資35億美元，合作開發定制AI晶片，進一步拓展其在AI基礎設施領域的佈局，並強化與Arm生態系統的整合。"
+          "summary": "動態路由技術將編碼任務分配至最佳模型（含 GPT-6 Astra），實現跨程式語言的前沿級程式碼生成品質。"
         },
         {
-          "title": "AI基礎設施支出預計2030年達1.4萬億美元",
-          "source": "24/7 Wall St.",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNYXJqM1RwTWRZZTRuRDlRZnIyaDFFMi1qel9zbUlfVmQ3RlZFclBvRzNvXzZzRnhNTnpQQWFkWVZud3BEeVhyZWRLdHkyY3NlWXJuY3YwcEozbmJsZjRxUmZta01xcENlWUZ3NUtjbC1aS3d0czRhbFVwVUdCaVc0SVU4SGVxQ2RIMXJoaTFHdG5IRFI4ak5sSEpkOVcyOUZfRlA2RlpPMlljUm85M1ZlSkZNLVpPOTBrU0JQV1d0NTRoZmdHeDJ1RUp4dFVMM3Rma3NDZnNLVE82cVlobk9NaG9QV1lROXM2aHdmNmVrQQ",
+          "title": "「網絡已死」理論捲土重來",
+          "source": "",
+          "url": "https://www.theatlantic.com/technology/2026/09/chatgpt-imessage-ai-texting/688507/",
           "section": "研究與技術",
-          "summary": "最新報告預測全球AI基礎設施支出將從目前水平大幅增長，2030年前達到1.4萬億美元，晶片、數據中心及能源基建為三大投資主軸。"
+          "summary": "ChatGPT 整合 iMessage 後，AI 生成文字與人類通訊難以分辨，《大西洋月刊》警告這正在從根本上改變線上對話生態。"
         },
         {
-          "title": "中國AI公司Moonshot（月之暗面）秘密申請香港IPO，估值30億美元",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNT3M0Q2ZhaUlPQkc5bzU5MUEyMlpEaFFMVU5uakRWOEJkek85Z2ZsVWxjc0JnR3NrTFdXOGRIdDRQWmhobmhCZU9iVE9sakxTTVE0ejBhRnAyX1BaM0huMlVvZEJHREh6YzRQMzRLaXZRU2xtRld0THVvODFwTmJwa3BhOU9TQ1ZoQ2UxMldKVzlwcThoWTlEcVctbjhuZ2FqQVc4UTZwejhYeGtvWXJCdTBMaHVnSTVFbDVZSG1nVXYwOEtp",
-          "section": "亞太/中國焦點",
-          "summary": "中國AI獨角獸Moonshot AI（Kimi聊天機器人開發商）秘密向港交所提交IPO申請，目標集資約30億美元，成為中國AI領域最受關注的上市案之一。"
+          "title": "libjpeg-turbo 及 libvips 禁止在其項目中使用生成式 AI",
+          "source": "",
+          "url": "https://github.com/libjpeg-turbo/libjpeg-turbo/commit/5966050641633f9298b03f6b99a625067b22a91c",
+          "section": "研究與技術",
+          "summary": "兩大開源圖像處理庫正式禁用生成式 AI 程式碼，以程式碼品質、授權風險及維護人類工藝為由，引發開源社群熱議。"
         },
         {
-          "title": "中國Z.ai公布Ox Alpha隱形模型規格與價格",
-          "source": "The Malaysian Reserve",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSnAtRmZpLWdYMk5FRHJfU1o4U0J6UFEtUnljRGFuYjJjakxKaGRDRGZEMlUwUmg4MGZCbVQ2ZTFRSDZ1cmVUSkhnQTJ1eGtLckV1enU3dTVoQThVVWVVLTJUVmtXN2JPbkc1Z0hLaE5DWXhVVi1SMmk2NVZVUTBCUjBJMXJvaTdYOTBJS3hBLWZGOXBJVjkybTNLUUlsYmhjY0JjWFcwaUVOZw",
+          "title": "33 歲 AI 新星楊植麟：將矽谷野心帶回北京",
+          "source": "",
+          "url": "https://www.wsj.com/tech/ai/moonshot-ai-yang-ceo-china-6f12ddbf",
           "section": "亞太/中國焦點",
-          "summary": "中國AI新創Z.ai（隸屬崑崙萬維）公布其Ox Alpha隱形模型細節，採用全新架構，在推理效率上與頂級開源模型競爭，展現中國AI生態的快速迭代能力。"
+          "summary": "《華爾街日報》深度報導 Moonshot AI 創辦人楊植麟，公司正與 Microsoft、Amazon、Google 洽談營收分成合作。"
+        },
+        {
+          "title": "中國企業用 AI Token 做消費獎勵：送咖啡、信用卡積分換",
+          "source": "",
+          "url": "https://restofworld.org/2026/china-ai-tokens-consumer-rewards-credit-cards-telcos-deepseek/",
+          "section": "亞太/中國焦點",
+          "summary": "從電訊商到信用卡公司，中國企業捆綁 AI Token 作為消費獎勵，買咖啡、信用卡積分甚至餃子都送 AI 用量，大規模推動普及。"
+        },
+        {
+          "title": "南亞科技斥資 60 億美元擴產 AI 記憶體",
+          "source": "",
+          "url": "https://thenextweb.com/news/nanya-6-billion-2027-ai-memory",
+          "section": "亞太/中國焦點",
+          "summary": "台灣記憶體大廠南亞科技宣布 2027 年資本支出達 60 億美元，擴充 AI 專用記憶體產能，搶攻數據中心需求浪潮。"
         }
       ]
     },
@@ -78,63 +106,63 @@
       "name": "環境快訊",
       "icon": "🌍",
       "color": "#00b894",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "articles": [
         {
-          "title": "聯合國警告史上最強厄爾尼諾逼近",
-          "source": "衛報",
-          "url": "https://www.theguardian.com/environment/2026/sep/03/un-warns-record-el-nino-approaching",
+          "title": "WMO：超級厄爾尼諾來襲，極端天氣風險延續至2027",
+          "source": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1hTmM4cEk1TGt4ZWMtZVh2V1FfRFRNb0hqSTRLdVFCSFlyWmVPTENZS08zQzEzakREZUVRa3RaaGNiVUxCN1Jyc0IzZU92MnRaMGNMQUlwSlU4Zw?hl=en-SG&gl=SG&ceid=SG:en",
           "section": "頭條新聞",
-          "summary": "聯合國最新報告指出，正在形成的厄爾尼諾現象強度遠超預期，可能成為有紀錄以來最強烈的一次，全球極端天氣風險急劇升高，各國需緊急部署應對措施。"
+          "summary": "世界氣象組織警告厄爾尼諾現象正在「超級化」，各國加緊應對極端天氣準備，預計高溫、乾旱及暴雨將持續影響全球至2027年，太平洋島國率先發出1.5°C超標警報。"
         },
         {
-          "title": "英國政府呼籲民眾儲備數日物資應對「超級厄爾尼諾」",
-          "source": "衛報",
-          "url": "https://www.theguardian.com/environment/2026/sep/03/uk-stock-up-supplies-el-nino-warning",
+          "title": "中國第二季碳排放下降，石油消耗銳減",
+          "source": "Carbon Brief",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSVA2UHFlWEgzNDBVNUFkeWI0Y1gtNTBLSUppTG9CTXhhN0xRcTJXYVY1bV9jU1JlOUNfYnBXQVpkUFNadllLNUJTa25nM2h1WlpoXzVsRWRkcy1oN3Z3Zms3WmJtYzBNTVJyXzdyczFkWV9KT054ZTRmWGgwdDFadWxicTJhZzBJdGJhR3BQOE9ITkFHQzhma0dsQjQ2cGgx?hl=en-SG&gl=SG&ceid=SG:en",
           "section": "頭條新聞",
-          "summary": "英國內閣部長公開建議國民提前儲備食物、水及應急用品，以應對即將到來的極端天氣和潛在供應鏈中斷，這是英國近年罕見的官方級別預警。"
+          "summary": "分析顯示中國2026年第二季二氧化碳排放量下降，主因石油使用量大幅減少，電動車普及及經濟結構轉型為關鍵驅動力，標誌著中國碳排放可能已達峰值。"
         },
         {
-          "title": "法國2026年迎來「史上最熱夏季」",
-          "source": "France 24",
-          "url": "https://www.france24.com/en/europe/20260903-france-recorded-hottest-summer-ever-2026",
+          "title": "歐洲風力發電可望創紀錄",
+          "source": "Renewable Energy Magazine",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbnVjYmtJc1IwU0xpWlNUWDEzQUVLcnhLZWdsLUhLbzFVNGVkZTdNQlZQYUNMQzdIRVNsc2QxdHJmVHJHand4YWtxMy1XOHdCMmhoVFpxcUFqNFc2a3R1em5kRDdOMy1xM3A5VEdVclVWRXZTSFQ3d0pEaldhQ0llMDVGTG9LT0VGM21ZWXE0dHpBM0pR?hl=en-SG&gl=SG&ceid=SG:en",
           "section": "氣候與能源",
-          "summary": "法國環境部長確認2026年夏季為該國有紀錄以來最炎熱，多輪熱浪導致農業減產、能源需求飆升，凸顯歐洲對極端高溫的脆弱性。"
+          "summary": "2026年歐洲風電裝機量有望創下歷史新高，多國加速離岸風電擴張，德國更推出離岸風電制度全面改革，為實現2030年氣候目標注入強心針。"
         },
         {
-          "title": "聯合國：全球幾乎肯定將突破關鍵氣候門檻",
-          "source": "華盛頓郵報",
-          "url": "https://www.washingtonpost.com/climate-environment/2026/09/02/un-climate-threshold-overshoot-warning/",
+          "title": "非洲太陽能裝機破紀錄達17GW",
+          "source": "IndexBox",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE93a0lUUzFJUjVhY2oweW5hR1p4OVh5a2lvejB4bG83aE1Mb2VhS2lYdXVGalhGS2xvQVIyM3hCT2Vsb25hM2l4a2tCb0t3djN6?hl=en-SG&gl=SG&ceid=SG:en",
           "section": "氣候與能源",
-          "summary": "聯合國報告警告全球升溫至少達1.8°C，且「沒有好的結果」，強調各國減排承諾遠不足以避免災難性氣候衝擊，呼籲加速行動。"
+          "summary": "非洲2026年太陽能安裝量創紀錄達17GW，隱藏增長潛力巨大，製造業擴張加速，為全球能源轉型提供新動力，但電網基礎設施仍為主要瓶頸。"
         },
         {
-          "title": "尼日利亞公布2026年塑膠廢物管控法規",
-          "source": "EnviroNews Nigeria",
-          "url": "https://www.environewsnigeria.com/nigeria-unveils-2026-plastic-waste-control-regulations/",
+          "title": "全球珊瑚礁復原時間所剩無幾",
+          "source": "紐約時報",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9pMzVMZkd2R1FCVXZFWlZIS3ExbDJrV1Zja2owR3dYSHFPT3hyZ1lMbHRmSVdnRGppdlp5cmpUbXNXXzBPZmJ3UkhJbVBQTW11UDNHWE4yVTNON3liT2hENURjRjlvak5XWC1hQg?hl=en-SG&gl=SG&ceid=SG:en",
           "section": "污染與生態",
-          "summary": "尼日利亞正式推出全國塑膠廢物管控法規，旨在減少一次性塑膠污染，推動循環經濟發展，成為非洲大陸塑膠治理的重要里程碑。"
+          "summary": "最新研究發現全球珊瑚礁面臨嚴峻考驗，海洋暖化導致白化事件頻率急增，珊瑚已無足夠時間在兩次白化之間恢復，科學家呼籲立即採取保護行動。"
         },
         {
-          "title": "「星際漂綠」：太空競賽的環境代價",
-          "source": "Canada's National Observer",
-          "url": "https://www.nationalobserver.com/2026/09/03/starwashing-space-race-environmental-problem",
+          "title": "加州野火持續燃燒，Timber及Plaskett火場擴大",
+          "source": "IQAir",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE94emE2dklrN1l0NFdpR205SW5SeEw0WkxzMlpnSm92aWNPWEhTSTZjaUNnbHRCTUlqVXlJUXdtQ3RYWkZYdVg1MHZ2Y3B5SzFIdXB5SHlGeUFNRVNoQkplWjhxUDU?hl=en-SG&gl=SG&ceid=SG:en",
           "section": "污染與生態",
-          "summary": "火箭發射頻率激增引發環保爭議，專家警告太空產業的碳排放、臭氧層破壞及太空垃圾問題被嚴重低估，「星際漂綠」成新興環保議題。"
+          "summary": "加州Timber及Plaskett兩場山火持續蔓延，高溫及乾旱加劇火勢，空氣質素急劇惡化，當局發出疏散令，反映氣候變化下野火季節逐年延長。"
         },
         {
-          "title": "台灣第五屆SDG亞洲博覽會展示永續行動力",
-          "source": "台灣光華雜誌",
-          "url": "https://www.taiwan-panorama.com/en/",
+          "title": "寧德時代發表6分鐘快充千公里續航電池",
+          "source": "EnergyNow",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbWhndEFibVRaQUZrRmVvb21lUkZBUEJCc2puaXMwajZ3VV9lSVMtWENtNUV6bjNFZUNVaUY1VlVDZTVDSTRSTGFxQlNieEFjQkZRTVNUWVM2N3VKUEtQdk1HTGhlaXFjLTBLN2Q2ZFY5em8yamwyeDRndVVlMTF0SDVJTHZyN0hIbzV6VGZ3dnBLSk1DV212MktST0xXZ1FkdlQ1OUpqbDZ0bHVZZ1Bna1ln?hl=en-SG&gl=SG&ceid=SG:en",
           "section": "亞太/中國焦點",
-          "summary": "2026年第五屆SDG亞洲博覽會在台北舉行，匯聚亞太各國企業與政府展示永續發展成果，聚焦綠色供應鏈、淨零轉型與社會創新。"
+          "summary": "中國寧德時代推出新一代電動車電池，僅需6分鐘即可充滿電，續航達1,000公里，此突破有望大幅加速全球電動車普及，減少交通運輸碳排放。"
         },
         {
-          "title": "澳洲首套國家環境標準正式生效",
-          "source": "Norton Rose Fulbright",
-          "url": "https://www.nortonrosefulbright.com/en/knowledge/publications/2026/08/epbc-reform-first-national-environmental-standards",
+          "title": "新加坡碳交易平台CIX與Carbonplace合併",
+          "source": "Eco-Business",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOXBENENMZXRzQzhPaW5xOFdlRlFrZkNCOVpmY2d0NHlaYUE0WDgtVFh2R1otU2tuWlZlY1R1Q3lZV3ZWTEtDY1JFc0xXRXQxWkdOZUVuZEFHOGFubWtsNXR5dkhhTlJqVFhUNkh4czMyVG9UMDZLLTN4VWlPRzlZNnZGbWZJM2pQNjhVWDRCZmI?hl=en-SG&gl=SG&ceid=SG:en",
           "section": "亞太/中國焦點",
-          "summary": "澳洲《環境保護與生物多樣性保育法》改革第一階段正式上路，首套國家環境標準涵蓋瀕危物種、棲地保護與氣候評估，為企業帶來新合規要求。"
+          "summary": "新加坡碳交易所CIX與Carbonplace計劃合併，旨在建立具信任及規模的全球碳市場，為亞洲碳交易注入新動力，亦反映東盟地區碳定價機制加速成熟。"
         }
       ]
     }
