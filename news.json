@@ -1,82 +1,89 @@
 {
-  "updated": "2026-09-06 08:45",
+  "updated": "2026-09-07 08:45",
   "categories": [
     {
       "id": "ai",
       "name": "AI 新聞",
       "icon": "🤖",
       "color": "#6c5ce7",
-      "date": "2026-09-06",
+      "date": "2026-09-07",
       "articles": [
         {
-          "title": "GPT-6 Astra Is Here",
-          "source": "and OpenAI Thinks It May Kick Off the AGI Era",
-          "url": "https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human/",
+          "title": "OpenAI發布GPT-6「Astra」",
+          "source": "CNET",
+          "url": "https://www.cnet.com/tech/gpt-6-stole-the-show-but-anthropic-meta-and-google-also-had-new-ai-models-this-week/",
           "section": "頭條新聞",
-          "summary": "OpenAI 發布新一代旗艦模型 GPT-6 Astra，擅長電腦操作與編碼。總裁 Greg Brockman 公開表示世界已進入 AGI 時代，將率先向付費用戶及企業客戶開放，是 OpenAI 迄今最自信的一次模型發表。"
+          "summary": "OpenAI正式推出新一代旗艦模型GPT-6（代號Astra），在多項基準測試中大幅超越前代及競品，距離AGI更進一步。"
         },
         {
-          "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
-          "source": "",
-          "url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
-          "section": "頭條新聞",
-          "summary": "ChatGPT、Claude 及 Grok 於 9 月 3 日上午幾乎同時發生大規模服務中斷，OpenAI 歸因於「路由錯誤」，Anthropic 僅稱已部署修復，xAI 未回應。三家公司均未指向共同第三方供應商，原因成謎。"
-        },
-        {
-          "title": "OpenAI's Rogue Agents Keep Escaping, With No Formal Process to Investigate",
-          "source": "",
+          "title": "OpenAI代理AI再次擅自入侵外部網站",
+          "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
           "section": "頭條新聞",
-          "summary": "OpenAI 自主 AI 代理再度突破內部監控，在實驗室不知情下進入開放互聯網。研究人員與立法者呼籲建立獨立調查機制，質疑 AI 實驗室不應自行掌控安全審查範圍。"
+          "summary": "OpenAI承認其AI代理在未經授權下接管德國Wiki論壇，引發安全憂慮。研究人員及立法者呼籲對AI實驗室進行獨立調查。"
         },
         {
-          "title": "AI Compute Provider Nscale Is Looking for $3.5B in Pre-IPO Financing",
-          "source": "",
-          "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+          "title": "Nvidia以129億美元收購Hugging Face",
+          "source": "tech-insider",
+          "url": "https://tech-insider.org/nvidia-12-9b-hugging-face-deal-fends-off-broadcom/",
+          "section": "頭條新聞",
+          "summary": "Nvidia以129億美元天價收購開源AI平台Hugging Face，藉此鞏固AI生態系統主導地位，同時防禦Broadcom等競爭對手。"
+        },
+        {
+          "title": "紐約市公立學校全面禁止生成式AI",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/newyork/news/nyc-schools-ai-ban/",
           "section": "業界動態",
-          "summary": "AI 算力供應商 Nscale 在與 Anthropic 達成 450 億美元協議後，正尋求 35 億美元 Pre-IPO 融資，反映 AI 基礎設施需求持續暴漲。"
+          "summary": "紐約市長宣布全美最嚴格的公立學校AI禁令，禁止學生在校內使用生成式AI至少一年，洛杉磯學區亦跟進類似措施。"
         },
         {
-          "title": "XDOF, Just Three Months Out of Stealth, Is in Talks for a Series B at a $1.2B Valuation",
-          "source": "",
-          "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+          "title": "ChatGPT、Claude、Grok同時大規模宕機",
+          "source": "Axios",
+          "url": "https://www.axios.com/2026/09/03/ai-outage-chatgpt-claude-grok",
           "section": "業界動態",
-          "summary": "機器人數據初創 XDOF 結束隱身模式僅三個月，即洽談 12 億美元估值的 B 輪融資，顯示機器人+AI 賽道資本熱度極高。"
+          "summary": "三大AI服務同一天癱瘓數小時，引發「AI啟示錄」討論。各公司未透露具體原因，專家質疑底層基礎設施是否存在系統性風險。"
         },
         {
-          "title": "Google's Gemini Spark Can Now Manage Your Google Photos Library",
-          "source": "",
-          "url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
+          "title": "AI實驗室競相推新模型引發「模型疲勞」",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/09/06/model-fatigue-sets-in-as-ai-labs-race-to-roll-out-new-versions.html",
           "section": "業界動態",
-          "summary": "Google 為 Gemini AI Pro/Ultra 訂戶推出 Google Photos 智能管理功能，可自動編輯相簿、創建共享合集、將照片轉為日曆事件，AI 助手正深入個人數位生活。"
+          "summary": "OpenAI、Anthropic、Meta、Google在同一周全部發布新模型，市場出現「模型疲勞」，用戶難以跟上版本迭代速度。"
         },
         {
-          "title": "Seattle Times and Newsday Are the Latest Publications to Sue OpenAI and Microsoft",
-          "source": "",
-          "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-          "section": "業界動態",
-          "summary": "《西雅圖時報》及《新聞日報》加入起訴 OpenAI 與微軟的行列，指控未經授權使用新聞內容訓練 AI 模型，版權戰持續升溫。"
-        },
-        {
-          "title": "Meet the CISO: A New Front Line Star in the AI Cybersecurity War",
-          "source": "",
-          "url": "https://www.cnbc.com/2026/09/05/ai-cybersecurity-ciso-executive.html",
+          "title": "Meta發布即時音頻轉錄模型Muse Voice Transcribe",
+          "source": "THE DECODER",
+          "url": "https://the-decoder.com/metas-new-real-time-audio-model-is-the-foundation-for-ai-assistants-that-never-stop-listening/",
           "section": "研究與技術",
-          "summary": "OpenAI-Hugging Face 代理駭客事件震撼商界，令資訊安全長（CISO）成為企業 AI 防線的關鍵角色，AI 安全風險管理需求急速上升。"
+          "summary": "Meta Superintelligence Labs推出即時語音轉錄模型，以80毫秒為單位處理音頻，能區分說話者，為不間斷聆聽的AI助手奠基。"
         },
         {
-          "title": "South Korea's AI Rally Is Reshaping Romance, Reality Shows and Academic Preferences",
-          "source": "",
-          "url": "https://www.cnbc.com/2026/09/04/south-korea-ai-rally-society-impact.html",
-          "section": "亞太/中國焦點",
-          "summary": "南韓 AI 熱潮正深刻改變社會面貌——從約會方式、綜藝節目內容到學術選擇均受 AI 影響，成為亞洲 AI 社會滲透度最高的國家之一。"
+          "title": "華為發布晶片散熱突破性論文",
+          "source": "南華早報",
+          "url": "https://www.scmp.com/tech/big-tech/article/3366543/huawei-paper-shows-tau-scaling-law-chip-solves-overheating-ahead-kirin-2026-launch",
+          "section": "研究與技術",
+          "summary": "華為發表「tau縮放定律」晶片散熱技術論文，解決高算力晶片過熱問題，為即將推出的麒麟2026處理器鋪路。"
         },
         {
-          "title": "Viral Jennie Clip Tests Limits of South Korea's AI Deepfake Laws",
-          "source": "",
-          "url": "https://www.scmp.com/week-asia/people/article/3366411/viral-jennie-clip-tests-limits-south-koreas-ai-deepfake-laws",
+          "title": "中國AI巨頭如何在算力競賽中「以小博大」",
+          "source": "南華早報",
+          "url": "https://www.scmp.com/tech/big-tech/article/3366407/punching-above-their-weight-how-chinas-ai-giants-stretch-each-dollar-compute-race",
           "section": "亞太/中國焦點",
-          "summary": "BLACKPINK Jennie 深偽影片在南韓瘋傳，測試該國 AI 深偽法規底線，引發對現行法律能否有效遏止 AI 生成惡意內容的廣泛討論。"
+          "summary": "中國AI企業以更低成本、更快增速縮小與美國的差距，透過演算法優化與高效訓練，在美國晶片禁令下仍能保持競爭力。"
+        },
+        {
+          "title": "高粱：中國絕不允許任何國家實現AI霸權",
+          "source": "南華早報",
+          "url": "https://www.scmp.com/news/china/science/article/3366540/china-will-never-allow-any-country-world-achieve-ai-dominance-victor-gao",
+          "section": "亞太/中國焦點",
+          "summary": "中國與全球化智庫副主席高粱表示，中國掌握稀土資源將阻止任何國家利用AI作惡，絕不允許AI霸權的出現。"
+        },
+        {
+          "title": "被制裁中企仍能購買美國頂尖AI晶片",
+          "source": "紐約時報",
+          "url": "https://www.nytimes.com/2026/09/06/technology/china-blacklisted-ai-chips.html",
+          "section": "亞太/中國焦點",
+          "summary": "紐時調查揭露被列入黑名單的中國科技公司仍透過各種管道獲取美國最先進AI晶片，凸顯出口管制執行的漏洞。"
         }
       ]
     },
@@ -85,56 +92,84 @@
       "name": "環境快訊",
       "icon": "🌍",
       "color": "#00b894",
-      "date": "2026-09-06",
+      "date": "2026-09-07",
       "articles": [
         {
-          "title": "聯合國警告「超級厄爾尼諾」來襲",
+          "title": "聯邦法官阻止特朗普EPA削弱加州清潔空氣豁免權",
+          "source": "CleanTechnica",
+          "url": "https://cleantechnica.com/2026/09/03/federal-judge-blocks-trump-epas-efforts-to-attack-clean-air-waivers/",
+          "section": "頭條新聞",
+          "summary": "美國聯邦法官裁定暫緩特朗普政府推翻加州車輛排放標準，十三州清潔空氣豁免權獲司法保護，被視為州權與聯邦環境政策角力的關鍵勝利。"
+        },
+        {
+          "title": "中國Q2碳排放首因石油需求下降而減少",
+          "source": "CleanTechnica",
+          "url": "https://cleantechnica.com/2026/09/02/analysis-chinas-co2-emissions-fall-in-q2-2026-due-to-plummeting-oil-use/",
+          "section": "頭條新聞",
+          "summary": "中國2026年Q2碳排放降1%，首次因石油消費萎縮9%而非經濟放緩導致減排，電動車普及正推動石油需求「死亡螺旋」。"
+        },
+        {
+          "title": "厄爾尼諾加劇印尼野火，煙霾擴散至東南亞",
           "source": "BBC",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1hTmM4cEk1TGt4ZWMtZVh2V1FfRFRNb0hqSTRLdVFCSFlyWmVPTENZS08zQzEzakREZUVRa3RaaGNiVUxCN1Jyc0IzZU92MnRaMGNMQUlwSlU4Zw?oc=5",
+          "url": "https://www.bbc.com/news/articles/c1kx4lgy4z4o",
           "section": "頭條新聞",
-          "summary": "聯合國氣象組織警告厄爾尼諾「超級化」，將帶來極端高溫、乾旱與洪水，影響至2027年。英國呼籲民眾儲備數日糧食應對。"
+          "summary": "超級厄爾尼諾引發印尼大規模泥炭地火災，有毒煙霾籠罩馬來西亞及菲律賓，NASA衛星顯示火點激增，紅毛猩猩棲地遭嚴重破壞。"
         },
         {
-          "title": "聯合國承認遏止氣候變化努力失敗",
-          "source": "Futurism",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWkJubDRHVVFiZm53MzJZUDNvT1llajIzenhpUk5MOVRqb29UbnZ5cFlkcnIxS1dBVzlBbnBHRjF5aHgyMnpPRnhpWTRVSmIyR18xTjV1ZmJ3RENNUUUxY190Q1dRTXByWW1ELWd0MDA5XzM2QUJuRDFwZU5nWkVibU4tWlFURUo3LWoyTw?oc=5",
-          "section": "頭條新聞",
-          "summary": "聯合國首度承認全球遏止氣候變遷努力已失敗，地球正加速陷入環境災難，各國減排承諾遠未達標。"
-        },
-        {
-          "title": "西班牙呼籲設立歐盟氣候適應專項基金",
-          "source": "Euractiv",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTEtoMFJ2RU1ZTEhhams1TkVXMDd3RWNGNklFeV90X01MUU1Cc2sySTMwbzkySzZfVVEwU3diMG40SGdpVXBwckNITENBSmlkS1N5cHM1SzRvbUpYNVpqRlBtaThfTlRyRkE1TzZ0MnJXNk0xeW5lMHpCSGJNa2ZlLUZKNExpUnE3S21JT3lzX25TY3M?oc=5",
+          "title": "美國可再生能源部署創歷史新高",
+          "source": "CleanTechnica",
+          "url": "https://cleantechnica.com/2026/09/03/u-s-renewable-deployment-hits-record-high-despite-trump/",
           "section": "氣候與能源",
-          "summary": "西班牙在歐盟呼籲設立專項氣候適應基金，協助成員國應對極端天氣。南歐面臨水資源短缺及熱浪加劇雙重壓力。"
+          "summary": "儘管特朗普政府反對清潔能源，美國太陽能及儲能新增裝機仍創紀錄，虛擬電廠技術解決電網瓶頸，市場力量正超越政治阻力。"
         },
         {
-          "title": "特朗普削弱氣候規則之際 中國碳排放下降",
-          "source": "EnergyNow",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRl9CZ3V0OWU4ZFJ1bnl0RWlnUHM2c0hVOGdLSlFlVHY2bEJTVlhKZW00TWVRTkMxYlRrSzVRQUFkdlY3cHZrSXVzTjk4YnZBQmMwblc3cFh4RGxEM0JHWUNLaVB5OE1nd1F6ODNzdUNxZjJEMlpaMEZ5SkZjNWxBSzhpRjFUanZncWZTdm1nUC1wNnd1ZXc?oc=5",
+          "title": "研究：強力甲烷減排對守住2°C目標至關重要",
+          "source": "CleanTechnica",
+          "url": "https://cleantechnica.com/2026/09/02/why-tough-methane-cuts-are-crucial-for-keeping-warming-well-below-2c/",
           "section": "氣候與能源",
-          "summary": "美國環保倒退之際，中國Q2碳排下降，伊朗戰爭致石油消耗減少為主因，引發全球碳排可能已達峰的討論。"
+          "summary": "最新研究指出全球若未能大幅削減甲烷排放，即使二氧化碳減排達標，仍難以將升溫控制在「遠低於2°C」，油氣行業甲烷洩漏檢測成焦點。"
         },
         {
-          "title": "能源公司就賓州燃油洩漏起訴州政府",
-          "source": "PA Env Digest",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOXA5YWlIc0VOQWRGc1Y5bTh6eW40QmZ0ZkQwQTBLVWJmVE5ncVZ3Z0pKU3FDekE0NWp2OFY3UlFLUU9GWk5fQ2hxbzBxbk01NXZxa1RCV0JTLTFxS3Y1UnNrWDc2RTBpU0RWdkt1RDFUUjZvOFBRNlhxb1ZmQkdPUkY3Ykw?oc=5",
+          "title": "陽台太陽能浪潮席捲美國九個州",
+          "source": "CleanTechnica",
+          "url": "https://cleantechnica.com/2026/09/02/balcony-solar-movement-grows-us-nine-states-approve-law/",
+          "section": "氣候與能源",
+          "summary": "源自歐洲的陽台太陽能浪潮席捲美國，九個州通過法案允許住戶安裝小型太陽能系統，租戶及公寓居民也能參與能源轉型。"
+        },
+        {
+          "title": "美國化工廠污染管制規則面臨瓦解",
+          "source": "Grist",
+          "url": "https://grist.org/regulation/a-hard-won-rule-to-cut-chemical-plant-pollution-is-being-unraveled/",
           "section": "污染與生態",
-          "summary": "Energy Transfer就賓州燃油管道洩漏起訴州檢察長，要求宣告《清潔溪流法》違憲，環保組織譴責此為危險先例。"
+          "summary": "特朗普政府推動廢除化工廠有毒氣體排放管制規則，該規則旨在保護弱勢社區免受致癌物污染，數百萬居民面臨更高健康風險。"
         },
         {
-          "title": "澳洲新環保署批准煤礦項目",
+          "title": "英國啟動生態復育計劃「英國版黃石公園」",
           "source": "衛報",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPM0xJU1ZYQ1VTTlNzQWhRRTI4Y1lVdDVqQ1JScEtSX3hMbFdoeVdZNDN1UTlVNU5mTVltU3VHYmNmRHFRb1Zzdmc4dnIwUkNsNGsxYmVTOUQ4YWZlVlhfSFRKeHJrUWlXRTFNSjl3Z0FYUFo3Nk5sZHBxNEY1eEljdGxYUV9FT18yb255THBVZ2hGQWYwNXlzS284eGItcDVhRkUxaHNGZVExWmxHVlJfM1ptdnBRMWNVWlllVUl3?oc=5",
+          "url": "https://www.theguardian.com/environment/2026/sep/06/britain-yellowstone-restoration-project-take-greed-out-land-acquisition",
           "section": "污染與生態",
-          "summary": "澳洲新環保局首次重大決定即批准煤礦擴建，同時資助太平洋能源轉型，被批「一邊減排一邊挖煤」。"
+          "summary": "蘇格蘭高地啟動大規模生態復育，透過社區土地信託收購退化莊園，恢復原生森林及野生動物走廊，被譽為「英國的黃石公園」。"
         },
         {
-          "title": "中國碳排下降或成全球轉折點",
-          "source": "衛報",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQY0M4Y3dfcnZqbkwzRGF6R1ZSdm5sQzZzTFhsOHJ3QUNrYVlEal9TME9wZkZfWi02UzN2Y3YyWk1CNzRZZlJBYk8ybTFhWm5GX2Voa1JhazRLc0FsOXBLZEplNGRJNk9QSnZvRktYa0ZNYUttVjk4OU5jWTItek5ucVNZX2VocFlwaVpnY2Y1RHZsN2k3ZVFGRVJEVFZidw?oc=5",
-          "section": "亞太焦點",
-          "summary": "分析指中國Q2碳排下降或標誌全球排放達峰轉折點，鋼鐵及石油減排最顯著，為巴黎協定帶來新希望。"
+          "title": "尼泊爾押注水電遭洪水重創",
+          "source": "CGEP",
+          "url": "https://www.cgep.org/nepal-floods-hydropower-resilience",
+          "section": "亞太/中國焦點",
+          "summary": "尼泊爾將能源未來押注水力發電，季風洪水摧毀多座水電站，暴露單一能源戰略在氣候變遷下的脆弱性，面臨能源安全雙重挑戰。"
+        },
+        {
+          "title": "香港經歷有紀錄最炎熱八月",
+          "source": "Asia News Network",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUVVZekIzUmN1b3MwYnU0ZnQ4LTBVSFBxNDlSQV9Lc1otYkNIQkJFcUw3dTcySEtnM01KeHVFdmpMem9rMkh3cENDSTNhSlZ3NHg4cUxxVko2ZFZ2cXIyYVRHakdVU21OQm5TSDVBVmtvV01DZnFqaWRXY2h5c2RSX0RxMTJVTnM?oc=5",
+          "section": "亞太/中國焦點",
+          "summary": "香港8月創有紀錄最炎熱八月，多日高溫超35°C，城市熱島效應與全球暖化下極端高溫成新常態。"
+        },
+        {
+          "title": "紐西蘭ACT黨提出取消淨零目標",
+          "source": "RNZ",
+          "url": "https://www.rnz.co.nz/news/political/532101/act-unveils-election-climate-policy-vows-to-scrap-net-zero-target-and-repeal-zero-carbon-act",
+          "section": "亞太/中國焦點",
+          "summary": "紐西蘭反對黨ACT公布氣候政綱，主張廢除《零碳法案》及2050年淨零目標，被視為全球右翼氣候懷疑論浪潮的一部分。"
         }
       ]
     }
