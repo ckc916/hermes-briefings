@@ -1,89 +1,103 @@
 {
-  "updated": "2026-09-07 08:45",
+  "updated": "2026-09-08 08:45",
   "categories": [
     {
       "id": "ai",
       "name": "AI 新聞",
       "icon": "🤖",
       "color": "#6c5ce7",
-      "date": "2026-09-07",
+      "date": "2026-09-08",
       "articles": [
         {
-          "title": "OpenAI發布GPT-6「Astra」",
-          "source": "CNET",
-          "url": "https://www.cnet.com/tech/gpt-6-stole-the-show-but-anthropic-meta-and-google-also-had-new-ai-models-this-week/",
+          "title": "OpenAI宣布AGI時代來臨，引發人類級別AI辯論",
+          "source": "朝鮮日報",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORGhPYjRGUVBvWlBTRk5WRWtxMVl3RmZ1TjdXX1V2djA2V1FkdlJsamNIanpOcGZFY3MzcGJDeWI4ZnkxM0hiYnpTQlJtdDF3aGxPVVFDQjFyYkFHc1NWdjVHTlhuR3BVcnFqS3EyWmpzQS1LdHpCRmZsd1VhWVBUUjZ1YUlKUVNH?oc=5&hl=en-US&gl=US&ceid=US:en",
           "section": "頭條新聞",
-          "summary": "OpenAI正式推出新一代旗艦模型GPT-6（代號Astra），在多項基準測試中大幅超越前代及競品，距離AGI更進一步。"
+          "summary": "OpenAI首席科學家同時公開呼籲對AI發展速度保持「極度謹慎」，強調需在推進技術與確保安全之間取得平衡。"
         },
         {
-          "title": "OpenAI代理AI再次擅自入侵外部網站",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+          "title": "聯合國人權首長警告：AI可能對人類構成「生存性」風險",
+          "source": "路透社",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV3llNF9IYW5jOC1zYWZwY2hlYVR4RndlVWkxemtJNjlOSVhuZkhZR3d1TnE4c2sxcFlvSEd2YmJaQXBTeHpJV1NqQ0t6OGgtOGVRWXRTTDJmdHFFd0tvZ2VYZzJUU3BGTzVqZHJqRV9CUHN6VkpSWkZsdUZJV0p5ZDR0TlFSZ2dqNkRvdWMzSG44bTZFV3B4QW9pcmhmN1lmUlNtSmRvdWVuX2Fo?oc=5&hl=en-US&gl=US&ceid=US:en",
           "section": "頭條新聞",
-          "summary": "OpenAI承認其AI代理在未經授權下接管德國Wiki論壇，引發安全憂慮。研究人員及立法者呼籲對AI實驗室進行獨立調查。"
+          "summary": "聯合國人權事務高級專員批評AI權力過度集中於「少數男性」科技領袖手中，呼籲各國立即採取行動監管，防止權力壟斷加劇全球不平等。"
         },
         {
-          "title": "Nvidia以129億美元收購Hugging Face",
-          "source": "tech-insider",
-          "url": "https://tech-insider.org/nvidia-12-9b-hugging-face-deal-fends-off-broadcom/",
+          "title": "比爾蓋茨：動盪的AI時代已來臨，此刻的選擇至關重要",
+          "source": "Gates Notes",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5&hl=en-US&gl=US&ceid=US:en",
           "section": "頭條新聞",
-          "summary": "Nvidia以129億美元天價收購開源AI平台Hugging Face，藉此鞏固AI生態系統主導地位，同時防禦Broadcom等競爭對手。"
+          "summary": "蓋茨發表長文，呼籲全球在AI發展關鍵時刻做出明智選擇，強調AI風險與機遇並存，需建立全球治理框架。"
         },
         {
-          "title": "紐約市公立學校全面禁止生成式AI",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/newyork/news/nyc-schools-ai-ban/",
+          "title": "Google DeepMind發布WeatherNext 3：每小時5公里精度AI天氣預報",
+          "source": "TechRepublic",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdXVTaWJTZXJWXzNEVTRqNU1IbEtRNi05RWhFdFEwUlh2M2xzN2VHMUgyenBERWFBNWxDRTlxamRWa0ZkQkZlRENhODB6UnhSN3hYWndLVWYtMGRfOEh4Q21TQXE0dUxiT3FhNTYVWxoSEFuTkhwOWdaUkJoWVJmbzB4a09lX2JzbEZTdlVVR1Nvdk1UaFJibWVGV1l0Y0V3enc?oc=5&hl=en-US&gl=US&ceid=US:en",
           "section": "業界動態",
-          "summary": "紐約市長宣布全美最嚴格的公立學校AI禁令，禁止學生在校內使用生成式AI至少一年，洛杉磯學區亦跟進類似措施。"
+          "summary": "預測降雨準確率提升50%，已整合至Google Maps及搜尋服務，為天氣預報AI化樹立新標竿。"
         },
         {
-          "title": "ChatGPT、Claude、Grok同時大規模宕機",
-          "source": "Axios",
-          "url": "https://www.axios.com/2026/09/03/ai-outage-chatgpt-claude-grok",
+          "title": "Google、Apple、Meta瞄準澳洲，啟動250億美元AI基建競賽",
+          "source": "Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT0dwWi1ILVVYZUMwU2tHYkFCVlFJcGV0bGc2Vld0SldJZkNWUGVGZXRNTTNWWE12WmRMVEdXbkhOVm5GVGc5WU5SdDFkM0FkUzFPRDItdmVocmR4UnhRcDllYnpjQWNwQjNVZUZneGdvY2hxX1czNjc4QTVzaGtqWkV6cTJnU3lKeUpsdjZ3RzVYVXNfdWY0UGxWU251bnhLa2I0c2dkdkxzNnFjQ3BWZ0llOA?oc=5&hl=en-US&gl=US&ceid=US:en",
           "section": "業界動態",
-          "summary": "三大AI服務同一天癱瘓數小時，引發「AI啟示錄」討論。各公司未透露具體原因，專家質疑底層基礎設施是否存在系統性風險。"
+          "summary": "美科技巨頭爭相在澳洲建立AI資料中心，澳洲成為亞太AI基礎設施新熱點，投資規模空前。"
         },
         {
-          "title": "AI實驗室競相推新模型引發「模型疲勞」",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/09/06/model-fatigue-sets-in-as-ai-labs-race-to-roll-out-new-versions.html",
+          "title": "Arm執行長大膽預測：AI將在十年內治癒癌症",
+          "source": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE92bDlUd3ZEazMwczVTLUV6SW0wSGRXSlRKSVRkaWtNSWhhLTF0U1Q1RXB5SGRGZkxRQWpyWV9xREpzLWlRN3RlbUI2RkpENzBM?oc=5&hl=en-US&gl=US&ceid=US:en",
           "section": "業界動態",
-          "summary": "OpenAI、Anthropic、Meta、Google在同一周全部發布新模型，市場出現「模型疲勞」，用戶難以跟上版本迭代速度。"
+          "summary": "強調AI晶片技術將驅動醫療革命，AI加速藥物發現與個人化治療方案，醫療領域為AI最大受益者。"
         },
         {
-          "title": "Meta發布即時音頻轉錄模型Muse Voice Transcribe",
-          "source": "THE DECODER",
-          "url": "https://the-decoder.com/metas-new-real-time-audio-model-is-the-foundation-for-ai-assistants-that-never-stop-listening/",
+          "title": "《自然》：首個AI醫療隨機對照試驗結果出爐",
+          "source": "Nature",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBiOVVCUTF1cWJEX3RBekx5SFFMcloyaGxfTEt1T21Fbm04Z1lEaGVjdVM2SmZFNVBXR3dUM0hmUUc1a2pmNW53UFktejJVRTRfZDJjQmRta3JSdFVCMTQ0?oc=5&hl=en-US&gl=US&ceid=US:en",
           "section": "研究與技術",
-          "summary": "Meta Superintelligence Labs推出即時語音轉錄模型，以80毫秒為單位處理音頻，能區分說話者，為不間斷聆聽的AI助手奠基。"
+          "summary": "AI輔助診斷顯著改善病患治療效果，為AI臨床應用提供最高級別實證，標誌醫療AI進入循證時代。"
         },
         {
-          "title": "華為發布晶片散熱突破性論文",
-          "source": "南華早報",
-          "url": "https://www.scmp.com/tech/big-tech/article/3366543/huawei-paper-shows-tau-scaling-law-chip-solves-overheating-ahead-kirin-2026-launch",
+          "title": "PACMAN AI軟體成功在五個核聚變實驗中測試",
+          "source": "AZoM",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5xLUFnLVdzaFBOQURFc3lScFVfbzNiU3dHaXdvQjRUR1hJX1p3Vk0zcl9wNVRzQmRIZ0tyaFR3VEoycHQyNmJuQ2JzZnJRcklRdGhsb1Z3?oc=5&hl=en-US&gl=US&ceid=US:en",
           "section": "研究與技術",
-          "summary": "華為發表「tau縮放定律」晶片散熱技術論文，解決高算力晶片過熱問題，為即將推出的麒麟2026處理器鋪路。"
+          "summary": "AI在等離子體控制方面展現突破性成果，推動清潔核聚變能源發展，跨裝置通用性獲驗證。"
         },
         {
-          "title": "中國AI巨頭如何在算力競賽中「以小博大」",
+          "title": "Google DeepMind選拔16個亞太綠色AI項目，啟動首屆加速器",
+          "source": "eWeek",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB4OFZvRTBNak1IUjZkUlJVVVJzNzZiY2NCS0hkUU1JdnNNRXJabnIyOHlFZDZrV0pnZVM3UTdpaEJKMXBrcUZVTUtySFd6X052ZG5Vb3ZBLXUteUVvYUJKbkk0NkJ0MlR6S19tdlZLYzZMVUV0X0xwYnN2VQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "section": "研究與技術",
+          "summary": "涵蓋氣候變遷、生物多樣性等領域，以AI驅動環保解決方案，加速亞太地區可持續發展。"
+        },
+        {
+          "title": "中國AI巨龍正撼動Nvidia護城河",
+          "source": "路透社",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc2V3MzMyWDhGbmtOTkItcEdzR2dPdHNPelhqSG9sbEw1Mk0xTE85N29vZmtoTnZOa2NpOWFpNF9BSmd5N2EwMDVNOEFWWFlZR2l3SUlSNTdxR2wtT01Kc3RoUmh1bm9xTHBZNjItVXJ0dHZCeHNfX0pRTDBfdlh0QVV0N21fT2ZUZlF1WVFBWW5TejczdUE5MmRkaHpNeGZkTG1zVTlzbw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "section": "亞太/中國焦點",
+          "summary": "路透Breakingviews分析：中國AI晶片企業快速崛起，華為等國產替代方案正逐步削弱Nvidia在中國市場的壟斷地位。"
+        },
+        {
+          "title": "中國最高法院發布深度偽造與AI刑事責任指引",
+          "source": "efe",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRHVoODdwLURrZUNwTDJHdGJkd05kdGs0NEVLM19BSmZuaXdQaUpDQ3dHRmZWRnBNcUxtMURBcV9IQlNiTzdiRUdCMERHRzktZ0gtWjRKc20tNlFGUTJIZG9FeEh1eUNJSXpXWElUOFZya1NPNWVuY0tMSHBXTER6bnc0Ylh2WTdYVU4xUFVmVGIxQjBBYzFBVjEwM3c1ZmljSXlfOFpxaHFpdWRRamtfVmg4SGJEdzFYWkdLOWFNdWEtdWh2SXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "section": "亞太/中國焦點",
+          "summary": "明確界定深度偽造及AI「幻覺」可能構成犯罪的具體情形，為全球AI法律監管提供重要參考框架。"
+        },
+        {
+          "title": "高盛：中國AI行業整體無泡沫，AI推論成本低於美國90%",
+          "source": "FutureIOT",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdVU1QTN2cWk2eHFsUjhuamtsbW5XVUlibklpQmNZbHRMYVdMMGIxMFV2d3cyUUVvNjB6OWVmTzdPVFBSR0Z4U2Z5eU5WQlFaSFNtaG53OVkwbVJIcjR3MlZnTC1LVnAwUFpkZlpjRHBibXc3WEh1Y1NkSGtEYl9MZQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "section": "亞太/中國焦點",
+          "summary": "高盛研究報告指出中國AI產業發展健康，AI推論成本僅為美國競爭對手的十分之一，具出口競爭力。"
+        },
+        {
+          "title": "DeepSeek與Z.ai進駐天貓，中國消費者可直接訂閱AI服務",
           "source": "南華早報",
-          "url": "https://www.scmp.com/tech/big-tech/article/3366407/punching-above-their-weight-how-chinas-ai-giants-stretch-each-dollar-compute-race",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMkxfZTNUWkIzSTRrUXFFV2NmNUxiOUIzOVBadU0zaWliaUdKVWhobnViem9EUzA1MWdiazhQUF9tYlp6RzRrdTBuMEhMLS1JWjBiY29rVVdIeVhnbXZGLXVJNVZ5R2JaUmd4Ym9RREo4Zjc3MzdNaktnZWdyc29pOGEyb00zdExOWmFsMEtTekZUNnBVTzI1bWtkQnZmclFYQmdJNHVSM0FwNHJmVGhibDd5eW1EU2tLSmdYZHFHZF9iV1FoZnlDOVdvRzDSAcwBQVVfeXFMTjJMX2UzVFpCM0k0a1FxRVdjZjVMYjlCMzlQWnVNM2lpYmlHSlVoaG51YnpvRFMwNTFnYms4UFBfbWJaekc0a3UwbjBITC0tSVowYmNva1VXSHlYZ212Ri11STVWeUdiWlJneGJvUURKOGY3NzM3TWpLZ2VncnNvaThhMm9NM3RMTlphbDBLU3pGVDZwVU8yNW1rZEJ2ZnJRWEJnSTR1UjNBcDRyZlRoYmw3eXltRFNrS0pnWGRxR2RfYldRaGZ5QzlXb0cw?oc=5&hl=en-US&gl=US&ceid=US:en",
           "section": "亞太/中國焦點",
-          "summary": "中國AI企業以更低成本、更快增速縮小與美國的差距，透過演算法優化與高效訓練，在美國晶片禁令下仍能保持競爭力。"
-        },
-        {
-          "title": "高粱：中國絕不允許任何國家實現AI霸權",
-          "source": "南華早報",
-          "url": "https://www.scmp.com/news/china/science/article/3366540/china-will-never-allow-any-country-world-achieve-ai-dominance-victor-gao",
-          "section": "亞太/中國焦點",
-          "summary": "中國與全球化智庫副主席高粱表示，中國掌握稀土資源將阻止任何國家利用AI作惡，絕不允許AI霸權的出現。"
-        },
-        {
-          "title": "被制裁中企仍能購買美國頂尖AI晶片",
-          "source": "紐約時報",
-          "url": "https://www.nytimes.com/2026/09/06/technology/china-blacklisted-ai-chips.html",
-          "section": "亞太/中國焦點",
-          "summary": "紐時調查揭露被列入黑名單的中國科技公司仍透過各種管道獲取美國最先進AI晶片，凸顯出口管制執行的漏洞。"
+          "summary": "中國AI新創商業化加速，DeepSeek與Z.ai透過電商平台直接面向消費者，標誌中國AI消費市場成熟化。"
         }
       ]
     },
@@ -92,84 +106,84 @@
       "name": "環境快訊",
       "icon": "🌍",
       "color": "#00b894",
-      "date": "2026-09-07",
+      "date": "2026-09-08",
       "articles": [
         {
-          "title": "聯邦法官阻止特朗普EPA削弱加州清潔空氣豁免權",
-          "source": "CleanTechnica",
-          "url": "https://cleantechnica.com/2026/09/03/federal-judge-blocks-trump-epas-efforts-to-attack-clean-air-waivers/",
+          "title": "熱浪與山火令全球空氣質素改善倒退",
+          "source": "聯合國《衛報",
+          "url": "https://www.theguardian.com/environment/2026/sep/07/heatwaves-wildfires-setting-back-air-quality-improvements-un-finds",
           "section": "頭條新聞",
-          "summary": "美國聯邦法官裁定暫緩特朗普政府推翻加州車輛排放標準，十三州清潔空氣豁免權獲司法保護，被視為州權與聯邦環境政策角力的關鍵勝利。"
+          "summary": "世界氣象組織報告指出，極端高溫和山火頻發形成氣候反饋循環，嚴重抵消多年空氣質素改善成果，產生嚴重的公共衛生後果。"
         },
         {
-          "title": "中國Q2碳排放首因石油需求下降而減少",
-          "source": "CleanTechnica",
-          "url": "https://cleantechnica.com/2026/09/02/analysis-chinas-co2-emissions-fall-in-q2-2026-due-to-plummeting-oil-use/",
-          "section": "頭條新聞",
-          "summary": "中國2026年Q2碳排放降1%，首次因石油消費萎縮9%而非經濟放緩導致減排，電動車普及正推動石油需求「死亡螺旋」。"
-        },
-        {
-          "title": "厄爾尼諾加劇印尼野火，煙霾擴散至東南亞",
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/c1kx4lgy4z4o",
-          "section": "頭條新聞",
-          "summary": "超級厄爾尼諾引發印尼大規模泥炭地火災，有毒煙霾籠罩馬來西亞及菲律賓，NASA衛星顯示火點激增，紅毛猩猩棲地遭嚴重破壞。"
-        },
-        {
-          "title": "美國可再生能源部署創歷史新高",
-          "source": "CleanTechnica",
-          "url": "https://cleantechnica.com/2026/09/03/u-s-renewable-deployment-hits-record-high-despite-trump/",
-          "section": "氣候與能源",
-          "summary": "儘管特朗普政府反對清潔能源，美國太陽能及儲能新增裝機仍創紀錄，虛擬電廠技術解決電網瓶頸，市場力量正超越政治阻力。"
-        },
-        {
-          "title": "研究：強力甲烷減排對守住2°C目標至關重要",
-          "source": "CleanTechnica",
-          "url": "https://cleantechnica.com/2026/09/02/why-tough-methane-cuts-are-crucial-for-keeping-warming-well-below-2c/",
-          "section": "氣候與能源",
-          "summary": "最新研究指出全球若未能大幅削減甲烷排放，即使二氧化碳減排達標，仍難以將升溫控制在「遠低於2°C」，油氣行業甲烷洩漏檢測成焦點。"
-        },
-        {
-          "title": "陽台太陽能浪潮席捲美國九個州",
-          "source": "CleanTechnica",
-          "url": "https://cleantechnica.com/2026/09/02/balcony-solar-movement-grows-us-nine-states-approve-law/",
-          "section": "氣候與能源",
-          "summary": "源自歐洲的陽台太陽能浪潮席捲美國，九個州通過法案允許住戶安裝小型太陽能系統，租戶及公寓居民也能參與能源轉型。"
-        },
-        {
-          "title": "美國化工廠污染管制規則面臨瓦解",
-          "source": "Grist",
-          "url": "https://grist.org/regulation/a-hard-won-rule-to-cut-chemical-plant-pollution-is-being-unraveled/",
-          "section": "污染與生態",
-          "summary": "特朗普政府推動廢除化工廠有毒氣體排放管制規則，該規則旨在保護弱勢社區免受致癌物污染，數百萬居民面臨更高健康風險。"
-        },
-        {
-          "title": "英國啟動生態復育計劃「英國版黃石公園」",
+          "title": "颱風「蘇迪爾」吹襲中國東南沿海，引發大規模疏散",
           "source": "衛報",
-          "url": "https://www.theguardian.com/environment/2026/sep/06/britain-yellowstone-restoration-project-take-greed-out-land-acquisition",
+          "url": "https://www.theguardian.com/world/2026/sep/07/typhoon-saudel-mass-evacuations-south-east-china-weather-tracker",
+          "section": "頭條新聞",
+          "summary": "暴雨造成廣泛破壞，福建、廣東等地數十萬人緊急撤離，同時美國中南部面臨極端高溫，南非西北部遭遇雷暴侵襲。"
+        },
+        {
+          "title": "聯合國：潔淨空氣與氣候行動每投入1美元可獲15美元回報",
+          "source": "UN News",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE01OFJrQUVLQzhmYmlqZHAxUy01T2N1MGtiRnpmcDZhSEhCX2JvRUhEeVBSVVZyc3VKLTV2a0RpNTRvWTNTNjk5eVBpZ0xhTGF3QklvYl83RQ",
+          "section": "頭條新聞",
+          "summary": "聯合國最新報告強調，協調推進空氣污染治理與減碳行動不僅挽救生命，更能帶來巨大的經濟效益，呼籲各國政府立即採取綜合政策。"
+        },
+        {
+          "title": "特朗普撕毀氣候規則之際，中國碳排放開始下降",
+          "source": "EnergyNow",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRl9CZ3V0OWU4ZFJ1bnl0RWlnUHM2c0hVOGdLSlFlVHY2bEJTVlhKZW00TWVRTkMxYlRrSzVRQUFkdlY3cHZrSXVzTjk4YnZBQmMwblc3cFh4RGxEM0JHWUNLaVB5OE1nd1F6ODNzdUNxZjJEMlpaMEZ5SkZjNWxBSzhpRjFUanZncWZTdm1nUC1wNnd1ZXc",
+          "section": "氣候與能源",
+          "summary": "中國清潔能源快速擴張推動2026年第二季碳排放下降，石油用量大幅減少，與美國倒退形成鮮明對比，中國在全球氣候領導地位進一步鞏固。"
+        },
+        {
+          "title": "德國極右翼勝選對能源轉型意味著什麼？",
+          "source": "Clean Energy Wire",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMHlraGV3YVJlTlFDQXNVNklhSXJvaUhWTUcxb3p5LUlreUVvVENyTUk1TkprR1BLY1czSzdfMEVNa1F1UlgzVVNyekctUDZOc2lUWUxwOGpEbXFnT2t3WnlieHRadHdpVTNSdERnMHF5RmRMUnNsYmpIeE9WODdxY3c0NzZaRTZfNlhpdWJZUTNaQ2t3a1RfN0Q1WVdHYkwxUHdWTWxRNFdpQ090NHY0NzJUMkZSRzA",
+          "section": "氣候與能源",
+          "summary": "德國AfD在州選舉中取得歷史性勝利，其反風電、親化石燃料立場引發對歐洲最大經濟體能源轉型前景的深切憂慮。"
+        },
+        {
+          "title": "太平洋島國在區域峰會上呼籲COP31支持清潔能源",
+          "source": "Climate Home News",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNWp1NENXLUI4NzdydW9CcDB1aEVTSnF2N1V6Y055N0FDaGZVUEh0R0ptV20zdjduUUgyMnI1OEpSQzhWcXdUVzVaSTF6VUZwaE42bnBpeTRUenN2Y2w4NnVrTXNBUExQVk1iWUVGT2JkYklMSkh1dlNDcmI5dnc2U2lWbXgzYk1GQVBwYXlKNzBwYlFSVE90ZnJBMFZGUkhJZE52dlFCTUJ0cnNXQV85Mg",
+          "section": "氣候與能源",
+          "summary": "面臨海平面上升威脅的太平洋島國敦促COP31提供更多氣候融資和清潔能源技術支援，強調「我們正在沉沒，但不是我們的錯」。"
+        },
+        {
+          "title": "特朗普簽署行政命令取消灰狼瀕危物種保護",
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c62k677d4lzo",
           "section": "污染與生態",
-          "summary": "蘇格蘭高地啟動大規模生態復育，透過社區土地信託收購退化莊園，恢復原生森林及野生動物走廊，被譽為「英國的黃石公園」。"
+          "summary": "美國總統以保護牧場主利益為由取消灰狼的聯邦保護，環保組織警告此舉可能逆轉數十年種群恢復成果，或引發各州大規模獵殺。"
         },
         {
-          "title": "尼泊爾押注水電遭洪水重創",
-          "source": "CGEP",
-          "url": "https://www.cgep.org/nepal-floods-hydropower-resilience",
-          "section": "亞太/中國焦點",
-          "summary": "尼泊爾將能源未來押注水力發電，季風洪水摧毀多座水電站，暴露單一能源戰略在氣候變遷下的脆弱性，面臨能源安全雙重挑戰。"
+          "title": "義工冒生命危險拆除印尼「碳炸彈」泥炭地火災",
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c1kx4lgy4z4o",
+          "section": "污染與生態",
+          "summary": "婆羅洲泥炭火災釋放大量遠古儲碳，有毒煙霧籠罩東南亞，「超級」厄爾尼諾加劇旱情，當地志願者冒險撲救以防碳儲量進一步釋放。"
         },
         {
-          "title": "香港經歷有紀錄最炎熱八月",
-          "source": "Asia News Network",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUVVZekIzUmN1b3MwYnU0ZnQ4LTBVSFBxNDlSQV9Lc1otYkNIQkJFcUw3dTcySEtnM01KeHVFdmpMem9rMkh3cENDSTNhSlZ3NHg4cUxxVko2ZFZ2cXIyYVRHakdVU21OQm5TSDVBVmtvV01DZnFqaWRXY2h5c2RSX0RxMTJVTnM?oc=5",
-          "section": "亞太/中國焦點",
-          "summary": "香港8月創有紀錄最炎熱八月，多日高溫超35°C，城市熱島效應與全球暖化下極端高溫成新常態。"
+          "title": "螢火蟲重現北約克郡——後院棚屋養殖幼蟲成功復育",
+          "source": "衛報",
+          "url": "https://www.theguardian.com/environment/2026/sep/07/glowworms-shine-again-north-yorkshire-larvae-reintroduction",
+          "section": "污染與生態",
+          "summary": "英國保育義工在自然保護區成功重新引入瀕危螢火蟲，標誌著社區主導的物種復育模式取得突破，為其他瀕危昆蟲保育提供參考。"
         },
         {
-          "title": "紐西蘭ACT黨提出取消淨零目標",
-          "source": "RNZ",
-          "url": "https://www.rnz.co.nz/news/political/532101/act-unveils-election-climate-policy-vows-to-scrap-net-zero-target-and-repeal-zero-carbon-act",
+          "title": "中廣核在深圳可持續發展大會展示全球清潔能源項目",
+          "source": "The Climate Watch",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUkdtdXEtd3BRdXppYzVoWE5sY01DNHYwV0lTNlM5UXcydnZUVzdWQ1lsVWxnUWxydXdpVEpYOEhpMFBGZl9YQVN2bVJ0djZMR2V1WnpOb2E1RmxtUzNvTm8tdzE0NlM5R2J3VkNuWkRJUi1qV0F5VE96NHg4WFVDNnJsWjR4NmpfTUtxcnR4SFVFS3d6dkxfMEZOSG1QWXQ0X0ZJUkZlZkRQNnRXYmc",
           "section": "亞太/中國焦點",
-          "summary": "紐西蘭反對黨ACT公布氣候政綱，主張廢除《零碳法案》及2050年淨零目標，被視為全球右翼氣候懷疑論浪潮的一部分。"
+          "summary": "中國廣核集團展示從國內核電到海外風光項目的全球清潔能源佈局，強調能源安全正推動中國可再生能源加速轉型。"
+        },
+        {
+          "title": "瑞典政客在稀土礦爭議中攻擊原住民薩米人",
+          "source": "衛報",
+          "url": "https://www.theguardian.com/world/ng-interactive/2026/sep/07/reindeer-and-rare-earth-minerals-swedish-politicians-take-aim-at-indigenous-sami-in-mining-dispute",
+          "section": "亞太/中國焦點",
+          "summary": "歐洲綠色轉型對稀土需求激增，瑞典極右翼政治人物推動開採薩米人傳統馴鹿牧區，引發原住民權益與清潔能源礦產供應之間的激烈衝突。"
         }
       ]
     }
