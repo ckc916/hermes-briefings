@@ -1,75 +1,82 @@
 {
-  "updated": "2026-09-10 08:45",
+  "updated": "2026-09-11 08:46",
   "categories": [
     {
       "id": "ai",
       "name": "AI 新聞",
       "icon": "🤖",
       "color": "#6c5ce7",
-      "date": "2026-09-10",
+      "date": "2026-09-11",
       "articles": [
         {
-          "title": "Anthropic安全研究員辭職：AI有逾10%機率消滅人類",
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/c74edv9887eo",
-          "section": "頭條新聞",
-          "summary": "前Anthropic安全研究員Jacob Coxon因憂慮AI失控而辭職，公開表示AI在十年內「殺死所有人類」的機率超過10%，其團隊現任主管亦認同此風險評估。"
-        },
-        {
-          "title": "五角大廈要求OpenAI打造「很少說不」的軍事AI",
-          "source": "The Intercept",
-          "url": "https://theintercept.com/2026/09/08/pentagon-openai-military-contract/",
-          "section": "頭條新聞",
-          "summary": "美國國防部向OpenAI尋求開發一款「很少拒絕指令」的AI系統，引發外界對軍事AI缺乏安全護欄的憂慮，可能改變AI軍事化格局。"
-        },
-        {
-          "title": "OpenAI宣稱以10,000個AI代理破解90年數學難題",
-          "source": "MIT Tech Review",
-          "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
-          "section": "頭條新聞",
-          "summary": "OpenAI稱使用萬個AI代理在88小時內破解Navier-Stokes千年難題，但數學界對其證明方法是否構成「正式證明」存有爭議。"
-        },
-        {
-          "title": "Meta推出Muse個人AI助手，可在各App間無縫運作",
-          "source": "NYT",
-          "url": "https://www.nytimes.com/2026/09/08/technology/meta-muse-ai-agent.html",
-          "section": "業界動態",
-          "summary": "Meta發布跨應用AI代理Muse，可填表、瀏覽網頁、編寫程式碼，但安全隱憂隨之而來；Meta AI研究員Andrew Tulloch在Muse發布後數日即離職。"
-        },
-        {
-          "title": "Google獲19億美元貸款重啟核電廠，為AI數據中心供電",
+          "title": "OpenAI破解千年數學難題引發學術界反彈",
           "source": "The Verge",
-          "url": "https://www.theverge.com/news/810254/google-ai-data-center-nuclear-power-plant-restart",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
+          "section": "頭條新聞",
+          "summary": "OpenAI動用一萬個AI代理耗時88小時破解納維-斯托克斯千年難題，但數學家指控其盜用研究成果並威脅研究員，Terence Tao警告AI正損害數學發展。"
+        },
+        {
+          "title": "OpenAI研究AI放緩是否觸犯反壟斷法",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/",
+          "section": "頭條新聞",
+          "summary": "AI領袖憂慮發展過快，希望協調集體放緩以保安全，但OpenAI正評估此舉會否違反反壟斷法，引發AI安全與市場競爭之間的法律兩難。"
+        },
+        {
+          "title": "Apple推出Siri AI及摺疊iPhone Duo",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
+          "section": "頭條新聞",
+          "summary": "Apple 9月9日發布會推出Siri AI、iPhone 18 Pro及首款摺疊機Duo，Siri AI 9月14日以beta在美推出，設每日使用上限，歐盟因DMA爭議暫不推出。"
+        },
+        {
+          "title": "Meta億元AI研究員跳槽Anthropic",
+          "source": "The Information",
+          "url": "https://www.theinformation.com/articles/meta-loses-ai-researcher-andrew-tulloch-to-anthropic",
           "section": "業界動態",
-          "summary": "Google獲美國政府19億美元貸款重啟已退役核電廠，以滿足AI數據中心日益增長的能源需求，反映AI基建對能源的巨大消耗。"
+          "summary": "Meta以約10億美元薪酬挖角的明星AI研究員Andrew Tulloch，入職不到一年即離職，據報將加盟Anthropic，反映AI頂尖人才爭奪戰白熱化。"
         },
         {
-          "title": "Bill Gates：動盪的AI時代已來臨，現在做出的選擇至關重要",
-          "source": "Gates Notes",
-          "url": "https://www.gatesnotes.com",
+          "title": "美指控六家中國AI企業複製美國模型",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/",
           "section": "業界動態",
-          "summary": "比爾蓋茲發表長文探討AI快速發展帶來的深遠影響，呼籲社會在關鍵時刻做出正確選擇，強調AI治理的迫切性。"
+          "summary": "美國國安局及CISA指控六家中國AI公司通過「蒸餾」技術大規模複製美國前沿模型，中方回應稱蒸餾屬正常商業行為，警告美方勿打壓。"
         },
         {
-          "title": "DeepSeek啟動IPO，選定中信證券等承銷商",
-          "source": "南華早報",
-          "url": "https://www.scmp.com/tech/tech-trends/article/3366948/chinese-ai-firm-deepseek-taps-underwriters-including-citic-securities-ipo-sources",
-          "section": "亞太／中國焦點",
-          "summary": "中國AI新星DeepSeek正式啟動上市計劃，已選定中信證券等投行擔任承銷商，反映中國AI企業加速向資本市場邁進。"
+          "title": "Nvidia啟動澳洲2GW AI數據中心計劃",
+          "source": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/nvidia-partners-with-aussie-companies-to-bring-2gw-online-by-2027/",
+          "section": "業界動態",
+          "summary": "Nvidia與八家澳洲企業合作，計劃2027年前建成2GW AI算力容量，總投資逾100億美元，標誌AI基建競賽擴展至亞太。"
         },
         {
-          "title": "中國規劃5,320億美元AI基礎設施大計，繞過美國芯片限制",
-          "source": "The Eastern Herald",
-          "url": "https://easternherald.com/2026/09/09/china-532-billion-ai-infrastructure-plan/",
-          "section": "亞太／中國焦點",
-          "summary": "中國據報推出5,320億美元的AI基礎設施建設計劃，旨在繞過美國芯片出口限制，大規模部署國產AI算力。"
+          "title": "AI基建的真正瓶頸是電力架構",
+          "source": "MIT Tech Review",
+          "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
+          "section": "研究與技術",
+          "summary": "7月維珍尼亞州數據中心叢集輸電故障導致3GW斷電，揭示AI基建核心問題不在算力而在電力傳輸架構，叢集化帶來系統性風險。"
         },
         {
-          "title": "南韓與歐洲擬組「第三AI軸心」抗衡中美主導",
-          "source": "朝鮮日報",
-          "url": "https://www.chosun.com/english/",
-          "section": "亞太／中國焦點",
-          "summary": "南韓與歐洲正探討建立「第三AI軸心」，在AI治理、技術標準和產業合作上形成新聯盟，抗衡中美在AI領域的雙頭壟斷。"
+          "title": "醫療AI的下一道考驗：系統整合",
+          "source": "MIT Tech Review",
+          "url": "https://www.technologyreview.com/2026/09/10/1141421/healthcare-ais-next-test-is-integration/",
+          "section": "研究與技術",
+          "summary": "大型AI公司進軍醫療加速技術基建，但真正挑戰在於將AI無縫整合到現有臨床工作流程，而非單純追求模型性能。"
+        },
+        {
+          "title": "Anthropic稱AI讓個人可執行國家級駭客行動",
+          "source": "SiliconANGLE",
+          "url": "https://siliconangle.com/2026/09/10/anthropic-says-ai-now-lets-lone-operators-run-state-level-hacking-campaigns/",
+          "section": "亞太/中國焦點",
+          "summary": "Anthropic發表最新AI濫用報告，披露偵測到中俄相關AI攻擊活動，警告AI工具使個人即可發動國家級網路攻擊，呼籲加強安全防護。"
+        },
+        {
+          "title": "Siri AI在華推出仍待監管審批",
+          "source": "The Mac Observer",
+          "url": "https://www.macobserver.com/news/siri-ai-in-china-regulatory-approval/",
+          "section": "亞太/中國焦點",
+          "summary": "Apple表示Siri AI在中國推出仍需監管批准，目前尚未獲批，反映中國對AI服務的嚴格監管環境，可能影響Apple在華AI佈局。"
         }
       ]
     },
@@ -78,77 +85,77 @@
       "name": "環境快訊",
       "icon": "🌍",
       "color": "#00b894",
-      "date": "2026-09-10",
+      "date": "2026-09-11",
       "articles": [
         {
-          "title": "聯合國：協調氣候與空污行動每花1美元可獲15美元回報",
-          "source": "UN News",
-          "url": "https://news.un.org",
+          "title": "八月成史上最熱月份 UN警告氣候文化戰將致經濟崩潰",
+          "source": "衛報",
+          "url": "https://www.theguardian.com/environment/2026/sep/10/august-joint-hottest-month-recorded-globally",
           "section": "頭條新聞",
-          "summary": "聯合國最新報告指出，同步應對氣候變化與空氣污染能產生巨大經濟效益，每投入1美元可獲15美元淨回報，呼籲各國採取整合性政策。"
+          "summary": "歐盟數據確認2026年8月與2023年7月並列全球最熱月份。UN氣候首席斯蒂爾警告各國必須摒棄氣候文化戰爭，否則將面臨經濟毀滅，今夏歐洲已損失1,800億歐元。"
         },
         {
-          "title": "美國錄得132年來最熱夏季",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com",
+          "title": "厄爾尼諾致大西洋颶風季異常平靜創紀錄",
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/weather/articles/cwyzq4538j3o",
           "section": "頭條新聞",
-          "summary": "NOAA確認2026年8月及整個夏季為美國有紀錄以來最熱，年初至今亦創歷史新高，極端高溫事件頻率與強度持續攀升。"
+          "summary": "大西洋颶風季已達氣候學峰值，但受強厄爾尼諾影響今年無一颶風形成打破紀錄。與此同時夏威夷接連遭颶風襲擊，凸顯氣候模式極端分化。"
         },
         {
-          "title": "21州起訴特朗普政府削弱《瀕危物種法》",
-          "source": "NYT",
-          "url": "https://www.nytimes.com",
-          "section": "頭條新聞",
-          "summary": "美國21個州及哥倫比亞特區聯合提起訴訟，挑戰特朗普政府放寬《瀕危物種法》保護規則，包括華盛頓州、加州及科羅拉多州領銜。"
-        },
-        {
-          "title": "加州重新考慮核電立場",
-          "source": "NYT",
-          "url": "https://www.nytimes.com",
+          "title": "美國逾七成新建太陽能位於特朗普票倉州份",
+          "source": "Grist",
+          "url": "https://grist.org/energy/more-than-70-of-new-solar-is-being-built-in-states-that-voted-for-trump/",
           "section": "氣候與能源",
-          "summary": "加州民主黨人正重新評估多年前決定關閉核電廠的政策，面對能源轉型壓力及電網穩定需求，核電選項重回談判桌。"
+          "summary": "美國太陽能擴張正超越紅藍界線，超70%新項目落戶特朗普票倉州份，清潔能源經濟效益正重塑政治版圖。"
         },
         {
-          "title": "田納西州核發首張商業核聚變營運許可",
-          "source": "Energies Media",
-          "url": "https://energiesmedia.com",
+          "title": "英國擬上調工業水價應對短缺",
+          "source": "衛報",
+          "url": "https://www.theguardian.com/environment/2026/sep/10/water-shortages-uk-supply-raising-price",
           "section": "氣候與能源",
-          "summary": "Type One Energy獲田納西州發出全球首張商業核聚變設施營運許可，將在Bull Run廠址推進核聚變技術商業化進程。"
+          "summary": "英國環境署與政府商討提高工業用戶水價遏制水資源管理不善，英國面臨日益嚴峻的水資源短缺，政策轉向價格機制推動節水。"
         },
         {
-          "title": "歐盟審計：擺脫俄羅斯能源進展受阻",
-          "source": "Reuters",
-          "url": "https://www.reuters.com",
+          "title": "離岸風電有利氣候 但能否造福海洋生態？",
+          "source": "Mongabay",
+          "url": "https://news.mongabay.com/2026/09/offshore-wind-may-be-good-for-the-climate-but-can-it-be-good-for-the-ocean-too/",
           "section": "氣候與能源",
-          "summary": "歐洲審計院報告指出，歐盟減少對俄能源依賴的計劃進展不理想，部分成員國仍高度依賴俄天然氣，能源轉型節奏不如預期。"
+          "summary": "離岸風電擴張帶來清潔能源，但科學家開始關注其對海洋生態的潛在影響，包括噪音干擾、棲息地改變等。"
         },
         {
-          "title": "WMO：山火空污威脅全球空氣質素改善進展",
-          "source": "Innovation News",
-          "url": "https://www.innovationnewsnetwork.com",
+          "title": "美法院裁定居民無憲法權利獲取無鉛飲用水",
+          "source": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/09/court-rules-residents-of-a-us-city-dont-have-a-constitutional-right-to-lead-free-water/",
           "section": "污染與生態",
-          "summary": "世界氣象組織發布第6期空氣質量與氣候公報，警告全球山火頻發正抵消各國減排成效，PM2.5污染出現反彈趨勢。"
+          "summary": "美國聯邦法院裁定市民不享有憲法保障的無鉛飲用水權利，引發公共衛生與環境正義爭議，裁決或影響全國鉛管更換計劃。"
         },
         {
-          "title": "厄爾尼諾來襲 亞馬遜極端氣候加劇",
-          "source": "SEI",
-          "url": "https://www.sei.org",
+          "title": "科學家發現微塑膠與肺癌的關聯",
+          "source": "獨立報",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSjlUa3pORGJFNnAwaWNZdUJCNmFjX2QyWGpVVW5PWXRLaXJSUXJMRUxTU2Z4VlVFY0lJeTA1V1QzVW82QXMzZEo4ZnhXMXBxSzBkTVBBLThYZjllajVRMUlBRjJBSnlmUk1BZTFrU2R5TkRKSzFXYTBNVkhvbl90aWhTOUhxQW93VU5xa1ptd09qVUpyV0JJVUQzdUdMOGVKOVRz?oc=5",
           "section": "污染與生態",
-          "summary": "斯德哥爾摩環境研究所研究顯示，亞馬遜地區極端氣候事件增長速度超預期，厄爾尼諾現象將令旱災與火災風險進一步飆升。"
+          "summary": "研究發現空氣中微塑膠顆粒可能與肺癌有關，英國苔蘚調查顯示微塑膠已廣泛沉積全國，研究人員呼籲將其列為空氣質素監測指標。"
         },
         {
-          "title": "寧德時代發布6分鐘快充、續航1000公里電池",
-          "source": "EnergyNow",
-          "url": "https://energynow.com",
-          "section": "亞太／中國焦點",
-          "summary": "中國CATL推出新一代電動車電池，充電僅6分鐘即可續航1,000公里，此技術突破或將重塑全球電動車市場格局。"
+          "title": "淡水鯊魚及鰩魚面臨更高滅絕風險",
+          "source": "Mongabay",
+          "url": "https://news.mongabay.com/2026/09/forgotten-fauna-little-known-river-sharks-and-rays-face-increased-extinction-risk/",
+          "section": "污染與生態",
+          "summary": "鮮為人知的淡水鯊魚和鰩魚面臨日益嚴峻的滅絕威脅，過度捕撈、棲息地破壞及污染是主因，科學家呼籲將「被遺忘的物種」納入保育議程。"
         },
         {
-          "title": "德里提前部署冬季空污防控",
-          "source": "New Indian Express",
-          "url": "https://www.newindianexpress.com",
-          "section": "亞太／中國焦點",
-          "summary": "德里首席部長與總督召開跨部門會議，要求地鐵公司遏制建築揚塵，提前部署冬季空氣質量管控措施。"
+          "title": "日本向印尼婆羅洲派遣設備助戰山火",
+          "source": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/09/japan-deploys-equipment-to-indonesias-borneo-to-help-fight-wildfires-causing-toxic-haze/",
+          "section": "亞太/中國焦點",
+          "summary": "印尼婆羅洲山火引發有毒霧霾，日本緊急部署滅火裝備協助救援，跨境煙霾再威脅東南亞空氣質素，凸顯區域氣候災害合作緊迫性。"
+        },
+        {
+          "title": "巴西亞馬遜基金受助機構憂大選後資金凍結",
+          "source": "Mongabay",
+          "url": "https://news.mongabay.com/2026/09/amazon-fund-grantees-fear-a-new-funding-freeze-after-brazils-election/",
+          "section": "亞太/中國焦點",
+          "summary": "巴西大選後政局變化引發亞馬遜基金受助機構憂慮，擔心保育資金再次被凍結，此舉或影響全球最大雨林的保護進程。"
         }
       ]
     }
