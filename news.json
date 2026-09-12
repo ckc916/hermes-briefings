@@ -1,82 +1,89 @@
 {
-  "updated": "2026-09-11 08:46",
+  "updated": "2026-09-12 08:45",
   "categories": [
     {
       "id": "ai",
       "name": "AI 新聞",
       "icon": "🤖",
       "color": "#6c5ce7",
-      "date": "2026-09-11",
+      "date": "2026-09-12",
       "articles": [
         {
-          "title": "OpenAI破解千年數學難題引發學術界反彈",
+          "title": "Anthropic：Claude遭用於生化武器研究及全球間諜活動",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUlpORllxa2oyR0lQcWRNaXQwTXd5LThFQTQ3bXFJdlQzUWRBZ2RYMjlmWm55R0gtd255dzltb2dEa3hlaHlJc0hNVG1GaWhkSDBXa3hRbVNiVkZ3XzZsbzY5ZE8wQ1pfR0w4TERlczNHbm5YaVI0QmN5TnJLWmVNRmsxMkxmcnFlTDg1QVdhSHJ0Vm5SUWsyWHFCU0JpdXNYcFhpWjBuQWVFTTZ2V1J1Ym82aExqdGJmVE9VNm5zR0xrUmtkSkNn?oc=5",
+          "section": "頭條新聞",
+          "summary": "Anthropic發布9月AI濫用報告，揭露Claude被用於生化武器研發、俄羅斯駭客攻擊及中國網路間諜活動，已封鎖相關帳號，馬來西亞亦就選舉操控指控展開調查。"
+        },
+        {
+          "title": "美國參議院擬強制AI公司降低已知重大風險",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTVJFRjl0M2NxU3YtVmplOGp5YkNqcllYY0R0Y2xPV0ZaTU5fNElVVXl1WDI4NjRRRGtSNXlwanRTUjRFY2ZCTUdLcE52QTZyTnN4WDdKNGE1bWM0SDBBdmdpSUw4YXZ1WDNnZ1hGTzl1RVhodnhBZzFEVHJ1VlJUd3Q1Z3gwTUVIMGR3X1g4Q0ZkUUFLdTc2dnAzZzZzaEREYjg5SGltUTJrelRKdjJwQ2RZbUJzY0NjMjI0SFUyUTF3X18wZ2ZjSw?oc=5",
+          "section": "頭條新聞",
+          "summary": "美國參議院協商中的AI法案要求企業主動識別並降低已知重大風險，被視為迄今最嚴格的聯邦AI監管提案，AI政策窗口正在關閉。"
+        },
+        {
+          "title": "OpenAI數學里程碑引發學術界爭議",
           "source": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
+          "url": "https://www.theverge.com/news/709108/openai-navier-stokes-math-controversy",
           "section": "頭條新聞",
-          "summary": "OpenAI動用一萬個AI代理耗時88小時破解納維-斯托克斯千年難題，但數學家指控其盜用研究成果並威脅研究員，Terence Tao警告AI正損害數學發展。"
+          "summary": "OpenAI宣稱其AI在Navier-Stokes千年難題取得突破，但部分數學家質疑成果完整性，引發AI在純數學領域角色的激烈辯論。"
         },
         {
-          "title": "OpenAI研究AI放緩是否觸犯反壟斷法",
-          "source": "WIRED",
-          "url": "https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/",
-          "section": "頭條新聞",
-          "summary": "AI領袖憂慮發展過快，希望協調集體放緩以保安全，但OpenAI正評估此舉會否違反反壟斷法，引發AI安全與市場競爭之間的法律兩難。"
-        },
-        {
-          "title": "Apple推出Siri AI及摺疊iPhone Duo",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
-          "section": "頭條新聞",
-          "summary": "Apple 9月9日發布會推出Siri AI、iPhone 18 Pro及首款摺疊機Duo，Siri AI 9月14日以beta在美推出，設每日使用上限，歐盟因DMA爭議暫不推出。"
-        },
-        {
-          "title": "Meta億元AI研究員跳槽Anthropic",
-          "source": "The Information",
-          "url": "https://www.theinformation.com/articles/meta-loses-ai-researcher-andrew-tulloch-to-anthropic",
+          "title": "OpenAI暫停$200 Pro訂閱，Astra需求超出產能",
+          "source": "CIO",
+          "url": "https://www.cio.com/article/3838630/openai-pauses-200-pro-tier-as-astra-demand-strains-capacity.html",
           "section": "業界動態",
-          "summary": "Meta以約10億美元薪酬挖角的明星AI研究員Andrew Tulloch，入職不到一年即離職，據報將加盟Anthropic，反映AI頂尖人才爭奪戰白熱化。"
+          "summary": "OpenAI因新一代旗艦模型Astra需求暴增導致算力不足，暫停每月200美元Pro方案新訂閱，反映頂級AI服務供不應求的瓶頸。"
         },
         {
-          "title": "美指控六家中國AI企業複製美國模型",
+          "title": "法律AI Harvey估值達155億美元",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdlB6ckhOUjNOZ3VfSVNXTVBvQWlkLTRiWUwxLU1KZG9fT0t3QVI5U043NS1pdGp6UHpCM0hjTHFzZm5OelhkWVdZbkY3RnBBbEdCVnFTXzhJNl8yTW4tOHo5UzU3SEU5VW0xNFZnQkhCNjJzWVVWTmZEQUhsUVNYalpYNnpIZUo1S0UxNEF0MHFtalVablBwWFF1ZDE5V25OSDIzd2tadlZqdU9xdDFQc1YwR1FxNW91aDJKeHNaeF9iQQ?oc=5",
+          "section": "業界動態",
+          "summary": "法律AI初創Harvey在新一輪融資中估值飆升至155億美元，反映AI在法律行業的快速滲透與市場對垂直AI應用的狂熱追捧。"
+        },
+        {
+          "title": "五角大樓擬向AI雲端初創Fluidstack貸款50億美元",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQm56T2dLMnFMeVp3a0tJY2s1eVdLalpSQ2c4bXBGQ2dOclF3a0dCVjhDYldvcEJMbEQ5TUQ5RXJuZXllZ1FvR3phRVlGNHhBazR0LXlaTy1DQmdXUENkQ1hLcWZrZlh0Ni0zdVVhSEhNdGxSckNpbHpiMi1GbUM0aUhSOFluSkZ0aG9WVG9DZ0pzQm13d2ZjRG9hZEZrdFRYUTU3bHoyWmhVYjNXUFN4TGtZRGdXbmM?oc=5",
+          "section": "業界動態",
+          "summary": "美國國防部正洽談向AI雲端初創Fluidstack提供50億美元貸款，用於建設GPU基礎設施，顯示軍方對AI算力的戰略性部署加速。"
+        },
+        {
+          "title": "擴散LLM Mercury 2.5生成速度破1,100 tokens/秒",
+          "source": "shattered.io",
+          "url": "https://shattered.io/blog/mercury-2-5-inceptions-diffusion-llm/",
+          "section": "研究與技術",
+          "summary": "Inception發布Mercury 2.5擴散語言模型，生成速度達每秒1,100 tokens，遠超傳統自迴歸模型，為高效推理開闢全新技術路線。"
+        },
+        {
+          "title": "ChatGPT Sketch：塗鴉秒變精緻AI圖像",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/news/708804/chatgpt-sketch-turns-bad-drawings-into-detailed-ai-images",
+          "section": "研究與技術",
+          "summary": "OpenAI推出ChatGPT Sketch功能，用戶隨手畫的草圖可即時轉換為高品質AI生成圖像，大幅降低圖像創作門檻，引發設計界關注。"
+        },
+        {
+          "title": "騰訊支持Enflame上海IPO首日暴漲近三倍",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/technology/tencent-backed-enflame-nearly-triples-shanghai-debut-ai-chip-demand-bets-2026-09-11/",
+          "section": "亞太/中國焦點",
+          "summary": "騰訊投資的中國AI晶片公司Enflame（燧原科技）在上海科創板上市首日股價飆升近三倍，反映市場對中國本土AI晶片替代的強烈期待。"
+        },
+        {
+          "title": "中國AI公司Z.AI啟動50億美元香港雙重上市",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/technology/china-ai-developer-zai-launches-5-billion-hong-kong-share-convertible-bond-sales-2026-09-11/",
+          "section": "亞太/中國焦點",
+          "summary": "中國AI開發商Z.AI在香港啟動50億美元股票及可轉債發行，成為今年亞洲最大規模AI融資之一，顯示中國AI企業加速資本擴張。"
+        },
+        {
+          "title": "美國指控六家中國AI公司惡意複製前沿模型",
           "source": "Ars Technica",
           "url": "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/",
-          "section": "業界動態",
-          "summary": "美國國安局及CISA指控六家中國AI公司通過「蒸餾」技術大規模複製美國前沿模型，中方回應稱蒸餾屬正常商業行為，警告美方勿打壓。"
-        },
-        {
-          "title": "Nvidia啟動澳洲2GW AI數據中心計劃",
-          "source": "Data Center Dynamics",
-          "url": "https://www.datacenterdynamics.com/en/news/nvidia-partners-with-aussie-companies-to-bring-2gw-online-by-2027/",
-          "section": "業界動態",
-          "summary": "Nvidia與八家澳洲企業合作，計劃2027年前建成2GW AI算力容量，總投資逾100億美元，標誌AI基建競賽擴展至亞太。"
-        },
-        {
-          "title": "AI基建的真正瓶頸是電力架構",
-          "source": "MIT Tech Review",
-          "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
-          "section": "研究與技術",
-          "summary": "7月維珍尼亞州數據中心叢集輸電故障導致3GW斷電，揭示AI基建核心問題不在算力而在電力傳輸架構，叢集化帶來系統性風險。"
-        },
-        {
-          "title": "醫療AI的下一道考驗：系統整合",
-          "source": "MIT Tech Review",
-          "url": "https://www.technologyreview.com/2026/09/10/1141421/healthcare-ais-next-test-is-integration/",
-          "section": "研究與技術",
-          "summary": "大型AI公司進軍醫療加速技術基建，但真正挑戰在於將AI無縫整合到現有臨床工作流程，而非單純追求模型性能。"
-        },
-        {
-          "title": "Anthropic稱AI讓個人可執行國家級駭客行動",
-          "source": "SiliconANGLE",
-          "url": "https://siliconangle.com/2026/09/10/anthropic-says-ai-now-lets-lone-operators-run-state-level-hacking-campaigns/",
           "section": "亞太/中國焦點",
-          "summary": "Anthropic發表最新AI濫用報告，披露偵測到中俄相關AI攻擊活動，警告AI工具使個人即可發動國家級網路攻擊，呼籲加強安全防護。"
-        },
-        {
-          "title": "Siri AI在華推出仍待監管審批",
-          "source": "The Mac Observer",
-          "url": "https://www.macobserver.com/news/siri-ai-in-china-regulatory-approval/",
-          "section": "亞太/中國焦點",
-          "summary": "Apple表示Siri AI在中國推出仍需監管批准，目前尚未獲批，反映中國對AI服務的嚴格監管環境，可能影響Apple在華AI佈局。"
+          "summary": "NSA等機構警告六家中國AI公司透過「蒸餾」技術複製美國前沿模型，美中AI技術競爭升級，或將引發新一輪出口管制措施。"
         }
       ]
     },
@@ -85,77 +92,70 @@
       "name": "環境快訊",
       "icon": "🌍",
       "color": "#00b894",
-      "date": "2026-09-11",
+      "date": "2026-09-12",
       "articles": [
         {
-          "title": "八月成史上最熱月份 UN警告氣候文化戰將致經濟崩潰",
+          "title": "科學家揭示最可能達「正向臨界點」的氣候解決方案",
           "source": "衛報",
-          "url": "https://www.theguardian.com/environment/2026/sep/10/august-joint-hottest-month-recorded-globally",
+          "url": "https://www.theguardian.com/environment/2026/sep/10/climate-crisis-tipping-points-energy-environment-report",
           "section": "頭條新聞",
-          "summary": "歐盟數據確認2026年8月與2023年7月並列全球最熱月份。UN氣候首席斯蒂爾警告各國必須摒棄氣候文化戰爭，否則將面臨經濟毀滅，今夏歐洲已損失1,800億歐元。"
+          "summary": "國際研究團隊識別出多項氣候解決方案已接近「正向引爆點」，包括太陽能、電動車及綠色氫能等技術成本急降，一旦跨越臨界值將自我加速普及，有望扭轉排放趨勢。"
         },
         {
-          "title": "厄爾尼諾致大西洋颶風季異常平靜創紀錄",
-          "source": "BBC",
-          "url": "https://www.bbc.co.uk/weather/articles/cwyzq4538j3o",
+          "title": "聖嬰現象加劇：印尼2026年火災碳排放或追平世紀紀錄",
+          "source": "Carbon Brief",
+          "url": "https://www.carbonbrief.org/el-nino-indonesia-fire-emissions-in-2026-on-track-to-match-record-for-this-century",
           "section": "頭條新聞",
-          "summary": "大西洋颶風季已達氣候學峰值，但受強厄爾尼諾影響今年無一颶風形成打破紀錄。與此同時夏威夷接連遭颶風襲擊，凸顯氣候模式極端分化。"
+          "summary": "截至9月7日印尼火災已釋放7,600萬噸碳，科學家警告今年聖嬰強度極高，巴布亞省燃燒面積創歷史新高，泥炭地復育成效面臨考驗，東南亞霾害風險急升。"
         },
         {
-          "title": "美國逾七成新建太陽能位於特朗普票倉州份",
-          "source": "Grist",
-          "url": "https://grist.org/energy/more-than-70-of-new-solar-is-being-built-in-states-that-voted-for-trump/",
+          "title": "2026年8月成全球有紀錄以來最熱月份",
+          "source": "歐盟監測機構",
+          "url": "https://globalnation.inquirer.net/337656/august-of-2026-hottest-month-ever-recorded-globally-eu-monitor",
           "section": "氣候與能源",
-          "summary": "美國太陽能擴張正超越紅藍界線，超70%新項目落戶特朗普票倉州份，清潔能源經濟效益正重塑政治版圖。"
+          "summary": "歐盟哥白尼氣候變化服務確認今年8月為史上最熱月份，延續2023年中以來的破紀錄高溫趨勢，科學家指全球暖化疊加聖嬰現象導致極端溫度頻發。"
         },
         {
-          "title": "英國擬上調工業水價應對短缺",
-          "source": "衛報",
-          "url": "https://www.theguardian.com/environment/2026/sep/10/water-shortages-uk-supply-raising-price",
+          "title": "英國熱浪致逾千宗NHS手術取消",
+          "source": "Carbon Brief",
+          "url": "https://www.carbonbrief.org/revealed-more-than-1000-nhs-operations-cancelled-due-to-record-uk-heatwaves",
           "section": "氣候與能源",
-          "summary": "英國環境署與政府商討提高工業用戶水價遏制水資源管理不善，英國面臨日益嚴峻的水資源短缺，政策轉向價格機制推動節水。"
+          "summary": "數據顯示英國今夏創紀錄高溫導致1,000多宗非緊急手術被迫取消，醫院面臨空調不足、病房過熱等問題，國民保健系統呼籲加強醫療基建氣候韌性。"
         },
         {
-          "title": "離岸風電有利氣候 但能否造福海洋生態？",
+          "title": "氣候危機今夏造成歐洲1,800億歐元損失",
+          "source": "UN氣候首長警告",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZjhHVGtjSUxkanlhc1l0OUl0RGxMRVVwS2VYUEg0T1RKa3d2SHptdm5QdUY2aFIzV05vZ2ItTkt3UURLSHVHQWhqYkQ4STgyWjNOdEZINEhGVVoxM1l3V215VnBlcmR5a0U2UDZfOGxrTzgzcmZRdjZucXNfNjRJdEh1WnUzR1htWW5zYS1nM3p6ZUo3QjdHSXJaUFA?oc=5",
+          "section": "氣候與能源",
+          "summary": "UNFCCC執行秘書斯蒂爾指出歐洲今夏因熱浪、野火及洪水造成1,800億歐元經濟損失，呼籲各國加速減排投資以避免氣候損害呈指數級增長。"
+        },
+        {
+          "title": "離岸風電有利氣候，但對海洋生態是否同樣友善？",
           "source": "Mongabay",
           "url": "https://news.mongabay.com/2026/09/offshore-wind-may-be-good-for-the-climate-but-can-it-be-good-for-the-ocean-too/",
-          "section": "氣候與能源",
-          "summary": "離岸風電擴張帶來清潔能源，但科學家開始關注其對海洋生態的潛在影響，包括噪音干擾、棲息地改變等。"
-        },
-        {
-          "title": "美法院裁定居民無憲法權利獲取無鉛飲用水",
-          "source": "Mongabay",
-          "url": "https://news.mongabay.com/short-article/2026/09/court-rules-residents-of-a-us-city-dont-have-a-constitutional-right-to-lead-free-water/",
           "section": "污染與生態",
-          "summary": "美國聯邦法院裁定市民不享有憲法保障的無鉛飲用水權利，引發公共衛生與環境正義爭議，裁決或影響全國鉛管更換計劃。"
+          "summary": "科學家研究離岸風場對鯨豚遷徙、海底棲息地及漁業的潛在影響，指出須在選址規劃階段充分評估生態風險，才能兼顧清潔能源擴張與海洋保育。"
         },
         {
-          "title": "科學家發現微塑膠與肺癌的關聯",
-          "source": "獨立報",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSjlUa3pORGJFNnAwaWNZdUJCNmFjX2QyWGpVVW5PWXRLaXJSUXJMRUxTU2Z4VlVFY0lJeTA1V1QzVW82QXMzZEo4ZnhXMXBxSzBkTVBBLThYZjllajVRMUlBRjJBSnlmUk1BZTFrU2R5TkRKSzFXYTBNVkhvbl90aWhTOUhxQW93VU5xa1ptd09qVUpyV0JJVUQzdUdMOGVKOVRz?oc=5",
+          "title": "洛杉磯承諾清理最大天然氣發電廠，環保人士質疑誠意",
+          "source": "洛杉磯時報",
+          "url": "https://www.latimes.com/environment/newsletter/2026-09-10/la-says-it-will-clean-up-its-biggest-gas-power-plant-environmentalists-arent-buying-it",
           "section": "污染與生態",
-          "summary": "研究發現空氣中微塑膠顆粒可能與肺癌有關，英國苔蘚調查顯示微塑膠已廣泛沉積全國，研究人員呼籲將其列為空氣質素監測指標。"
+          "summary": "洛杉磯水電局宣布改造Scattergood發電廠，但環團批評計劃仍保留天然氣備用機組至2040年後，與該市100%清潔能源目標矛盾。"
         },
         {
-          "title": "淡水鯊魚及鰩魚面臨更高滅絕風險",
-          "source": "Mongabay",
-          "url": "https://news.mongabay.com/2026/09/forgotten-fauna-little-known-river-sharks-and-rays-face-increased-extinction-risk/",
-          "section": "污染與生態",
-          "summary": "鮮為人知的淡水鯊魚和鰩魚面臨日益嚴峻的滅絕威脅，過度捕撈、棲息地破壞及污染是主因，科學家呼籲將「被遺忘的物種」納入保育議程。"
-        },
-        {
-          "title": "日本向印尼婆羅洲派遣設備助戰山火",
-          "source": "Mongabay",
-          "url": "https://news.mongabay.com/short-article/2026/09/japan-deploys-equipment-to-indonesias-borneo-to-help-fight-wildfires-causing-toxic-haze/",
+          "title": "金磚國家氣候議程聚焦全球南方：能源、融資與韌性",
+          "source": "ET EnergyWorld",
+          "url": "https://energy.economictimes.indiatimes.com/amp/news/renewable/brics-climate-agenda-puts-global-south-priorities-on-energy-finance-and-resilience/133997584",
           "section": "亞太/中國焦點",
-          "summary": "印尼婆羅洲山火引發有毒霧霾，日本緊急部署滅火裝備協助救援，跨境煙霾再威脅東南亞空氣質素，凸顯區域氣候災害合作緊迫性。"
+          "summary": "金磚集團推動以能源公正轉型及氣候融資為核心的發展中國家議程，強調已發展國家須兌現每年1,000億美元氣候資金承諾，並加強技術轉移。"
         },
         {
-          "title": "巴西亞馬遜基金受助機構憂大選後資金凍結",
-          "source": "Mongabay",
-          "url": "https://news.mongabay.com/2026/09/amazon-fund-grantees-fear-a-new-funding-freeze-after-brazils-election/",
+          "title": "香港成立以女性為中心的氣候行動聯盟",
+          "source": "Earth.Org",
+          "url": "https://earth.org/new-women-centered-climate-action-coalition-launches-in-hong-kong/",
           "section": "亞太/中國焦點",
-          "summary": "巴西大選後政局變化引發亞馬遜基金受助機構憂慮，擔心保育資金再次被凍結，此舉或影響全球最大雨林的保護進程。"
+          "summary": "全新氣候行動聯盟在香港啟動，聚焦賦權女性主導社區層面的氣候韌性項目，涵蓋城市綠化、減廢及公眾教育，強調性別平等是氣候行動的關鍵。"
         }
       ]
     }
