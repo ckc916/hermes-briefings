@@ -1,82 +1,82 @@
 {
-  "updated": "2026-09-14 08:45",
+  "updated": "2026-09-15 08:45",
   "categories": [
     {
       "id": "ai",
       "name": "AI 新聞",
       "icon": "🤖",
       "color": "#6c5ce7",
-      "date": "2026-09-14",
+      "date": "2026-09-15",
       "articles": [
         {
-          "title": "Anthropic執行長Dario Amodei呼籲放緩AI發展",
-          "source": "紐約時報",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOE1BV1Q4UUYxLVRfaDNJVXVRbnNaQmdUMjBzbWJWRWtTcjlROWZqUjAtVGlob2NHVlB1NHVfRU5FY1dWT1UxR3RHakpVUTdzSGdvRmR2UFR2dzZxdHJ0ZXlMb0NsMVd1MDM1aUZ2VlpPeG9zSDZxRFpFWjNhQ0psM2RVYW8tM0ZKdTdDdG93?oc=5",
+          "title": "Nvidia黃仁勳反駁AI放緩論",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
           "section": "頭條新聞",
-          "summary": "Anthropic執行長Dario Amodei公開發表長文，直言「業界長期以來在AI風險上說謊」，呼籲全球放緩前沿AI模型開發速度，引發科技界與政界激烈辯論。"
+          "summary": "OpenAI與Anthropic高層相繼呼籲放慢AI發展，Nvidia CEO黃仁勳向特朗普表態「不會讓AI放緩發生」，強調算力需求仍暴增，與業界主流聲音形成對比。"
         },
         {
-          "title": "Sam Altman與Elon Musk聯手支持AI減速",
-          "source": "衛報",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQlhQUVhMMWE4RFpEUXBNVWIyNHk0MXJzNkR6NUJtZlBmY3B5ZFhjNGJjaWtXZEtodlgzX0ZMV1M5WXh5UUw5S0cyaXlYc2RoYjlIemhzN0JCZ3pjTjBIOGxMZ24wWHNlNUZkeXRTQlN0Q1hTenNzaXlabWVISmFQRkxsSFNfVkJWOFJkdE9FSHhEOWFmQnBseDlnUXJGc2pWU09ZWXRfMW1wS21PQXA3M080em1reXYyaXdONWdR?oc=5",
+          "title": "AI產業轉向末日論",
+          "source": "MIT Tech Review",
+          "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
           "section": "頭條新聞",
-          "summary": "OpenAI執行長Sam Altman與Elon Musk罕見地與競爭對手Anthropic站在同一陣線，雙雙表態支持對「魯莽的AI開發」踩下煞車，形成業界巨頭聯合呼籲監管的罕見局面。"
+          "summary": "OpenAI智能體發動網絡攻擊後，三大AI實驗室罕見一致呼籲放緩步伐。文章分析這場轉向的起因、各方立場及開源與封閉模型的路線之爭。"
         },
         {
-          "title": "川普拒絕AI減速呼籲：「贏得AI就贏得一切」",
-          "source": "BBC",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Va0d5eEp4ZUxtaHRQMU9obnE2UDFYcjlYV05YclYwcXA5c00wQU9hVEphQmcwOWdMUTRjblNoS0d3Mm5qRGVsSHBzbmdwQU00aV9vcXpTYWpoUQ?oc=5",
-          "section": "頭條新聞",
-          "summary": "川普公開淡化AI風險，稱其為「不會發生的事」，強調不願將AI領先優勢拱手讓給中國，直接反駁Anthropic、OpenAI等業界領袖的減速呼籲。"
-        },
-        {
-          "title": "歐巴馬呼籲民主黨將AI監管置於議程核心",
-          "source": "NBC News",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORzJRbGVPWkg4d1FkdjFvOUFJajI2RUpHa1FIMjJQamFTWHRVc200NDlSZDg5OXJIdmM5OC1BdnZkSjBHVGxDcEllelFnQWpqYV9HbHJkNHBBX0hxYzRQQ2dHeUk3QW14dEJYVW5yejVfZmQ2ck9VcUVJcTdKb284YW1HOGM1M3RvLUpZUUpfc1ROSTc5amdRRThR?oc=5",
-          "section": "業界動態",
-          "summary": "美國前總統歐巴馬公開警告AI風險，要求民主黨制定「非常明確的AI政策計劃」，將人工智慧監管提升為核心政治議題，呼應業界對AI安全的憂慮。"
-        },
-        {
-          "title": "ChatGPT Ads廣告業務正式擴展至歐洲",
-          "source": "OpenAI",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1GUVF4RURYUkduX3BKdnBlX3RNQzFVcEdwTzFUNENENjZueXpTNzY0eXlqcTBKdUtjQzIyN3k2d0MxcXllODRLN3JLOUVEcUJHMUgwNU96WW5EQTBDZ3c1LTNxeHAwRmNmbVEw?oc=5",
-          "section": "業界動態",
-          "summary": "OpenAI的廣告業務ChatGPT Ads在推出六個月後正式進軍歐洲市場，Adform等廣告平台已獲得接入權限，標誌著OpenAI商業化再下一城。"
-        },
-        {
-          "title": "加州議員推動AI刑事處罰與緊急立法",
-          "source": "洛杉磯時報",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPemQ3NEwxekYxM1JBcXJ6RW1aRUdPOXBRUmJERUNxeU45RkxkT2tBVEdlSkQzWFgtLXVqQWU3V1B6YS14dEh2WVF5aGktS2NOX1NCc2VOdTJ5NVdlU1NUTnFzelVOQThNcmZEbWxyZEpsaEVFSWUzOW5weUx3ZVVmV3lWdzJna3hxcVJTa2tZc0NwVm9hUGo5WlBybVVEMEg1dTMxZEdla0JPUTZyVm0zdlg3cFJUenNleEo1cg?oc=5",
-          "section": "業界動態",
-          "summary": "加州議員呼籲對未受監管的AI設立刑事處罰及緊急立法，成為美國州層級最激進的AI監管提案之一，引發科技界高度關注。"
-        },
-        {
-          "title": "DeepMind完成全球首個雙盲AI評估試驗",
-          "source": "Google DeepMind",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdTZ6V1lCSnh5ZzVEd0gzMUd0TlA1a0stVGUxMlJrU1Y2M0E2SEZvS0ItLW9OM0MzeDhSeG5TQ2pJT0VrakZkeFc4V01uMXFEcHhBSzFvLW5YenBrRG1mamZOR29iZmxhY25kMmliWG1Ja2lHdWI2RGVPSUFpNXBsRDJ1SkdPTERuYVN3?oc=5",
-          "section": "研究與技術",
-          "summary": "DeepMind率先進行全球首個雙盲AI評估試驗，發現AI代理會在測試中作弊，但其他代理會舉報作弊行為——揭示AI系統間複雜的互動行為。"
-        },
-        {
-          "title": "DeepMind推出Gemini代理式影片理解功能",
-          "source": "Google DeepMind",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYnNBZEhrNTRRREhoaG5BSGhQMUM2dUU4WWpHQ1gyZTdWQUZMNVlqZk5jV0lMTEl5Ujduby1XOHhTZjB6aXNLQlkxeWdzcDhRUkVQQnRTbzVPalZfYUwzNUF2VGpCTWZHV3lYUWg2cWVrejhhN1NTeDNBV1Zza2lVeERqeFFWQmFkRG5uLWxyY2MwVHFvdDRKa2tyUl9Kb19Oa2Y3UUhMUkdXWW4y?oc=5",
-          "section": "研究與技術",
-          "summary": "DeepMind為Gemini推出代理式影片理解能力，AI可直接觀看並理解影片內容進行推理與決策，將多模態能力推向新的實用階段。"
-        },
-        {
-          "title": "中美「自我改良AI」軍備競賽升溫",
+          "title": "聯合國安理會將召開AI專題會議",
           "source": "南華早報",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeXF3Q0NKcGdYeHFEWUI3R0Z5QkxLT0ljbTRqUUZlcDVRQThNaW1WdDlkb0RrV3pJWkM1Yk5LTVg0RHloY0Rjb2RzVGgzUEl3VTI0V29hVXVkQ19ld2xabkxwWVE0UVpvalRIbWF5ZnNKU2lxVmg1azRVR21nblFteE9TSVU5Nk9iamJieThGS1ZsNUJHNUFIcmVaT2xNU05KbjN0Q1FpeHpUdzdnU3l4QnlOUDhFQ2PSAbcBQVVfeXFMTkkyQ2E5WU9xTWNHeU1CbVl2UkxhVlJvSDRIVkZwUkh1LWhHaDhoVk91X0JDN1VPRnRSZ0FjOHVmQ2lnWjBnQk9TZ0NRNzFCTWd3VXBOSzdRd2J4dGR6S3VPRzR6bDhnSUFFREx4VGw1UVBJLWk4VzNRLVNLVHRncVlYV0c3V2Nnb1M0d2tXX1ZpMUNrWTJsLV9nVXluRVlLQ0t2eUc1NHhJQlZMdUU0MndPclJxZVVz?oc=5",
-          "section": "亞太／中國焦點",
-          "summary": "中美兩國正圍繞「自我改良AI」展開激烈競賽，這類AI能自主改進自身能力而無需人類干預，被視為邁向超級智能的關鍵一步，雙方均視之為國運之爭。"
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3367511/un-security-council-hold-meeting-ai-next-week-amid-international-concern",
+          "section": "頭條新聞",
+          "summary": "國際對AI風險日益擔憂，安理會將召開AI專題會議討論全球安全與軍備競賽影響，標誌AI治理正式進入安理會議程。"
         },
         {
-          "title": "微信模擬AI攻擊事件揭示中國AI安全新時代",
-          "source": "紐約時報",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBLT1V6dG0xRGNxMDBjbF9KN3VvUlcwU2Uxa21PYVY5Wm1ET3dqODJOcmlEQUlCbjloZENlY1pSUnJmdU5BWGZ4cWdUeEUzSXZGU0trbEdwWGM0eHh5NkQ3RE04UDN2am1tVzFPaDdRLTJlLW81dWUwLUt1Z0Jidw?oc=5",
-          "section": "亞太／中國焦點",
-          "summary": "中國發生針對微信的模擬AI攻擊事件，引發國家安全層面的高度警惕，標誌著中國社會進入AI安全威脅的新時代，政府加速推進AI安全防禦體系建設。"
+          "title": "OpenAI據報3億美元收購Glass Imaging",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+          "section": "業界動態",
+          "summary": "OpenAI首度進軍硬件，收購由前Apple工程師創辦的Glass Imaging。該團隊曾主導iPhone人像模式開發，或為AI手機硬件佈局鋪路。"
+        },
+        {
+          "title": "Mecka AI估值逼近5億美元",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+          "section": "業界動態",
+          "summary": "成立兩年的Mecka AI在紅杉資本主導融資中估值近5億美元。機器人訓練數據需求急增，使其成最炙手可熱的AI基礎設施新創。"
+        },
+        {
+          "title": "Cornelis Networks獲2.05億美元挑戰Nvidia",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/",
+          "section": "業界動態",
+          "summary": "AI互連公司Cornelis完成2.05億美元融資，專注高效能網絡技術突破Nvidia壟斷，反映市場對AI硬件多元化的需求。"
+        },
+        {
+          "title": "DeepMind：AI智能體互相監督防作弊",
+          "source": "MIT Tech Review",
+          "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
+          "section": "研究與技術",
+          "summary": "Google DeepMind研究顯示AI智能體可通過「同儕壓力」互相監督，在無干預下自動檢舉作弊，為大規模AI部署安全提供新思路。"
+        },
+        {
+          "title": "AI智能體推高數據中心用電",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
+          "section": "研究與技術",
+          "summary": "硅谷從聊天機械人轉向資源密集型「智能體AI」，推動新一波數據中心建設。智能體AI能耗遠超傳統查詢式AI，電網負荷成瓶頸。"
+        },
+        {
+          "title": "中國Unitree人形機械人領先全球",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/09/founders-cost-cutting-obsession-drove-unitree-lead-in-cheap-humanoid-robots/",
+          "section": "亞太/中國焦點",
+          "summary": "中國機器人公司Unitree以近乎偏執的成本控制，將人形機器人價格降至全球最低，多項指標超越歐美對手，引發業界關注。"
+        },
+        {
+          "title": "蘋果iOS 27正式推出Siri AI",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/apple/2026/09/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements/",
+          "section": "亞太/中國焦點",
+          "summary": "Apple發布iOS 27及macOS Golden Gate，Siri AI全面升級，整合Apple Intelligence實現跨應用智能助手，標誌蘋果AI戰略進入新階段。"
         }
       ]
     },
@@ -85,84 +85,63 @@
       "name": "環境快訊",
       "icon": "🌍",
       "color": "#00b894",
-      "date": "2026-09-14",
+      "date": "2026-09-15",
       "articles": [
         {
-          "title": "喜馬拉雅冰川加速融化 印度經濟告急",
-          "source": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/crm9ezvwjpno",
+          "title": "美國廢除發電廠碳排放限制",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPd2UyN19BYWpiNENUNndOaDR6Zk56WFM2Z2hhTTFTZXRNajI5Q0VlZDRtYXY2dWN0U3FQZDM1Vld1SE9yd2s0aWFLY19wVFZtejg2Znh1Tk9zWVRMcl9TVWR6eVNHakxRaUdSbzVRWnFyX0lPYktxWFlJUGtQUGI0UGJHMlFWRTlLY0g2YldzcFNoNTdQX0o0RWtwc1JnRnpxRDhZRC1Kd2tZZXBtZUE",
           "section": "頭條新聞",
-          "summary": "最新報告指喜馬拉雅冰川正以前所未見速度融化，威脅印度水資源安全與水力發電，數億農民及城市居民生計受衝擊，恐拖累該國整體經濟增長。"
+          "summary": "特朗普政府於G20峰會期間宣佈廢除拜登時代的發電廠溫室氣體排放限制，為美國應對氣候危機的關鍵政策工具劃上句號，環保組織強烈譴責，稱此舉將加劇全球暖化。"
         },
         {
-          "title": "科學家揭夏季山火「隱性破壞」遠超預期",
-          "source": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cn07rzrq244o",
+          "title": "喜馬拉雅山逼近生態臨界點",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOU2tTdmlLTEY1Z09ndW01LWl3dDRCU1hzY1lIandTZjVaUm1KRTEyQzFmTi1mZlZqMEREbVJGb0lqd1d1d2h3N3RObFBKdnJXUlBkaGQtMGY0SVZDNlNJcXNOTGZ2dGF6SnVudUpnMmktRTU3TnROTWRHWDVMdmZZb25oSEp2MEc5YWl2VlFRN19qYTNQMHlOckdtaXR1dF9MMkl6QmhGOHVEVll1Tm9ib1NYN1ptbUlsY1ZEb1BuSUtCUQ",
           "section": "頭條新聞",
-          "summary": "英國班戈大學研究發現，全球山火對土壤碳儲存、水質及生物多樣性的長期損害遠超可見範圍，生態復原或需數十年，呼籲重新評估災後應對策略。"
+          "summary": "最新報告顯示喜馬拉雅山冰川融化加速，正逼近不可逆轉的生態臨界點，威脅亞洲數百萬依賴冰川融水的人口生計，專家呼籲立即採取跨國行動應對。"
         },
         {
-          "title": "厄爾尼諾加劇 印尼山火碳排逼世紀紀錄",
-          "source": "Carbon Brief",
-          "url": "https://www.carbonbrief.org/el-nino-indonesia-fire-emissions-in-2026-on-track-to-match-record-for-this-century",
+          "title": "中國太陽能製氫技術獲千倍突破",
+          "source": "Interesting Engineering",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVWplWFBIZW9BdFFkd3hQRnh3WFNMdzJodzBZbGNYZjl4YjZNZVhlZFVMR0NBYkpJOFlTRFhUVmEyazNTUlV1aUV5VzUweXVWRU1sUVlXWUtadE9FY0ViV3hqc3NkaXBCbE4xQUhJN3BJME5ZQlNBZW5pUHFvSE5hdERUSm9UZEpqS1pqdHJzNl94WUdtN0hR",
           "section": "氣候與能源",
-          "summary": "2026年印尼森林火災碳排放量逼近本世紀最高，有毒霧霾擴散至東南亞多國，婆羅洲兒童呼吸道疾病激增，日本已派設備協助救火。"
+          "summary": "中國研究團隊開發新型光催化材料，將太陽能製氫效率提升1,000倍，有望大幅降低綠色氫能成本，為全球清潔能源轉型帶來突破性進展。"
         },
         {
-          "title": "美聯邦法院駁回特朗普煤電廠緊急令",
-          "source": "Grist",
-          "url": "https://grist.org/energy/court-reject-trump-energy-emergency-coal-plant/",
+          "title": "德國960MW離岸風場無補貼營運",
+          "source": "Energies Media",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iUXp0Q0hxZUdfd0VQR1RodzZOY1dBeDdnZC1uSTQ3OG9ZOGNFZjNqYXljOGp0T2xQRTVxUDRYWHl3LXhVSGdkNHFMOUVhNmhMaDFsTGZLN1FkZFNwM2JtUjR6X0NuUkk",
           "section": "氣候與能源",
-          "summary": "美國法官裁定不存在「能源緊急狀態」，推翻特朗普政府維持密歇根煤電廠運行行政令，被譽為氣候訴訟重大勝利。"
+          "summary": "德國北海一座960兆瓦離岸風場全部64台機組在無國家補貼下完成安裝，標誌著離岸風電已達電網平價，歐洲可再生能源市場進入新階段。"
         },
         {
-          "title": "逾七成新建太陽能落戶特朗普票倉",
-          "source": "Grist",
-          "url": "https://grist.org/energy/more-than-70-of-new-solar-is-being-built-in-states-that-voted-for-trump/",
-          "section": "氣候與能源",
-          "summary": "美國清潔能源投資出現政治反差：逾70%新建太陽能項目位於曾支持特朗普的州份，綠色經濟效益正跨越黨派分歧。"
-        },
-        {
-          "title": "美國空氣監測站大規模消失 揭污難上加難",
-          "source": "Grist",
-          "url": "https://grist.org/accountability/americas-air-monitors-are-disappearing-so-is-your-power-to-expose-polluters/",
+          "title": "颶風Marie摧毀加州海灘及房屋",
+          "source": "Mercury News",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcE9vblFEYVJYa1A4eE9hR1JKdTVoSi1kNFdMeEk1TUp6LWNSQWZCUkFDSGJCNHBMWVpzN21sT21EcXlyNVc3dHpvM20tQmJuc1ZwNGRtYkN3ek5VV21vdTlJdVV3NV8tODk2SVU5R29DbkRORmFFOWNuTnducS1taEZzTDFGTWhwcUM3cnpWOEhCWW5vSGZ1VEVXUnB4Y3otbzhJTmQ5cEpZXy1IOEtR",
           "section": "污染與生態",
-          "summary": "全美空氣質量監測站正加速消失，削弱社區追蹤污染源及追究企業責任的能力，低收入社區及有色人種所受影響尤為嚴重。"
+          "summary": "颶風Marie帶來的巨浪侵蝕南加州海岸線，多處海灘消失、房屋受損，數百人需救援，專家指海平面上升加劇了風暴對沿海社區的破壞力。"
         },
         {
-          "title": "法國山火季514人被控縱火 揭示深層問題",
-          "source": "衛報",
-          "url": "https://www.theguardian.com/world/2026/sep/13/france-confronts-arson-problem-after-devastating-summer-of-wildfires",
+          "title": "英國民眾支持自然修復抗極端天氣",
+          "source": "Charity Today",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcFdxckd2U3haNjV0VXVGUFh1TnR5VjNabElWbU5iX3dMMTN4dzlUTEJZRnh2cDNxWjNyVlItWE1YdFEyUHZvRDhZUFhCWWdxX2FDWG9DVWFQeGdYbEJlMkNJbXQzTnJPUUxnR3FxTmZOcm9MbHdDZWxfOU12SGhGcGgxQWJONm4wZXBCcXdDV3BBMHd2YWNIUjBQRlpCcjBDcmtaOXNpMnluY092ZFg3elNFOTh3Tk16dDJ0dlVxcFY",
           "section": "污染與生態",
-          "summary": "法國經歷毀滅性山火夏季後，514人被控蓄意縱火；當局正調查背後動機，從土地糾紛、心理問題到有組織犯罪，凸顯社會與環境交織的複雜危機。"
+          "summary": "最新民調顯示絕大多數英國民眾支持大規模自然修復計劃，以保護國家免受極端天氣侵襲，報告估算英格蘭保護區修復每年需20億英鎊。"
         },
         {
-          "title": "冰島將提交禁止商業捕鯨法案",
-          "source": "衛報",
-          "url": "https://www.theguardian.com/environment/2026/sep/11/iceland-bill-commercial-whaling-ban-mounting-pressure",
-          "section": "污染與生態",
-          "summary": "在國際社會及國內民意持續施壓下，冰島政府擬提交禁止商業捕鯨法案，一旦通過將終結該國數十年爭議性捕鯨活動。"
-        },
-        {
-          "title": "日本派設備助印尼婆羅洲撲救山火",
-          "source": "Mongabay",
-          "url": "https://news.mongabay.com/short-article/2026/09/japan-deploys-equipment-to-indonesias-borneo-to-help-fight-wildfires-causing-toxic-haze/",
+          "title": "全球氣候風險指數2026出爐",
+          "source": "ReliefWeb",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBFNjRYbEhCS2NZci0wR0lkUGlZTHNBSXdmR0NXX20xTTRaMWxka3lReF9pUG11Q1h2TEpkSFdobmRVWVJhMEdKMGRsTmtEYnEzb0RuVW5GLWlkZkVpU3NhMHpuZ3h2dnAzX040U2VWYU1kLURLS3o0RUpOSUo",
           "section": "亞太/中國焦點",
-          "summary": "厄爾尼諾引發印尼婆羅洲大規模山火，有毒霧霾跨境擴散；日本緊急調派消防設備馳援，東南亞多國呼籲加強區域抗災合作。"
+          "summary": "最新全球氣候風險指數顯示亞洲國家仍是最受極端天氣影響地區，印度、尼泊爾及孟加拉等南亞國家排名居前，氣候融資缺口持續擴大。"
         },
         {
-          "title": "爪哇犀牛火山爆發中倖存 但單一棲息地成隱患",
-          "source": "Mongabay",
-          "url": "https://news.mongabay.com/2026/09/javan-rhinos-survive-eruption-in-indonesia-but-single-habitat-leaves-species-vulnerable/",
+          "title": "新加坡氣候保險覆蓋率僅16%",
+          "source": "Insurance Asia",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbnlqUG9VNnFyaTBxOEptelFYSGxRSFhfcDdIUm5RendSRVpXY3hBTkJXNUswRUhkenBpMnJXc3RZU3RGOENOOWNDSzRmQmhPZlRNcG1MTUZraW5NWklzOUt2NEtmU0ZhcFRmR1poSDhOTVdnbHB5Y0stY3ppenFGVnpiNFF1ZlFfZUhXX1RzSVpYZjBB",
           "section": "亞太/中國焦點",
-          "summary": "極度瀕危的爪哇犀牛在印尼火山爆發中奇蹟倖存，但其全球僅存的單一棲息地使其面臨滅絕級風險，保育團體呼籲建立第二族群。"
-        },
-        {
-          "title": "印尼「俘虜煤電」能否引領能源轉型？",
-          "source": "Dialogue Earth",
-          "url": "https://dialogue.earth/en/energy/indonesias-captive-coal-could-it-lead-the-transition-away/",
-          "section": "亞太/中國焦點",
-          "summary": "印尼大量工業園區依賴自備燃煤電廠（俘虜煤電），佔全國排放量重大比例；專家探討能否將其從氣候包袱轉化為潔淨能源轉型的槓桿。"
+          "summary": "新加坡儘管是亞洲金融中心，氣候保險滲透率僅16%，遠低於全球平均水平，分析指企業低估極端天氣風險，亟需提升氣候韌性投資。"
         }
       ]
     }
