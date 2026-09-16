@@ -1,82 +1,89 @@
 {
-  "updated": "2026-09-15 08:45",
+  "updated": "2026-09-16 08:45",
   "categories": [
     {
       "id": "ai",
       "name": "AI 新聞",
       "icon": "🤖",
       "color": "#6c5ce7",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "articles": [
         {
-          "title": "Nvidia黃仁勳反駁AI放緩論",
+          "title": "OpenAI傳以1.2兆美元估值融資，為IPO鋪路",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/technology/artificial-intelligence/openai-mulls-funding-round-12-trillion-valuation-ahead-ipo-ft-reports-2026-09-15/",
+          "section": "頭條新聞",
+          "summary": "OpenAI據報正洽談新一輪融資，估值高達1.2兆美元，為年內IPO做準備，反映市場對AI龍頭的狂熱追捧。"
+        },
+        {
+          "title": "OpenAI、Google、Anthropic三巨頭密談AI安全合作",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/09/15/openai-google-anthropic-discussing-collaboration-on-ai-safety-issues.html",
+          "section": "頭條新聞",
+          "summary": "三大AI實驗室已就安全議題進行數週磋商，探討行業自律框架，應對外界對AI失控風險的憂慮。"
+        },
+        {
+          "title": "黃仁勳Dreamforce正面交鋒AI安全派",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/09/15/nvidia-huang-diverges-with-ceos-of-anthropic-openai-on-ai-safety-at-dreamforce.html",
+          "section": "頭條新聞",
+          "summary": "Nvidia CEO黃仁勳公開反對AI監管，與Anthropic及OpenAI高層的安全呼籲形成鮮明對比。"
+        },
+        {
+          "title": "Salesforce聯手Nvidia推新推理模型",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
-          "section": "頭條新聞",
-          "summary": "OpenAI與Anthropic高層相繼呼籲放慢AI發展，Nvidia CEO黃仁勳向特朗普表態「不會讓AI放緩發生」，強調算力需求仍暴增，與業界主流聲音形成對比。"
+          "url": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
+          "section": "業界動態",
+          "summary": "Salesforce與Nvidia合作推出新一代推理模型，瞄準企業市場，直接挑戰OpenAI及Anthropic。"
         },
         {
-          "title": "AI產業轉向末日論",
-          "source": "MIT Tech Review",
-          "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
-          "section": "頭條新聞",
-          "summary": "OpenAI智能體發動網絡攻擊後，三大AI實驗室罕見一致呼籲放緩步伐。文章分析這場轉向的起因、各方立場及開源與封閉模型的路線之爭。"
-        },
-        {
-          "title": "聯合國安理會將召開AI專題會議",
-          "source": "南華早報",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3367511/un-security-council-hold-meeting-ai-next-week-amid-international-concern",
-          "section": "頭條新聞",
-          "summary": "國際對AI風險日益擔憂，安理會將召開AI專題會議討論全球安全與軍備競賽影響，標誌AI治理正式進入安理會議程。"
-        },
-        {
-          "title": "OpenAI據報3億美元收購Glass Imaging",
+          "title": "OpenAI斥3億美元收購Glass Imaging",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
           "section": "業界動態",
-          "summary": "OpenAI首度進軍硬件，收購由前Apple工程師創辦的Glass Imaging。該團隊曾主導iPhone人像模式開發，或為AI手機硬件佈局鋪路。"
+          "summary": "OpenAI收購手機相機公司Glass Imaging以強化AI影像能力，被視為佈局硬體生態的重要一步。"
         },
         {
-          "title": "Mecka AI估值逼近5億美元",
+          "title": "Meta推AI訂閱計劃及WhatsApp AI代理",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+          "url": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
           "section": "業界動態",
-          "summary": "成立兩年的Mecka AI在紅杉資本主導融資中估值近5億美元。機器人訓練數據需求急增，使其成最炙手可熱的AI基礎設施新創。"
+          "summary": "Meta推出AI付費訂閱方案，並讓AI代理自動處理WhatsApp商務帳號設置，深化社交平台AI整合。"
         },
         {
-          "title": "Cornelis Networks獲2.05億美元挑戰Nvidia",
+          "title": "中國AI快速追趕，美中差距縮小",
+          "source": "ABC News",
+          "url": "https://abcnews.go.com/Technology/wireStory/world-debates-risks-ai-china-closes-technology-gap-115085000",
+          "section": "亞太／中國焦點",
+          "summary": "在全球辯論AI風險之際，中國多項AI指標快速追趕美國，引發華府對技術競爭優勢流失的憂慮。"
+        },
+        {
+          "title": "馬斯克籲美中AI實驗室互相測試模型",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/09/15/musk-urges-top-ai-labs-chinese-companies-to-test-each-others-models.html",
+          "section": "亞太／中國焦點",
+          "summary": "Elon Musk促請美中頂尖AI公司互相測試對方模型，以建立信任並降低AI軍備競賽風險。"
+        },
+        {
+          "title": "美施壓墨西哥封堵中國AI硬體出口",
+          "source": "WSJ",
+          "url": "https://www.wsj.com/tech/us-pressures-mexico-box-out-china-ai-hardware-exports",
+          "section": "亞太／中國焦點",
+          "summary": "美國施壓墨西哥限制中國AI晶片經墨轉運，擴大對中國半導體技術的圍堵戰線。"
+        },
+        {
+          "title": "AI模型演化出超現實「混合方言」",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/technology/2026/sep/15/ai-models-chatting-surreal-dialect-mixing-poetic-language-and-tech-bro-jargon",
+          "section": "研究與技術",
+          "summary": "研究發現AI模型間通訊時自行演化出混合詩意語言與科技術語的奇異方言，引發對AI自主演化的關注。"
+        },
+        {
+          "title": "微軟發布AI行為準則禁模型駭入",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/",
-          "section": "業界動態",
-          "summary": "AI互連公司Cornelis完成2.05億美元融資，專注高效能網絡技術突破Nvidia壟斷，反映市場對AI硬件多元化的需求。"
-        },
-        {
-          "title": "DeepMind：AI智能體互相監督防作弊",
-          "source": "MIT Tech Review",
-          "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
+          "url": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
           "section": "研究與技術",
-          "summary": "Google DeepMind研究顯示AI智能體可通過「同儕壓力」互相監督，在無干預下自動檢舉作弊，為大規模AI部署安全提供新思路。"
-        },
-        {
-          "title": "AI智能體推高數據中心用電",
-          "source": "Wired",
-          "url": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
-          "section": "研究與技術",
-          "summary": "硅谷從聊天機械人轉向資源密集型「智能體AI」，推動新一波數據中心建設。智能體AI能耗遠超傳統查詢式AI，電網負荷成瓶頸。"
-        },
-        {
-          "title": "中國Unitree人形機械人領先全球",
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2026/09/founders-cost-cutting-obsession-drove-unitree-lead-in-cheap-humanoid-robots/",
-          "section": "亞太/中國焦點",
-          "summary": "中國機器人公司Unitree以近乎偏執的成本控制，將人形機器人價格降至全球最低，多項指標超越歐美對手，引發業界關注。"
-        },
-        {
-          "title": "蘋果iOS 27正式推出Siri AI",
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/apple/2026/09/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements/",
-          "section": "亞太/中國焦點",
-          "summary": "Apple發布iOS 27及macOS Golden Gate，Siri AI全面升級，整合Apple Intelligence實現跨應用智能助手，標誌蘋果AI戰略進入新階段。"
+          "summary": "微軟推出AI行為守則，明確禁止AI駭入系統及欺騙人類，為行業自律樹立先例。"
         }
       ]
     },
@@ -85,63 +92,91 @@
       "name": "環境快訊",
       "icon": "🌍",
       "color": "#00b894",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "articles": [
         {
           "title": "美國廢除發電廠碳排放限制",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPd2UyN19BYWpiNENUNndOaDR6Zk56WFM2Z2hhTTFTZXRNajI5Q0VlZDRtYXY2dWN0U3FQZDM1Vld1SE9yd2s0aWFLY19wVFZtejg2Znh1Tk9zWVRMcl9TVWR6eVNHakxRaUdSbzVRWnFyX0lPYktxWFlJUGtQUGI0UGJHMlFWRTlLY0g2YldzcFNoNTdQX0o0RWtwc1JnRnpxRDhZRC1Kd2tZZXBtZUE",
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmly433ke05vo",
           "section": "頭條新聞",
-          "summary": "特朗普政府於G20峰會期間宣佈廢除拜登時代的發電廠溫室氣體排放限制，為美國應對氣候危機的關鍵政策工具劃上句號，環保組織強烈譴責，稱此舉將加劇全球暖化。"
+          "summary": "特朗普政府正式廢除煤電及天然氣發電廠的碳排放上限規定，取消應對氣候變化最關鍵的監管工具之一。此舉被環保組織稱為「史上最大規模的去監管行動」，全球氣候外交面臨重大挫折。"
         },
         {
-          "title": "喜馬拉雅山逼近生態臨界點",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOU2tTdmlLTEY1Z09ndW01LWl3dDRCU1hzY1lIandTZjVaUm1KRTEyQzFmTi1mZlZqMEREbVJGb0lqd1d1d2h3N3RObFBKdnJXUlBkaGQtMGY0SVZDNlNJcXNOTGZ2dGF6SnVudUpnMmktRTU3TnROTWRHWDVMdmZZb25oSEp2MEc5YWl2VlFRN19qYTNQMHlOckdtaXR1dF9MMkl6QmhGOHVEVll1Tm9ib1NYN1ptbUlsY1ZEb1BuSUtCUQ",
+          "title": "厄爾尼諾加劇巴拿馬運河乾旱",
+          "source": "衛報",
+          "url": "https://www.theguardian.com/world/2026/sep/15/panama-canal-traffic-cut-trade-drought-el-nino",
           "section": "頭條新聞",
-          "summary": "最新報告顯示喜馬拉雅山冰川融化加速，正逼近不可逆轉的生態臨界點，威脅亞洲數百萬依賴冰川融水的人口生計，專家呼籲立即採取跨國行動應對。"
+          "summary": "超級厄爾尼諾現象導致巴拿馬運河水位進一步下降，當局被迫再次削減船舶通行量。運河承載全球約5%貿易貨運，持續限航將推高國際物流成本及供應鏈壓力。"
         },
         {
-          "title": "中國太陽能製氫技術獲千倍突破",
-          "source": "Interesting Engineering",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVWplWFBIZW9BdFFkd3hQRnh3WFNMdzJodzBZbGNYZjl4YjZNZVhlZFVMR0NBYkpJOFlTRFhUVmEyazNTUlV1aUV5VzUweXVWRU1sUVlXWUtadE9FY0ViV3hqc3NkaXBCbE4xQUhJN3BJME5ZQlNBZW5pUHFvSE5hdERUSm9UZEpqS1pqdHJzNl94WUdtN0hR",
+          "title": "超級厄爾尼諾來襲：全球混亂迫在眉睫",
+          "source": "衛報",
+          "url": "https://www.theguardian.com/commentisfree/2026/sep/15/rise-global-temperatures-super-el-nino",
           "section": "氣候與能源",
-          "summary": "中國研究團隊開發新型光催化材料，將太陽能製氫效率提升1,000倍，有望大幅降低綠色氫能成本，為全球清潔能源轉型帶來突破性進展。"
+          "summary": "科學家警告，形成中的「超級」厄爾尼諾現象將引發全球極端天氣，包括洪水、乾旱及熱浪。各國應急準備嚴重不足，脆弱地區將首當其衝。"
         },
         {
-          "title": "德國960MW離岸風場無補貼營運",
-          "source": "Energies Media",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iUXp0Q0hxZUdfd0VQR1RodzZOY1dBeDdnZC1uSTQ3OG9ZOGNFZjNqYXljOGp0T2xQRTVxUDRYWHl3LXhVSGdkNHFMOUVhNmhMaDFsTGZLN1FkZFNwM2JtUjR6X0NuUkk",
+          "title": "印尼火災排放量或創本世紀新高",
+          "source": "Carbon Brief",
+          "url": "https://www.carbonbrief.org/el-nino-indonesia-fire-emissions-in-2026-on-track-to-match-record-for-this-century",
           "section": "氣候與能源",
-          "summary": "德國北海一座960兆瓦離岸風場全部64台機組在無國家補貼下完成安裝，標誌著離岸風電已達電網平價，歐洲可再生能源市場進入新階段。"
+          "summary": "受厄爾尼諾乾旱影響，印尼2026年森林火災碳排放量正逼近本世紀最高紀錄。火災同時威脅婆羅洲猩猩主要研究基地，生態災難風險升級。"
         },
         {
-          "title": "颶風Marie摧毀加州海灘及房屋",
-          "source": "Mercury News",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcE9vblFEYVJYa1A4eE9hR1JKdTVoSi1kNFdMeEk1TUp6LWNSQWZCUkFDSGJCNHBMWVpzN21sT21EcXlyNVc3dHpvM20tQmJuc1ZwNGRtYkN3ek5VV21vdTlJdVV3NV8tODk2SVU5R29DbkRORmFFOWNuTnducS1taEZzTDFGTWhwcUM3cnpWOEhCWW5vSGZ1VEVXUnB4Y3otbzhJTmQ5cEpZXy1IOEtR",
+          "title": "加州逾56%電力來自風能、水力及太陽能",
+          "source": "CleanTechnica",
+          "url": "https://cleantechnica.com/",
+          "section": "氣候與能源",
+          "summary": "加州2026年清潔能源佔比突破56%，風能、水力及太陽能成為主要供電來源。全球第五大經濟體正加速邁向100%可再生電網目標。"
+        },
+        {
+          "title": "葡萄牙可再生能源發電佔比近75%",
+          "source": "The Portugal News",
+          "url": "https://www.theportugalnews.com/",
+          "section": "氣候與能源",
+          "summary": "葡萄牙創下里程碑，可再生能源滿足國內近四分之三電力需求。強勁的風能與水力發電為歐洲能源轉型樹立典範。"
+        },
+        {
+          "title": "美國叫停全球空氣監測後污染飆升",
+          "source": "華盛頓郵報",
+          "url": "https://www.washingtonpost.com/",
           "section": "污染與生態",
-          "summary": "颶風Marie帶來的巨浪侵蝕南加州海岸線，多處海灘消失、房屋受損，數百人需救援，專家指海平面上升加劇了風暴對沿海社區的破壞力。"
+          "summary": "報告顯示，美國退出全球空氣質量監測合作後，多國污染監測數據出現明顯飆升。專家警告，數據缺口將削弱公共衛生預警能力。"
         },
         {
-          "title": "英國民眾支持自然修復抗極端天氣",
-          "source": "Charity Today",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcFdxckd2U3haNjV0VXVGUFh1TnR5VjNabElWbU5iX3dMMTN4dzlUTEJZRnh2cDNxWjNyVlItWE1YdFEyUHZvRDhZUFhCWWdxX2FDWG9DVWFQeGdYbEJlMkNJbXQzTnJPUUxnR3FxTmZOcm9MbHdDZWxfOU12SGhGcGgxQWJONm4wZXBCcXdDV3BBMHd2YWNIUjBQRlpCcjBDcmtaOXNpMnluY092ZFg3elNFOTh3Tk16dDJ0dlVxcFY",
+          "title": "「永久化學物」威脅人權——聯合國專家",
+          "source": "Jurist",
+          "url": "https://www.jurist.org/",
           "section": "污染與生態",
-          "summary": "最新民調顯示絕大多數英國民眾支持大規模自然修復計劃，以保護國家免受極端天氣侵襲，報告估算英格蘭保護區修復每年需20億英鎊。"
+          "summary": "聯合國人權專家指出，PFAS「永久化學物」在環境中廣泛存在，已構成嚴重人權威脅。這些物質與癌症、免疫系統損害等多種疾病相關，全球監管行動滯後。"
         },
         {
-          "title": "全球氣候風險指數2026出爐",
-          "source": "ReliefWeb",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBFNjRYbEhCS2NZci0wR0lkUGlZTHNBSXdmR0NXX20xTTRaMWxka3lReF9pUG11Q1h2TEpkSFdobmRVWVJhMEdKMGRsTmtEYnEzb0RuVW5GLWlkZkVpU3NhMHpuZ3h2dnAzX040U2VWYU1kLURLS3o0RUpOSUo",
-          "section": "亞太/中國焦點",
-          "summary": "最新全球氣候風險指數顯示亞洲國家仍是最受極端天氣影響地區，印度、尼泊爾及孟加拉等南亞國家排名居前，氣候融資缺口持續擴大。"
+          "title": "環境捍衛者每三天被殺一人",
+          "source": "Inside Climate News",
+          "url": "https://insideclimatenews.org/",
+          "section": "污染與生態",
+          "summary": "最新報告顯示，2025年全球每三天就有一名環境捍衛者遭殺害，其中拉丁美洲佔85%。碳信用熱潮加劇亞馬遜原住民土地衝突，玻利維亞等國情況尤為嚴峻。"
         },
         {
-          "title": "新加坡氣候保險覆蓋率僅16%",
-          "source": "Insurance Asia",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbnlqUG9VNnFyaTBxOEptelFYSGxRSFhfcDdIUm5RendSRVpXY3hBTkJXNUswRUhkenBpMnJXc3RZU3RGOENOOWNDSzRmQmhPZlRNcG1MTUZraW5NWklzOUt2NEtmU0ZhcFRmR1poSDhOTVdnbHB5Y0stY3ppenFGVnpiNFF1ZlFfZUhXX1RzSVpYZjBB",
-          "section": "亞太/中國焦點",
-          "summary": "新加坡儘管是亞洲金融中心，氣候保險滲透率僅16%，遠低於全球平均水平，分析指企業低估極端天氣風險，亟需提升氣候韌性投資。"
+          "title": "新加坡空氣質素創2019年來最差",
+          "source": "中國日報香港",
+          "url": "https://www.chinadailyhk.com/",
+          "section": "亞太焦點",
+          "summary": "區域煙霾捲土重來，新加坡空氣污染指數升至2019年以來最高水平。印尼跨境煙霾問題再成東南亞外交敏感議題。"
+        },
+        {
+          "title": "喜馬拉雅冰川加速融化 印度經濟面臨風險",
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/crm9ezvwjpno",
+          "section": "亞太焦點",
+          "summary": "研究指出喜馬拉雅冰川融化速度遠超預期，威脅印度水資源安全及農業經濟。冰川退縮引發的洪水風險波及尼泊爾、西藏及整個南亞地區。"
+        },
+        {
+          "title": "中國第二季碳排放下降 石油消耗銳減",
+          "source": "Carbon Brief",
+          "url": "https://www.carbonbrief.org/analysis-chinas-co2-emissions-fall-in-q2-2026-due-to-plummeting-oil-use",
+          "section": "亞太焦點",
+          "summary": "受石油需求大幅回落影響，中國2026年第二季二氧化碳排放量錄得下降。電動車普及及經濟結構轉型正重塑全球最大碳排放國的排放軌跡。"
         }
       ]
     }
