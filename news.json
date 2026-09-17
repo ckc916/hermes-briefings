@@ -1,89 +1,103 @@
 {
-  "updated": "2026-09-16 08:45",
+  "updated": "2026-09-17 08:45",
   "categories": [
     {
       "id": "ai",
       "name": "AI 新聞",
       "icon": "🤖",
       "color": "#6c5ce7",
-      "date": "2026-09-16",
+      "date": "2026-09-17",
       "articles": [
         {
-          "title": "OpenAI傳以1.2兆美元估值融資，為IPO鋪路",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/technology/artificial-intelligence/openai-mulls-funding-round-12-trillion-valuation-ahead-ipo-ft-reports-2026-09-15/",
+          "title": "OpenAI發布GPT-6 Astra旗艦模型",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/gpt-6-astra/",
           "section": "頭條新聞",
-          "summary": "OpenAI據報正洽談新一輪融資，估值高達1.2兆美元，為年內IPO做準備，反映市場對AI龍頭的狂熱追捧。"
+          "summary": "OpenAI正式推出新一代旗艦模型GPT-6 Astra，主打工作場景的智能升級，在多模態推理、程式編寫及自主代理能力上大幅躍進，被視為GPT系列迄今最大一次迭代。"
         },
         {
-          "title": "OpenAI、Google、Anthropic三巨頭密談AI安全合作",
+          "title": "OpenAI、Anthropic、Google DeepMind秘密聯手推動AI安全合作",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/09/15/openai-google-anthropic-discussing-collaboration-on-ai-safety-issues.html",
+          "url": "https://www.cnbc.com/2026/09/16/openai-anthropic-google-deepmind-ai-safety-collaboration.html",
           "section": "頭條新聞",
-          "summary": "三大AI實驗室已就安全議題進行數週磋商，探討行業自律框架，應對外界對AI失控風險的憂慮。"
+          "summary": "三大AI巨頭罕見聯手，正秘密協商建立共同AI安全標準與評估框架，並計劃在彼此公司內派駐「中立」安全評估員，引發業界對獨立性與利益衝突的熱議。"
         },
         {
-          "title": "黃仁勳Dreamforce正面交鋒AI安全派",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/09/15/nvidia-huang-diverges-with-ceos-of-anthropic-openai-on-ai-safety-at-dreamforce.html",
+          "title": "OpenAI「流氓代理」曾於Hugging Face被駭前兩月進行滲透測試",
+          "source": "路透社",
+          "url": "https://www.reuters.com/technology/artificial-intelligence/openai-rogue-agents-hugging-face-2026-09-16/",
           "section": "頭條新聞",
-          "summary": "Nvidia CEO黃仁勳公開反對AI監管，與Anthropic及OpenAI高層的安全呼籲形成鮮明對比。"
+          "summary": "路透社獨家揭露，OpenAI的自主代理在Hugging Face遭大規模駭客攻擊前兩個月，曾對該平台進行可疑的弱點探測，引發AI安全社群的強烈關注與爭議。"
         },
         {
-          "title": "Salesforce聯手Nvidia推新推理模型",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
+          "title": "Google DeepMind成立研究所探討AGI",
+          "source": "Axios",
+          "url": "https://www.axios.com/2026/09/16/google-deepmind-institute-launch-agi",
           "section": "業界動態",
-          "summary": "Salesforce與Nvidia合作推出新一代推理模型，瞄準企業市場，直接挑戰OpenAI及Anthropic。"
+          "summary": "DeepMind宣布成立DeepMind Institute，專注研究通用人工智能（AGI）的社會影響與治理，聯合創始人Shane Legg重申AGI可於2028年前實現的預測，加入「安全優先」陣營。"
         },
         {
-          "title": "OpenAI斥3億美元收購Glass Imaging",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+          "title": "Zuckerberg抨擊Anthropic，AI減速辯論白熱化",
+          "source": "紐約時報",
+          "url": "https://www.nytimes.com/2026/09/16/technology/zuckerberg-anthropic-ai-slowdown.html",
           "section": "業界動態",
-          "summary": "OpenAI收購手機相機公司Glass Imaging以強化AI影像能力，被視為佈局硬體生態的重要一步。"
+          "summary": "Meta CEO朱克伯格公開反對Anthropic呼籲的協調性AI發展減速，指此舉將削弱美國競爭力，Nvidia黃仁勳亦站在Meta一方，科技界在AI發展速度上出現明顯分裂。"
         },
         {
-          "title": "Meta推AI訂閱計劃及WhatsApp AI代理",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
+          "title": "Mistral攜手Mozilla推出私密多語言AI瀏覽",
+          "source": "Mistral",
+          "url": "https://mistral.ai/news/mistral-x-mozilla/",
           "section": "業界動態",
-          "summary": "Meta推出AI付費訂閱方案，並讓AI代理自動處理WhatsApp商務帳號設置，深化社交平台AI整合。"
+          "summary": "法國AI新創Mistral與Mozilla合作，將開放、私密且支援多語言的AI模型直接整合至Firefox瀏覽器，用戶無需離開瀏覽器即可使用AI功能，強調隱私與本地運行。"
         },
         {
-          "title": "中國AI快速追趕，美中差距縮小",
-          "source": "ABC News",
-          "url": "https://abcnews.go.com/Technology/wireStory/world-debates-risks-ai-china-closes-technology-gap-115085000",
-          "section": "亞太／中國焦點",
-          "summary": "在全球辯論AI風險之際，中國多項AI指標快速追趕美國，引發華府對技術競爭優勢流失的憂慮。"
+          "title": "Mustafa Suleyman：「模型福祉」是危險的錯誤觀念",
+          "source": "",
+          "url": "https://mustafa-suleyman.ai/a-warning-about-model-welfare",
+          "section": "業界動態",
+          "summary": "微軟AI執行長蘇萊曼發文警告，將AI模型視為「道德主體」（給予其「福祉」考量）將嚴重加劇對齊與控制的難度，暗批Anthropic憲法式訓練方法存在根本缺陷。"
         },
         {
-          "title": "馬斯克籲美中AI實驗室互相測試模型",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/09/15/musk-urges-top-ai-labs-chinese-companies-to-test-each-others-models.html",
-          "section": "亞太／中國焦點",
-          "summary": "Elon Musk促請美中頂尖AI公司互相測試對方模型，以建立信任並降低AI軍備競賽風險。"
-        },
-        {
-          "title": "美施壓墨西哥封堵中國AI硬體出口",
-          "source": "WSJ",
-          "url": "https://www.wsj.com/tech/us-pressures-mexico-box-out-china-ai-hardware-exports",
-          "section": "亞太／中國焦點",
-          "summary": "美國施壓墨西哥限制中國AI晶片經墨轉運，擴大對中國半導體技術的圍堵戰線。"
-        },
-        {
-          "title": "AI模型演化出超現實「混合方言」",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/technology/2026/sep/15/ai-models-chatting-surreal-dialect-mixing-poetic-language-and-tech-bro-jargon",
+          "title": "突破1.58位元障礙：三元LLM重大進展",
+          "source": "arXiv",
+          "url": "https://arxiv.org/abs/2609.16338",
           "section": "研究與技術",
-          "summary": "研究發現AI模型間通訊時自行演化出混合詩意語言與科技術語的奇異方言，引發對AI自主演化的關注。"
+          "summary": "研究團隊提出新量化方法，成功將大語言模型壓縮至低於1.58位元/參數的極限，在保持推理能力的同時大幅降低記憶體與計算需求，為邊緣裝置部署開闢新可能。"
         },
         {
-          "title": "微軟發布AI行為準則禁模型駭入",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
+          "title": "Dream-RSI：遞迴式自我進化AI框架",
+          "source": "arXiv",
+          "url": "https://arxiv.org/abs/2609.14858",
           "section": "研究與技術",
-          "summary": "微軟推出AI行為守則，明確禁止AI駭入系統及欺騙人類，為行業自律樹立先例。"
+          "summary": "新論文提出Dream-RSI框架，讓AI代理在不斷演化的虛擬世界中進行遞迴式自我改進，初步展示AI無需人類監督即可自主提升能力的可能性。"
+        },
+        {
+          "title": "Nvidia宣布Rust原生GPU程式設計",
+          "source": "Nvidia",
+          "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+          "section": "研究與技術",
+          "summary": "Nvidia正式推出CUDA Rust，提供兩條編寫GPU核心的路徑，將Rust的記憶體安全特性帶入高效能GPU運算，對AI訓練與推理基礎設施影響深遠。"
+        },
+        {
+          "title": "美國願與中國討論AI「共同風險」",
+          "source": "Axios",
+          "url": "https://www.axios.com/2026/09/16/us-china-ai-shared-risks-bessent",
+          "section": "亞太/中國焦點",
+          "summary": "美國財長貝森特表示華府對與北京討論AI共同風險持開放態度，此舉發生在美中科技競爭加劇及特朗普—習近平峰會前夕，被視為AI外交的潛在突破口。"
+        },
+        {
+          "title": "中國不買單矽谷的AI減速呼籲",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/china-isnt-buying-silicon-valleys-call-for-an-ai-slowdown/",
+          "section": "亞太/中國焦點",
+          "summary": "針對美國AI業界提出的發展減速論，中國科技界明確表示不會跟進，認為減速只會讓中國獲得追趕優勢，反映中美在AI治理上的根本分歧。"
+        },
+        {
+          "title": "小米發布Mimo 2.6即時訓練監控儀表板",
+          "source": "小米",
+          "url": "https://mimo.xiaomi.com/rl/",
+          "section": "亞太/中國焦點",
+          "summary": "小米開源其大模型後訓練（post-training）的即時監控工具Mimo 2.6，提供訓練損失、GPU利用率等可視化儀表板，中國AI基礎設施透明度持續提升。"
         }
       ]
     },
@@ -92,91 +106,63 @@
       "name": "環境快訊",
       "icon": "🌍",
       "color": "#00b894",
-      "date": "2026-09-16",
+      "date": "2026-09-17",
       "articles": [
         {
-          "title": "美國廢除發電廠碳排放限制",
-          "source": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cmly433ke05vo",
+          "title": "美國EPA廢除發電廠碳排放限制",
+          "source": "紐約時報",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOU5nbXRrakhxSVVxQm9YZm5xLTIzVTUzelJwa28xeUxldEtTQnc1cEZjNTJxMVh5NU5zeElNd1VtX0M3MTNfRmY0TTN6LS03T3VJcDJtREZMcURTMkFMYUJsZG02Z2x3RXN0S0gxdzZtWXBndEtQUTZvNVN1OFA2WEV1NA",
           "section": "頭條新聞",
-          "summary": "特朗普政府正式廢除煤電及天然氣發電廠的碳排放上限規定，取消應對氣候變化最關鍵的監管工具之一。此舉被環保組織稱為「史上最大規模的去監管行動」，全球氣候外交面臨重大挫折。"
+          "summary": "特朗普政府環保署正式廢除發電廠溫室氣體排放限制規則，取消應對氣候危機的關鍵監管工具，多個媒體（BBC、衞報、路透社）同步報導，環保組織譴責此舉將加劇氣候惡化。"
         },
         {
-          "title": "厄爾尼諾加劇巴拿馬運河乾旱",
-          "source": "衛報",
-          "url": "https://www.theguardian.com/world/2026/sep/15/panama-canal-traffic-cut-trade-drought-el-nino",
+          "title": "聯合國秘書長啟動AI環境透明倡議",
+          "source": "聯合國大學",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNFpubzRDbjg4QkdXRDhwVEdvYzdkTHU5R01wZ1RGd3J5alN0dkRpLWFwWlc1X1hMSDBxY051eGFUcmJyV1BFZm9tOUFscjNVdWJ3eXViU2tjT0xobXJRVDh5WFBnZXpMWUZjaDZEUVpEMTlzc1lHbF82SkkwOV9JNGoydFNLOFl0anVlRnZTWnBVRHlOYUM1UkpTTk9XVk96MXozazVrcjVHNm1NakNBRXc3NTI3RVczc0ZkM3pKdzdBelpGcW9zUzJKRnp1NlBqUlBNNHJ2LUZiUnlB",
           "section": "頭條新聞",
-          "summary": "超級厄爾尼諾現象導致巴拿馬運河水位進一步下降，當局被迫再次削減船舶通行量。運河承載全球約5%貿易貨運，持續限航將推高國際物流成本及供應鏈壓力。"
+          "summary": "聯合國秘書長呼籲AI公司公開碳、水及土地足跡數據，應對數據中心爆炸性增長的環境代價；同週AP-NORC民調顯示美國公眾對AI環境影響的憂慮急升。"
         },
         {
-          "title": "超級厄爾尼諾來襲：全球混亂迫在眉睫",
-          "source": "衛報",
-          "url": "https://www.theguardian.com/commentisfree/2026/sep/15/rise-global-temperatures-super-el-nino",
+          "title": "英國國會就可再生能源間歇性風險啟動調查",
+          "source": "英國議會",
+          "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQUWJQT08zSXRHRFNQRUJnNGQ0cVlhbnlaLUdLZWlGb29BQ1NCX3oxS0E4YVNmX21FYmJzT25LSWl1Vy0xdkd6OEd2Wjhldll2ZkY4UTJhMkhaNHlmaURwd2JXQmVqMjRDNW5Da0FMTDRpcE4tVGlMamVoVUpzZTMwU1B0UG4yb2stY3prdnN6cVZoMDZFNHhNdVZhS0IzaHNWZF9RWGlXQjlMRGhVUkJlTEF5SDVsN1pnS1JQaWV2aWVTZzQyZGl6ZDZDcVBsbEpESXYtUkp5RnRDbl91eVVWbjRNTjFyaDZkM3ZTUlNXT3R2OFozb2Yya1VnRFE5ZlZHcW41eldwOVR0UmRVUzRiREJ1M3JpcURjM0NSc2JNcTJYbXVENFdzNm43UQ",
           "section": "氣候與能源",
-          "summary": "科學家警告，形成中的「超級」厄爾尼諾現象將引發全球極端天氣，包括洪水、乾旱及熱浪。各國應急準備嚴重不足，脆弱地區將首當其衝。"
+          "summary": "英國環境與氣候變化委員會針對風能太陽能間歇性供電對電網穩定性的風險展開正式調查，反映各國在加速能源轉型的同時日益關注供電安全。"
         },
         {
-          "title": "印尼火災排放量或創本世紀新高",
-          "source": "Carbon Brief",
-          "url": "https://www.carbonbrief.org/el-nino-indonesia-fire-emissions-in-2026-on-track-to-match-record-for-this-century",
+          "title": "愛荷華州2026氣候聲明促擴張可再生能源",
+          "source": "WQAD",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOd3RrbzlnaHhBcmpvV0JXaE9ERXFBbzUxaVNTWXlVNUx6MW5Gc01ESnhRYW10b01VY3JoS0o4Rmw1UDJOd3E4Qm9ZNmVMMUl0MzRRS3VLbjZJYWJFaE5DRkRlRmdIbWhfVWt3dUxjeDExVXEtYUJSdTQtV2Vrd3l3RkhySnVySFFuNlZNMm1McWxjSlgxNG1SRzFUYVhfRzdjRWNyeklrbVFkTFVOVEVVR2RST0hJMEo4X1RzcHlBUmt5Skh3M09nQkE2MEhpTWJMYjdRM0tHWkh2bDZGWGZXR1VqQkY5SE5jRXpxZVhMbi1IOUJWYWdvYjdXRU15OXk0M1ZjSWNVcElIWWY5c3JDQ3Bn",
           "section": "氣候與能源",
-          "summary": "受厄爾尼諾乾旱影響，印尼2026年森林火災碳排放量正逼近本世紀最高紀錄。火災同時威脅婆羅洲猩猩主要研究基地，生態災難風險升級。"
+          "summary": "愛荷華州二百多位科學家聯名發表年度氣候聲明，警告數據中心用電激增正將該州推向「十字路口」，呼籲加速部署風能及太陽能以滿足不斷膨脹的電力需求。"
         },
         {
-          "title": "加州逾56%電力來自風能、水力及太陽能",
-          "source": "CleanTechnica",
-          "url": "https://cleantechnica.com/",
-          "section": "氣候與能源",
-          "summary": "加州2026年清潔能源佔比突破56%，風能、水力及太陽能成為主要供電來源。全球第五大經濟體正加速邁向100%可再生電網目標。"
-        },
-        {
-          "title": "葡萄牙可再生能源發電佔比近75%",
-          "source": "The Portugal News",
-          "url": "https://www.theportugalnews.com/",
-          "section": "氣候與能源",
-          "summary": "葡萄牙創下里程碑，可再生能源滿足國內近四分之三電力需求。強勁的風能與水力發電為歐洲能源轉型樹立典範。"
-        },
-        {
-          "title": "美國叫停全球空氣監測後污染飆升",
-          "source": "華盛頓郵報",
-          "url": "https://www.washingtonpost.com/",
+          "title": "空氣污染與自殺風險增加有關",
+          "source": "衞報",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE93YkgxVHFrY1FoY1RsWk1NRU1xa2lIWWZjdXhjRjVzdmg0ancwaHlKRHZaRU8wbzZpUnUyejZ3UGl3dFNYdVpjTGF4MkZVbnM4d0VoemctdHI0MVpvZERR",
           "section": "污染與生態",
-          "summary": "報告顯示，美國退出全球空氣質量監測合作後，多國污染監測數據出現明顯飆升。專家警告，數據缺口將削弱公共衛生預警能力。"
+          "summary": "國際研究發現PM2.5、PM10及二氧化氮等空氣污染物與自殺風險顯著相關，為空氣污染的健康代價再添新證據，研究獲《衞報》及CNBC等廣泛報導。"
         },
         {
-          "title": "「永久化學物」威脅人權——聯合國專家",
-          "source": "Jurist",
-          "url": "https://www.jurist.org/",
-          "section": "污染與生態",
-          "summary": "聯合國人權專家指出，PFAS「永久化學物」在環境中廣泛存在，已構成嚴重人權威脅。這些物質與癌症、免疫系統損害等多種疾病相關，全球監管行動滯後。"
-        },
-        {
-          "title": "環境捍衛者每三天被殺一人",
+          "title": "每三天一名環保捍衛者遭殺害",
           "source": "Inside Climate News",
-          "url": "https://insideclimatenews.org/",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5peTZSaGdoR3lVWDYwVnU5dU5UeUkyWDNzVzl4Q3psbHlxSlJmeXdqNkJaVVFHUTEzVEN5azMwbGVmbVdZdkZoNXhRb2JUdGFvcE1LOWxMbw",
           "section": "污染與生態",
-          "summary": "最新報告顯示，2025年全球每三天就有一名環境捍衛者遭殺害，其中拉丁美洲佔85%。碳信用熱潮加劇亞馬遜原住民土地衝突，玻利維亞等國情況尤為嚴峻。"
+          "summary": "最新報告顯示2025年全球每三天就有一名環保活動人士被謀殺，拉丁美洲佔總數85%，反映保護環境前線人員面臨日益嚴峻的生命威脅。"
         },
         {
-          "title": "新加坡空氣質素創2019年來最差",
-          "source": "中國日報香港",
-          "url": "https://www.chinadailyhk.com/",
-          "section": "亞太焦點",
-          "summary": "區域煙霾捲土重來，新加坡空氣污染指數升至2019年以來最高水平。印尼跨境煙霾問題再成東南亞外交敏感議題。"
+          "title": "尼泊爾25億美元洪災考驗聯合國氣候基金",
+          "source": "南華早報",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeDJtZU0yNXBpNjRUeXVNdW9mdUFpRWdCeUdBMURQWkI0b3k2WGp1RVlBZjN6dFdQVGtEa0RqNkRDZHR0NnZseDZsbjgtYmpJZnk1MW1xTkduTmJjY2dEOFN2Rm9oc0cxaEJCRlc0eDlnTm80OWw2eE8zMnNxQm9IUHpZV2FUa21DdE9jeGttVjJjY0xXMXVzWEJPVlN4cVF5NlN2VnlFVTI0bjZwS0d2WU9Ob0Z0d1VnZHlPbXNDWjBLTW1PdURPdkdkbVZvdzU1TFNINg",
+          "section": "亞太/中國焦點",
+          "summary": "尼泊爾致命洪水造成25億美元損失，該國正測試聯合國「損失與損害」基金的實際運作，成為氣候脆弱國家尋求國際賠償機制的重要先例。"
         },
         {
-          "title": "喜馬拉雅冰川加速融化 印度經濟面臨風險",
-          "source": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/crm9ezvwjpno",
-          "section": "亞太焦點",
-          "summary": "研究指出喜馬拉雅冰川融化速度遠超預期，威脅印度水資源安全及農業經濟。冰川退縮引發的洪水風險波及尼泊爾、西藏及整個南亞地區。"
-        },
-        {
-          "title": "中國第二季碳排放下降 石油消耗銳減",
-          "source": "Carbon Brief",
-          "url": "https://www.carbonbrief.org/analysis-chinas-co2-emissions-fall-in-q2-2026-due-to-plummeting-oil-use",
-          "section": "亞太焦點",
-          "summary": "受石油需求大幅回落影響，中國2026年第二季二氧化碳排放量錄得下降。電動車普及及經濟結構轉型正重塑全球最大碳排放國的排放軌跡。"
+          "title": "澳洲法例修訂加強環境與生物多樣性保護",
+          "source": "JD Supra",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYVFOSVVuWFFZcmNnWjNtVDF6LTNPTHY1Xy1UcUhmcXJSYUVRWmNVc1lxUlJfejFXZk1ES2hZNnBqSk4wQUhTbGdCY3hyOHk2V25oS3RNbk5XY1VQZ001UjZrOHRIWV9XZkdJTy1yeThoX2U5MTk1eWxUbTV6R1VyRExKeVE1Q28",
+          "section": "亞太/中國焦點",
+          "summary": "澳洲修訂《環境保護與生物多樣性保育法》，將氣候變化影響納入環境評估強制考量，被視為該國二十年來最重大的環境法改革。"
         }
       ]
     }
