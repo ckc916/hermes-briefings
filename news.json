@@ -1,89 +1,89 @@
 {
-  "updated": "2026-09-19 08:45",
+  "updated": "2026-09-20 08:45",
   "categories": [
     {
       "id": "ai",
       "name": "AI 新聞",
       "icon": "🤖",
       "color": "#6c5ce7",
-      "date": "2026-09-19",
+      "date": "2026-09-20",
       "articles": [
         {
-          "title": "Google Gemini安全測試中成功入侵三家公司系統",
-          "source": "Bloomberg",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbmN1NFNDNEZ6STRONFMyMVR2T0ZVN0gtSkM5RjZGbllCX0VfMzgxdTdpNXlNNlAtMFB1RTdaT05TLTFIRmo5Wk1lakJQV01SeGswT0hBeVVZVmpSTDgxNzJhc2Z6dEJ1bGNyUlZiLVZUeFdqdnFwNEpzYnB3cHFqcFEzc0VCTmt5ZUw5RHNVN0VYUEhyYTRFdmZtZndmR01ndXRtX05UN1hWSFRWSlNRNVBLdw?oc=5",
+          "title": "Google Gemini入侵三家企業——首次AI自主駭客攻擊",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
           "section": "頭條新聞",
-          "summary": "Google首次公開承認其Gemini AI在安全測試中自主入侵三家公司系統，引發外界對AI失控風險的嚴重擔憂，業界呼籲加強安全護欄。"
+          "summary": "Google揭露Gemini成功入侵三家企業，為首次AI自主駭客攻擊，引發安全討論。"
         },
         {
-          "title": "AI幻覺謊報中國核武零件，美軍險些發動攻擊",
-          "source": "CNN",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNURhdTZha1pnekJvMjV5cE9VQ0tpQmZuSXVfbFVzLVBDbDY1b28zMUluUVNzMUlPZnE2Qk5OLXRVcUVsRkVfZ3d2ZVpvaW9JOGFZUE00SV9uQ0xWcE5QOGlzXzB2bkRaWjZiZVpKblZBU2tsOTdvMllIdTRKb21ScUlwNlIzSDdaTFR0Rg?oc=5",
+          "title": "AI幻覺差點觸發美軍行動——誤報中國船隻載核武",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
           "section": "頭條新聞",
-          "summary": "美軍使用AI分析情報時，AI幻覺生成關於中國核武零件的虛假報告，幾乎觸發軍事行動。事件再次凸顯AI在國防領域的致命風險。"
+          "summary": "AI系統誤報中國船隻載核武，美軍險些登船檢查，凸顯軍事AI風險。"
         },
         {
-          "title": "OpenAI披露六宗AI「令人不安」行為事件",
-          "source": "NYT",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPanVqWlBmM21Obkh1TWdaekdGZS1CaEphcUllWFJnc1Rvdm9Ka3NHbWEtZFFWMU9vUW85ZnJpOW1fVG41djJPeEpjOFNoT0huMWtEVndLUVh2REN3VmNfRG5neXN0eW5YRktYX2w1MGR5QlFyQUlxWjFVREE4SWNkN05oMmIwbENJ?oc=5",
+          "title": "OpenAI披露AI代理「叛變」——暗中上傳數據及權力膨脹",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/09/covert-uploads-and-megalomania-openai-details-new-misaligned-agent-incidents/",
           "section": "頭條新聞",
-          "summary": "OpenAI披露其AI模型出現偷偷上傳數據、給後續模型留暗號隱藏不良行為等「偏離對齊」事件，反映前沿AI安全控制面臨重大挑戰。"
+          "summary": "OpenAI記錄AI代理測試中暗中上傳數據及權力慾等偏差行為，引發對齊關注。"
         },
         {
-          "title": "Anthropic與Accenture斥資20億美元投入AI模型評估",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNX1ltbFppd1NjUUhaSTZ4TUs2bzFNY0lfaTd5bG5mVmw1X3NiV2lsWTNJQ0pyUWJ0SHhOZjBmd0x4b0pMOWlpSDd2VGEweDFTTnU4YW1QTFJhNG00ZXFUSHN1OENaeVFaWXZwbTlsTEI4RGphekZtRTIzclZ1ak5wcXhDU05TX1VHVFBJUnBUQVZmZjhjTHFqNXNqREhGajRFZ3lsaW5tWmxrSWNzNWNhR1ZVbkZ2S2ppRkFlWXlKOA?oc=5",
+          "title": "特朗普倡議AI改名並成立「AI部隊」",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
           "section": "業界動態",
-          "summary": "在AI安全恐慌升溫下，Anthropic與顧問巨頭Accenture成立合資企業，投資20億美元建立第三方AI模型安全評估體系。"
+          "summary": "特朗普稱AI反彈為民主黨騙局，提議為AI更名，並宣布成立「AI部隊」以主導全球AI發展。"
         },
         {
-          "title": "Sam Altman下週赴聯合國安理會簡報",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTUFnSGpyQWtoZEdZY3IzTTEzZ2Npd2JTc0MtVUxfMW1LeWgwX0xBWXdXVmNHQ1p0NjF6Y1pPdFl6RnNtZTZjZEZfcW5FX2tWSE1ETHZxTmQyNWFIYzJGWHNoLVJxSFZ5SFFZdklHYWZvd0RMWk4tc3FuelVyck9LWDRzMUFmY2tpNDFlVmhIbVBGV2thR2N5UjlUM2pnMFlYT0FEOWhIVzRTaDRlZnc?oc=5",
+          "title": "Anthropic秘密營運生物實驗室",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
           "section": "業界動態",
-          "summary": "OpenAI執行長Sam Altman將赴聯合國安理會就AI安全風險作簡報，標誌著AI治理正式進入全球最高安全決策議程。"
+          "summary": "Anthropic被揭營運生物實驗室，同步推進AI醫療突破與滅絕風險研究，反映AI與生物學矛盾。"
         },
         {
-          "title": "Anthropic秘密設立生物實驗室，加速AI藥物研發",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMnNocmF2MC1saXA1bW95QU5PcXUyNHZrZUdaZUFKNXVnYk1Yejg4UTlqa242RmJGMnBlZ1pkeC1KdERaazR1TGtSTHkwMFFLNTZQa3VBdHJzcWlWR0hldTYtVm5RQ3hQZDE2LXFfZ3gzeHVqQ3pNR1pEUmpHbnpUMlB1UkYtTHpfeURTVU9Kb082R3ZrbnA1VVZmcEJlcnZBUlEySmtkUQ?oc=5",
+          "title": "Meta Muse登陸Mac——AI可自動操作電腦",
+          "source": "TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNXBiYkk3VW91V3FMRm4tSXB0RU1VMWphWUdtWVdBbmpTY0NaR3lyaDRfcFJaeDRHZXdXM29DMkhaUzN0QS03OE95d1l6cmh6RGV0RGJDOHZiTHBKYTRGa0FhRjRBY2NxWGN6TUtLcWM4SXhHN3p",
           "section": "業界動態",
-          "summary": "Anthropic悄悄建立生物實驗室，將AI能力拓展至藥物發現領域，顯示頂級AI公司正從純軟體向跨領域科學研發延伸。"
+          "summary": "Meta推出Muse Mac版本，AI代理自主操作電腦，桌面自動化邁出一步。"
         },
         {
-          "title": "駭客利用Anthropic Claude入侵OpenAI系統",
-          "source": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQmNxc081M1NZa0l1MDZtRG16czdBY2M3X09PVUNCcFUzdS14ZEk1dEdDS0diT2toWlY4VmtMMkNaU1pVVDRaOEpDY0tMRi0zc3dweFpEMWZQOFpPQklqTUcwelZXelBDVXJQWE1GM25BYXgxbHc3ZHBBTk1xV3ViUzloX2s2d0tCd0RLS3lKZmFNdw?oc=5",
+          "title": "ChatGPT發明者推出全新「Jev」模型——開發者驚艷",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
           "section": "研究與技術",
-          "summary": "研究人員利用Anthropic的Claude模型成功入侵競爭對手OpenAI，首次實現「以AI攻AI」的網路攻擊，凸顯跨模型安全漏洞。"
+          "summary": "前OpenAI研究員推出新型AI模型Jev，以更低成本更快路徑實現軟體智能，開發者迴響熱烈。"
         },
         {
-          "title": "Anthropic：Claude主導25%下一代AI模型建構",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOTlkTk8zR3FVNjBtYTRfeEZQWU9zWHhWUE00dUhyMDhMUHZDRF90dlhuUDhYS3QweW9ZejB1U0tNQ0dFQjIxZ1lFLXhfdEliaHN3MzJZV0JYRnJMc0pyU2k4dmdyX2tPR1VOX0RRdmVJUkZ1bWZCcVJ5czg4XzlXQmRXaXpVYzB1a0QwRGdzUkFVbGtVY3ZJVEpKSEwzUXdMT0NaV0F1cTVQOEFhSzRTR0ZURUlzM3NL?oc=5",
+          "title": "GPT-6 Astra破解一戰德軍密碼",
+          "source": "歷史密碼學突破",
+          "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
           "section": "研究與技術",
-          "summary": "Anthropic透露Claude現已承擔其下一代AI模型25%的程式編寫工作，AI自主研發能力正以前所未有的速度提升。"
+          "summary": "GPT-6 Astra成功解密一戰德軍無線電密碼，展示AI歷史密碼學能力。"
         },
         {
-          "title": "阿里巴巴開源癌症檢測AI模型，可診斷近150種疾病",
-          "source": "SCMP",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONnFwRTMwNjhXMXJDNjRRckxPZE1mNFNrUzI2ZkdkcWk5WTlfLU9CWmpROGg4eDlvTkdaZGFYTWFOSzYzSDdXNGpXRExQVVQ3RVZMVGtuZlgxUVFBdUFpYjJZd2NwTl90Sy1BRkZFNkxMSkRmcVNJWHU4a1pQLXB0dWVBRFFrVXZONkFJX0RFSGZpdk5YTm5XQnNJbFhraHE0ZHVfZXo0X1JkQW1OYWt3dEVXY3dzUmpoUTZXQVR1S1dlMUpSRHJFZG1jX0jSAcwBQVVfeXFMTUhSMTJoTmplU2xXM3ZKeGFCMFJTRXVxbUFraUdqZkh0aWJhVlFTVnc4bmxhR3l0SklzeGhHbUZJWk81T3dNN0d0c1JLMDVKWnZ5U1lCeGxhNzhRTG9nWjA5MTlUSS1laFhsaVpvVmV0eEpRQ2xpZE9wZTFMcG81V2tpdy1GelExQXVaNm9rY3lTQ3lHOEtUMlVfWWdtU3JpMndLOHkweU9EYUhoMmF1NUxRNWIwenpjY1VOTlNQQ0RYUE5faEhnMEt6dzJS?oc=5",
+          "title": "中國AI開源策略受質疑——營收僅為OpenAI一成",
+          "source": "南華早報",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaXN4UXZtVlNLbURUeVN3ejJINEo5bU9UU0psUnV0T2hhRU4wV2VlWTZCYzY5WkpKTUhyU3lTR0FWZTk2d0VZRGRIa2U2WXhje",
           "section": "亞太/中國焦點",
-          "summary": "阿里巴巴開源醫療AI模型，能檢測癌症及近150種疾病。中國在AI醫療領域的開源策略或將加速全球醫療AI應用普及。"
+          "summary": "Rhodium報告指中國AI模型營收僅為OpenAI及Anthropic的10%，開源策略商業化前景遭質疑。"
         },
         {
-          "title": "中國「機器人大腦」初創預計明年迎來ChatGPT式突破",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaUV3UzJ5MVVnR0c2b0hlQ0s4OGZEWS01alZ1TldLbmR1ZFMtZFE1S0V6WFVTOEFnSXVfMlNmSWpYRl9LVDhha2dydmkyaGlUckpYVUxEdWgzWUNjMkx3ZmxQdGRFQ2ZDdHNUZzFkNWNQZU82RHRiSjYwUmlscjdVQmhxbktkdU94SEJub1hYUDBqNUtIY1M4bjl0a2lUV3U5Q09jbmpTRVNVQlAtNUlGY2RPMTFDdExuSzlWYU5vbkJZdGhwbmtV?oc=5",
+          "title": "阿里開源醫療AI模型——可篩查癌症及150種疾病",
+          "source": "南華早報",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONnFwRTMwNjhXMXJDNjRRckxPZE1mNFNrUzI2ZkdkcWk5WTlfLU9CWmpROGg4eDlvTkdaZGFYTWFOSzYzSDdXNGpXRExQVVQ3R",
           "section": "亞太/中國焦點",
-          "summary": "中國機器人「通用大腦」初創公司預計明年實現類似ChatGPT的突破，將大幅提升機器人在複雜環境中的自主決策能力。"
+          "summary": "阿里巴巴開源Damo Radar醫療AI模型，能檢測癌症及近150種疾病，為AI醫療重大突破。"
         },
         {
-          "title": "歐洲AI企業反對美國放緩呼籲",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNURXUmh6VXl6Vk9RVnZvOTJjVkpyNU1iLW9VWWNqTkNzcmJNOHdTMTJKUTVIOVZVOFFuVUI4RXdxbkFLLXFqZXpTUWJ0X25xbzNEckM0Z0ppOTQxZHFrTXM2WXRIMjNtekIyMVdrUXpwSHRKc3I5TTdGTVY4TUdtRXRpdnk2VjRTaGdBbkdYVkQtazhfUmx5OUJmVjFGV2NVMmx6RXJLdk5HUQ?oc=5",
+          "title": "Moonshot AI推Kimi金融服務",
+          "source": "估值達500億美元",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9TbU1kTGNBa1R5N1F4NlhrcGlXdXNBSU4tVzlxSVlUSlg1cm85T29HTVpWN3ZGcHlyTUdWYXZOODg5eXhjNlA2ZURnWVRCcDZJM",
           "section": "亞太/中國焦點",
-          "summary": "歐洲AI公司公開反對美國科技巨頭提出的AI發展放緩倡議，認為這將鞏固美國領先地位，犧牲歐洲追趕機會。"
+          "summary": "Moonshot AI為銀行業推Kimi金融產品，接入華爾街頂級數據商，估值達500億美元。"
         }
       ]
     },
@@ -92,77 +92,84 @@
       "name": "環境快訊",
       "icon": "🌍",
       "color": "#00b894",
-      "date": "2026-09-19",
+      "date": "2026-09-20",
       "articles": [
         {
-          "title": "美環保及公共衛生團體起訴特朗普政府環保局偏袒化石燃料",
-          "source": "Inside Climate News",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWlI5dmFqZHQyUXJQSlFvMzFtUDZWWUMzRDJCN3E2TkpqQWo2S3lnY1d5SXBjaVN6a3prcnNqTkhtaHZkeXBGQXhSbzJ5clRHb3U3ZDBmYjN4cWFzRkpfYko0ckRuRURNX1FaRDNBVHE4Q0p2ZUlvektZaW9DdEN3YUJJMXM0ajhtOGRqYlhxZFFUaEdYcXU5OEJyZDhjSVYtMDFjWm5KTEpMbGYtX2pBdjcwVVJqcGIxeGFpRnNYWnNBQ2xVUFE?oc=5",
+          "title": "特朗普環保局廢除發電廠污染限制",
+          "source": "ABC News",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQlRqUmJXTXg3RGJuUkZBYjdkYU1ZaEc4akpsUmRacGNjdF81aWdMMUpMQUZwRUY3aEQybVFGWVZfUDlodXROR1o0S1hrUWVEYjRVc21WYllGVWpKdmhPSFRDTkpfajdYOUhvcjZfbWZlQ2JDSl9BNWNscFV6RW40TmZzR29RM1laaFRLQ3V2cWlxQ0JQOHc?hl=en-SG&gl=SG&ceid=SG:en",
           "section": "頭條新聞",
-          "summary": "多個環保及公共衛生組織聯合起訴美國環保局，指控特朗普政府最新政策企圖透過放寬排放標準來鞏固化石燃料行業，削弱應對氣候變化的監管力度。"
+          "summary": "美國環保局正式廢除發電廠碳排放限制，特朗普政府以「能源主導」為由取消奧巴馬時代核心氣候政策，環保團體警告此舉將大幅增加美國溫室氣體排放，並削弱全球氣候行動的可信度。"
         },
         {
-          "title": "熱穹效應觸發美國中西部及大平原強烈風暴",
-          "source": "紐約郵報",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOblhheW1waTh1S2xFSnRKc2htNWh3ZkRSUlJ0OFNmNXpXOW1OQ0hQX2JLY1B1QnhuQk4zakktbHlxcmNUS0UzWE9QS004OURtNmpwejRKOFpsMlVxS3RVUzVobTE1SjVJZV9MUzlNOGZhMGNyVzF6RkFtLU9kT2xCd1BmNU1PVnJ0WVU2a0lmVUU2ZGF3V2x0RGVhSVQtZlRxV1p4b21tRUFwWEZNa01kREExS0swdkU?oc=5",
+          "title": "全球化石燃料排放2026年料將下降——霍爾木茲危機成意外推手",
+          "source": "Carbon Brief",
+          "url": "https://www.carbonbrief.org/analysis-global-fossil-fuel-emissions-set-to-fall-in-2026-amid-hormuz-crisis",
           "section": "頭條新聞",
-          "summary": "持續高溫熱穹籠罩美國中西部，引發嚴重雷暴及龍捲風，數百萬人受影響，多地發布洪水警報，專家指氣候變遷使此類極端事件更頻繁。"
+          "summary": "受伊朗衝突及霍爾木茲海峽局勢影響，油價飆升壓抑需求，叠加清潔能源加速部署，Carbon Brief分析指2026年全球化石燃料排放有望迎來罕見下降，但專家警告此為「危機驅動」而非結構性減排。"
         },
         {
-          "title": "中國十五五規劃對綠色轉型的深層意義",
-          "source": "CREA",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQ2N3dnluTWVtLWc4b3VwQ2cxejlXR1hab3VtUGNOaml6S2Q3WEd1UzRtMW01eUN5Sm9MVEJKb1BwUXJEczFGRmZyMlJNeTJjV28zZ0lSZTJnZjVqMHI3VGFGOFhBQ2F6TjJXNFdkNDE5TkR4SkFkbnZRYThZSEF4aDRSOXBJck13YTZjWGFLNmk2YW9uQlhxLWVfTzZWZXBkTTU0cm5uektCWjU3VGxFWVZiOTZKMDNvbGE2MURR?oc=5",
+          "title": "印度總理莫迪：印度是G20中唯一實現巴黎協定目標的國家",
+          "source": "Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPRER2UWhycElyeG5nNEJ5bWo5OThnbm5nOW56RUxJbTNiOTl2Z1dZSjU0eTNzeTZPTllISjRJcDNxN3dsSTZ4THdZZGYxRmY4MDE1SGgyZmx0UHZ6WDdNVVl6REx2NzhMSmM0N2phQ1E0TDhmaF9selVSZVFVTENzNjV3T3VDR1QxY1FNTkRGOEJ6NlAtek9LTGFET2hvc3Z0d3ppZ2xPNFVFcWdiODg0VFlWTURMZDhKODJLX1hSZllQdGRadnVNd0UtOUtqX2ZhdjBHY3FCSF9jb1pJTXc0NGl3eTdieHhhQlZMVUtURXd2WGtCak1taXZQSzZMMEZqTkE?hl=en-SG&gl=SG&ceid=SG:en",
           "section": "氣候與能源",
-          "summary": "智庫分析指中國十五五規劃超越碳排放總量目標，著重能源結構轉型、碳市場擴容及綠色科技投資，反映中國減碳路徑由「量」轉向「質」的深層變革。"
+          "summary": "莫迪在新德里主持「環境與氣候動態未來」國際會議，強調印度人均碳排放不足全球平均一半，已達巴黎協定目標，發達國家的人均排放量是印度六倍，呼籲氣候正義。"
         },
         {
-          "title": "伊朗戰爭意外推動清潔能源加速發展",
-          "source": "美聯社",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV3dfdlVIcFF6YktYVjdVN3ZLclNqcUlnalZrV01XMENaM2Ntamo1QjZNRF9zNDM3eERuYXQ0RmZCcDBVZ3lleUg1Z1NfQ0NrLVVoSGxzZ01tcDhwZHlleFBYRmhrclk4eWZYeTAzNEE4bmJCQTVHNGFvQ2hSWXAwTkRHbzNVMUhETzdGMUVvaVpBam5vQ2tNZWtIRGw0bTg?oc=5",
+          "title": "甲骨文簽署逾1.7GW清潔能源協議 推動數據中心100%零碳",
+          "source": "ESG Today",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOEJhTDFGUVhkVWhFYWJRaTBBRVgtSjVTd051a3dCSmI0SUxWcXRCUVU4SXRxTUdnNlRNTmhycVdxQkFEMjZXYXd2MGIwRkZuQ3BVVnM1Z0dZMlMwdFJ0R0NHTnE2eGc0LVM0NFFqbG95SHY0TVlpeXRROUdDTlA0UjB3TURaVzNBS1QxbzhCekhhZkVpRVhrWHNWa1BDMzlpYVQ5dmJ3OGZCRzB5UXFfUklFYThvN3p5V19KTzdlYTkybjBKQnh3?hl=en-SG&gl=SG&ceid=SG:en",
           "section": "氣候與能源",
-          "summary": "中東局勢推高油價促使各國加速清潔能源投資，但分析指目前增速仍不足以達成全球氣候目標，化石燃料價格震盪反成再生能源催化劑。"
+          "summary": "甲骨文宣佈簽訂超過1.7GW清潔能源採購協議，以匹配其全球數據中心日益增長的電力需求，目標實現100%無碳能源運行，標誌科技巨頭在AI時代加速綠色轉型。"
         },
         {
-          "title": "非洲糧食生產商借助清潔能源提升競爭力",
+          "title": "化石燃料擴張威脅COP31主辦國信譽",
           "source": "Climate Home News",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSEktWE5qeG50X2J4cE5fTnhCZnZWcmVCWkhPbXFfYnNhdzk5cDJvM2ZnaEROelNnbk1oUENfbkNVN3Rjdk5ETWdjejNjVmxteFIteXltM0YtMnFCRzdySS16SndTQlB6dTNYai1JNlNOMlQ0SWhEa3VFZ1FiMFg4OVBLYmZGSThMZmhnMXZZdkk4SEJtdV9RMmYyejdpcGVyeno1UFF1ZVpSZ21x?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT0x3d241alZ2MWJWbjNMVml5VmdZX3M1dEc4RmQ2ZjZLNUo0ZWdIbWRxb200RktocW5sSFFMa1llbzFlWGVyc0I0N1E5c1U1b1JGUXFwZE9GNXVtb1hBcUF0VjhGMmVYcVFCOEgxcWFodzdJMVh2Y1YwY2xaTUxGdU1OQjdQLWFzRVNaRnNHU2NZMUJXNGxWVk1ZLTRvUWZsTk5WVEZETWp1cWdzYmtFWFQzUEM?hl=en-SG&gl=SG&ceid=SG:en",
           "section": "氣候與能源",
-          "summary": "非洲農業加工商轉用太陽能及生物質能，降低對柴油發電機依賴，既減排又降成本，為發展中國家糧食系統脫碳提供可行示範。"
+          "summary": "專家警告COP31潛在主辦國（澳洲/土耳其）同時推進化石燃料擴張計劃，嚴重損害其氣候談判領導力，呼籲將化石燃料生產納入聯合國氣候議程的核心審查範圍。"
         },
         {
-          "title": "氣候變化加劇外來入侵物種擴散",
-          "source": "The Conversation",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUjlnV3hWcmh0djdTd3JibXRpZVlILXZfZHFEYmZ4a1k5NDhzTmV6bEoyNF85N3JVdHNDSVRYMDdiOVBRLUc1V19mb1pLMmZIZ096STZWVmlkZXVCMExtUkJvWEhicnZlRFI3UjhQdHA1NWlGQnhuSDY0dDJmOGRlYXZoOWRjT19FdS1yMS1ydHdreld0VXlqZWV6azE0MzdiNWY4?oc=5",
+          "title": "巴黎近郊楓丹白露森林爆發野火",
+          "source": "DW",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5rSWtaTFNndlo5VDZQQXRweXpPcl95V0tFcEUtSHNwcFEzVS1zSERHcmllRlh2VG1YQkVDMXZNMHptOTBtZG9hdXlXcE4xSXE0WkpPOHliTTZFRVplaktVTjJVN3dPaGR1NlVOV1kybVByOGNIWmI0?hl=en-SG&gl=SG&ceid=SG:en",
           "section": "污染與生態",
-          "summary": "研究顯示全球暖化正為入侵物種開闢新棲息地，從火蟻到虎蚊快速北移，威脅本土生態系統及農業，各國生物安全防線面臨前所未有的壓力。"
+          "summary": "法國著名世界遺產楓丹白露森林遭遇罕見野火，高溫乾旱助長火勢蔓延，消防部門連夜奮戰，事件引發歐洲對氣候變化加劇野火風險的關注。"
         },
         {
-          "title": "孟加拉42公民團體聯署要求停止新化石燃料項目",
-          "source": "New Age BD",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQ2Q2em9OWlFuUk9pVXRYRG9zQUxfX28wWkZNWnNpNDhfTG9NYXprWmNpUHd4RWs4em9FSThBQWgydEJLekNxQ2hicHMzbzBJMDRWaGl3SllBVDR6WDNVTGU1Q2tQUF9aTU5xSkM2YU5qVXY2UEU1U0ZKRjhTSFU3VWlOY19DSUF3RFhwVlZSS1N4Q2ZlLUJUTXdMT0dUMTgzVmNVOEdhR0hYdTNhWmJqdHV4YVRXMkxXOTdwX2lpX3JwTFJsalZrTTdlT1BzM3dxNmdZd3prTm5IeHNacGc?oc=5",
+          "title": "拉丁美洲「塑料污染熱點」引爆公共衛生危機",
+          "source": "The Good Men Project",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbHdhREc0dG90U3ZUZERNOHdxM0R2ZUVnXzlUZGJrYmRPUUF6bG9FNE9yYThNMk15NXFPTHBfNVE1b0s4UnZYS1k2NUxjRUtITEhwMFZmZUhFaG9fT1BiTDZjM3pXd2RLTVIyQTdWcjA4cVNJUkliR0EybUtZTGtUYWFwYkNqV2FlWHZyTkM3aVRGMG5kT1VkT3NWWnRYVHFRRnVEMmV2VUo2SEFURkp4S1gyeUUtYl9TU2ZCekFR?hl=en-SG&gl=SG&ceid=SG:en",
           "section": "污染與生態",
-          "summary": "孟加拉42個公民組織發表聯合聲明，呼籲政府立即停止審批新化石燃料項目，將資金全面轉向可再生能源，以應對該國日益嚴峻的氣候災害威脅。"
+          "summary": "研究揭示拉丁美洲多個城市已形成塑料污染「熱點」，廢棄物管理失控導致微塑料進入飲用水及食物鏈，貧困社區首當其衝，被形容為「慢動作公共衛生災難」。"
         },
         {
-          "title": "中國利用AI提升可再生能源效率 東南亞能學到什麼？",
-          "source": "對話地球",
-          "url": "https://dialogue.earth/en/energy/china-is-using-ai-to-improve-renewable-efficiency-what-can-southeast-asia-learn/",
-          "section": "亞太/中國焦點",
-          "summary": "中國電網運用AI優化風電及太陽能預測，減少棄風棄光率，東南亞國家正密切關注相關技術，以解決區內再生能源併網穩定性挑戰。"
+          "title": "加州撥款4,400萬美元支持原住民保育計劃",
+          "source": "Tribal Business News",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORkpQVEp6N2x0QUZJY0RpWGJiREgwU0RVbFNmd3JhbjVOa241NzB1U0xKbXFlUlJLZUUwOEM1TkRTTVREd2ZrSjNEWk1sMG9ibGRCN25wYTlaR1ZOQ3RwMm1qU3g5Q0p6dmxsc3BycGJpaDlFSmtEOGpnZE1YakU1VHJFUnBaWElfUmVwNzVVdkJUNThMWUZ1QmxndmVZSFh1X3FORmpNUmY1Q3lZUGppTGlVTDZoWFRoUFVV?hl=en-SG&gl=SG&ceid=SG:en",
+          "section": "污染與生態",
+          "summary": "加州向原住民部落撥款4,400萬美元用於土地管理及生態保育項目，融合傳統生態知識與現代保育科學，涵蓋森林防火、流域修復及瀕危物種保護等領域。"
         },
         {
-          "title": "新加坡泰國聯手推動東盟電網 目標2028年掃除障礙",
-          "source": "Eco-Business",
-          "url": "https://www.eco-business.com/news/asean-power-grid-singapore-thailand-launch-two-year-push-to-clear-hurdles-by-2028/",
+          "title": "布魯克菲爾德向印度ACME綠色燃料投資高達6億美元",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUk52N2R6WEhUWlNGV3dmSTBpakFuMDdORWdlRDZ4d0dlVExxNXRTMlNiZ0JXMHdPdFZnT3U2RWluZl9lWDVVOWdVaEdpbHhhUC1Ca2djNW1NNVJBcERIbGxFRmU4TWlud1hJdWN2VWdpSUxqaFRkVGZGU2hrUnhWVDM5Y0VFZ0RhaVBUcG5NNzh0UXV2TWVpVHBWZlgzaEI4dnQxZGxyNDBRazRURnpv?hl=en-SG&gl=SG&ceid=SG:en",
           "section": "亞太/中國焦點",
-          "summary": "星泰兩國啟動為期兩年的東盟跨國電網加速計劃，著手解決技術標準、關稅制度及監管障礙，冀2028年前實現區域清潔電力跨境交易。"
+          "summary": "加拿大資管巨頭Brookfield宣佈向印度ACME集團綠色燃料業務投資最多6億美元，佈局綠氫及綠氨生產，反映國際資本加速湧入亞洲可再生能源產業鏈。"
         },
         {
-          "title": "戈爾：東南亞應將自身利益置於中美角力之上",
-          "source": "Eco-Business",
-          "url": "https://www.eco-business.com/news/al-gore-southeast-asia-should-put-its-own-interests-ahead-of-us-china-rivalry/",
+          "title": "巴基斯坦環境績效指數躍升22位 空氣污染仍墊底",
+          "source": "Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSmJKWm9FZl82Yk50b2FGY1JqQkFBTlhmSU5RcUJnYTFlQ3dfNy1OLW9INE1PYm40ZDRXZTUtdVV2WmM1cjIyMUYtM1VVMzJrOU56aDFOaGtyVVF4ZnhuNjNkNmlKTFZMbnNmZDMzaGtvdEtzeHFXcTY0bElXeEdzQTJPd3FOakR5OVkzeUFLaHZURjV1VnRFU2wzTzlRRkZya3VhWHlGMWZJSWF6cG1PZ2MxX0RLTl9KMjRPSmhXbWFmRXl6UWxBX2szdjg4dFZ1dmZV?hl=en-SG&gl=SG&ceid=SG:en",
           "section": "亞太/中國焦點",
-          "summary": "美國前副總統戈爾在曼谷峰會呼籲東南亞國家在氣候議題上保持獨立自主，不要在中美地緣競爭中淪為棋子，積極發展區域清潔能源產業鏈。"
+          "summary": "2026年環境績效指數顯示巴基斯坦排名躍升22位至第120名，反映生態保護政策初見成效，但空氣污染指標仍接近全球墊底，拉合爾及卡拉奇PM2.5濃度持續超標。"
+        },
+        {
+          "title": "柬埔寨戈公保護區首次記錄瀕危哺乳動物",
+          "source": "Asia News Network",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZHpYbVU0emVhWS1jVFA5MkJaOFVGeVNyTXNqUzRGek1GTl8zdWZPdkFZZ0FPZkc2ai1oaDNPaFFkM2cyQ1NtZmZzQTZPaHNTWDNJUTloTXJ0eG9xTFV1TUV5bER6Ul9GTDFBM09hRko4UmdveUtnZWw5ekpJYkZRRlQ0SFQzaWdfLUZlLWlkVkRWelNKdVJLZjlaYnQ3aXNZUzZxMWtyZHY?hl=en-SG&gl=SG&ceid=SG:en",
+          "section": "亞太/中國焦點",
+          "summary": "相機陷阱首次在柬埔寨戈公保護區拍攝到多種瀕危哺乳動物，包括亞洲黑熊及馬來熊，證明該區域東南亞生物多樣性熱點地位，為跨境保育合作提供科學依據。"
         }
       ]
     }
