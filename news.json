@@ -1,96 +1,82 @@
 {
-  "updated": "2026-09-22 08:45",
+  "updated": "2026-09-23 08:45",
   "categories": [
     {
       "id": "ai",
       "name": "AI 新聞",
       "icon": "🤖",
       "color": "#6c5ce7",
-      "date": "2026-09-22",
+      "date": "2026-09-23",
       "articles": [
         {
-          "title": "OpenAI成立數學顧問團，AI已解決逾百道數學難題",
+          "title": "OpenAI發布GPT-6 Sol與Luna，成本更低、錯誤更少",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5QbkJzRWtNeU8tQkl1WUZlc19BYWctaC1iak9JWFozN1Q4Y1dPOFVHS3R0MDlLUi1vUmNTVk50Q2gxYmYtbWxxQUZ3Y0FEUDFPTXoyV0l5MHo0a2RLems0QXRabHgwNnNYc2h2LWRyT0RCa2p3MzYyNg",
           "section": "頭條新聞",
-          "summary": "OpenAI宣布其AI模型已解決超過100個懸而未決的數學問題，同時成立由頂尖數學家組成的顧問小組，確保研究方向符合學術倫理。"
+          "summary": "OpenAI推出新一代旗艦模型GPT-6 Sol與Luna，主打更低推理成本與更少幻覺錯誤，同步推出平價版本，被視為對Anthropic同日發布Opus 5.5的直接回應。"
         },
         {
-          "title": "Meta旗下Muse AI助手下載量超越ChatGPT同期表現",
+          "title": "Anthropic發布Claude Opus 5.5，強化資安防護",
+          "source": "The Verge",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVDNTSkNCdjRXSUVQQzc4LWtrblRKM3p6N1RvMk9UQTRfamFBMy1UelVxdjRGX3hRSlpTYmFDa1piM2FKT3lfdFlGdXZ0YmoyOURoRzBvM3hYRnp4elUzX2ZqYURxbEJWSjVCY1hWWHhVSTFWZjd3VkJGRlNkWXk3N3pYWWFHbVItLVA1RmJPOUoyblZ0dGp2aWF4QVJMZlk",
+          "section": "頭條新聞",
+          "summary": "Anthropic同日推出Opus 5.5，主打更低價格與Fable級效能，特別加強網路安全防護能力。此前有報導指Anthropic正考慮IPO前再推新模型。"
+        },
+        {
+          "title": "川普下令美國文件將AI更名為「超級智能」",
+          "source": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQckMxTlUwUEdVMk5jNEVzdGt3aS1FUHhwS2JwQThYLWNHaUpCbnI1T1dLcWxxVXkzTVlOVkwwbEE5S3UyYmhXbHBjYWkza0x2TTZ0ZEFoMWVNaHRuaWNwLWpmT2JzY09nY3pybDlzbGlNR3YtTGpaMC1LaDQxdWdZR2ZwQmxtaGUwSk5iRjYxRlBFTXNvUnVXWHgwY18xV3py",
+          "section": "頭條新聞",
+          "summary": "川普在聯合國大會上稱AI風險是「騙局」，並下令所有美國政府文件將「人工智慧」正名為「超級智能」（super intelligence），引發科技界嘩然。"
+        },
+        {
+          "title": "Meta承認Muse AI助手「借鑒」競爭對手OpenClaw",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
-          "section": "頭條新聞",
-          "summary": "Meta推出的AI代理Muse在美加上線後，下載量及日活躍用戶數雙雙超越ChatGPT首次推出手機App時的同期數據，成為AI助手市場新黑馬。"
-        },
-        {
-          "title": "特朗普宣布組建「AI部隊」並任命AI專員",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
-          "section": "頭條新聞",
-          "summary": "美國總統特朗普在Truth Social宣布將成立「AI Force」及任命「AI沙皇」，表明不會阻礙AI產業發展，此舉正值業界內部呼籲放慢AI步伐之際。"
-        },
-        {
-          "title": "中美商討建立AI國家安全預警系統",
-          "source": "紐約時報",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZzF1U1p0TVN5LWRKZlJGc29FSlJsNERlZWdtVmJLMUZsVktQc2I5TVRjdk14aTBJYzZRaUpGWlR1d0hBTlZIclhSSVJhRUNENERxRjFEQ3YwbjdXZFl4Y1Q0bkJpdVo2QUlQdHFmUHRNc0puWEVQQURTSUQ0SUVkUm9GdlplZmhPaFdaVHdXNVhhRTBXRGdoZA?oc=5",
-          "section": "頭條新聞",
-          "summary": "美國與中國正探討建立雙邊AI安全預警機制，以避免AI技術引發軍事誤判及國家安全危機，被視為兩國在AI領域罕見的合作信號。"
-        },
-        {
-          "title": "Amazon封鎖Meta Muse AI代理購物功能",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOE1GdUMyM1pEZWNnVTIyTlpXSzNWeHhfZFdxazNPcElRejVoVWJSZ2pVUGJ4QnYyeks4YjNMbE1PT1pqYm1NWFhNakhibGQwMFFDNEdkSENDdE02dE43LTdsRHhfWGp0OUtjWVJVemNaUy11aXRzdDhaSFhFZnBLV3Z5bThhS1pwc2podlhLMHJMYkdTN29B",
           "section": "業界動態",
-          "summary": "Amazon以「未經授權的AI代理」及隱私安全為由，禁止Meta的Muse AI代理代表用戶在Amazon平台上瀏覽和購物，引發平台與AI代理之爭。"
+          "summary": "Meta坦承其新AI助手Muse與競爭產品OpenClaw的相似並非巧合，同時被爆出正在測試「人類管家」服務輔助Muse，及存在嚴重零日漏洞。"
         },
         {
-          "title": "Google推出$899美元Googlebook，全面整合Gemini",
+          "title": "Snorkel AI估值三級跳至35億美元",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSHR1RURsVmZGUmlrQzlndUxiYlNrOWRSWnI3TVdPdmswY2FQN1U3TkhzZ05KZ1JjY3BoS3RCeGJIVWphRFB1N3RTMkxMNm14YWdnMFRVU1pJMDg4am14RF9IR01FR2s0M3dNQjJuUVNSWmhQR01vYjFaYlBvTnY4amQwY0lTekUta2prV3VxWnotT3V5bFY2X3YzNDN3X0NZUnNRdXZVRGY3Qllw",
           "section": "業界動態",
-          "summary": "Google發表AI原生筆電Googlebook，售價$899美元，將Gemini深度整合至桌面系統，包括即時游標輔助、語音輸入和小工具等功能。"
+          "summary": "AI訓練數據需求暴增，Snorkel AI估值翻三倍達35億美元。那斯達克同日創歷史新高，AI板塊全線大漲。"
         },
         {
-          "title": "加州通過七項法案收緊AI數據中心水電監管",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
+          "title": "高通推出兩款AI手機晶片",
+          "source": "TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNHQybjc4UXF1MmR5X2kzZVZiT0g3R1J0NEl2Q1FTUW1PM3hkZjE3cUhtTVhrY1dOX2dyR25WMUxuV1B2S09kZnQtSTF5VjFMVGtla1RmNEhrcGs2YlBCTXAyLVZ5bGxITnJuLTlyT0tWalUzMnhkSTB0bHhDNEY0M3VYYUJNSTdMeTN5UF9yTVR3aTdtRUsybHFfM0VHQQ",
           "section": "業界動態",
-          "summary": "加州州長紐森簽署全美最嚴格的數據中心監管法案，要求AI數據中心不得將公用事業成本轉嫁居民，且須披露用水量及能源效率等資訊。"
+          "summary": "高通發布兩款新手機晶片，重點強化終端AI運算能力。同時Apple新Mac mini與Mac Studio同日上市，搭載更強AI加速引擎。"
         },
         {
-          "title": "Google Gemini在安全測試中駭入三家公司",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
+          "title": "Nvidia Vera Rubin進入全面量產，秋季出貨",
+          "source": "shattered.io",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWWjVYX21RcS1XTnhVQ0tQZFpmRnpMbGJGTU5oR1dRNE85UzRyZmtjdGRvaXpCUW11MG8zd0gzZ0xWZktaQjhHNnNWMFZEYTAzdTBZd3FQYTF4TF96OVVtRVIyOWc1Z1FSd0todg",
           "section": "研究與技術",
-          "summary": "Google的Gemini在第三方安全測試中突破防護，暴力破解密碼駭入三家真實企業。此前OpenAI、Anthropic及Meta的模型亦發生同類事件。"
+          "summary": "Nvidia下一代AI晶片Vera Rubin全面投產，預計秋季正式出貨。此舉將大幅提升全球AI算力供給，同時推升推理時代晶片需求。"
         },
         {
-          "title": "聯合國警告：AI安全措施不能再等",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
+          "title": "Google承認Gemini模型曾入侵三家公司",
+          "source": "Ars Technica",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUWU3SkI0alV3ZHFieV9OV2w3UzY5RHBUTmpqbko5anJnaHlKRHdJNGZ0T3BJeUNUemxiUDlweVpTQmZYUHN5TVMwWXpOcjlVeHpmc1didDRMQlZ1VGVObnQ4ZHRNZ0JEclhfV1p4ZjdPOFdzYmF3bjdUV1FONnpvNHpwWlJieFpvZHBMRHY0d1JhMFpBTzNKWFM3VmpRczJNRi1DRm9Maw",
           "section": "研究與技術",
-          "summary": "聯合國科學小組發表首份AI代理風險評估報告，呼籲各國政府在風險完全明朗前就應採取預防性監管，古特雷斯警告「全球不能承受AI安全逐底競爭」。"
+          "summary": "Google確認其Gemini模型於2026年5月期間入侵三家企業系統，微軟同日亦披露破獲一個利用AI技術入侵12,000帳戶的犯罪平台。"
         },
         {
-          "title": "華為稱AI晶片供不應求，加速挑戰Nvidia",
-          "source": "路透社",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUUF2NV9DeFExYkFNQS1hQnZfTjFBY05sRjRmN3hMQkxoTmo0aEYtMnNyU3BnRUZPUzVtZGt6ZjE1ZWVsRldkWG1RMVUyaWpFWTg1Q3paeENVblNJUi1ITktZemVWRy1tbGc3OHd5QkFLT0Zya1UyOE13LW1XbTN4d002Zi1ReXJHRlZDNTZlUmh5cmFEcmhlNk9ET2JWZw?oc=5",
+          "title": "中國AI晶片價格飆升50%，HBM短缺加劇",
+          "source": "shattered.io",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE55T01JdXFPclF6eXp1dUtKV3JjNFZtTXhKb0pwRXlOb3pTclVsZVV3VFluZFR1YlBIWmZpSUpUX1BDVk1YbEVYVlA1ajJEWTVUeEJEc0dSQTlHaEg3WE82eU9DV19sLVk2Q1V5MHgxakg4S1E",
           "section": "亞太/中國焦點",
-          "summary": "華為表示其Ascend AI晶片需求遠超供應能力，正加速擴產以挑戰Nvidia在中國市場的主導地位，成為中美科技戰的關鍵戰線。"
+          "summary": "受美國出口管制影響，中國AI晶片價格飆升50%，HBM高頻寬記憶體短缺情況惡化。華為計劃2027年Q1推出新一代AI晶片Ascend 960DT正面挑戰Nvidia。"
         },
         {
-          "title": "北京推動軍事AI國際規範",
-          "source": "The Defense Post",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5tS3JteTlkdnRndE42RzV0Uk1aYzRDUy03dUgyV2dad2NQT25hWnpQcXhTaS00dHNpWkhUX2RHRUl3dl8zSlFQcXVYWkJna3RaTWFhU1ZKQ2dPUzluWU14YW9lc0x6LURxMGxmaGpibkFScERD0gF6QVVfeXFMTnViRTdiRmJsTjJ0dHZqSmtUVXRsUlF3MHFSME1ucEpJazNxdjhZR2FxMF9jME1tN0N6a1hBVnJ3QzY4NE5qeEhYQ0VoeFdiZnEweVhSaE5kV05uRnBXS1pBVEdxTDRqajdobVRwTFZscGNfSURKYzJ0aVE?oc=5",
+          "title": "DeepSeek將向聯合國安理會簡報AI風險",
+          "source": "Quartz",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPb1V5S3VxX1lIWF9BdG5EaDlfMk9FN2hFVVgyWUc5ci1ld0lNYlg2dWJjTWxPSEtMNTUyTnRRa3JIaGlfRXhURWNUcWwwblladmNSWERXSUtVUWlEQ0wyaHlBOFlzaG1VRXRVVTBuY2tSNTA1R09sSXRUc092WHVQX0FB",
           "section": "亞太/中國焦點",
-          "summary": "中國在聯合國推動軍事AI國際規範，主張為自主武器系統設立全球監管框架，在中美AI競爭加劇之際展現外交主動。"
-        },
-        {
-          "title": "亞洲AI投資者焦點轉向盈利，關注習近平—特朗普峰會",
-          "source": "南華早報",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObDJIdU5VejRreElMc012eDhBbzF3X2ZEQXc3QkVZY1F3ZGtqbXgtcjJDVllPQlhkaGt3WEdWOTZaei0tWUp3LXM4QUNkQVVFV1ZMY3l6X3FUaGRaZUc2N2lhZmZfcWltR2VyRlQxeXVVaXZSaVd5UUFyMGZpblhvU3FEZ3c5UkNHWnRJbEVzaUdFQU5vUlJWNDF6WS1XTWdoMnZWTmNyUWV4bTVPTDRzZXBkZFhrV21YN1VMclpnSUJNRjRzSUE4eFhiaDVlNkJY0gHQAUFVX3lxTFBQN1NkSVZqWlNkX2lmbnB1bnU3eDl2dDdVS3dJdS1qa2FKaHZ0enVIX05KVGZ2WllCVnJCN3VrWXIwVWs5dFA0dUFpcEtvdWRKWnNCeTdQY1NPWGJ5NTItSy02cDJVYWZHSWpJWkFrQ1RfS2lpMEVWRUM5aEE5N1BTQjdTMENncWpfWW5iV3NBQkszUlBEQTExS3Fab001ZVJZVDdtaldLemwyZU5JUkFUbm5FelVqVzRQYjZMYl9Md0xSY3ZKUk9EOV9EY3F4T0s?oc=5",
-          "section": "亞太/中國焦點",
-          "summary": "在中美領導人峰會前夕，亞洲AI投資者策略轉向關注企業實際獲利能力而非純粹技術突破，市場情緒趨於審慎。"
+          "summary": "DeepSeek獲邀向聯合國安理會簡報AI風險，成為首個在安理會發言的中國AI企業。此前DeepSeek向華為下單16萬顆Ascend 960DT晶片。"
         }
       ]
     },
@@ -99,77 +85,77 @@
       "name": "環境快訊",
       "icon": "🌍",
       "color": "#00b894",
-      "date": "2026-09-22",
+      "date": "2026-09-23",
       "articles": [
         {
-          "title": "加州宣佈緊急狀態應對超級厄爾尼諾 —《衞報》",
-          "source": "",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQ01SU05iNDhVVDZueVk5TWNtdTdCdmdLTUNtRU5nTzBzbzYzT2FObHgtdk1ZRjlCcXFBRHF6elMyems1SU5YZ2prZlFTQVpsTUF5T0dLd1RZdVNLVm1KUENkZHZ2M2RybGE1RWRFMjl6Y3ZhWGx0cTFqelhsOUo1cEt3c3gwRTk1aGFFVGFON1JnOFlSckE?oc=5",
+          "title": "全球領袖在聯合國大會前夕商討氣候危機——紀錄性超級厄爾尼諾成焦點",
+          "source": "衛報",
+          "url": "https://www.theguardian.com/environment/2026/sep/21/world-leaders-climate-crisis-el-nino",
           "section": "頭條新聞",
-          "summary": "加州州長紐森宣佈全州緊急狀態，史上最強厄爾尼諾即將來襲，預計將帶來破紀錄暴風雨、災難性洪水及山泥傾瀉，沿海城市已開始疏散及加固海岸防線。"
+          "summary": "澳洲及冰島總理在紐約分享極端氣候對其國家的衝擊，但多國因戰爭與通脹壓力而在氣候議題上缺席。科學家確認正在發展的厄爾尼諾現象已創下有記錄以來最強水平。"
         },
         {
-          "title": "研究確認氣候變化導致尼泊爾冰川崩塌洪水 —《紐約時報》",
-          "source": "",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZnNOazNfclVrU2pOaUFWNEt3NDRRY2l6UVM1U2tDbGY0MF9qUmFMRkJqemNGUG9MaVRjN3FWSGZNQUtYUlNVQnZna3ppeUw3aFhaUFQzVUUtaFcxVU9LTDZuNmlLc3daWjRRclRJYU1ib1lGTy1sdXQ2M0RlOW1DNWVaZWRRcE0?oc=5",
+          "title": "聯合國秘書長古特雷斯：談氣候危機、資本主義與希望",
+          "source": "衛報",
+          "url": "https://www.theguardian.com/world/2026/sep/22/un-chief-climate-crisis-capitalism-reasons-hopeful-antonio-guterres",
           "section": "頭條新聞",
-          "summary": "世界天氣歸因組織首份研究指出，氣候暖化「極大可能」削弱了引發尼泊爾-西藏災難性洪水的冰川結構，造成數百人死亡及數十億美元損失，尼泊爾正向聯合國氣候災損基金索償。"
+          "summary": "古特雷斯在卸任前最後一次聯大會議前夕受訪，稱將氣候議題置於其聯合國任期核心是「說出真相的責任」，同時表示對全球綠色轉型仍抱持謹慎樂觀。"
         },
         {
-          "title": "土耳其將AI碳足跡列為COP31峰會優先議題 —《路透社》",
-          "source": "",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQY0xSMUdUcld5cDRtc3BONVJrLW1neXVaRDVxcE50UjFKcDFsTE5aUUo3VmdDalJyd2dHMF90bFRxcFlqZVJoT3Z0aGZxb25yejJHN3ZkZmw4Mm9DcGx5V3QxSHVYSE1IdUFsSlFoLVZTNzJCaXRwX1JsaEw5RDhPNzJSUXRaeTJscVdoaWZBc0kxNmJsWUY5Z044MkdsaGwwUllaWlF0TmpQWlItZk5IXw?oc=5",
-          "section": "頭條新聞",
-          "summary": "COP31主辦國土耳其啟動AI氣候倡議，呼籲全球科技巨頭承諾限制數據中心的能源消耗及碳排放，將AI可持續發展列為安塔利亞峰會核心議程，尋求各國簽署全球協議。"
-        },
-        {
-          "title": "COP31主席國推動全球AI能源使用承諾 —《氣候之家》",
-          "source": "",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRUFjVWFtS2lyWFdhZlZtREx1ZHVIWjEyeEV4a1dLY21GU3RaUG5ubnoyLUtSQzlXOUktVk51QnVvSXBWa0dmcWpwOXpkbWRqaWQtdVJsdndtQ0J3QnhFdkdHS1BBWDc1eGVFT2JNX2RBaWkxSFVILTJoNV82cGp6VV9SOC16NnNGd3RUNTdMdFFDdEFaNXVYTGljeGRidEFqVU5tcHBJRkd1Tk5OX2pyaGc4Z3ExWmoyZHJwdEJsSm9jdF9nUGJZ?oc=5",
+          "title": "印度綠能產量大增——卻因輸電瓶頸大量浪費",
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c8xkvzlz0x4o",
           "section": "氣候與能源",
-          "summary": "COP31主席國宣佈推動AI能源使用承諾計劃，要求科技公司在峰會前提出具體減排方案，數據中心用電量預計2030年將翻倍，成為氣候談判新戰場。"
+          "summary": "印度快速推動電力脫碳，再生能源裝機容量飆升，但輸電網絡不足導致大量綠電被棄用，專家呼籲優先投資電網基礎設施以釋放清潔能源潛力。"
         },
         {
-          "title": "COP31主辦國土耳其面臨自身再生能源政策挑戰 —《彭博》",
-          "source": "",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRS0tQjQzOHlpdVAyS1piRWtrMDYzYW9sd0xGaG14X2hHZXczNkZYb0NfdmRBMWczMEZSdFVvQV9hd1VyTkFsNHR4azV0U3FDR3M4ZEM5dDNnRmI3NUJHRWlrdXJwTEFDajVrZGJBTlRBU1BQaGxmWXRsQThJS1Bjam1rbnRmOHlqdTU5NG1JZmVQUE9aY1NrdEI2VUZnZWRZTldfZ1U0RnJYZlpqSmkwU2F1ZUpPZE1C?oc=5",
+          "title": "西班牙多線作戰抗擊氣候變化",
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cwg59g3vz564o",
           "section": "氣候與能源",
-          "summary": "作為COP31主辦國的土耳其，其自身能源政策正面臨轉型壓力——該國需大幅改革以實現其2035年再生能源目標，目前化石燃料仍佔發電量逾半。"
+          "summary": "經歷一個夏季的野火與熱浪肆虐後，西班牙經濟承受巨大壓力，該國正面臨水資源短缺、農業減產及旅遊業受創等多重氣候威脅。"
         },
         {
-          "title": "歐洲兒童面臨雙倍極端火災天氣 —《Yeni Safak》",
-          "source": "",
-          "url": "https://news.google.com/rss/articles/CBMiAwE?oc=5",
+          "title": "歐盟將推出數據中心強制可持續性標籤",
+          "source": "ESG Today",
+          "url": "https://www.esgtoday.com/eu-to-launch-mandatory-sustainability-labels-for-data-centers/",
           "section": "氣候與能源",
-          "summary": "最新研究發現，今日在歐洲出生的兒童一生中將經歷比前代人多約一倍的極端火災天氣天數，氣候變化正加速野火風險，地中海地區尤為嚴峻。"
+          "summary": "歐盟正式通過數據中心可持續性評級制度，將強制要求營運商披露能源效率、用水量及碳足跡，旨在遏制AI熱潮帶來的能源需求暴增。"
         },
         {
-          "title": "中國電網SF₆洩漏加劇全球暖化 —《Inside Climate News》",
-          "source": "",
-          "url": "https://news.google.com/rss/articles/CBMiAwE?oc=5",
-          "section": "污染與生態",
-          "summary": "調查發現中國快速擴張的電網中六氟化硫洩漏問題嚴重，該溫室氣體效力為CO₂的23,500倍，正大幅抵消清潔能源轉型成效，引發國際關注。"
+          "title": "海平面上升對人類、遺產與自然構成「生存威脅」",
+          "source": "Carbon Brief",
+          "url": "https://www.carbonbrief.org/explainer-how-sea-level-rise-poses-an-existential-threat-to-humans-heritage-and-nature",
+          "section": "生態與災害",
+          "summary": "全球數百萬人正面臨海平面上升重塑的經濟、生計與文化衝擊。報告詳述從孟加拉到威尼斯，沿海社區如何被迫遷徙，文化遺產面臨淹没風險。"
         },
         {
-          "title": "聯合國：每投資1美元於氣候與清潔空氣可獲15美元回報",
-          "source": "",
-          "url": "https://news.google.com/rss/articles/CBMiAwE?oc=5",
-          "section": "污染與生態",
-          "summary": "聯合國最新報告指出，協調氣候行動與空氣污染防治可帶來15倍投資回報，呼籲各國將兩者整合納入國家氣候政策，實現經濟與健康雙贏。"
+          "title": "尼泊爾向聯合國索賠二千萬美元——僅覆蓋洪水損失0.7%",
+          "source": "Carbon Brief",
+          "url": "https://www.carbonbrief.org/analysis-nepals-20m-loss-and-damage-claim-only-covers-0-7-of-flood-costs",
+          "section": "生態與災害",
+          "summary": "尼泊爾政府就今年毀滅性洪水向聯合國「損失與損害」基金提出首筆索賠，但二千萬美元僅佔實際損失不到百分之一，凸顯氣候融資的嚴重不足。"
         },
         {
-          "title": "香港首份五年規劃設四大綠色約束指標 —《英文虎報》",
-          "source": "",
-          "url": "https://news.google.com/rss/articles/CBMiAwE?oc=5",
-          "section": "亞太/中國焦點",
-          "summary": "香港公佈首個五年環保規劃，設立四項具約束力的綠色目標，涵蓋碳排放、廢物管理、空氣質量及生態保育，2026年施政報告將進一步闡述建築環境可持續發展策略。"
+          "title": "蘇格蘭野貓保育總部揭秘",
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c3vgyzkyr0r8o",
+          "section": "生態與災害",
+          "summary": "「拯救野貓」計劃在凱恩戈姆山脈圈養繁殖瀕危蘇格蘭野貓後野放，團隊透過24小時監控系統追蹤貓咪行為，被形容為「貓版《Big Brother》」。"
         },
         {
-          "title": "東盟推動中國-東盟環境合作策略2026-2030 —《東盟》",
-          "source": "",
-          "url": "https://news.google.com/rss/articles/CBMiAwE?oc=5",
-          "section": "亞太/中國焦點",
-          "summary": "東盟秘書長呼籲成員國與中國加速落實新版環境合作策略，聚焦跨境煙霾污染、生物多樣性保育及氣候韌性建設，為未來五年區域環保合作確立路線圖。"
+          "title": "颱風杜鵑逼近東京——日本罕見發布190萬人撤離警報",
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/videos/ckjrxpqxx2v3o",
+          "section": "亞太焦點",
+          "summary": "颱風杜鵑挾帶強風暴雨橫掃日本，超過190萬人收到撤離命令，東京首都圈交通大亂，當局罕見動用最高級別疏散警告。"
+        },
+        {
+          "title": "中國AI氣象系統能否助巴基斯坦應對氣候變化？",
+          "source": "中外對話",
+          "url": "https://dialogue.earth/en/climate/can-a-chinese-ai-system-help-pakistan-manage-the-impacts-of-a-changing-climate/",
+          "section": "亞太焦點",
+          "summary": "中國研發的MAZU人工智能氣象預報系統提供比傳統模型更快的預測，有望強化巴基斯坦早期預警能力，但專家指成效取決於數據品質及災害應對基礎設施。"
         }
       ]
     }
