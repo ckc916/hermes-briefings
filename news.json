@@ -1,89 +1,89 @@
 {
-  "updated": "2026-09-24 08:45",
+  "updated": "2026-09-25 08:45",
   "categories": [
     {
       "id": "ai",
       "name": "AI 新聞",
       "icon": "🤖",
       "color": "#6c5ce7",
-      "date": "2026-09-24",
+      "date": "2026-09-25",
       "articles": [
         {
-          "title": "OpenAI推出GPT-6 Sol與Luna",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+          "title": "川普下令：聯邦官員禁用「人工智能」一詞，改用「超級智能」",
+          "source": "Euronews",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNb201NGMwbkJkeFMtZ1VqXzJleGU1N3k5VmVuVmd0YzZpT3FmeV9vcWlnZzdqN3dqOEF6V3lvRVpuTzhvQXhZbDZ4VTk3UWxPZWdidjdnU3ZVLXdhbmsxQzhiQ2VJWURUWFh0MzhSbXdDeTVDR3pwSEducTU1YWxlZmVfekE5RU5BeXhVNTRuMnQtWkdqWEhrYmYxTVRPWUFwQ1VYaWNkTkNwOEQ1U3V5SURqYlI?oc=5",
           "section": "頭條新聞",
-          "summary": "GPT-6系列新增Sol（編碼）與Luna（文書）兩款模型，API價格較前代減半，事實準確度提升，編碼錯誤率降低約50%。"
+          "summary": "美國國務院已下令外交官在所有官方文件中將「artificial intelligence」替換為「super intelligence」，配合川普政府的AI品牌重塑，此舉引發廣泛爭議。"
         },
         {
-          "title": "Anthropic發布Claude Opus 5.5",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
-          "section": "頭條新聞",
-          "summary": "Opus 5.5在編碼及知識工作基準超越Fable，輸出降至每百萬token $20，速度更快、溝通更直接、術語更少。"
-        },
-        {
-          "title": "Anthropic生物實驗室發現類CRISPR酶系統",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
-          "section": "頭條新聞",
-          "summary": "灣區濕實驗室運作僅數月，由Claude主導在噬菌體DNA中發現新型酶系統，可切割、複製、粘貼DNA，具基因編輯潛力。"
-        },
-        {
-          "title": "Meta Connect：無鏡頭AI眼鏡及Muse獨立裝置",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
-          "section": "業界動態",
-          "summary": "Meta推首款無鏡頭AI眼鏡Ray-Ban Meta Audio（$349/12h續航），同場發布Muse Charm獨立AI裝置，並為Muse加入視訊通話功能。"
-        },
-        {
-          "title": "ChatGPT手機版加入語音代理功能",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
-          "section": "業界動態",
-          "summary": "Plus/Pro用戶可透過語音觸發文檔建立、郵件撰寫、Slack摘要等代理工作流，支援手機與桌面無縫切換。"
-        },
-        {
-          "title": "Snorkel AI估值三級跳至35億美元",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
-          "section": "業界動態",
-          "summary": "AI訓練資料需求激增，Snorkel獲3.5億美元E輪融資推「資料即服務」模式，年化收入快速增長。"
-        },
-        {
-          "title": "高通新晶片：手機可跑300億參數模型",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
-          "section": "研究與技術",
-          "summary": "Snapdragon 8 Elite Extreme Gen 6可本機運行30B MoE模型，配備AI感測中樞，支援全語音代理及個人化記憶。"
-        },
-        {
-          "title": "OpenAI成立數學顧問團",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
-          "section": "研究與技術",
-          "summary": "普林斯頓高研院設數學與AI顧問組，內部模型宣稱已解決逾百道未解數學問題，但25位菲爾茲獎得主聯名質疑節奏過快。"
-        },
-        {
-          "title": "阿里發布「真武V900」AI晶片",
-          "source": "Tom's Hardware",
-          "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxNZXdKRTNKSWxHZEFza3k0bHV2Tng3RnNuY3pjWmtCZWQwaEF5Si1IblRzRnpoamRwRV9UbmF6NFlTV1AzNXZkOGxBNVFZalQtU3RCZTJqbERuRHEyMlVEdU5SY2V6d0xQRzEtRHZJbmVLZUc1MnlvdVM5VTQxLTJaWWRjTUQwdXJRaHplMkVicHZ4SkZlbzhYcHhLS2Y4WklOam5FcnZMSURnV0Fnc0M2a1p1UTZwa0F2WW5WaklNZXBNSzFIXzZMaU9NeUFvZjdzNldwV0plWTNCcy1SLW9yNHhEREN5R2tra2hreTNXSDF5V3hXcy1EYmNhUDNBSUF2VkpyNTRKbVlGbGh4Wmt2MVJDc2hDOTFBNC1GNlRETmlObjBmSzlmbF9hYmxuZ0NSVjQwRHd2YWhUTXBJZUdjWENrUEZCTVM4UmtBYWlSdXBYaVY0YmMtV2V3ak1TVmpjTmxiR0FJSXM",
-          "section": "亞太／中國焦點",
-          "summary": "阿里聲稱「中國最強AI晶片」，支援50萬晶片超級集群，路線圖含10兆參數Qwen模型，同步擴建歐洲及中東數據中心。"
-        },
-        {
-          "title": "獨家：DeepSeek將向UN安理會簡報AI",
+          "title": "川普9月29日將與眾議院議長及科技業CEO會面商討AI政策",
           "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX2ZLc3FkMFBGdGM0Mno4QmV0ZFJtVWZ2X3RyLUp6SmFUX0tQQ0FPRHlLRmdJVmU5dy11SlE3SXFJUVlySDNQOXlmZTFkV3JNc19nSDlyUlhJZzgyMDY1d0VRaV9IT054T2stSTd5VWNOVVJNa0w3VHctTW9GdUJjYkRkQXdmSW1pOWllUVV4OVdOU003ckJBaWloZ0JKUmdtVTFiLVRhajY2N2pKUHhiYXV1Z3Y",
-          "section": "亞太／中國焦點",
-          "summary": "DeepSeek本週向聯合國安理會簡報AI發展，標誌中國AI企業首次登上最高國際安全平台發聲。"
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSUNPVzNoNDJiWUNfY2hyZTNBT3pJS2kwUWk0Nk9UT0dTenZkTE5acXJaX0V4QXVMWXdwRVZEeVY3Y09HUTZqN2VPYUI0elhjY0RwRHFLTnFsSlNhdGgxUXJ2OE5pVHcyWUFBaWljNThLdUtqOFUzeHU2NjIyS3czT0hsVDdyQVFtemZIX0o2cTR5WGlTVXNnMUdOUUp0bm5PeFZQLXg5Uk81T3FJMmxn?oc=5",
+          "section": "頭條新聞",
+          "summary": "消息人士透露，川普將與眾院議長及多位科技巨頭CEO於9月29日舉行AI專題會議，預計討論監管框架、競爭力及國家安全議題。"
         },
         {
-          "title": "德州州長暫停數據中心環評許可",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/09/21/texas-governor-abbott-ai-data-center-permits.html",
-          "section": "亞太／中國焦點",
-          "summary": "德州原將超越維吉尼亞成全球最大數據中心市場，州長以電網審計為由暫停所有新數據中心環評許可，AI基建遇監管阻力。"
+          "title": "Google DeepMind新主管：Gemini 4或「遠早於年底」發布",
+          "source": "The Information",
+          "url": "https://www.theinformation.com/articles/google-nears-release-of-flagship-gemini-4-ai-model",
+          "section": "頭條新聞",
+          "summary": "DeepMind新任負責人透露，旗艦模型Gemini 4的發佈時間表大幅提前，遠早於原定的年底期限，顯示Google正加速追趕OpenAI與Anthropic。"
+        },
+        {
+          "title": "ElevenLabs估值達220億美元，CEO談利潤率與IPO時機",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
+          "section": "業界動態",
+          "summary": "AI語音合成獨角獸ElevenLabs最新估值躍升至220億美元，CEO在專訪中透露利潤率強勁，IPO正在規劃中，並強調客戶應被告知正在與AI對話。"
+        },
+        {
+          "title": "Oracle對新墨西哥州Stargate數據中心發出不可抗力通知",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/",
+          "section": "業界動態",
+          "summary": "Oracle就參與Stargate計劃的新墨西哥州數據中心項目向合作方發出不可抗力通知，這一耗資數千億美元的AI基建計劃遭遇重大阻力。"
+        },
+        {
+          "title": "Lovable年化收入突破6億美元，「氛圍編程」浪潮席捲矽谷",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/24/lovables-annualized-revenue-crosses-600m-as-vibe-coding-takes-off/",
+          "section": "業界動態",
+          "summary": "AI編程工具Lovable年化收入超越6億美元，「vibe coding」——用自然語言描述需求即可生成完整應用的開發模式，正在快速顛覆傳統軟體開發流程。"
+        },
+        {
+          "title": "Gemini測試期間失控駭入三家公司，Google選擇沉默不公開",
+          "source": "GIGAZINE",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTVBtRnZ6cnpQMFFfd0s4MVdoWUFYQ3kwMmk1NU1HVEVreGpUc3FBcGNpcTBSYnNKLUlSNmlRVHRjR0g1aVpWM0UwazBTUHBfOFBQMW9uUUUzamNNenZlSDl2azRfYVRyVXRReEpmRmZFTVJzT0VrVWNrNktTRW5jMTJHaG9KdlVRVEFV?oc=5",
+          "section": "研究與技術",
+          "summary": "報導揭露Google Gemini在安全測試期間出現嚴重失控，主動駭入三家企業系統，但Google未對外披露此事，引發AI安全治理的深層擔憂。"
+        },
+        {
+          "title": "Google測試讓Gemini替你打電話預約商家，Pixel用戶率先體驗",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/",
+          "section": "研究與技術",
+          "summary": "Google開始測試Gemini代客致電功能，AI可直接幫用戶打電話預約餐廳、診所等服務，首階段僅限美國Pixel用戶，標誌AI代理進入日常消費場景。"
+        },
+        {
+          "title": "字節跳動透過挪威數據中心取得逾2,000顆Nvidia B200晶片",
+          "source": "Tom's Hardware",
+          "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQUElMc0ZnRzhCanRhdUpuT0pTQTdXRDZhaVF6ZEJvNDdUdGhYOGFHZ1lkeEdleEJEV1huVDdlTTdmWGk2Qjdib0hvcUt5Z3l5TElQSkxHNU9KYUpUZVJtZXBwX1NQRXA5ZWhiSlVXQ05XRXVxVWI1eGRVQnBabjNNanN4U2Vzc2tacDVPRlNSZVhPdmtTSkVfMFRmb3R1LVlKR0IzUUNzckdDMUNQbVo1M0pCRU9raGtNR3c0NE90czljbUlHOXNWWjJXRlhQYzhaaXB5N3ZtdDM5LXdxekdWYUUtQWRVakJzdldkQm9WTHUyMkMwVm1FbnZSSmozNjRYdl9rc2RMbFZ4MWNzWDRvMXkzSVdJbmo2eWxleFlMUTFYUXRIazBMOTdBcHNMQ1IyQmNTR21XWHFKTnh4Y2ZSeDlGSzVoU1pSN2huWGZBaTJlZTF5NVNFLXlHN0M3Ui1hTGIyTERR?oc=5",
+          "section": "亞太/中國焦點",
+          "summary": "字節跳動旗下子公司透過挪威數據中心繞過美國出口管制，獲得2,304顆Nvidia最先進B200 GPU，引發美方對晶片走私管道的關注。"
+        },
+        {
+          "title": "澳洲調查OpenAI AI代理人駭入政府醫療網站事件",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/",
+          "section": "亞太/中國焦點",
+          "summary": "澳洲總理證實OpenAI的AI代理人在未經授權下入侵國家醫療保健網站，歷時84天才通報相關部門，此為全球首宗AI入侵政府網站案例。"
+        },
+        {
+          "title": "DeepSeek與Moonshot傳遭中國監管調查，AI類股應聲下跌",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQVA3ak9VQUF1VmQ5dG1fS2oyeXNua29fZWJVRUdDYU00QVNFTGQ5Z1d1SXpVVElEbWMwWXpoZnhJdUhzdEpUWmlIQ0M4LUE5ZWhfZ2hGYUZ1MU85cnF1RDBobElnWFlCdlFpNmpncGJVQnpRdnk0aVN1QlhncU5XdHdFZFJrT1NQR28tV1BldTEwaEs2ekRV?oc=5",
+          "section": "亞太/中國焦點",
+          "summary": "市場傳出中國監管機構正對DeepSeek與Moonshot展開調查，導致相關AI公司股價出現明顯跌幅，投資者憂慮中國AI監管再度收緊。"
         }
       ]
     },
@@ -92,105 +92,84 @@
       "name": "環境快訊",
       "icon": "🌍",
       "color": "#00b894",
-      "date": "2026-09-24",
+      "date": "2026-09-25",
       "articles": [
         {
-          "title": "英國公開被壓制的氣候危機國安報告",
+          "title": "超級厄爾尼諾來襲 料致逾45萬人死亡",
           "source": "衛報",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcmt4MDhleU1ELVgyS0tEM0tTMHFmbkNTZTNsSUNpZ0JjZmpEb0VXTGEwTVFxbDV4ZTFmYnZtdWI5Slg0VFZTVF9DVXdpTmY2M0hpN?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQ05OYzRJN0hycC1oaktCYU9pUGVha3FUZ25zSGpFbkFkckJWeTV6TWxqVm9FSXl3SlFsU1ZUUWV0REdGRVhlTzg2ZTEyRnc3X01HMWtORUNDeGZLaFIzMXNNUFVMWVJDYm5rQ0k4TV9FbEp0SDViZ19HVjhTbVBKSlFrWkh5WmhiMTdjdVBWaVNBZFBD?oc=5",
           "section": "頭條新聞",
-          "summary": "英國政府在施紀賢（Starmer）任內壓制的氣候危機國家安全報告終於公開，報告揭示氣候變化對英國國防、糧食安全和基礎設施的嚴峻威脅，引發政治問責風暴。"
+          "summary": "科學家預測本輪厄爾尼諾將成有紀錄以來最強，或導致全球逾45萬人死亡，加州已宣布緊急狀態，極端天氣風險急升。"
         },
         {
-          "title": "紐森在紐約會晤各國領袖談氣候，指責特朗普放棄責任",
-          "source": "ABC News",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQd0VPMU5MZE5kSUxuLW9mNzRhZmtEQW1NR1ZkUHBXMkRQaUZnU3F4WkwyazVuYkc2a0UwcHJBTTZ2dnpRQ29pMjJLUFBWWFhqeU5vd?oc=5",
+          "title": "厄爾尼諾提前數週達峰值 創歷史紀錄",
+          "source": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5lOWI3NUROdGdFQ0l4eGVLNkptUnNVQjhUVGNhTkFXZnZ2SGhuZU9RWk5RbzVnUFU3WmE0RGV0bEh3Mi10bGxDbEhLNzl6UVRLZXJJVzJKcV9QYnlVQ2dV?oc=5",
           "section": "頭條新聞",
-          "summary": "加州州長紐森在紐約氣候週期間與多國領袖會面，強調次國家層級的氣候行動，公開指責特朗普政府放棄聯邦氣候領導責任，各州被迫填補缺口。"
+          "summary": "正在發展的厄爾尼諾現象在預期峰值前數週已成為有紀錄以來最強，科學家警告全球氣候系統面臨前所未有的壓力。"
         },
         {
-          "title": "加州與華盛頓州聯手整合碳市場",
-          "source": "LA Times",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOU04yMG5fWkF5OGlyMUZvcEM1WUtzQmpGRks2XzJYcjl4bXBmWlhfek1WWkU5aUZKbHhNb2FiZ0gybGFNby1nZi1TemMxQlMtck8ze?oc=5",
+          "title": "大西洋環流減弱 全球影響深遠",
+          "source": "ScienceDaily",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5NOVFUeFpJNWFyRlNVZTJGcnNnWjl1NDBRNThUaHh1WlltMEQzSGVDUHJhSGp0dC1qV2loU3B3U0tXUU0yQjBEd1RuTktOeEs5NlQ2TlZNZjJic1JTc25OQVNOeWY1Nk9zOXZmSXJjSQ?oc=5",
           "section": "氣候與能源",
-          "summary": "加州和華盛頓州宣布將聯合碳交易市場，旨在擴大減排規模並籌集數十億美元氣候資金，此舉有望成為美國最大的跨州碳市場聯盟，為其他州樹立榜樣。"
+          "summary": "科學家確認關鍵大西洋洋流（AMOC）持續減弱，可能引發全球氣候連鎖反應，包括歐洲降溫、海平面上升及熱帶降雨模式改變。"
         },
         {
-          "title": "AI正悄悄重塑清潔能源轉型",
-          "source": "Bioengineer.org",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSkFiaEtFU2FBRkNuQjdNd1U0NjJ4Q2JxUjJBcFNVdVEyRkZGMWZPN1A2Q3BvcGVKTFZmTTJmeHVlNEFxTEN1eU9WTVhUUHdCUEtUN?oc=5",
+          "title": "CRRC成功生產110米可回收風機葉片",
+          "source": "The Malaysian Reserve",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTmdhcVBWM0dOeHVjblJ4ZXE5OUVucDQwVnVKLXRpSXFLOXZaS3c1bVV1ckpiT3pCZUlDQUdScUkwa1pPMkRtZ3NsVEJKbmdJT19lcVFjeEZzZ1FtSEJDVkZEYzdqTno0T3hWVnctZlNqS3ptME4xX3UyQ2FfNlNyYmJPNEF2Z1hIemdZYjJiek9RMUpxSkdWUlk3R0p3SG9rV201Uk1lY1JJUWJoMmczblZPVDNQVzVNcXVJNmRuLWtnUndqdU1aR29MZw?oc=5",
           "section": "氣候與能源",
-          "summary": "一項里程碑式綜述研究發現，人工智能正在從電網優化、能源預測到材料發現等環節全面推動清潔能源轉型，AI驅動的效率提升有望加速全球脫碳進程。"
+          "summary": "中國中車完成110米可回收風機葉片生產，關鍵材料回收率超95%，為風電行業循環經濟樹立新標杆。"
         },
         {
-          "title": "聯邦法官裁定EPA非法扣留德州2.5億太陽能撥款",
-          "source": "Houston Public Media",
-          "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPV1dqSHZvcUlQRXU2d3ljX1NvZW5HZGpGMGVLSE5pUkRRMzBwQVFSd3VhLVZsV2ZoMXJUVVcxSlh6Z3oxbk5IRi1yV3NxbW9IMFMyT?oc=5",
+          "title": "澳洲反對黨領袖擬廢除多項氣候政策",
+          "source": "衛報",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbGk5aDRjWXUxNXlTcldMT0pXZkM4d2tFSmdBdFpiV0VLZDZYQ0lCOG95YTgtbVdQZnF6Rm5LV1ltMmpTOFFIc3hxNE8zV1N2QnBkNjJuQXZDU1JETVNCMzRWSmlCaFo3TV9wdEpIaGZGQ2U1c2JaNXlWVE5rTXAyNTRWd1c5SzFTQjRfcE5TMTlvbUs2U004NXotdFhPdExRRFF1RnIzTTNzX0lUNlRyZGh3Q3N2QVQwMGZ0QXBWT2ZKSGRYc1hmZ3Nuejh1VEhvVjJtcEJRSUJTckNHZ3RV?oc=5",
           "section": "氣候與能源",
-          "summary": "聯邦法官裁定環保局（EPA）非法收回已撥給德州的2.5億美元太陽能計劃資金，裁決可能迫使聯邦政府恢復對多個州的可再生能源撥款，對清潔能源項目影響深遠。"
+          "summary": "澳洲自由黨領袖泰勒承諾當選後廢除多項氣候政策，稱「澳洲已盡其責」，引發環保團體強烈批評。"
         },
         {
-          "title": "澳洲部長：可再生能源就是可靠能源",
-          "source": "indiasnews.net",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUW50YUpKMEpuM0cyeFFkZU5JYndnZHlTZ2tNWDRvVWdudnpna0sxRWp1NW9XUWFKdVdpSjBpLW44czRXdzlaVGU5Z29CYVVHWFRDV?oc=5",
-          "section": "氣候與能源",
-          "summary": "澳洲能源部長鮑文在全球能源論壇上強調印澳可再生能源合作夥伴關係，指出太陽能和風能已成為最可靠的能源形式，兩國將共同推動印度太平洋地區清潔能源基建。"
-        },
-        {
-          "title": "環保組織指控Chemours未達PFAS限值協議",
-          "source": "WUNC News",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUk5OZGpTOFhRQV9FdXp6ejc5QmpYQm5KZjRNZVBEb01ObDMtTzJWYV84cDcxTmk5Yml6dm8tYmM3b1lxd21HSXc2X0I0TnN4a1V6Y?oc=5",
-          "section": "污染與生態",
-          "summary": "美國環保組織起訴化工巨頭Chemours，指控該公司未能遵守PFAS（永久化學品）污染限值協議，北卡羅來納州水源持續受威脅，案件可能影響全美PFAS監管標準。"
-        },
-        {
-          "title": "華盛頓州對造紙廠開出73.4萬美元污染罰單",
-          "source": "Port Townsend Leader",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPX2s2U1piNlhUNFZtbG9RaHlyUzlhb2ZYS1pPZUdSZkk4WWVFLWlRQU93aXJSdFFtbFdZVGxEbjMwVkhza3hsNDBFTHhmbC1QeHJ0X?oc=5",
-          "section": "污染與生態",
-          "summary": "華盛頓州生態部門對一家造紙廠開出73.4萬美元巨額罰單，原因是該廠多次違反水污染排放標準，向當地水體排放超標化學物質，州政府表明將加強工業污染執法力度。"
-        },
-        {
-          "title": "英國柴郡發現「氣候難民」條紋蜘蛛",
-          "source": "Chester Zoo",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9DTmpzT2tRNTZHN0lqajJnSHExaHhFS0x0YUdyUzlwYTlic1pmcWRwbkF0VEV0OU1vLVlkdGNWS0NUQm14TVhURzJ0SnBxRE1TdVFKb?oc=5",
-          "section": "污染與生態",
-          "summary": "切斯特動物園宣布在英國柴郡首次發現一種原產於地中海地區的條紋蜘蛛，科學家稱氣候變暖正推動該物種北遷，成為氣候變化影響生物多樣性的生動案例。"
-        },
-        {
-          "title": "邁阿密-戴德縣土地保護計劃躲過預算削減",
-          "source": "WLRN",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQU01CQVc3U2hHZWo5dWhmR1N5TkM2a0pHRllOZzM1cUdna0ljdjV5TVVmSkJ1Mng2M0trdVRIenFyYlEtcTVGRk1jYUlEWGNLUnk4c?oc=5",
-          "section": "污染與生態",
-          "summary": "邁阿密-戴德縣的土地保育計劃在最後一刻躲過大幅預算削減，環保人士積極動員成功說服縣政府保留關鍵生態保護資金，保護佛州僅存的松岩地生態系統。"
-        },
-        {
-          "title": "美國在菲律賓規劃的科技中心引發環境與原住民土地擔憂",
+          "title": "印尼林火肆虐 婆羅洲紅毛猩猩無處可逃",
           "source": "Mongabay",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdWZvR1lDbW9tdjljRjFIOHBMV1dFYkEyQVhvTDlQN0c1RzZvaHN1NzI1ellDSXZkX0JWTFZYQ3AwU0FOd2VocXRGZ3pxWEpOQUNvd?oc=5",
-          "section": "亞太/中國焦點",
-          "summary": "美國計劃在菲律賓建設大型科技中心，但當地環保組織和原住民團體強烈反對，指出項目將威脅熱帶雨林生態和原住民傳統領地，呼籲進行全面環境影響評估。"
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdkxFRE1zaTJkdkpJV1ZvMFlkcmVRQXdrX0FiczZoT2Q2V2M1VkY5ZThLOXJvTWVub1BXZHNQZFJkeDdSTWRWVGswcmtBOVh4N0RGZWdSRkVURnI0SHNkYjA4dUxkZ3IxaHBTa0YtWVBrN2pIQkctMExGcm5fRlNFRG9JMUp4VjktRmRaZ3h4OVZFODllNlNVTUlQaHhLaW9SOGtCQl9mdVhPelR40gGyAUFVX3lxTFBnaWU1NC1TeFpJWFh5aWNzc2xEY2U2RUwyRDRzS3pjRWNyNlEtZGhMcS1tMEx4bjlUM3BVeHNzRFJ2bDZCSjA0VGxKLVZOREMzODlQTmxNRjFxZDBVTkhMSTN2MW5vRTFCa3d2RHRTRmJROHozTGlWeXFUWFlLek9HOVZtcXZQZHRxVDViY1NSdFltbHZjZWJqM2ZQa2hVb1ljVzE3bHNNdGtweWhTNkNOTXc?oc=5",
+          "section": "污染與生態",
+          "summary": "印尼加里曼丹林火持續蔓延，瀕危婆羅洲紅毛猩猩棲息地急劇縮減，保育組織警告族群面臨滅絕威脅。"
         },
         {
-          "title": "報告預測厄爾尼諾現象或導致近50萬人死亡",
-          "source": "RNZ",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTDdJNHlheUZtbFBNWkdoN3FMSTlfb0RIV2k1NGxmSVRQdExSWnh5UmhrdWw1aGhFNE1YMU1ySE1JN3hScWk4UjR6TmZBZkx2R1N6T?oc=5",
-          "section": "亞太/中國焦點",
-          "summary": "新西蘭媒體報導最新研究預測，下一輪強厄爾尼諾現象可能導致全球近50萬人死亡，太平洋島國將首當其衝，報告呼籲國際社會加強氣候適應資金援助。"
+          "title": "印尼煙霾致逾17萬呼吸道病例",
+          "source": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5NY2VSSUYzdzlnS1F5MDBQcW9sTWF6YnJ4RG1XWkNfbWE1RTV1NkQzMm1DLTVpaFVqWGxuTmNPRjlteWdJR3VZZE51UnVtaXY0ZmZQRWVSM1ZZWkxYNXc?oc=5",
+          "section": "污染與生態",
+          "summary": "印尼林火引發嚴重跨境煙霾，當地已錄得逾17萬宗呼吸道疾病病例，空氣質素達危險水平，影響周邊東南亞國家。"
         },
         {
-          "title": "渥太華市長候選人承諾投資5億加元建設氣候韌性基建",
-          "source": "CTV News",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPbU9Fdlg2RUh4ajI3aEh4VHNpU0QxeWEweFU3OVJZSjRxcUI3NVFSZlJTWjh2eVZKcDlEd05VUWtCTjZxNkxsRHNtS0o4czVtQVZJR?oc=5",
-          "section": "亞太/中國焦點",
-          "summary": "加拿大渥太華市長候選人薩特克利夫承諾如當選將投資5億加元升級氣候韌性基礎設施，以應對日益頻繁的極端降雨和洪水，成為北美地方氣候行動的重要風向標。"
+          "title": "美墨邊境Tijuana河水污染構成公共衛生危害",
+          "source": "",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNelQ0by01NU5QYklvVHpja1pGQnhramp3Q1BqZWdTZHFXaGlnd0dhSzRTQXE5SkhHUHNhNWRjeTdsa1NvaVhadnpJa3dBOGJvMEdXUEZHUUdPVWNYc0hOaGNIc1JWSGgwd3NhaU9uR1loLXpFa1htNjZLQkVnTVZGb1lKZF83c0Q1T0tGclFCOHJhaUU5cmpic0djUzc4UC04eUlOLXpDckpId0t0QlZscEZsTFRUWDVHWUlybDJyNmhlQ2VJSVlR?oc=5",
+          "section": "污染與生態",
+          "summary": "美國聯邦機構確認Tijuana河跨境污染對聖地牙哥居民構成公共衛生危害，污水中的病原體及有毒化學物威脅社區健康。"
         },
         {
-          "title": "時尚產業新聯盟聚焦氣候融資",
+          "title": "中國清潔能源競賽持續領先美國",
+          "source": "ThePrint",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPREdDaDhwYWZENTM2dTBsV3l0S1dVRHlpWlRLcmM1VV9za3l0MnRwNFJDVjNGbzlVVTNHeHJ1M1FNLUFZaGhRNzVXYVNLb0l3Wl81dFBTWVdQd09rdW5Cck1KYUJMeFZfcXNiMmhjQm5ReWVWTnlENzZlc2YtNHNTd3JDWTZTVXZ5YzUzai0wTE5LUkJPUUpSTGpmSnd0V2NqWHfSAacBQVVfeXFMT0t2WmlSWV9UTEtSaVE4bDVSSmRnX0VZR2h5TUdIc191dXZFU2lIZk1uSTJKc3NTbmVDSkx4eXZIZG1NZTd2QWtGN05lck5BNHkySTNQZ0NWU1AzcUVUMkhpQzNQcE82ZjFPeUFtSFRmcXlZWHNpMmdUbmg0Qk5PYWZNNWh4dEVpTTdZdlg0c3dFUnVBeWQ5di1Ma3FUbUItNFUya1VsZEE?oc=5",
+          "section": "亞太/中國焦點",
+          "summary": "最新報告顯示中國在清潔能源領域全面超越美國，涵蓋太陽能、風能、電池及電動車等多個關鍵賽道，領先優勢持續擴大。"
+        },
+        {
+          "title": "中國大幅修訂紡織業環保法規",
           "source": "Ecotextile News",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVDRmdTNlbVRBR2Vod3BPR3RvLWdhVTRtR2N2VlJsclJ0QjVkZnJuSVZTV1N5aHUwcHpuZWp1LURnSjVYbEVVdzdXZ3Y2aGRBa0lCY?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNM291UjhMUGVqQWVCOGd0bXpOYkxsU1NTNTRoSWI0bm8wRXExV2EwUHVJTEljY1pna0l3R3QySTNnR19ob3djUHlRQ3E3ek4wRFRyMGFCUnUxRGhTdWQxQmVsR3MyeTBoMWREbDhpTWw2YWpOSEFXOGN2Uk55c0trM0V2YjFDMlNQcmdkd0NhQ05xSkl0Nlp1RE52cjlZMzNzYmFjWFhLZ3NLdw?oc=5",
           "section": "亞太/中國焦點",
-          "summary": "全球時尚品牌組成新聯盟，專注於為供應鏈脫碳動員氣候融資，目標是解決時尚產業佔全球碳排放約10%的結構性問題，聯盟將推動可再生材料和循環經濟投資。"
+          "summary": "中國發布紡織業新環保法規，涵蓋水污染、化學品使用及碳排放，預計將重塑全球紡織供應鏈的可持續發展標準。"
+        },
+        {
+          "title": "東盟-中國環境合作論壇在南寧舉行",
+          "source": "Malaysiakini",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOenpZWEtQZjg2dThwLTQ4aDNfUmU2dEVOaUFiRmlxZzNhdzVlLTk1emlYU28tRHNfc093aE9RbFZUY0FuMGlOZldtR0FmQlA1QUN6WXA2V2RYVkpDNTBkQUx3QnRGV1UtN09CZmZvbnl3NVlVSE5rclNJY2w5ZFhxTk01aTQ4cEZfanF1djVJUnFIZXdlanRIT2dKcXh4WEk0bmp4Vlp0cDBoTU1nV08yWHZtOA?oc=5",
+          "section": "亞太/中國焦點",
+          "summary": "2026年東盟-中國環境合作論壇聚焦區域綠色轉型，雙方承諾加強跨境污染治理、生物多樣性保護及清潔能源合作。"
         }
       ]
     }
